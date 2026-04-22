@@ -15,7 +15,7 @@ Visit the site URL, tap **"Add to Home Screen"** on your phone, and you have an 
 ### For Contributors
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/WilderThings.git
+git clone https://github.com/mmayden/WilderThings.git
 cd WilderThings
 pip install -r requirements.txt
 mkdocs serve
