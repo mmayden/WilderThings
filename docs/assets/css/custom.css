@@ -1,0 +1,37 @@
+/* WilderThings — Custom Overrides */
+
+/* Slightly larger body text for outdoor readability */
+.md-typeset {
+  font-size: 0.85rem;
+  line-height: 1.7;
+}
+
+/* Constrain images on mobile */
+.md-typeset img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Tighter admonition padding on small screens */
+@media screen and (max-width: 600px) {
+  .md-typeset .admonition,
+  .md-typeset details {
+    padding: 0 0.6rem;
+  }
+
+  .md-typeset .admonition-title,
+  .md-typeset summary {
+    padding-left: 2rem;
+  }
+}
+
+/* Quick Reference tables — full width, readable */
+.md-typeset table:not([class]) {
+  display: table;
+  width: 100%;
+}
+
+/* Ensure content tabs are tap-friendly on mobile */
+.md-typeset .tabbed-labels label {
+  min-height: 2.4rem;
+}

@@ -1,0 +1,350 @@
+# Improvised Fishing
+
+> Fish are the highest-probability wild protein source in most environments — learn to catch them with whatever you have.
+
+## At a Glance
+
+- Fish provide dense, complete protein with less caloric expenditure than hunting land animals
+- Improvise hooks from thorns, bone, wire, safety pins, or carved wood (gorge hooks)
+- Paracord inner strands, dental floss, and plant fibers serve as fishing line
+- Passive methods (traps, weirs, set lines) produce food while you do other tasks
+- Cook all freshwater fish thoroughly — parasites are common and dangerous
+
+!!! danger "WARNING"
+    All freshwater fish should be assumed to carry parasites (tapeworms, flukes, roundworms). Cook to an internal temperature of 145 F (63 C) or until flesh is opaque and flakes easily. Do not eat raw freshwater fish in a survival situation.
+
+## Improvised Hooks
+
+### Thorn Hooks
+
+Natural thorns from hawthorn, honey locust, acacia, or blackthorn make functional hooks.
+
+**Construction:**
+1. Select a thorn 0.5-1 in (1-2.5 cm) long with a sharp, curved point.
+2. Trim the branch end to a short stub for line attachment.
+3. Lash the line to the stub with multiple wraps and secure with a half-hitch.
+4. For a stronger hook, lash two thorns together in an L-shape or V-shape with their points opposing.
+
+**Limitations:** Fragile. Best for panfish, small trout, and other small species. Replace frequently.
+
+### Bone Hooks
+
+Carved from bird or small mammal bones (wishbone, rib, leg bone).
+
+**Construction:**
+1. Select a thin, hard bone. Bird wishbones work well.
+2. Break or grind to a hook shape — a curved piece with a sharp point and a shank for line attachment.
+3. Sharpen the point on a rock.
+4. Carve a notch or groove at the shank end for line attachment.
+
+**Durability:** Stronger than thorn hooks. Suitable for medium-sized fish.
+
+### Safety Pin Hooks
+
+If you have a safety pin, you have a hook.
+
+**Construction:**
+1. Open the safety pin fully.
+2. Bend the pointed end into a hook shape using pliers or by bending against a hard surface.
+3. Create a small barb by nicking the wire just below the point and bending it slightly outward.
+4. Tie the line to the circular end (the spring loop).
+
+### Wire Hooks
+
+Any small-gauge wire (picture hanging wire, electrical wire stripped of insulation, baling wire) makes an excellent hook.
+
+**Construction:**
+1. Cut a 3-4 in (7-10 cm) length of wire.
+2. Bend one end into a J-shape or circle hook shape.
+3. Sharpen the point on a rock.
+4. Form an eye (small loop) at the other end for line attachment.
+5. Create a barb by cutting a small notch and bending out a sliver of wire near the point.
+
+### Carved Gorge Hook
+
+The oldest and most universal improvised hook. A straight, double-pointed piece that lodges crosswise in the fish's throat when swallowed.
+
+**Construction:**
+1. Carve a piece of hardwood, bone, or thorn into a straight piece 1-2 in (2.5-5 cm) long.
+2. Sharpen both ends to points.
+3. Carve a groove or notch at the center for line attachment.
+4. Tie the line to the center so the gorge hangs parallel to the line.
+5. Embed the gorge in bait so the fish swallows it whole.
+6. When the fish swallows and you pull the line, the gorge turns sideways and lodges in the throat or stomach.
+
+**Technique:** Do not set the hook immediately — wait for the fish to swallow the bait, then pull steadily (not sharply).
+
+## Improvised Line
+
+### Paracord Inner Strands
+
+Standard 550 paracord contains 7 inner strands, each rated to approximately 35 lbs (16 kg). Each strand contains 2-3 smaller filaments.
+
+**Extraction:** Cut the outer sheath and pull out the inner strands. Use individual strands for fishing line. For lighter line, separate into individual filaments.
+
+### Dental Floss
+
+Surprisingly strong — waxed dental floss tests at 2-5 lbs (1-2.3 kg) breaking strength. Sufficient for panfish and trout. Braid multiple strands for heavier fish.
+
+### Plant Fiber Line
+
+**Materials:** Dogbane, milkweed, stinging nettle, yucca, cattail leaves, inner bark of basswood, elm, or cedar.
+
+**Construction:**
+1. Harvest long plant fibers by stripping bark and separating the inner fibers.
+2. Dry the fibers slightly (too wet = weak; too dry = brittle).
+3. Use the reverse wrap (two-ply twist) method:
+   - Take a bundle of fibers and twist them tightly in one direction.
+   - Fold the bundle in half at the midpoint.
+   - Hold the fold and let the two halves twist around each other in the opposite direction.
+   - Splice in new fibers by overlapping 2-3 in (5-7.5 cm) as you twist.
+4. Test line strength before use. Rebuild if it breaks below expected load.
+
+**Breaking strength:** Varies. Well-made plant fiber cordage can hold 10-30 lbs (4.5-13.5 kg).
+
+### Other Line Materials
+
+- Unwound thread from clothing seams
+- Shoelaces (braided types are strong)
+- Hair — human or horsehair braided together
+- Thin strips of plastic bag, twisted
+
+## Rod Alternatives
+
+A rod is not essential. Many improvised fishing methods work without one.
+
+- **Hand line:** Wind line around a stick, can, or smooth rock. Cast by swinging and releasing. Retrieve by winding.
+- **Pole:** Cut a straight, flexible sapling, 6-10 ft (1.8-3 m) long. Tie line to the tip. This is the simplest and most effective configuration.
+- **Set line (trotline):** Tie a main line between two fixed points (trees, stakes) across or along water. Attach multiple shorter lines with baited hooks at intervals. Check periodically.
+- **Jug line:** Tie a baited line to a sealed bottle or jug. Set it floating and check for movement.
+
+## Hand Fishing (Noodling)
+
+Reaching into underwater holes, cavities, and undercut banks to grab fish by hand — primarily catfish.
+
+### Technique
+
+1. Locate underwater cavities: submerged logs, rock crevices, undercut banks, hollow tree roots.
+2. Wade or swim to the cavity.
+3. Slowly insert your hand into the opening.
+4. When a fish bites or you feel its mouth, grip the lower jaw firmly.
+5. Pull the fish out and secure it.
+
+!!! danger "WARNING"
+    Noodling carries serious risks. Underwater cavities may contain snapping turtles, water moccasins (cottonmouths), or other hazards. Risk of drowning from entanglement is real. Never noodle alone. Not recommended unless other methods are unavailable.
+
+### Where It Works
+
+- Muddy rivers and lakes with catfish populations
+- Areas with abundant underwater structure
+- Warm water (catfish are most active in warm months)
+
+## Spear Fishing
+
+### Two-Prong Spear
+
+**Materials:** Straight sapling or branch, 6-8 ft (1.8-2.4 m) long. Knife or sharp stone.
+
+**Construction:**
+1. Select a straight piece of green wood, 1-1.5 in (2.5-4 cm) diameter.
+2. Split the working end 6-8 in (15-20 cm) using a knife (batoning).
+3. Insert a small wedge (twig) into the split to spread the two prongs.
+4. Lash below the split to prevent further splitting (wrap cordage tightly around the shaft just below where the split ends).
+5. Sharpen both prong tips.
+6. Fire-harden the tips by rotating them slowly over hot coals (do not burn — just heat until the surface darkens slightly and dries).
+
+### Four-Prong (Gig) Spear
+
+**Construction:**
+1. Split the working end into a cross pattern — make two perpendicular splits.
+2. Insert two crossed wedge twigs to spread the four prongs.
+3. Lash below the splits.
+4. Sharpen all four prong tips.
+5. Optionally carve small backward-facing barbs on each prong to prevent fish from sliding off.
+
+### Spearing Technique
+
+- Stand on a bank, rock, or wade into shallow water.
+- Hold the spear above and slightly behind the target.
+- Account for refraction: the fish appears shallower than it actually is. Aim below where you see the fish.
+- Strike quickly and pin the fish to the bottom. Do not try to lift immediately — press down first, then slide a hand down to secure the fish.
+- Best in shallow, clear water with visible fish.
+- Dawn and dusk are prime times — fish feed in shallows.
+- Use a light source at night (torch, flashlight) — fish are attracted to and immobilized by light.
+
+## Fish Traps and Weirs
+
+### Funnel Trap
+
+See [trapping-and-snares.md](trapping-and-snares.md) for detailed construction. Summary:
+
+1. Weave a cylindrical basket from flexible branches.
+2. Create a funnel-shaped entrance — wide opening at the basket end, narrow (1-2 in / 2.5-5 cm) at the interior end.
+3. Insert the funnel into one end of the basket.
+4. Bait inside.
+5. Place in current facing upstream, or weight down in still water near shore.
+
+### Rock Weir
+
+1. Build a V-shaped or U-shaped wall of stacked rocks in a shallow stream.
+2. The opening points downstream.
+3. Fish swimming upstream enter the wide mouth and are trapped at the narrow end.
+4. Collect by hand or with a net/basket.
+5. Works best at natural choke points — shallow riffles, stream narrows.
+
+### Tidal Trap
+
+In coastal areas:
+
+1. Build a circular or semicircular rock wall in the intertidal zone during low tide.
+2. As the tide rises, fish swim over and through the wall.
+3. As the tide falls, fish are trapped inside the enclosure.
+4. Collect at low tide.
+
+## Gill Net from Cordage
+
+A gill net hangs vertically in water. Fish swim into it and are caught by their gill covers when they try to back out.
+
+### Construction
+
+1. Cut two horizontal lines (top and bottom) the desired length — 10-30 ft (3-9 m) is practical.
+2. Cut vertical strands 2-4 ft (60-120 cm) long — enough to span the water depth.
+3. Tie vertical strands to the top line at intervals matching your target fish size:
+   - Small fish (panfish): 1-1.5 in (2.5-4 cm) mesh openings
+   - Medium fish (trout-size): 2-3 in (5-7.5 cm) mesh openings
+   - Large fish: 4+ in (10+ cm) mesh openings
+4. Knot vertical strands together in alternating rows to create a diamond mesh pattern (standard netting knot: sheet bend).
+5. Attach floats (bark, sealed bottles, wood chunks) to the top line.
+6. Attach weights (rocks tied with cordage) to the bottom line.
+7. Set across a stream or along a shoreline.
+
+!!! danger "WARNING"
+    Gill nets are indiscriminate. They catch everything that swims into them. In regulated waters, gill nets are typically illegal for recreational use. Use only in genuine survival situations.
+
+### Setting a Gill Net
+
+- Across a stream: anchor both ends to stakes or trees on opposite banks.
+- Along a shoreline: one end anchored on shore, the other weighted and extending into the water.
+- Check at least twice daily — fish deteriorate quickly in nets.
+
+## Bait Selection
+
+| Bait | How to Obtain | Target Fish |
+|------|--------------|-------------|
+| Earthworms | Dig in moist soil, under logs/rocks | Most freshwater species |
+| Grubs/larvae | Under bark, in rotting wood | Trout, panfish |
+| Insects (grasshoppers, crickets) | Catch by hand in fields | Trout, bass, panfish |
+| Crayfish | Turn over rocks in streams | Bass, catfish, large trout |
+| Minnows | Trap in shallows with fabric/shirt | Bass, pike, walleye |
+| Fish entrails | From previously caught fish | Catfish, carp |
+| Berries | Forage near water ([edible-plants-temperate.md](edible-plants-temperate.md)) | Panfish, trout |
+| Dough/bread | From supplies | Carp, panfish |
+| Bright cloth/feather (lure) | Clothing, birds | Trout, bass (aggressive species) |
+
+### Improvised Lures
+
+- Wrap a small piece of bright cloth, tinfoil, or feather around a hook.
+- Carve a small fish shape from wood, attach a hook, and paint or scratch a scale pattern.
+- Use a spinner: small piece of shiny metal (spoon, can lid) attached above the hook.
+
+## Fish Stunning
+
+!!! danger "WARNING"
+    Fish stunning (using rocks to strike the water or natural plant-based piscicides) is illegal in most jurisdictions and causes ecological damage. Include here for completeness in genuine survival contexts only.
+
+**Rock stunning:** In shallow pools, drop or throw heavy rocks into small, enclosed pools to stun fish. Collect stunned fish immediately before they recover.
+
+**Natural piscicides:** Certain plants (green walnut hulls, mullein seeds, certain tropical species) contain compounds that stun or suffocate fish when introduced to still or slow water. This method contaminates the water and kills indiscriminately. Use only as a last resort in survival situations.
+
+## Best Times and Locations
+
+### When to Fish
+
+| Time | Productivity | Reason |
+|------|-------------|--------|
+| Dawn (30 min before/after sunrise) | High | Fish feed actively in low light |
+| Dusk (30 min before/after sunset) | High | Same — low light feeding period |
+| Overcast days | Moderate-High | Reduced light all day |
+| After rain | High | Insects wash into water, fish feed aggressively |
+| Midday, bright sun | Low | Fish retreat to deep water and cover |
+| Night (with light) | Moderate-High | Some species (catfish, walleye) feed nocturnally |
+
+### Where to Fish
+
+- **Eddies and pools:** Behind rocks, below waterfalls, in river bends — fish rest in slow water adjacent to fast water where food drifts past.
+- **Undercut banks:** Fish shelter under overhanging banks.
+- **Submerged structure:** Fallen trees, rock piles, weed beds — cover attracts fish.
+- **Stream inlets:** Where a tributary enters a larger body — food concentrates here.
+- **Shaded areas:** In hot weather, fish seek shade.
+- **Shallow riffles:** In cooler weather, fish feed in shallow, oxygenated water.
+
+## Fish Preparation and Parasite Warnings
+
+### Cleaning
+
+1. Kill the fish immediately with a sharp blow to the head.
+2. Scale by scraping from tail to head with a knife blade held at 45 degrees.
+3. Gut: insert knife into the vent (anus) and cut forward to the jaw. Remove all entrails.
+4. Remove gills.
+5. Rinse in clean water. Save entrails for bait or trap bait.
+
+### Cooking Methods
+
+- **Direct flame:** Skewer on a green stick and roast over coals. Turn frequently. Cook until flesh is opaque and flakes.
+- **Hot rock:** Heat flat rocks in a fire. Place fish on the hot rocks. Flip once.
+- **Wrapped in mud or leaves:** Coat whole fish (ungutted) in a thick layer of wet clay or large green leaves. Bury in coals. Cook 20-30 minutes. The skin and scales peel off with the clay.
+- **Smoking:** For preservation. Build a rack 2-3 ft (60-90 cm) above a low, smoky fire. Smoke for 12-24 hours. Smoked fish lasts days to weeks depending on conditions.
+- **Boiling:** If you have a container, boil fish in water to make a broth that captures fats and nutrients that would otherwise drip away in roasting.
+
+### Parasite Risks
+
+| Parasite | Found In | Risk |
+|----------|---------|------|
+| Broad fish tapeworm | Pike, perch, freshwater species | GI symptoms, B12 deficiency |
+| Liver flukes | Freshwater fish near livestock | Liver damage |
+| Anisakis (roundworm) | Saltwater fish | Severe GI pain |
+| Diphyllobothrium | Salmon, trout | Tapeworm infection |
+
+**Prevention:** Cook thoroughly. Freezing at 0 F (-18 C) for 7 days also kills parasites, but this is rarely achievable in the field. Do not eat raw freshwater fish.
+
+## Common Mistakes
+
+- **Fishing only during midday** — fish at dawn, dusk, and after rain for best results
+- **Fishing in open, featureless water** — find structure, shade, and current breaks
+- **Using hooks too large for available fish** — scale your hook to the fish you expect to catch. A large hook catches nothing in a stream full of panfish.
+- **Jerking the line on a gorge hook** — gorge hooks must be swallowed. Wait, then pull steadily.
+- **Not accounting for refraction when spearing** — aim below the visible position of the fish
+- **Neglecting passive methods** — set lines, traps, and nets catch fish while you do other things. Set them first, then actively fish.
+- **Discarding fish guts** — use them as bait for the next catch or for traps
+- **Eating raw freshwater fish** — parasites are ubiquitous and some cause serious illness
+
+## Quick Reference
+
+| Method | Effort Level | Best For | Passive? |
+|--------|-------------|----------|----------|
+| Hook and line (hand line) | Low | All species | No |
+| Gorge hook | Low | Bottom feeders, catfish | Semi (set line) |
+| Spear fishing | Medium | Shallow, clear water | No |
+| Funnel trap | High (build), Low (operate) | Streams, all species | Yes |
+| Rock weir | High (build), Low (operate) | Shallow streams | Yes |
+| Gill net | High (build), Low (operate) | All water types | Yes |
+| Noodling | Low | Catfish | No |
+| Tidal trap | High (build) | Coastal areas | Yes |
+
+## See Also
+
+- [trapping-and-snares.md](trapping-and-snares.md) — Land-based trapping and fish trap details
+- [hunting-basics.md](hunting-basics.md) — Active hunting when fishing is insufficient
+- [foraging-basics.md](foraging-basics.md) — Supplement protein with plant-based nutrition
+- [edible-plants-temperate.md](edible-plants-temperate.md) — Identify plants for bait and nutrition
+- [Cordage](../tools-and-craft/cordage.md) — fishing line from plant fibers and sinew.
+- [Knots and Lashing](../tools-and-craft/knots-and-lashing.md) — knots for hooks, leaders, and trotlines.
+
+## Sources
+
+- U.S. Army Survival Manual (FM 21-76), Chapter 8: Food Procurement
+- SAS Survival Handbook (John "Lofty" Wiseman)
+- Bushcraft 101 (Dave Canterbury)
+- Primitive Technology: A Book of Earth Skills (David Wescott, ed.)
+- The Complete Guide to Freshwater Fishing (Creative Publishing International)
+- CDC — Parasites and Foodborne Illness guidelines

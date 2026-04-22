@@ -1,0 +1,160 @@
+site_name: WilderThings
+site_description: Comprehensive wilderness survival guide — offline-ready, mobile-first
+site_author: WilderThings Contributors
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: deep orange
+      accent: orange
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    logo: material/compass-rose
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.tabs.link
+    - toc.integrate
+
+extra_css:
+  - assets/css/custom.css
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.mark
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Medical:
+    - First Aid Basics: medical/first-aid-basics.md
+    - CPR and Choking: medical/cpr-and-choking.md
+    - Fractures and Splints: medical/fractures-and-splints.md
+    - Hypothermia and Heatstroke: medical/hypothermia-and-heatstroke.md
+    - Trauma and Triage: medical/trauma-and-triage.md
+    - Bites and Stings: medical/bites-and-stings.md
+    - Wound Infection: medical/wound-infection.md
+    - Dehydration and Waterborne Illness: medical/dehydration-and-waterborne.md
+    - Plant Poisoning: medical/plant-poisoning.md
+    - Improvised Medicine: medical/improvised-medicine.md
+  - Water:
+    - Finding Water: water/finding-water.md
+    - Purification: water/purification.md
+    - Improvised Filters: water/improvised-filters.md
+    - Water Storage: water/water-storage.md
+    - Desert and Sea Water: water/desert-and-sea-water.md
+  - Shelter:
+    - Shelter Principles: shelter/shelter-principles.md
+    - Debris Hut: shelter/debris-hut.md
+    - Snow Shelters: shelter/snow-shelters.md
+    - Desert Shelter: shelter/desert-shelter.md
+    - Tarp and Poncho Shelters: shelter/tarp-and-poncho.md
+    - Long-Term Structures: shelter/long-term-structures.md
+  - Fire:
+    - Fire Principles: fire/fire-principles.md
+    - Friction Methods: fire/friction-methods.md
+    - Spark and Lens Methods: fire/spark-methods.md
+    - Fire from Nothing: fire/fire-from-nothing.md
+    - Fire in Wet Conditions: fire/fire-in-wet-conditions.md
+    - Fire Types: fire/fire-types.md
+    - Maintaining Fire: fire/maintaining-fire.md
+  - Food:
+    - Foraging Basics: food/foraging-basics.md
+    - Edible Plants — Temperate: food/edible-plants-temperate.md
+    - Edible Plants — Tropical: food/edible-plants-tropical.md
+    - Mushroom Identification: food/mushroom-identification.md
+    - Hunting Basics: food/hunting-basics.md
+    - Trapping and Snares: food/trapping-and-snares.md
+    - Improvised Fishing: food/fishing-improvised.md
+    - Insect Foraging: food/insect-foraging.md
+    - Field Butchering: food/field-butchering.md
+    - Food Preservation: food/food-preservation.md
+    - Cooking Without Gear: food/cooking-without-gear.md
+  - Navigation:
+    - Map and Compass: navigation/map-and-compass.md
+    - Natural Navigation: navigation/natural-navigation.md
+    - Signaling for Rescue: navigation/signaling-for-rescue.md
+    - GPS and Electronics: navigation/gps-and-electronics.md
+    - Terrain Association: navigation/terrain-association.md
+  - Wildlife:
+    - Bear Safety: wildlife/bear-safety.md
+    - Big Cats: wildlife/big-cats.md
+    - Venomous Snakes: wildlife/venomous-snakes.md
+    - Venomous Spiders: wildlife/venomous-spiders.md
+    - Insect Threats: wildlife/insect-threats.md
+    - Wolves and Canids: wildlife/wolves-and-canids.md
+    - Marine Dangers: wildlife/marine-dangers.md
+    - Moose and Ungulates: wildlife/moose-and-ungulates.md
+    - Alligators and Crocodiles: wildlife/alligators-and-crocs.md
+  - Tools and Craft:
+    - Knife Use and Care: tools-and-craft/knife-use-and-care.md
+    - Knots and Lashing: tools-and-craft/knots-and-lashing.md
+    - Cordage: tools-and-craft/cordage.md
+    - Improvised Tools: tools-and-craft/improvised-tools.md
+    - Containers and Vessels: tools-and-craft/containers-and-vessels.md
+    - Clothing and Insulation: tools-and-craft/clothing-and-insulation.md
+  - Psychology:
+    - Survival Mindset: psychology/survival-mindset.md
+    - Stress Management: psychology/stress-management.md
+    - Group Dynamics: psychology/group-dynamics.md
+    - Solo Survival: psychology/solo-survival.md
+  - Scenarios:
+    - Lost in the Woods: scenarios/lost-in-woods.md
+    - Animal Attack: scenarios/animal-attack.md
+    - Injured and Alone: scenarios/injured-and-alone.md
+    - Vehicle Breakdown — Remote: scenarios/vehicle-breakdown-remote.md
+    - Natural Disaster: scenarios/natural-disaster.md
+    - Water Crossing: scenarios/water-crossing.md
+  - Climate-Specific:
+    - Arctic Survival: climate-specific/arctic-survival.md
+    - Desert Survival: climate-specific/desert-survival.md
+    - Jungle Survival: climate-specific/jungle-survival.md
+    - Mountain Survival: climate-specific/mountain-survival.md
+    - Ocean Survival: climate-specific/ocean-survival.md
+    - Urban Survival: climate-specific/urban-survival.md
+  - Preparedness:
+    - Bug-Out Bag: preparedness/bug-out-bag.md
+    - Everyday Carry: preparedness/everyday-carry.md
+    - Vehicle Kit: preparedness/vehicle-kit.md
+    - Home Preparedness: preparedness/home-preparedness.md
+    - Communication Plans: preparedness/communication-plans.md
+    - Financial Preparedness: preparedness/financial-preparedness.md
+  - References:
+    - Glossary: references/glossary.md
+    - Book List: references/book-list.md
+    - Sources: references/sources.md
+    - Checklists:
+      - First Aid: references/checklists/first-aid-checklist.md
+      - Fire Starting: references/checklists/fire-starting-checklist.md
+      - Signaling: references/checklists/signal-checklist.md
+      - Water Purification: references/checklists/water-purification-checklist.md
+      - Shelter: references/checklists/shelter-checklist.md
