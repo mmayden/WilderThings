@@ -1,3 +1,11 @@
+---
+tags:
+  - medical
+  - poisoning
+  - plants
+  - toxic
+  - foraging
+---
 # Plant Poisoning: Recognition and Field Treatment
 
 > Identify plant poisoning symptoms, administer first aid for ingestion and contact exposure, and avoid commonly confused toxic species.

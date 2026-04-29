@@ -1,3 +1,12 @@
+---
+tags:
+  - preparedness
+  - financial
+  - cash
+  - barter
+  - economic
+  - money
+---
 # Financial Preparedness for Emergencies
 
 > Protect your financial resources and identity documents so you can recover quickly when disaster disrupts normal banking, commerce, and infrastructure.

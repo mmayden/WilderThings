@@ -1,3 +1,12 @@
+---
+tags:
+  - scenarios
+  - attack
+  - wildlife
+  - emergency
+  - defense
+  - survival
+---
 # Animal Attack
 > Decision flowcharts and survival protocols for encounters with dangerous wildlife, from prevention through post-attack wound care.
 

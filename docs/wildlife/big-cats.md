@@ -1,3 +1,12 @@
+---
+tags:
+  - wildlife
+  - big-cats
+  - mountain-lion
+  - cougar
+  - leopard
+  - attack
+---
 # Big Cat Encounters
 
 > Face the cat, stand tall, fight back — never run, never crouch, never look like prey.

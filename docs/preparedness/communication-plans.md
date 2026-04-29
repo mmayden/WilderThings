@@ -1,3 +1,12 @@
+---
+tags:
+  - preparedness
+  - communication
+  - radio
+  - family-plan
+  - emergency
+  - SHTF
+---
 # Emergency Communication Plans
 
 > Establish reliable communication methods so your household can coordinate, report status, and call for help when normal channels fail.
@@ -105,12 +114,12 @@ Traditional copper landlines (POTS — Plain Old Telephone Service) have indepen
 
 ### Satellite Communicators
 
-| Device | Monthly Cost | Two-Way Text | SOS | Coverage |
-|--------|-------------|-------------|-----|----------|
-| Garmin inReach Mini 2 | $12-65 | Yes | Yes | Global (Iridium) |
-| SPOT Gen4 | $12-50 | No (one-way) | Yes | Global (Globalstar) |
-| Zoleo | $20-50 | Yes | Yes | Global (Iridium) |
-| Apple iPhone 14+ (Emergency SOS) | Included | Limited | Yes | Limited (satellite) |
+| Device | Monthly Cost | SOS | Coverage |
+|--------|-------------|-----|----------|
+| Garmin inReach Mini 2 | $12-65 | Yes | Global (Iridium) |
+| SPOT Gen4 | $12-50 | Yes | Global (Globalstar) |
+| Zoleo | $20-50 | Yes | Global (Iridium) |
+| Apple iPhone 14+ (Emergency SOS) | Included | Yes | Limited (satellite) |
 
 Satellite communicators work anywhere on Earth with a clear view of the sky. They are the most reliable emergency communication tool available.
 

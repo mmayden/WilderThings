@@ -1,3 +1,12 @@
+---
+tags:
+  - fire
+  - principles
+  - tinder
+  - kindling
+  - fuel
+  - fire-triangle
+---
 # Fire Principles
 
 > Master the fundamentals of fire creation, management, and safety to survive any situation.

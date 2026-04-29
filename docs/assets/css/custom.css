@@ -6,10 +6,25 @@
   line-height: 1.7;
 }
 
+/* Larger text on small screens for glance-readability in the field */
+@media screen and (max-width: 480px) {
+  .md-typeset {
+    font-size: 0.9rem;
+  }
+}
+
 /* Constrain images on mobile */
 .md-typeset img {
   max-width: 100%;
   height: auto;
+}
+
+/* Tables: full width with horizontal scroll fallback on narrow screens */
+.md-typeset table:not([class]) {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
 }
 
 /* Tighter admonition padding on small screens */
@@ -25,13 +40,15 @@
   }
 }
 
-/* Quick Reference tables — full width, readable */
-.md-typeset table:not([class]) {
-  display: table;
-  width: 100%;
-}
-
 /* Ensure content tabs are tap-friendly on mobile */
 .md-typeset .tabbed-labels label {
   min-height: 2.4rem;
+}
+
+/* Larger tap targets for navigation links on mobile */
+@media screen and (max-width: 600px) {
+  .md-nav__link {
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+  }
 }

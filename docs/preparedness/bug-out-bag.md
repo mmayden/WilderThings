@@ -1,3 +1,12 @@
+---
+tags:
+  - preparedness
+  - bug-out-bag
+  - BOB
+  - gear
+  - kit
+  - emergency
+---
 # Bug-Out Bag (72-Hour Kit)
 
 > Assemble a portable kit that sustains you for 72 hours when you must leave home immediately.

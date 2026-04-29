@@ -1,3 +1,12 @@
+---
+tags:
+  - fire
+  - friction
+  - bow-drill
+  - hand-drill
+  - primitive
+  - fire-making
+---
 # Friction Fire Methods
 
 > Generate fire using muscle power and wood-on-wood friction — the oldest and most universally available ignition technique.
@@ -306,12 +315,12 @@ Press your thumbnail into the wood surface. If it leaves a clear dent, the wood 
 
 ## Quick Reference
 
-| Method | Difficulty | Time to Master | Components Needed | Best Environment |
-|--------|-----------|----------------|-------------------|------------------|
-| Bow drill | Moderate | 15-30 hours | Fireboard, spindle, bearing block, bow, string | Temperate / boreal |
-| Hand drill | Hard | 30-60 hours | Fireboard, spindle | Hot, dry, arid |
-| Fire plow | Hard | 10-20 hours | Plow board, plow stick | Tropical / subtropical |
-| Fire saw | Moderate-Hard | 5-15 hours | Bamboo base, saw piece, tinder | Tropical (bamboo regions) |
+| Method | Difficulty | Components Needed | Best Environment |
+|--------|-----------|-------------------|------------------|
+| Bow drill | Moderate | Fireboard, spindle, bearing block, bow, string | Temperate / boreal |
+| Hand drill | Hard | Fireboard, spindle | Hot, dry, arid |
+| Fire plow | Hard | Plow board, plow stick | Tropical / subtropical |
+| Fire saw | Moderate-Hard | Bamboo base, saw piece, tinder | Tropical (bamboo regions) |
 
 | Parameter | Specification |
 |-----------|---------------|

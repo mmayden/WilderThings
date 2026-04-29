@@ -1,3 +1,11 @@
+---
+tags:
+  - water
+  - filtration
+  - improvised
+  - charcoal
+  - DIY
+---
 # Improvised Water Filters
 
 > Remove sediment, particulates, and some pathogens from wild water using field-constructed filters when commercial options are unavailable.

@@ -1,3 +1,10 @@
+---
+tags:
+  - reference
+  - checklist
+  - water
+  - purification
+---
 # Water Purification Checklist
 
 > Use this checklist whenever you need to make water safe to drink in the field. Untreated water can carry bacteria, viruses, and parasites that cause severe illness. Always treat water before drinking.

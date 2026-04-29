@@ -1,3 +1,12 @@
+---
+tags:
+  - medical
+  - dehydration
+  - waterborne-illness
+  - water
+  - hydration
+  - diarrhea
+---
 # Dehydration and Waterborne Illness
 
 > Recognize and treat dehydration and waterborne diseases in the field when clean water access is limited or compromised.

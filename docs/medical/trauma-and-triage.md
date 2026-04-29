@@ -1,3 +1,12 @@
+---
+tags:
+  - medical
+  - trauma
+  - triage
+  - emergency
+  - critical
+  - bleeding
+---
 # Trauma Assessment and Field Triage
 
 > Systematically assess trauma patients, prioritize casualties in mass-casualty situations, and manage life-threatening injuries using TCCC and wilderness medicine protocols.
@@ -220,12 +229,12 @@ Take and record baseline vital signs. Reassess every 5-15 minutes depending on p
 
 ### Estimated Blood Loss by Class
 
-| Class | Blood Loss | Heart Rate | Blood Pressure | Mental Status | Skin |
-|---|---|---|---|---|---|
-| I | <750 mL (<15%) | Normal | Normal | Normal | Normal |
-| II | 750-1500 mL (15-30%) | 100-120 | Normal (narrowed pulse pressure) | Anxious | Pale, cool |
-| III | 1500-2000 mL (30-40%) | 120-140 | Decreased | Confused | Cold, clammy, pale |
-| IV | >2000 mL (>40%) | >140 or absent | Severely decreased | Lethargic/unconscious | Cold, mottled, gray |
+| Class | Blood Loss | Heart Rate | Mental Status |
+|---|---|---|---|
+| I | <750 mL (<15%) | Normal | Normal |
+| II | 750-1500 mL (15-30%) | 100-120 | Anxious |
+| III | 1500-2000 mL (30-40%) | 120-140 | Confused |
+| IV | >2000 mL (>40%) | >140 or absent | Lethargic/unconscious |
 
 ### Shock Treatment (Field)
 

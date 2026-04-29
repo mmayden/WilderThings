@@ -1,3 +1,12 @@
+---
+tags:
+  - water
+  - wilderness
+  - terrain
+  - springs
+  - procurement
+  - hydration
+---
 # Finding Water in the Wild
 
 > Locate, collect, and extract water from terrain, weather, and vegetation before dehydration compromises your judgment.

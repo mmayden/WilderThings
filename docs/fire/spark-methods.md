@@ -1,3 +1,12 @@
+---
+tags:
+  - fire
+  - sparks
+  - flint
+  - ferro-rod
+  - lighter
+  - fire-making
+---
 # Spark and Lens Fire Methods
 
 > Ignite fire using sparks, electrical energy, or focused light — methods that range from modern gear to improvised field techniques.
@@ -253,15 +262,15 @@ Rapid compression of air in a sealed cylinder generates extreme heat — the sam
 
 ## Method Comparison
 
-| Method | Reliability | Weight | Works When Wet | Works at Night | Skill Required | Reusability |
-|--------|-------------|--------|----------------|----------------|----------------|-------------|
-| Ferro rod | Very high | 1-3 oz / 28-85 g | Yes | Yes | Low | Thousands of uses |
-| Flint and steel | High | 2-6 oz / 55-170 g | If tinder is dry | Yes | Moderate | Years of use |
-| 9V + steel wool | High | 3-5 oz / 85-140 g | No | Yes | Very low | Single use |
-| Car battery | High | N/A | Yes (sparks) | Yes | Low | Multiple uses |
-| Magnifying lens | Moderate | 0-3 oz / 0-85 g | N/A (needs sun) | No | Low-moderate | Indefinite |
-| Fresnel card | Moderate | <1 oz / <28 g | N/A (needs sun) | No | Low-moderate | Indefinite |
-| Fire piston | Moderate-high | 1-3 oz / 28-85 g | If kept dry | Yes | Moderate-high | Indefinite |
+| Method | Reliability | Works When Wet | Skill Required |
+|--------|-------------|----------------|----------------|
+| Ferro rod | Very high | Yes | Low |
+| Flint and steel | High | If tinder is dry | Moderate |
+| 9V + steel wool | High | No | Very low |
+| Car battery | High | Yes (sparks) | Low |
+| Magnifying lens | Moderate | No (needs sun) | Low-moderate |
+| Fresnel card | Moderate | No (needs sun) | Low-moderate |
+| Fire piston | Moderate-high | If kept dry | Moderate-high |
 
 ### Choosing Your Methods
 

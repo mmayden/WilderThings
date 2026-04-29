@@ -1,3 +1,12 @@
+---
+tags:
+  - preparedness
+  - vehicle
+  - car-kit
+  - road
+  - emergency
+  - gear
+---
 # Vehicle Emergency Kit
 
 > Equip your vehicle with the tools and supplies to survive a breakdown, accident, or stranding in any season.

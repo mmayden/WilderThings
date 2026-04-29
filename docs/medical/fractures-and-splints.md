@@ -1,3 +1,12 @@
+---
+tags:
+  - medical
+  - fractures
+  - splints
+  - bones
+  - injury
+  - immobilization
+---
 # Fractures and Splints
 
 > Identify fractures, immobilize injuries using improvised and commercial splints, and recognize spinal injuries requiring extreme caution.

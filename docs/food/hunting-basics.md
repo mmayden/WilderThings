@@ -1,3 +1,12 @@
+---
+tags:
+  - food
+  - hunting
+  - game
+  - weapons
+  - wilderness
+  - protein
+---
 # Hunting Basics
 
 > Track, stalk, and harvest game animals using fundamental skills and improvised weapons when modern tools are unavailable.

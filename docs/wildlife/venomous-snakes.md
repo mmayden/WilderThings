@@ -1,3 +1,12 @@
+---
+tags:
+  - wildlife
+  - snakes
+  - venom
+  - bite
+  - identification
+  - first-aid
+---
 # Venomous Snake Identification and Bite Protocol
 
 > Identify the region, respect the distance, treat the bite — not the snake.

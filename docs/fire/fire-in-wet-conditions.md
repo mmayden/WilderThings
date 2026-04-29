@@ -1,3 +1,12 @@
+---
+tags:
+  - fire
+  - wet
+  - rain
+  - moisture
+  - fire-making
+  - challenges
+---
 # Fire in Wet Conditions
 
 > How to find dry materials, build, and maintain fire during rain, snow, and high-humidity conditions.

@@ -1,3 +1,11 @@
+---
+tags:
+  - shelter
+  - desert
+  - shade
+  - heat
+  - sun-protection
+---
 # Desert Shelter
 
 > How to build shelters in arid environments where shade, heat management, and water conservation are the primary survival concerns.

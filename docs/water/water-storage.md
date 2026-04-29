@@ -1,3 +1,11 @@
+---
+tags:
+  - water
+  - storage
+  - containers
+  - collection
+  - rain
+---
 # Water Storage
 
 > Store, treat, and transport water safely to maintain a reliable supply between collection trips.

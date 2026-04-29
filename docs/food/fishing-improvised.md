@@ -1,3 +1,12 @@
+---
+tags:
+  - food
+  - fishing
+  - improvised
+  - water
+  - protein
+  - hooks
+---
 # Improvised Fishing
 
 > Fish are the highest-probability wild protein source in most environments — learn to catch them with whatever you have.

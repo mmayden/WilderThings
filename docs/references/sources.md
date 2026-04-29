@@ -1,3 +1,10 @@
+---
+tags:
+  - reference
+  - sources
+  - citations
+  - bibliography
+---
 # Master Source List
 
 > Authoritative sources referenced throughout the WilderThings survival guide collection. Organized by type for easy lookup.

@@ -1,3 +1,12 @@
+---
+tags:
+  - navigation
+  - signaling
+  - rescue
+  - mirror
+  - fire
+  - distress
+---
 # Signaling for Rescue
 
 > Make yourself big, bright, and unmistakable — rescuers cannot save what they cannot find.

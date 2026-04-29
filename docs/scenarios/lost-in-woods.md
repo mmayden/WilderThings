@@ -1,3 +1,12 @@
+---
+tags:
+  - scenarios
+  - lost
+  - woods
+  - emergency
+  - rescue
+  - STOP
+---
 # Lost in the Woods
 > A step-by-step survival walkthrough from the moment you realize you are lost through rescue or self-extraction.
 

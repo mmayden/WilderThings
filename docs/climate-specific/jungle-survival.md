@@ -1,3 +1,12 @@
+---
+tags:
+  - climate
+  - jungle
+  - tropical
+  - humid
+  - insects
+  - vegetation
+---
 # Jungle and Tropical Rainforest Survival
 
 > How to survive in dense tropical environments where moisture, disease, and disorientation are constant threats.

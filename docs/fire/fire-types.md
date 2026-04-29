@@ -1,3 +1,12 @@
+---
+tags:
+  - fire
+  - fire-lay
+  - dakota-hole
+  - cooking
+  - warmth
+  - star-fire
+---
 # Fire Types
 
 > Purpose-built fire configurations for warmth, cooking, signaling, stealth, and sustained overnight burning.

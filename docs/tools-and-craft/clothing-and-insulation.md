@@ -1,3 +1,12 @@
+---
+tags:
+  - tools
+  - clothing
+  - insulation
+  - warmth
+  - layering
+  - DIY
+---
 # Improvised Clothing and Insulation
 
 > How to make, repair, and insulate clothing from natural materials when your gear is damaged, lost, or insufficient for conditions.

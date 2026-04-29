@@ -1,3 +1,12 @@
+---
+tags:
+  - tools
+  - knots
+  - lashing
+  - rope
+  - cordage
+  - skills
+---
 # Knots and Lashing
 > Eight essential survival knots and two lashing techniques — when to use each, how to tie each, and how to keep your rope alive.
 

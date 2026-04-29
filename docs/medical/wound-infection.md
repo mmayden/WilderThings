@@ -1,3 +1,12 @@
+---
+tags:
+  - medical
+  - infection
+  - wounds
+  - sepsis
+  - hygiene
+  - antibiotics
+---
 # Wound Infection: Recognition, Treatment, and Evacuation
 
 > Identify, treat, and manage wound infections in the field before they become systemic and life-threatening.
@@ -124,14 +133,14 @@ Begin oral antibiotics if available and infection signs are worsening despite lo
 
 #### Antibiotic Dosing Table
 
-| Antibiotic | Adult Dose | Frequency | Duration | Covers |
-|---|---|---|---|---|
-| Amoxicillin-clavulanate (Augmentin) | 875/125 mg | Every 12 hours | 7-10 days | Broad spectrum, bite wounds |
-| Cephalexin (Keflex) | 500 mg | Every 6 hours | 7-10 days | Skin/soft tissue, cellulitis |
-| Doxycycline | 100 mg | Every 12 hours | 7-10 days | Broad spectrum, tick-borne illness |
-| Ciprofloxacin | 500 mg | Every 12 hours | 7-10 days | Gram-negative, GI, urinary |
-| Metronidazole (Flagyl) | 500 mg | Every 8 hours | 7-10 days | Anaerobic bacteria (deep/puncture wounds) |
-| Trimethoprim-sulfamethoxazole (Bactrim DS) | 160/800 mg | Every 12 hours | 7-10 days | MRSA, skin abscesses |
+| Antibiotic | Adult Dose | Frequency | Covers |
+|---|---|---|---|
+| Amoxicillin-clavulanate (Augmentin) | 875/125 mg | Every 12 hours | Broad spectrum, bite wounds |
+| Cephalexin (Keflex) | 500 mg | Every 6 hours | Skin/soft tissue, cellulitis |
+| Doxycycline | 100 mg | Every 12 hours | Broad spectrum, tick-borne illness |
+| Ciprofloxacin | 500 mg | Every 12 hours | Gram-negative, GI, urinary |
+| Metronidazole (Flagyl) | 500 mg | Every 8 hours | Anaerobic bacteria (deep/puncture wounds) |
+| Trimethoprim-sulfamethoxazole (Bactrim DS) | 160/800 mg | Every 12 hours | MRSA, skin abscesses |
 
 !!! note
     For bite wounds (human or animal), use amoxicillin-clavulanate as first choice. For suspected MRSA (abscesses, boils not responding to standard antibiotics), use trimethoprim-sulfamethoxazole or doxycycline.

@@ -1,3 +1,12 @@
+---
+tags:
+  - navigation
+  - map
+  - compass
+  - orienteering
+  - bearings
+  - wilderness
+---
 # Map and Compass Navigation
 
 > Core land navigation using topographic maps and magnetic compass — the primary backup when GPS fails.

@@ -1,3 +1,12 @@
+---
+tags:
+  - navigation
+  - natural
+  - stars
+  - sun
+  - moss
+  - primitive
+---
 # Natural Navigation
 
 > Direction-finding without instruments using the sun, stars, moon, terrain, vegetation, and environmental patterns.

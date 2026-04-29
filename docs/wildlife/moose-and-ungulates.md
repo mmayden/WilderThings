@@ -1,3 +1,12 @@
+---
+tags:
+  - wildlife
+  - moose
+  - deer
+  - elk
+  - ungulates
+  - encounter
+---
 # Moose and Large Ungulate Safety
 
 > Moose injure more people in North America than bears and wolves combined — size, speed, and unpredictability make large ungulates serious threats.
@@ -137,12 +146,12 @@ Ungulate-vehicle collisions cause over 200 deaths and 26,000 injuries annually i
 
 ## Quick Reference
 
-| Animal | Weight | Speed | Safe Distance | If Charged |
-|---|---|---|---|---|
-| Moose | 800–1,500 lbs (360–680 kg) | 35 mph (56 km/h) | 75 ft (23 m) | Run, get behind a tree |
-| Elk | 700–1,100 lbs (320–500 kg) | 40 mph (64 km/h) | 75 ft (23 m) | Run, get behind a barrier |
-| Bison | 1,000–2,000 lbs (450–900 kg) | 35 mph (56 km/h) | 75 ft (23 m) | Run, get behind a car or tree |
-| Wild boar | 100–400 lbs (45–180 kg) | 30 mph (48 km/h) | 50 ft (15 m) | Climb, or dodge sideways |
+| Animal | Speed | Safe Distance | If Charged |
+|---|---|---|---|
+| Moose | 35 mph (56 km/h) | 75 ft (23 m) | Run, get behind a tree |
+| Elk | 40 mph (64 km/h) | 75 ft (23 m) | Run, get behind a barrier |
+| Bison | 35 mph (56 km/h) | 75 ft (23 m) | Run, get behind a car or tree |
+| Wild boar | 30 mph (48 km/h) | 50 ft (15 m) | Climb, or dodge sideways |
 
 ## See Also
 

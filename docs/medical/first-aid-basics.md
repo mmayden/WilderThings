@@ -1,3 +1,12 @@
+---
+tags:
+  - medical
+  - first-aid
+  - bleeding
+  - wounds
+  - burns
+  - emergency
+---
 # First Aid Basics: Wound Care, Burns, and Bleeding Control
 
 > Stop bleeding, prevent infection, and manage burns using field-expedient first aid when professional help is unavailable.
@@ -215,11 +224,11 @@ Use only if trained. Improper suturing traps infection and worsens outcomes. If 
 
 ### Classification
 
-| Degree | Depth | Appearance | Sensation | Healing |
-|---|---|---|---|---|
-| 1st (Superficial) | Epidermis only | Red, dry, no blisters | Painful | 3-5 days |
-| 2nd (Partial thickness) | Epidermis + dermis | Red, wet, blisters | Very painful | 2-4 weeks |
-| 3rd (Full thickness) | Through dermis | White, brown, or charred; dry, leathery | Painless (nerves destroyed) | Requires grafting |
+| Degree | Appearance | Sensation | Healing |
+|---|---|---|---|
+| 1st (Superficial) | Red, dry, no blisters | Painful | 3-5 days |
+| 2nd (Partial thickness) | Red, wet, blisters | Very painful | 2-4 weeks |
+| 3rd (Full thickness) | White, brown, or charred; dry, leathery | Painless (nerves destroyed) | Requires grafting |
 
 ### Estimating Burn Area
 

@@ -1,3 +1,12 @@
+---
+tags:
+  - tools
+  - improvised
+  - primitive
+  - stone
+  - bone
+  - DIY
+---
 # Improvised Tools from Natural Materials
 
 > How to make cutting, scraping, drilling, and digging tools from stone, bone, wood, shell, and antler when manufactured tools are unavailable.

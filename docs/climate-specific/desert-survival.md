@@ -1,3 +1,12 @@
+---
+tags:
+  - climate
+  - desert
+  - heat
+  - sand
+  - arid
+  - dehydration
+---
 # Desert Survival
 
 > How to survive in arid environments where heat, dehydration, and exposure are the primary killers.

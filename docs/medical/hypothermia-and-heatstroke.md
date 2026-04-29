@@ -1,3 +1,12 @@
+---
+tags:
+  - medical
+  - hypothermia
+  - heatstroke
+  - temperature
+  - cold
+  - heat
+---
 # Hypothermia and Heatstroke
 
 > Recognize, prevent, and treat cold and heat injuries in the field using protocols adapted from wilderness medicine and military standards.
@@ -124,13 +133,13 @@ Mild hypothermia responds well to field rewarming. Most patients recover fully.
 
 ### Classification
 
-| Degree | Depth | Appearance | Sensation | Prognosis |
-|---|---|---|---|---|
-| Frostnip | Surface skin only | Red, then white or gray | Painful, tingling | Full recovery |
-| 1st degree | Epidermis | White/yellowish plaque, surrounding redness | Numbness, then burning on rewarming | Full recovery |
-| 2nd degree | Full skin | Clear or milky blisters, redness | Numbness, then severe pain on rewarming | Usually recovers |
-| 3rd degree | Skin and subcutaneous tissue | Blood-filled blisters, blue-gray skin | Numbness, loss of sensation | Tissue loss likely |
-| 4th degree | Through muscle and bone | Mottled, deep red to black, firm | No sensation | Amputation likely |
+| Degree | Appearance | Sensation | Prognosis |
+|---|---|---|---|
+| Frostnip | Red, then white or gray | Painful, tingling | Full recovery |
+| 1st degree | White/yellowish plaque, surrounding redness | Numbness, then burning on rewarming | Full recovery |
+| 2nd degree | Clear or milky blisters, redness | Numbness, then severe pain on rewarming | Usually recovers |
+| 3rd degree | Blood-filled blisters, blue-gray skin | Numbness, loss of sensation | Tissue loss likely |
+| 4th degree | Mottled, deep red to black, firm | No sensation | Amputation likely |
 
 ### Field Treatment
 
@@ -314,19 +323,19 @@ Dissolve completely. Sip frequently. This formula approximates the World Health 
 
 ### Hypothermia Stages
 
-| Stage | Temp Range | Key Signs | Shivering? | Field Treatable? |
-|---|---|---|---|---|
-| Mild | 95-90 degF (35-32 degC) | Shivering, confusion, clumsiness | Yes, vigorous | Yes |
-| Moderate | 90-82 degF (32-28 degC) | Shivering stops, severe confusion, paradoxical undressing | Slowing/stopped | Partially — evacuate |
-| Severe | Below 82 degF (28 degC) | Unconscious, rigid, appears dead | No | No — evacuate immediately |
+| Stage | Temp Range | Key Signs | Field Treatable? |
+|---|---|---|---|
+| Mild | 95-90 °F (35-32 °C) | Shivering (vigorous), confusion, clumsiness | Yes |
+| Moderate | 90-82 °F (32-28 °C) | Shivering stops, severe confusion, paradoxical undressing | Partially — evacuate |
+| Severe | Below 82 °F (28 °C) | Unconscious, rigid, appears dead | No — evacuate immediately |
 
 ### Heat Illness Progression
 
-| Stage | Core Temp | Mental Status | Skin | Action |
-|---|---|---|---|---|
-| Heat cramps | Normal-slight elevation | Normal | Sweating | Rest, electrolytes, stretch |
-| Heat exhaustion | Below 104 degF (40 degC) | Alert, mild confusion | Cool, clammy, sweating | Cool, hydrate, rest |
-| Heatstroke | Above 104 degF (40 degC) | Altered — confused, combative, seizing, unconscious | Hot, may be dry or wet | Cool aggressively NOW, evacuate |
+| Stage | Mental Status | Skin | Action |
+|---|---|---|---|
+| Heat cramps | Normal | Sweating | Rest, electrolytes, stretch |
+| Heat exhaustion (<104 °F / 40 °C) | Alert, mild confusion | Cool, clammy, sweating | Cool, hydrate, rest |
+| Heatstroke (>104 °F / 40 °C) | Confused, combative, seizing, or unconscious | Hot, dry or wet | Cool aggressively NOW, evacuate |
 
 ### Frostbite Decision Matrix
 

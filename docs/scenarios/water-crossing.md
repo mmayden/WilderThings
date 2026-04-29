@@ -1,3 +1,12 @@
+---
+tags:
+  - scenarios
+  - water-crossing
+  - river
+  - ford
+  - swimming
+  - hazard
+---
 # Water Crossing Safety
 
 > How to read a river, choose a crossing site, wade safely, and manage the risks of moving through water in a survival situation.

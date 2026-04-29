@@ -1,3 +1,12 @@
+---
+tags:
+  - climate
+  - urban
+  - city
+  - disaster
+  - infrastructure
+  - bug-out
+---
 # Urban Survival and Disaster Response
 
 > How to survive in a city after a major disaster when infrastructure fails and normal services are unavailable.

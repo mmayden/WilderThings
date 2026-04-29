@@ -1,3 +1,12 @@
+---
+tags:
+  - medical
+  - cpr
+  - choking
+  - cardiac
+  - emergency
+  - critical
+---
 # CPR and Choking Response
 
 > Restore circulation and clear airway obstructions using standardized resuscitation protocols when professional help is delayed or unavailable.

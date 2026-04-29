@@ -1,3 +1,12 @@
+---
+tags:
+  - food
+  - insects
+  - entomophagy
+  - protein
+  - foraging
+  - grubs
+---
 # Insect Foraging for Survival
 
 > Locate, identify, harvest, and prepare edible insects as a high-protein survival food source in any environment.
@@ -157,14 +166,14 @@ Psychological aversion to eating insects is cultural, not biological. In a survi
 
 ## Quick Reference
 
-| Insect | Where to Find | Calories/100g | Prep Time | Safety |
-|--------|--------------|---------------|-----------|--------|
-| Crickets | Grass, under rocks | 400 | 5 min roast | Safe — remove legs |
-| Grasshoppers | Fields, meadows | 350 | 5 min roast | Safe — remove legs |
-| Grubs | Dead wood, soil | 200-350 | 5 min roast | Safe — squeeze gut |
-| Ants | Trails, nests, logs | 100 | 5 min boil | Boil to remove acid |
-| Termites | Mounds, dead wood | 350-550 | Minimal | Safest raw option |
-| Earthworms | Soil, under logs | 60-80 | Purge + boil | Purge gut first |
+| Insect | Where to Find | Prep | Safety |
+|--------|--------------|------|--------|
+| Crickets | Grass, under rocks | 5 min roast | Remove legs |
+| Grasshoppers | Fields, meadows | 5 min roast | Remove legs |
+| Grubs | Dead wood, soil | 5 min roast | Squeeze gut first |
+| Ants | Trails, nests, logs | 5 min boil | Boil to neutralize formic acid |
+| Termites | Mounds, dead wood | Minimal | Safest raw option |
+| Earthworms | Soil, under logs | Purge + boil | Purge gut before cooking |
 
 ## See Also
 

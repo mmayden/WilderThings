@@ -1,3 +1,12 @@
+---
+tags:
+  - wildlife
+  - bears
+  - safety
+  - encounter
+  - attack
+  - prevention
+---
 # Bear Safety and Encounter Protocol
 
 > Identify the bear, prevent the encounter, survive the confrontation.

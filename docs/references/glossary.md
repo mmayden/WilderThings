@@ -1,3 +1,10 @@
+---
+tags:
+  - reference
+  - glossary
+  - terminology
+  - definitions
+---
 # Survival Glossary
 
 > Comprehensive A-Z glossary of survival terminology. Use this as a quick-reference when encountering unfamiliar terms throughout the guides.

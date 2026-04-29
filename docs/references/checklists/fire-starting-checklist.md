@@ -1,3 +1,9 @@
+---
+tags:
+  - reference
+  - checklist
+  - fire
+---
 # Fire Starting Checklist
 
 > Use this checklist whenever building a fire, whether for warmth, signaling, water purification, or cooking. Follow the steps in order from site selection through sustainable fire.

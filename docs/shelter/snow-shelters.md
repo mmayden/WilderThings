@@ -1,3 +1,12 @@
+---
+tags:
+  - shelter
+  - snow
+  - quinzhee
+  - igloo
+  - arctic
+  - cold
+---
 # Snow Shelters
 
 > How to build emergency and semi-permanent shelters from snow in winter and alpine environments.

@@ -1,3 +1,12 @@
+---
+tags:
+  - climate
+  - ocean
+  - marine
+  - saltwater
+  - raft
+  - open-water
+---
 # Open Ocean and Coastal Survival
 
 > How to survive after vessel loss at sea, manage life raft situations, and make safe landfall.

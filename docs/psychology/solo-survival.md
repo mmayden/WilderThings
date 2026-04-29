@@ -1,3 +1,12 @@
+---
+tags:
+  - psychology
+  - solo
+  - alone
+  - isolation
+  - mental
+  - self-reliance
+---
 # Solo Survival Psychology
 
 > How to maintain mental function, motivation, and decision-making quality when you are surviving alone with no one to rely on.

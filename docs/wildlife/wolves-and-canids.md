@@ -1,3 +1,12 @@
+---
+tags:
+  - wildlife
+  - wolves
+  - coyotes
+  - dogs
+  - encounter
+  - canids
+---
 # Wolves and Wild Canid Safety
 
 > Wolves rarely attack humans — but understanding canid behavior keeps you safe in the small number of situations where risk is real.

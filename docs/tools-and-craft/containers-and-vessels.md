@@ -1,3 +1,12 @@
+---
+tags:
+  - tools
+  - containers
+  - vessels
+  - bark
+  - clay
+  - improvised
+---
 # Improvised Containers and Vessels
 
 > How to make waterproof containers, cooking vessels, and storage bags from bark, clay, hide, and plant materials when you have no manufactured gear.

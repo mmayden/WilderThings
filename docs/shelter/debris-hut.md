@@ -1,3 +1,11 @@
+---
+tags:
+  - shelter
+  - debris-hut
+  - woodland
+  - insulation
+  - primitive
+---
 # Debris Hut Construction
 
 > Build a warm, weatherproof A-frame debris hut using only natural materials and no tools.

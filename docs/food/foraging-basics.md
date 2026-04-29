@@ -1,3 +1,12 @@
+---
+tags:
+  - food
+  - foraging
+  - plants
+  - edible
+  - wilderness
+  - identification
+---
 # Foraging Basics
 
 > Know what to eat, when to eat it, and when foraging is not worth the calories.

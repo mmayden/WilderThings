@@ -1,3 +1,12 @@
+---
+tags:
+  - food
+  - plants
+  - temperate
+  - foraging
+  - edible
+  - identification
+---
 # Edible Plants — Temperate Forests and Fields
 
 > Identify, harvest, and prepare 18 common wild edible plants found across North American and European temperate zones.
@@ -384,25 +393,25 @@ Cross-reference with [foraging-basics.md](foraging-basics.md) for the Universal 
 
 ## Quick Reference
 
-| Plant | Best Part | Calories (per cup) | Season | Difficulty |
-|-------|-----------|-------------------|--------|------------|
-| Dandelion | Roots, leaves | 25-75 | Year-round | Beginner |
-| Cattail | Root starch, pollen | 260-450 | Year-round | Beginner |
-| Plantain | Leaves | 15 | Spring-Fall | Beginner |
-| Clover | Flowers, leaves | 15 | Spring-Fall | Beginner |
-| Wood Sorrel | Leaves | 10 | Spring-Fall | Beginner |
-| Chickweed | Whole plant | 5-10 | Spring-Fall | Beginner |
-| Acorns | Nut meat (leached) | 350-500 | Fall | Intermediate |
-| Pine | Inner bark, nuts | 500-670/100g | Year-round | Beginner |
-| Blackberry/Raspberry | Berries | 60-70 | Summer | Beginner |
-| Wild Onion/Garlic | Bulb, leaves | 60 | Spring-Fall | Intermediate |
-| Burdock | Root | 85 | Fall-Spring | Intermediate |
-| Lamb's Quarters | Leaves, seeds | 10-350 | Spring-Fall | Beginner |
-| Purslane | Whole plant | 10 | Summer | Beginner |
-| Violets | Leaves, flowers | 5 | Spring | Beginner |
-| Rose Hips | Fruit | 45 | Late Summer-Winter | Beginner |
-| Wild Strawberry | Fruit | 45 | Late Spring | Beginner |
-| Watercress | Leaves | 5 | Year-round | Intermediate |
+| Plant | Best Part | Season | Difficulty |
+|-------|-----------|--------|------------|
+| Dandelion | Roots, leaves | Year-round | Beginner |
+| Cattail | Root starch, pollen | Year-round | Beginner |
+| Plantain | Leaves | Spring-Fall | Beginner |
+| Clover | Flowers, leaves | Spring-Fall | Beginner |
+| Wood Sorrel | Leaves | Spring-Fall | Beginner |
+| Chickweed | Whole plant | Spring-Fall | Beginner |
+| Acorns | Nut meat (leached) | Fall | Intermediate |
+| Pine | Inner bark, nuts | Year-round | Beginner |
+| Blackberry/Raspberry | Berries | Summer | Beginner |
+| Wild Onion/Garlic | Bulb, leaves | Spring-Fall | Intermediate |
+| Burdock | Root | Fall-Spring | Intermediate |
+| Lamb's Quarters | Leaves, seeds | Spring-Fall | Beginner |
+| Purslane | Whole plant | Summer | Beginner |
+| Violets | Leaves, flowers | Spring | Beginner |
+| Rose Hips | Fruit | Late Summer-Winter | Beginner |
+| Wild Strawberry | Fruit | Late Spring | Beginner |
+| Watercress | Leaves | Year-round | Intermediate |
 
 ## See Also
 

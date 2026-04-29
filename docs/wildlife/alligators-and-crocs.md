@@ -1,3 +1,12 @@
+---
+tags:
+  - wildlife
+  - alligators
+  - crocodiles
+  - reptiles
+  - water
+  - attack
+---
 # Alligator and Crocodile Safety
 
 > Crocodilians have survived 200 million years unchanged — respect their territory, understand their behavior, and stay out of the water at the edges of their range.

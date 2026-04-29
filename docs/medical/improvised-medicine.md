@@ -1,3 +1,11 @@
+---
+tags:
+  - medical
+  - improvised
+  - herbal
+  - field-medicine
+  - wilderness-medicine
+---
 # Improvised Medicine: Field Treatment Without Commercial Supplies
 
 > Treat wounds, manage pain, and prevent infection using natural and improvised materials when no medical kit is available.

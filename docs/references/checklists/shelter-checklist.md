@@ -1,3 +1,9 @@
+---
+tags:
+  - reference
+  - checklist
+  - shelter
+---
 # Shelter Building Checklist
 
 > Use this checklist whenever you need to build an emergency shelter. In cold, wet, or windy conditions, shelter is the highest survival priority after immediate medical threats. Start building well before dark.

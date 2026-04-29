@@ -1,3 +1,12 @@
+---
+tags:
+  - water
+  - purification
+  - filtration
+  - boiling
+  - chemical
+  - safety
+---
 # Water Purification
 
 > Kill pathogens and remove contaminants from wild water using heat, chemicals, UV light, and filtration.
@@ -137,11 +146,11 @@ Use **unscented liquid household bleach** with 5.25–8.25% sodium hypochlorite.
 
 ### Chemical Treatment Summary
 
-| Chemical | Bacteria | Viruses | Giardia | Crypto | Wait Time | Shelf Life |
-|---|---|---|---|---|---|---|
-| Iodine tablets | Yes | Yes | Yes | **No** | 30–60 min | 4–5 years sealed |
-| Chlorine dioxide | Yes | Yes | Yes | Yes (4 hr) | 15 min–4 hr | 4 years sealed |
-| Bleach (5.25%) | Yes | Yes | Yes | **No** | 30–60 min | 6–12 months |
+| Chemical | Kills Crypto | Wait Time | Shelf Life |
+|---|---|---|---|
+| Iodine tablets | **No** | 30–60 min | 4–5 years sealed |
+| Chlorine dioxide | Yes (4 hr wait) | 15 min–4 hr | 4 years sealed |
+| Bleach (5.25%) | **No** | 30–60 min | 6–12 months |
 
 ## UV Treatment
 
@@ -199,12 +208,12 @@ SODIS uses the sun's natural UV-A radiation and heat to kill pathogens in clear 
 
 Commercial pump, gravity, and squeeze filters use ceramic, hollow fiber, or activated carbon elements to physically remove pathogens.
 
-| Filter Type | Removes Bacteria | Removes Protozoa | Removes Viruses | Removes Chemicals | Flow Rate |
-|---|---|---|---|---|---|
-| Hollow fiber (0.1–0.2 micron) | Yes | Yes | **No** | **No** | Fast |
-| Ceramic (0.2–0.5 micron) | Yes | Yes | **No** | **No** | Slow |
-| Activated carbon + hollow fiber | Yes | Yes | **No** | Some (taste, chlorine) | Medium |
-| Purifier (0.02 micron or chemical element) | Yes | Yes | Yes | Some | Slow |
+| Filter Type | Removes Viruses | Removes Chemicals | Flow Rate |
+|---|---|---|---|
+| Hollow fiber (0.1–0.2 micron) | **No** | **No** | Fast |
+| Ceramic (0.2–0.5 micron) | **No** | **No** | Slow |
+| Activated carbon + hollow fiber | **No** | Some (taste, chlorine) | Medium |
+| Purifier (0.02 micron or chemical element) | Yes | Some | Slow |
 
 !!! danger "WARNING"
     Most field filters do NOT remove viruses. In areas with suspected human waste contamination (developing regions, downstream of settlements), combine filtration with chemical treatment or boiling.
@@ -328,17 +337,17 @@ This layered approach addresses the full spectrum of threats.
 
 ## Quick Reference
 
-| Method | Kills Bacteria | Kills Viruses | Kills Protozoa | Kills Crypto | Removes Chemicals | Requires |
-|---|---|---|---|---|---|---|
-| Boiling (1–3 min) | Yes | Yes | Yes | Yes | No | Fire, container |
-| Iodine | Yes | Yes | Yes | No | No | Tablets, 30–60 min |
-| Chlorine dioxide | Yes | Yes | Yes | Yes (4 hr) | No | Drops, 15 min–4 hr |
-| Bleach | Yes | Yes | Yes | No | No | Bleach, 30 min |
-| SteriPEN | Yes | Yes | Yes | Yes | No | Device, batteries, clear water |
-| SODIS | Yes | Yes | Yes | Yes | No | PET bottle, sun, 6 hr, clear water |
-| Filter (0.1 micron) | Yes | No | Yes | Yes | Some (carbon) | Filter device |
-| Purifier (0.02 micron) | Yes | Yes | Yes | Yes | Some | Purifier device |
-| Improvised filter | Partial | No | Partial | No | Some (charcoal) | Materials, time |
+| Method | Full Kill (B/V/P/C) | Removes Chemicals | Requires |
+|---|---|---|---|
+| Boiling (1–3 min) | Yes | No | Fire, container |
+| Iodine | No (not Crypto) | No | Tablets, 30–60 min |
+| Chlorine dioxide | Yes (4 hr for Crypto) | No | Drops, 15 min–4 hr |
+| Bleach | No (not Crypto) | No | Bleach, 30 min |
+| SteriPEN | Yes | No | Device, batteries, clear water |
+| SODIS | Yes | No | PET bottle, sun, 6 hr, clear water |
+| Filter (0.1 micron) | No (not viruses) | Some (carbon) | Filter device |
+| Purifier (0.02 micron) | Yes | Some | Purifier device |
+| Improvised filter | Partial | Some (charcoal) | Materials, time |
 
 ## See Also
 

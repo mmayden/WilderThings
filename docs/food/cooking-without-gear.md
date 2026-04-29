@@ -1,3 +1,12 @@
+---
+tags:
+  - food
+  - cooking
+  - primitive
+  - fire
+  - improvised
+  - no-gear
+---
 # Cooking Without Gear
 
 > Cook food safely using only natural materials and fire — no pots, pans, or manufactured tools required.

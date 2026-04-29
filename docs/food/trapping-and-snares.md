@@ -1,3 +1,12 @@
+---
+tags:
+  - food
+  - trapping
+  - snares
+  - small-game
+  - primitive
+  - passive
+---
 # Trapping and Snares
 
 > Traps work while you sleep — invest time building them, then spend your energy on other survival tasks.
@@ -290,15 +299,15 @@ Use whatever methods keep you alive. Survival overrides game regulations. After 
 
 ## Quick Reference
 
-| Trap Type | Target | Materials | Complexity | Effectiveness |
-|-----------|--------|-----------|------------|---------------|
-| Simple snare | Rabbit, squirrel | Wire/cordage, stake | Low | Moderate |
-| Drag snare | Rabbit, larger game | Wire/cordage, drag log | Low | Moderate |
-| Spring snare | Rabbit, squirrel | Wire, sapling, trigger sticks | Medium | High |
-| Figure-4 deadfall | Rodents, small mammals | Rock, 3 carved sticks | Medium | Moderate |
-| Paiute deadfall | Rodents, small mammals | Rock, 2 sticks, cordage | Low-Medium | Moderate |
-| Funnel fish trap | Fish | Woven branches, cordage | High | High |
-| Weir | Fish | Rocks or stakes | High (labor) | High |
+| Trap Type | Target | Materials | Effectiveness |
+|-----------|--------|-----------|---------------|
+| Simple snare | Rabbit, squirrel | Wire/cordage, stake | Moderate |
+| Drag snare | Rabbit, larger game | Wire/cordage, drag log | Moderate |
+| Spring snare | Rabbit, squirrel | Wire, sapling, trigger sticks | High |
+| Figure-4 deadfall | Rodents, small mammals | Rock, 3 carved sticks | Moderate |
+| Paiute deadfall | Rodents, small mammals | Rock, 2 sticks, cordage | Moderate |
+| Funnel fish trap | Fish | Woven branches, cordage | High |
+| Weir | Fish | Rocks or stakes | High |
 
 ## See Also
 

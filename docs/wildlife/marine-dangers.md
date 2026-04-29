@@ -1,3 +1,12 @@
+---
+tags:
+  - wildlife
+  - marine
+  - sharks
+  - jellyfish
+  - ocean
+  - water
+---
 # Marine Dangers
 
 > The ocean contains more animals that can hurt you than any terrestrial environment — know the threats before you enter the water.

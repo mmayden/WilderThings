@@ -1,3 +1,12 @@
+---
+tags:
+  - wildlife
+  - spiders
+  - venom
+  - bite
+  - identification
+  - first-aid
+---
 # Venomous Spider Identification and Bite Protocol
 
 > Identify the spider if safe, treat symptoms — most "spider bites" are something else entirely.
@@ -215,12 +224,12 @@ False on every count. "Daddy longlegs" refers to harvestmen (not spiders, no ven
 
 ## Quick Reference
 
-| Spider | Key ID | Venom Effect | First Aid | Urgency |
-|---|---|---|---|---|
-| Black widow | Shiny black, red hourglass (underside) | Neuromuscular (latrodectism) — cramping, rigidity | Ice, pain relief, evacuate if severe | Moderate to high |
-| Brown recluse | Tan-brown, violin on cephalothorax, 6 eyes | Dermonecrotic — ulceration | Ice, clean, monitor, medical eval in 24 h | Low to moderate |
-| Funnel-web (Australia) | Glossy black, large, aggressive posture | Neurotoxic — rapid systemic collapse | Pressure immobilization bandage, evacuate NOW | Critical |
-| Hobo spider | Brown, funnel web, PNW range | Disputed — likely minimal | Treat as general bite | Low |
+| Spider | Key ID | Venom Effect | First Aid |
+|---|---|---|---|
+| Black widow | Shiny black, red hourglass (underside) | Neuromuscular — cramping, rigidity | Ice, pain relief; evacuate if severe (moderate–high urgency) |
+| Brown recluse | Tan-brown, violin on cephalothorax, 6 eyes | Dermonecrotic — ulceration | Ice, clean, monitor; medical eval within 24 h (low–moderate urgency) |
+| Funnel-web (Australia) | Glossy black, large, aggressive posture | Neurotoxic — rapid systemic collapse | Pressure immobilization bandage, evacuate NOW (critical) |
+| Hobo spider | Brown, funnel web, PNW range | Disputed — likely minimal | Treat as general bite (low urgency) |
 
 ## See Also
 

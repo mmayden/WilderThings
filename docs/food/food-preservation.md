@@ -1,3 +1,12 @@
+---
+tags:
+  - food
+  - preservation
+  - smoking
+  - drying
+  - fermentation
+  - storage
+---
 # Food Preservation in Survival Situations
 
 > Extend the shelf life of wild game, fish, and foraged food using smoking, drying, salting, and other field-expedient methods.

@@ -38,6 +38,7 @@ extra_css:
 
 plugins:
   - search
+  - tags
   - minify:
       minify_html: true
 
@@ -55,6 +56,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Tags: tags.md
   - Medical:
     - First Aid Basics: medical/first-aid-basics.md
     - CPR and Choking: medical/cpr-and-choking.md

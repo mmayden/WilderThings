@@ -1,3 +1,12 @@
+---
+tags:
+  - tools
+  - knife
+  - blade
+  - maintenance
+  - safety
+  - cutting
+---
 # Knife Use and Care
 > The survival knife is your single most important tool — learn to choose, use, sharpen, and maintain it.
 

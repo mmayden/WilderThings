@@ -1,3 +1,12 @@
+---
+tags:
+  - climate
+  - mountain
+  - altitude
+  - cold
+  - terrain
+  - elevation
+---
 # Mountain Survival
 
 > How to survive in mountainous terrain where altitude, weather, and steep ground create life-threatening hazards.

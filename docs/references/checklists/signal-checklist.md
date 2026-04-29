@@ -1,3 +1,10 @@
+---
+tags:
+  - reference
+  - checklist
+  - signaling
+  - rescue
+---
 # Signaling for Rescue Checklist
 
 > Use this checklist when you need to attract the attention of rescuers by air, ground, or electronic means. Begin signaling as soon as you decide to stay and wait for rescue.

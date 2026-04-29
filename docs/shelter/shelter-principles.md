@@ -1,3 +1,11 @@
+---
+tags:
+  - shelter
+  - wilderness
+  - warmth
+  - insulation
+  - principles
+---
 # Shelter Principles
 
 > Understand the priorities, site selection, and physics of field shelter before you build anything.

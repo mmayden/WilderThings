@@ -1,3 +1,12 @@
+---
+tags:
+  - scenarios
+  - disaster
+  - earthquake
+  - flood
+  - hurricane
+  - emergency
+---
 # Natural Disaster Survival
 
 > Immediate response actions for earthquakes, tornadoes, hurricanes, floods, wildfires, tsunamis, landslides, and volcanic eruptions — what to do in the first minutes.

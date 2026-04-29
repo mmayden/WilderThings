@@ -1,3 +1,11 @@
+---
+tags:
+  - shelter
+  - long-term
+  - construction
+  - wilderness
+  - permanent
+---
 # Long-Term Survival Structures
 
 > Transition from emergency shelter to semi-permanent structures that sustain life for weeks or months.

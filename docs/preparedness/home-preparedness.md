@@ -1,3 +1,12 @@
+---
+tags:
+  - preparedness
+  - home
+  - stockpile
+  - emergency
+  - family
+  - supplies
+---
 # Home Emergency Preparedness
 
 > Prepare your home to sustain your household for 14 days without external utilities, supply chains, or emergency services.

@@ -1,3 +1,12 @@
+---
+tags:
+  - shelter
+  - tarp
+  - poncho
+  - gear
+  - rain
+  - quick-setup
+---
 # Tarp and Poncho Shelters
 
 > How to rig tarps and ponchos into effective shelters using common configurations, knots, and anchoring techniques for any terrain.
@@ -174,17 +183,17 @@ Stakes melt out of consolidated snow and pull from powder.
 
 ## Material Considerations
 
-| Material | Weight | Durability | Cost | Notes |
-|----------|--------|-----------|------|-------|
-| Silnylon | Light | Moderate | High | Stretches when wet — retension after rain begins |
-| Silpoly | Light | Moderate | High | Less stretch than silnylon when wet |
-| Polyethylene (blue tarp) | Heavy | Low-Moderate | Low | Widely available, noisy, bulky |
-| Cuben fiber (DCF) | Ultralight | Low | Very high | Does not stretch, tears more easily |
-| Space blanket | Ultralight | Very low | Very low | Reflects heat, tears in wind, single-use |
-| Poncho | Moderate | Moderate | Low-Moderate | Dual-use (rain gear + shelter), small coverage |
+| Material | Weight | Cost | Notes |
+|----------|--------|------|-------|
+| Silnylon | Light | High | Stretches when wet — re-tension after rain begins |
+| Silpoly | Light | High | Less stretch than silnylon when wet |
+| Polyethylene (blue tarp) | Heavy | Low | Widely available, noisy, bulky |
+| Cuben fiber (DCF) | Ultralight | Very high | Does not stretch, tears more easily |
+| Space blanket | Ultralight | Very low | Reflects heat, tears in wind, single-use |
+| Poncho | Moderate | Low-Moderate | Dual-use (rain gear + shelter), small coverage |
 
 !!! warning "CAUTION"
-    Silnylon stretches 1-2% when wet. Tension the tarp tightly in dry conditions, then retension after rain begins. Alternatively, use taut-line hitches on all guy lines for quick adjustment.
+    Silnylon stretches 1-2% when wet. Tension the tarp tightly in dry conditions, then re-tension after rain begins. Alternatively, use taut-line hitches on all guy lines for quick adjustment.
 
 ## Wind Load Management
 
@@ -208,7 +217,7 @@ Stakes melt out of consolidated snow and pull from powder.
 - **Ground cloth extending past the tarp.** Exposed ground cloth channels rain underneath the sleeping area. Fold edges under the tarp footprint.
 - **Tarp touching the ground on the windward side.** Blocks ventilation and causes condensation. Leave a gap of 6-12 inches (15-30 cm) unless blocking wind is critical.
 - **Using the hammock line as the tarp ridgeline.** Rain follows the cord directly into the hammock. Run a separate ridgeline above.
-- **Ignoring guy line tension after rain starts.** Silnylon and natural cordage stretch when wet. Retension all lines after precipitation begins.
+- **Ignoring guy line tension after rain starts.** Silnylon and natural cordage stretch when wet. Re-tension all lines after precipitation begins.
 - **Pitching the open side into the wind.** Rain drives horizontally into the shelter. Face the open or high side downwind.
 
 ## Quick Reference

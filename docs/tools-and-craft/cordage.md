@@ -1,3 +1,12 @@
+---
+tags:
+  - tools
+  - cordage
+  - rope
+  - braiding
+  - natural-fiber
+  - improvised
+---
 # Cordage
 > How to make, test, and use rope and string from natural fibers, clothing, and paracord — the skill that unlocks snares, shelters, and fire.
 

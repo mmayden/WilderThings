@@ -1,3 +1,12 @@
+---
+tags:
+  - medical
+  - bites
+  - stings
+  - venom
+  - wildlife
+  - first-aid
+---
 # Bites and Stings: Identification and Field Treatment
 
 > Recognize, treat, and triage venomous and non-venomous bites and stings when professional medical care is unavailable.

@@ -1,3 +1,12 @@
+---
+tags:
+  - psychology
+  - group
+  - leadership
+  - teamwork
+  - conflict
+  - social
+---
 # Group Dynamics in Survival
 
 > How to lead, communicate, delegate, and maintain morale when a group faces a survival situation together.

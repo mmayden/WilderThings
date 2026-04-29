@@ -1,3 +1,12 @@
+---
+tags:
+  - psychology
+  - stress
+  - anxiety
+  - panic
+  - mental-health
+  - calm
+---
 # Stress Management in Survival
 
 > Techniques for managing acute stress, maintaining decision-making ability, and preserving mental function during survival situations.

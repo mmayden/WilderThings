@@ -1,3 +1,12 @@
+---
+tags:
+  - wildlife
+  - insects
+  - bees
+  - wasps
+  - ticks
+  - mosquitoes
+---
 # Insect and Arthropod Threats
 
 > Insects and arachnids kill more people than every other animal on Earth combined — prevention is everything.
@@ -16,14 +25,14 @@
 
 Mosquitoes transmit some of the most lethal pathogens on the planet:
 
-| Disease | Pathogen | Regions | Symptoms | Notes |
-|---|---|---|---|---|
-| Malaria | *Plasmodium* spp. | Sub-Saharan Africa, South/SE Asia, Central/South America | Cyclic fever, chills, anemia, organ failure | ~600,000 deaths/year. Prophylaxis available. |
-| Dengue | Dengue virus | Tropics worldwide, expanding range | High fever, severe joint pain ("breakbone fever"), hemorrhagic in severe cases | No specific treatment. Second infection more dangerous. |
-| Zika | Zika virus | Americas, SE Asia, Pacific Islands | Mild fever, rash, joint pain — but causes microcephaly in fetuses | Critical risk for pregnant travelers. |
-| West Nile | West Nile virus | US, Europe, Africa, Middle East | Usually asymptomatic. Severe: encephalitis, meningitis | Most common mosquito-borne illness in continental US. |
-| Yellow Fever | Yellow fever virus | Sub-Saharan Africa, South America | Fever, jaundice, hemorrhage, organ failure | Vaccine available and required for some countries. |
-| Chikungunya | Chikungunya virus | Africa, Asia, Americas | Fever, severe joint pain lasting weeks to months | No vaccine, no specific treatment. |
+| Disease | Regions | Symptoms | Notes |
+|---|---|---|---|
+| Malaria | Sub-Saharan Africa, South/SE Asia, Central/South America | Cyclic fever, chills, anemia, organ failure | ~600,000 deaths/year. Prophylaxis available. |
+| Dengue | Tropics worldwide, expanding range | High fever, severe joint pain ("breakbone fever"), hemorrhagic in severe cases | No specific treatment. Second infection more dangerous. |
+| Zika | Americas, SE Asia, Pacific Islands | Mild fever, rash, joint pain | Critical risk for pregnant travelers (microcephaly). |
+| West Nile | US, Europe, Africa, Middle East | Usually asymptomatic. Severe: encephalitis, meningitis | Most common mosquito-borne illness in continental US. |
+| Yellow Fever | Sub-Saharan Africa, South America | Fever, jaundice, hemorrhage, organ failure | Vaccine available and required for some countries. |
+| Chikungunya | Africa, Asia, Americas | Fever, severe joint pain lasting weeks to months | No vaccine, no specific treatment. |
 
 ### Prevention
 
@@ -63,14 +72,14 @@ Mosquitoes transmit some of the most lethal pathogens on the planet:
 
 ### Disease Threats
 
-| Disease | Pathogen | Tick Species | Region | Key Symptom |
-|---|---|---|---|---|
-| Lyme disease | *Borrelia burgdorferi* | Blacklegged (deer) tick | Northeast, upper Midwest US; Europe | Bull's-eye rash (erythema migrans) in ~70% of cases |
-| Rocky Mountain spotted fever | *Rickettsia rickettsii* | American dog tick, Rocky Mountain wood tick | Eastern US, despite the name | Spotted rash, high fever, can be fatal without treatment |
-| Anaplasmosis | *Anaplasma phagocytophilum* | Blacklegged tick | Northeast, upper Midwest US | Fever, headache, muscle pain |
-| Ehrlichiosis | *Ehrlichia* spp. | Lone star tick | Southeast, south-central US | Fever, headache, fatigue |
-| Babesiosis | *Babesia microti* | Blacklegged tick | Northeast, upper Midwest US | Malaria-like: fever, chills, anemia |
-| Alpha-gal syndrome | Immune response to tick saliva | Lone star tick | Eastern US | Delayed allergic reaction to red meat, 3–6 hours after eating |
+| Disease | Tick Species | Region | Key Symptom |
+|---|---|---|---|
+| Lyme disease | Blacklegged (deer) tick | Northeast, upper Midwest US; Europe | Bull's-eye rash (erythema migrans) in ~70% of cases |
+| Rocky Mountain spotted fever | American dog tick, Rocky Mountain wood tick | Eastern US, despite the name | Spotted rash, high fever, can be fatal without treatment |
+| Anaplasmosis | Blacklegged tick | Northeast, upper Midwest US | Fever, headache, muscle pain |
+| Ehrlichiosis | Lone star tick | Southeast, south-central US | Fever, headache, fatigue |
+| Babesiosis | Blacklegged tick | Northeast, upper Midwest US | Malaria-like: fever, chills, anemia |
+| Alpha-gal syndrome | Lone star tick | Eastern US | Delayed allergic reaction to red meat, 3–6 hours after eating |
 
 ### Tick Removal
 

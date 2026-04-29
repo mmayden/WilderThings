@@ -1,3 +1,12 @@
+---
+tags:
+  - scenarios
+  - vehicle
+  - breakdown
+  - remote
+  - stranded
+  - car
+---
 # Vehicle Breakdown in Remote Areas
 
 > What to do when your vehicle dies far from help — how to use it as shelter, signal platform, and resource stockpile.

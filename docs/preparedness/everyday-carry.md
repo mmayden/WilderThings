@@ -1,3 +1,12 @@
+---
+tags:
+  - preparedness
+  - EDC
+  - everyday-carry
+  - pocket
+  - tools
+  - everyday
+---
 # Everyday Carry (EDC) for Preparedness
 
 > Carry essential survival tools on your person daily so you are never without core capabilities when disaster strikes.

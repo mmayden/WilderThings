@@ -1,3 +1,12 @@
+---
+tags:
+  - scenarios
+  - injured
+  - alone
+  - self-rescue
+  - emergency
+  - remote
+---
 # Injured and Alone
 > Self-assessment, self-treatment, and self-rescue protocols when you are hurt in the wilderness with no one to help.
 
@@ -92,7 +101,7 @@ If you are bleeding heavily from a limb and your other arm is functional:
 1. Find two rigid objects (sticks at least 12 in / 30 cm long, trekking pole sections, rolled magazine or bark).
 2. Place one on each side of the break.
 3. Pad with cloth, moss, or clothing.
-4. Lash in place above and below the fracture using strips of cloth, paracord, or [natural cordage](../tools-and-craft/cordage.md). Use a [clove hitch](../tools-and-craft/knots-and-lashing.md#clove-hitch) to start each lashing.
+4. Lash in place above and below the fracture using strips of cloth, paracord, or [natural cordage](../tools-and-craft/cordage.md). Use a [clove hitch](../tools-and-craft/knots-and-lashing.md#clove-hitch-quick-attach) to start each lashing.
 5. Fashion a sling from a shirt, bandana, or belt to support the arm against your chest.
 
 ### Lower Leg Fracture

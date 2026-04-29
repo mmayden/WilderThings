@@ -1,3 +1,13 @@
+---
+tags:
+  - climate
+  - arctic
+  - cold
+  - snow
+  - ice
+  - hypothermia
+  - polar
+---
 # Arctic and Subarctic Survival
 
 > How to survive in extreme cold environments where hypothermia, frostbite, and whiteout conditions are constant threats.

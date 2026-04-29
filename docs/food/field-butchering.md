@@ -1,3 +1,12 @@
+---
+tags:
+  - food
+  - butchering
+  - game
+  - processing
+  - meat
+  - skills
+---
 # Field Butchering and Processing Game
 
 > Properly bleed, gut, skin, and quarter wild game in the field to preserve meat safely and prevent spoilage.

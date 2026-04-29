@@ -1,3 +1,12 @@
+---
+tags:
+  - food
+  - plants
+  - tropical
+  - jungle
+  - foraging
+  - edible
+---
 # Edible Plants — Tropical Regions
 
 > Identify, harvest, and prepare key edible plants found across tropical forests, coasts, and islands worldwide.
@@ -228,16 +237,16 @@ The standard 8-hour test sequence applies (see [foraging-basics.md](foraging-bas
 
 ## Quick Reference
 
-| Plant | Best Part | Calories (per cup) | Processing | Difficulty |
-|-------|-----------|-------------------|------------|------------|
-| Coconut | Meat, water | 45-350 | None (meat raw) | Beginner |
-| Banana/Plantain | Fruit | 105-220 | Cook plantains | Beginner |
-| Breadfruit | Fruit | 225 | Must cook | Beginner |
-| Taro | Corm | 190 | Must boil 30+ min | Intermediate |
-| Cassava | Tuber | 330 | Must process fully | Advanced |
-| Papaya | Fruit | 55 | None when ripe | Beginner |
-| Mango | Fruit | 100 | Peel, eat raw | Beginner |
-| Bamboo Shoots | Inner shoot | 40 | Must boil twice | Intermediate |
+| Plant | Best Part | Processing | Difficulty |
+|-------|-----------|------------|------------|
+| Coconut | Meat, water | None (meat raw) | Beginner |
+| Banana/Plantain | Fruit | Cook plantains | Beginner |
+| Breadfruit | Fruit | Must cook | Beginner |
+| Taro | Corm | Must boil 30+ min | Intermediate |
+| Cassava | Tuber | Must process fully | Advanced |
+| Papaya | Fruit | None when ripe | Beginner |
+| Mango | Fruit | Peel, eat raw | Beginner |
+| Bamboo Shoots | Inner shoot | Must boil twice | Intermediate |
 
 ## See Also
 

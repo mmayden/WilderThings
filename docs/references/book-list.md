@@ -1,3 +1,11 @@
+---
+tags:
+  - reference
+  - books
+  - resources
+  - reading
+  - bibliography
+---
 # Recommended Survival Reading List
 
 > Curated reading list organized by category. These books form the foundation of wilderness survival, emergency medicine, and preparedness knowledge.

@@ -1,3 +1,12 @@
+---
+tags:
+  - water
+  - desert
+  - ocean
+  - solar-still
+  - saltwater
+  - procurement
+---
 # Desert and Sea Water Procurement
 
 > Techniques for finding, extracting, and producing drinkable water in arid deserts and open ocean — the two environments where dehydration kills fastest.

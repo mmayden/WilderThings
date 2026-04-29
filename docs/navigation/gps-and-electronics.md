@@ -1,3 +1,12 @@
+---
+tags:
+  - navigation
+  - gps
+  - electronics
+  - technology
+  - satellite
+  - modern
+---
 # GPS and Electronic Navigation
 
 > Modern electronics extend your navigation capability — but only if you manage their limitations and always carry a backup.

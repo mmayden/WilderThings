@@ -1,3 +1,11 @@
+---
+tags:
+  - fire
+  - maintenance
+  - fuel
+  - long-burn
+  - overnight
+---
 # Maintaining Fire
 
 > How to manage fuel, bank coals, carry fire, and sustain flame through the night and across distances.

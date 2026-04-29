@@ -1,3 +1,11 @@
+---
+tags:
+  - psychology
+  - mindset
+  - will-to-live
+  - mental
+  - attitude
+---
 # Survival Mindset
 
 > Your mind is your most critical survival tool — train it before you need it.

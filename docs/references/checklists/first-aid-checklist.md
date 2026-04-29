@@ -1,3 +1,10 @@
+---
+tags:
+  - reference
+  - checklist
+  - medical
+  - first-aid
+---
 # First Aid Checklist
 
 > Use this checklist when responding to any injury or medical emergency in the field. Follow the steps in order. Do not skip scene safety.

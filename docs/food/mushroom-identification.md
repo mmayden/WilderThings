@@ -1,3 +1,12 @@
+---
+tags:
+  - food
+  - mushrooms
+  - fungi
+  - foraging
+  - identification
+  - toxic
+---
 # Mushroom Identification for Survival
 
 > Mushroom foraging can feed you or kill you — there is no middle ground and no universal safety test.

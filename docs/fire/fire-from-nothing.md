@@ -1,3 +1,11 @@
+---
+tags:
+  - fire
+  - primitive
+  - no-gear
+  - improvised
+  - fire-making
+---
 # Fire From Nothing
 
 > Techniques for creating fire with zero gear using friction, solar, chemical, and compression methods.
