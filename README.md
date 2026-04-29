@@ -6,6 +6,8 @@ A comprehensive, mobile-first survival knowledge base — searchable, offline-ca
 
 89 survival guides across 13 categories covering medical emergencies, wilderness skills, wildlife encounters, climate-specific survival, disaster preparedness, and real-world scenarios. Built as a Progressive Web App (PWA) so you can install it on your phone and access it anywhere — even without signal.
 
+**Content accuracy is a life-safety matter.** Every guide is sourced from military field manuals, medical references, and established survival literature. See [SECURITY.md](SECURITY.md) for how to report inaccurate or dangerous content.
+
 ## Quick Start
 
 ### For Users
@@ -22,17 +24,19 @@ mkdocs serve
 # Open http://localhost:8000
 ```
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for content standards and [STYLE_GUIDE.md](STYLE_GUIDE.md) for formatting rules.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for content standards, [STYLE_GUIDE.md](STYLE_GUIDE.md) for formatting rules, and [SECURITY.md](SECURITY.md) for the security policy.
 
 ## Tech Stack
 
 | Layer | Tool |
 |-------|------|
 | Content | Markdown files in `docs/` |
-| Site generator | [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) |
-| Search | Built-in lunr.js (works offline) |
-| Hosting | GitHub Pages (free) |
-| CI/CD | GitHub Actions (auto-deploy on push) |
+| Site generator | [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) 9.x |
+| Search | Built-in lunr.js (offline-capable) |
+| Tags | MkDocs Material tags plugin |
+| Hosting | GitHub Pages |
+| CI/CD | GitHub Actions (build + deploy, least-privilege) |
+| Deps | Pinned in `requirements.txt`, auto-updated by Dependabot |
 
 ## Guide Categories
 
@@ -74,7 +78,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for content standards and [STYLE_GUIDE.md
 |----------|-------|-------------|
 | [References](docs/references/) | 8 | Glossary, book list, sources, 5 field checklists |
 
-**89 guides total** | ~21,000 lines of content
+**89 guides total** | ~21,000 lines of content | 496 cross-category links | Tags on every guide
 
 ## The Rule of Threes
 
@@ -89,36 +93,62 @@ Guides are prioritized around the survival rule of threes:
 
 ```
 WilderThings/
-├── mkdocs.yml              # Site configuration and navigation
-├── requirements.txt        # Python dependencies
-├── docs/                   # All guide content (served as the site)
-│   ├── index.md            # Homepage
-│   ├── assets/             # CSS overrides, images
-│   ├── medical/            # 10 guides
-│   ├── water/              # 5 guides
-│   ├── shelter/            # 6 guides
-│   ├── fire/               # 7 guides
-│   ├── food/               # 11 guides
-│   ├── navigation/         # 5 guides
-│   ├── wildlife/           # 9 guides
-│   ├── tools-and-craft/    # 6 guides
-│   ├── climate-specific/   # 6 guides
-│   ├── preparedness/       # 6 guides
-│   ├── psychology/         # 4 guides
-│   ├── scenarios/          # 6 guides
-│   └── references/         # Glossary, checklists, book list, sources
-├── templates/              # Guide/checklist templates (for authors)
-├── .github/workflows/      # CI/CD auto-deploy
-├── CONTRIBUTING.md         # Content standards and dev workflow
-├── STYLE_GUIDE.md          # Formatting rules
-├── PROJECT_OUTLINE.md      # Roadmap and milestones
-├── TASKS.md                # Work backlog
-└── CLAUDE.md               # AI assistant context
+├── mkdocs.yml                  # Site configuration and navigation
+├── requirements.txt            # Pinned Python dependencies
+├── .codespellrc                # Spell-check config (domain-specific word exceptions)
+├── .gitignore
+├── docs/                       # All guide content (MkDocs serves this as the site root)
+│   ├── index.md                # Homepage
+│   ├── tags.md                 # Auto-generated tags index
+│   ├── assets/css/custom.css   # Mobile-first CSS overrides
+│   ├── medical/                # 10 guides
+│   ├── water/                  # 5 guides
+│   ├── shelter/                # 6 guides
+│   ├── fire/                   # 7 guides
+│   ├── food/                   # 11 guides
+│   ├── navigation/             # 5 guides
+│   ├── wildlife/               # 9 guides
+│   ├── tools-and-craft/        # 6 guides
+│   ├── climate-specific/       # 6 guides
+│   ├── preparedness/           # 6 guides
+│   ├── psychology/             # 4 guides
+│   ├── scenarios/              # 6 guides
+│   └── references/             # Glossary, checklists, book list, sources
+├── templates/                  # Guide and checklist templates (not served)
+├── .github/
+│   ├── workflows/
+│   │   ├── deploy.yml          # Build + deploy (least-privilege, split jobs)
+│   │   └── lint.yml            # Spell-check + build check on PRs
+│   └── dependabot.yml          # Automated dependency security updates
+├── SECURITY.md                 # Security policy and content accuracy reporting
+├── CONTRIBUTING.md             # Content standards and dev workflow
+├── STYLE_GUIDE.md              # Formatting rules
+├── PROJECT_OUTLINE.md          # Architecture, inventory, milestones
+├── TASKS.md                    # Work backlog
+└── CLAUDE.md                   # AI assistant context
 ```
 
-## What's Next
+## Current Status
 
-**Milestone 4 (P3 — Polish):** All 89 guides are cross-linked across categories (496 links). Remaining: search keywords/tags in frontmatter, full review pass, spell-check, mobile UX audit. See [TASKS.md](TASKS.md) for the full backlog.
+All four content milestones are complete:
+
+| Milestone | Scope | Status |
+|-----------|-------|--------|
+| 0 — Platform | MkDocs, CI/CD, theme, CSS | Complete (PWA icons + offline plugin pending) |
+| 1 — Foundation (P0) | 14 life-critical guides | Complete |
+| 2 — Critical Skills (P1) | 36 guides | Complete |
+| 3 — Advanced (P2) | 34 guides | Complete |
+| 4 — Polish (P3) | Tags, review pass, spell-check, mobile UX | Complete |
+
+Remaining: PWA icons, offline plugin, mobile install testing. See [TASKS.md](TASKS.md).
+
+## GitHub Pages Setup
+
+This project uses the modern GitHub Actions deployment approach (OIDC, no long-lived tokens). **One-time configuration required:**
+
+1. Go to **Settings → Pages**
+2. Under *Source*, select **GitHub Actions** (not "Deploy from branch")
+3. Push to `main` — the workflow handles the rest
 
 ## Disclaimer
 

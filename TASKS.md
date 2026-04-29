@@ -4,30 +4,29 @@ Active work backlog organized by milestone. Completed work is collapsed at the b
 
 ---
 
-## Up Next — Milestone 3 (P2 Advanced)
+## Up Next — Milestone 5 (PWA Completion + Infrastructure)
 
-All 34 guides complete. ✓
+### Documentation and Security
 
----
+- [x] Add SECURITY.md (content accuracy policy + CI security)
+- [x] Harden CI/CD: split build/deploy jobs, least-privilege permissions (OIDC)
+- [x] Add lint.yml workflow (codespell + mkdocs build --strict on every push/PR)
+- [x] Add dependabot.yml (weekly pip + Actions updates)
+- [x] Pin requirements.txt to exact versions
+- [x] Harden .gitignore (secrets, env files, credentials)
+- [x] Update README, PROJECT_OUTLINE, CONTRIBUTING, STYLE_GUIDE, CLAUDE.md
 
-## Remaining — Milestone 4 (P3 Polish)
+### PWA Completion
 
-- [x] Cross-link related guides across categories
-- [ ] Add search keywords/tags to guide frontmatter
-- [ ] Full review pass against CONTRIBUTING.md criteria
-- [ ] Spell-check and grammar pass on all guides
-- [ ] Mobile UX review (tables, readability, navigation)
-
----
-
-## Remaining — Milestone 0 (Platform)
-
-- [ ] Generate PWA icons (favicon, apple-touch-icon, manifest icons)
-- [ ] Configure PWA offline plugin
-- [ ] Initialize GitHub remote repository
-- [ ] Push initial commit
-- [ ] Verify GitHub Actions deploys successfully
-- [ ] Test "Add to Home Screen" on mobile (iOS + Android)
+- [ ] Generate PWA icons (favicon 16/32px, apple-touch-icon 180px, manifest icons 192/512px)
+- [ ] Create `docs/manifest.webmanifest` with name, icons, display, theme_color
+- [ ] Enable MkDocs Material offline plugin in `mkdocs.yml`
+- [ ] Configure `extra.manifest` in `mkdocs.yml`
+- [ ] Push to GitHub remote (`git remote add origin ...`)
+- [ ] Set GitHub Pages Source to "GitHub Actions" (Settings → Pages)
+- [ ] Verify GitHub Actions deploy.yml runs clean
+- [ ] Test "Add to Home Screen" on iOS Safari
+- [ ] Test "Add to Home Screen" on Android Chrome
 
 ---
 

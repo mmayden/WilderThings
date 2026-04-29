@@ -1,68 +1,119 @@
 # Contributing to WilderThings
 
+## Content Safety — Read First
+
+**This project contains medical, foraging, and emergency survival information. Inaccurate content can kill people.**
+
+Before contributing:
+
+1. Every factual claim must be traceable to a credible source (military field manuals, peer-reviewed medical literature, established wilderness training organizations).
+2. If you are not certain something is accurate, do not include it. "I think this is right" is not a sufficient standard.
+3. Safety warnings must come before procedures, not after.
+4. Plant and mushroom identification must name dangerous look-alikes and state applicable regions.
+5. Medical content must include a disclaimer that it does not replace professional training.
+6. Regulated activities (hunting, trapping, firearms) must note that laws vary by jurisdiction.
+
+To report inaccurate or dangerous content already in the project: open an issue tagged `content-safety`. See [SECURITY.md](SECURITY.md).
+
+---
+
 ## Guide Standards
 
-Every guide in this collection must meet these standards before being considered complete.
+Every guide must meet these standards before being considered complete.
 
 ### Content Requirements
 
-1. **Accuracy first.** All information must be sourced from established survival literature, military field manuals, medical references, or verified expert knowledge. When in doubt, cite your source.
+1. **Accuracy first.** Source from established survival literature, military field manuals, medical references, or verified expert knowledge. Cite your source.
 
 2. **Actionable under stress.** Assume the reader is panicking, injured, or exhausted. Lead with the most critical action. Use numbered steps for procedures. Keep sentences short.
 
-3. **No filler.** Every sentence must earn its place. Remove preamble, motivational padding, and obvious statements. "Water is important for survival" adds nothing.
+3. **No filler.** Every sentence must earn its place. Remove preamble, motivational padding, and obvious statements.
 
-4. **Regional awareness.** When content varies by region (plants, animals, climate), state the applicable region explicitly. Do not write "this plant is edible" without specifying where it grows.
+4. **Regional awareness.** When content varies by region (plants, animals, climate), state the applicable region explicitly.
 
-5. **Safety warnings first.** If a technique has risks (e.g., eating wild mushrooms, crossing rivers), lead with the warning before the instructions.
+5. **Safety warnings first.** If a technique has risks, lead with the warning before the instructions.
 
-6. **Mobile-first.** Keep tables narrow (3-4 columns max). Avoid wide content that forces horizontal scrolling. Test readability at phone width.
+6. **Mobile-first.** Keep tables to 3-4 columns max. Avoid wide content that forces horizontal scrolling.
+
+### Review Criteria
+
+Before a guide is merged or marked complete, verify all of the following:
+
+- [ ] Follows the guide template structure
+- [ ] YAML frontmatter with `tags:` present
+- [ ] "At a Glance" section is present and useful (3-5 bullets)
+- [ ] "Common Mistakes" section is present
+- [ ] "Quick Reference" section is present
+- [ ] "See Also" has 3-8 cross-category links with em-dash descriptions
+- [ ] Reciprocal links added in related guides
+- [ ] No unsourced medical claims
+- [ ] Safety warnings precede dangerous procedures
+- [ ] Admonitions used (no raw `> **WARNING:**` blockquotes)
+- [ ] Regional applicability stated where relevant
+- [ ] Measurements include both metric and imperial
+- [ ] Tables ≤4 columns
+- [ ] No broken internal links
+- [ ] Nav entry added in `mkdocs.yml`
+- [ ] Passes `codespell docs/ --config .codespellrc --quiet-level=2`
+- [ ] Passes `mkdocs build --strict`
+
+---
 
 ## File Naming
 
-- Use lowercase kebab-case: `first-aid-basics.md`
-- Names should be descriptive and scannable: a reader should know what's inside without opening the file
+- Lowercase kebab-case: `first-aid-basics.md`
+- Descriptive and scannable — the filename should hint at content
 - All guide content lives in `docs/` (MkDocs serves this as the site root)
 - Checklists go in `docs/references/checklists/` with a `-checklist` suffix
 
 ## Guide Format
 
-Every guide must follow the template in [templates/guide-template.md](templates/guide-template.md). Key sections:
+Every guide must follow `templates/guide-template.md`:
 
 ```markdown
+---
+tags:
+  - category-tag
+  - topic-tag
+---
 # Guide Title
 
 > One-line summary of what this guide covers and when to use it.
 
 ## At a Glance
-<!-- Bullet-point summary of the most critical takeaways — 3 to 5 points max -->
+<!-- 3-5 critical bullet points -->
 
 ## [Main Content Sections]
-<!-- Varies by guide. Use H2 for major sections, H3 for subsections -->
+<!-- H2 for major sections, H3 for subsections -->
 
 ## Common Mistakes
 <!-- What people get wrong — this section saves lives -->
 
 ## Quick Reference
-<!-- Condensed version: steps, measurements, or key facts for fast lookup -->
+<!-- Condensed steps, measurements, or key facts. Tables ≤4 columns. -->
 
 ## See Also
-<!-- Cross-category links to related guides — see Cross-Linking section below -->
+<!-- 3-8 cross-category links with em-dash descriptions -->
 
 ## Sources
-<!-- Where the information came from -->
+<!-- Citations -->
 ```
 
 ## Checklist Format
 
-Quick-reference checklists follow [templates/checklist-template.md](templates/checklist-template.md):
+Quick-reference checklists follow `templates/checklist-template.md`:
 
 ```markdown
+---
+tags:
+  - reference
+  - checklist
+  - topic
+---
 # Checklist Title
 
 > When to use this checklist.
 
-- [ ] Step or item
 - [ ] Step or item
 - [ ] Step or item
 ```
@@ -71,33 +122,33 @@ Quick-reference checklists follow [templates/checklist-template.md](templates/ch
 
 - **Voice:** Direct, imperative. "Do this" not "You should consider doing this."
 - **Tense:** Present tense for instructions. Past tense only for examples.
-- **Person:** Second person ("you") for instructions. Avoid first person.
+- **Person:** Second person ("you") for instructions. No first person.
 - **Jargon:** Define technical terms on first use, or link to the glossary.
-- **Measurements:** Use both metric and imperial: `2 inches (5 cm)`.
-- **Lists:** Use numbered lists for sequential steps, bullets for non-ordered items.
+- **Measurements:** Both metric and imperial: `2 inches (5 cm)`.
+- **Lists:** Numbered for sequential steps, bullets for non-ordered items.
 
 ## MkDocs-Specific Formatting
 
-### Admonitions (use instead of blockquote warnings)
+### Admonitions
 
 ```markdown
 !!! danger "WARNING"
-    Never attempt to suck venom from a snake bite. This does not work and risks infection.
+    Never attempt to suck venom from a snake bite.
 
 !!! warning "CAUTION"
     Test only a small amount. Wait 8 hours before eating more.
 
 !!! note
-    This technique requires dry conditions. See fire-in-wet-conditions.md for alternatives.
+    This technique requires dry conditions.
 
 !!! tip
     Birch bark ignites even when damp — look for it first.
 ```
 
 Severity mapping:
-- `!!! danger` — Risk of death or serious injury (replaces `> **WARNING:**`)
-- `!!! warning` — Risk of making the situation worse (replaces `> **CAUTION:**`)
-- `!!! note` — Important context that affects the procedure (replaces `> **NOTE:**`)
+- `!!! danger` — Risk of death or serious injury
+- `!!! warning` — Risk of making the situation worse
+- `!!! note` — Important context that affects the procedure
 - `!!! tip` — Helpful technique or shortcut
 
 ### Content Tabs (for regional variations)
@@ -108,18 +159,15 @@ Severity mapping:
 
 === "Australia"
     Eastern brown snake, taipan, death adder.
-
-=== "Central/South America"
-    Fer-de-lance, bushmaster, coral snake.
 ```
 
 ### Internal Links
 
-Link to other guides using relative paths from the current file:
-
 ```markdown
 See [Shelter Principles](../shelter/shelter-principles.md) for site selection.
 ```
+
+---
 
 ## Development Workflow
 
@@ -132,31 +180,51 @@ pip install -r requirements.txt
 ### Local Development
 
 ```bash
-# Serve with hot reload at http://localhost:8000
-mkdocs serve
-
-# Build static site to site/ directory
-mkdocs build
+mkdocs serve          # hot-reload dev server at http://localhost:8000
+mkdocs build --strict # production build — fails on warnings
+codespell docs/ --config .codespellrc --quiet-level=2  # spell check
 ```
 
 ### Adding a New Guide
 
 1. Create the `.md` file in the appropriate `docs/` subfolder
-2. Follow the guide template
-3. Add a nav entry in `mkdocs.yml` under the correct category
-4. Add a `## See Also` section with 3-8 cross-category links (see Cross-Linking below)
-5. Add reciprocal links in the related guides' See Also sections
-6. Run `mkdocs serve` and verify it renders correctly
-7. Check that internal links resolve
-8. Commit with `content: add [guide-name]`
+2. Add YAML frontmatter with `tags:`
+3. Follow the guide template (all sections required)
+4. Add a nav entry in `mkdocs.yml`
+5. Add 3-8 cross-category See Also links
+6. Add reciprocal links in related guides
+7. Run `mkdocs serve` and verify it renders
+8. Run spell-check and `mkdocs build --strict`
+9. Commit: `content: add [guide-name]`
+
+### Dependency Management
+
+Dependencies are pinned in `requirements.txt`. To upgrade:
+
+```bash
+pip install --upgrade mkdocs-material mkdocs-minify-plugin
+# note the new versions, then update requirements.txt manually
+mkdocs build --strict  # verify nothing broke
+```
+
+Do not use `pip freeze > requirements.txt` — it captures transitive dependencies and creates noise.
+
+Dependabot opens weekly PRs for updates. Review and merge those promptly to stay on patched versions.
 
 ### Deployment
 
-Pushing to `main` triggers GitHub Actions, which builds and deploys to GitHub Pages automatically. No manual deploy needed.
+The project uses the modern GitHub Pages Actions deployment (OIDC, no long-lived secrets):
+
+- `lint.yml` runs on every push and PR: spell-check + `mkdocs build --strict`
+- `deploy.yml` runs on push to `main`: build artifact → deploy to GitHub Pages
+
+**One-time setup:** In GitHub Settings → Pages, set Source to **GitHub Actions**.
+
+---
 
 ## Cross-Linking
 
-Every guide has a `## See Also` section with links to related guides, prioritizing **cross-category** connections. This is a core navigation feature — readers should be able to discover related knowledge across the entire collection.
+Every guide has `## See Also` with links to related guides, prioritizing cross-category connections.
 
 ### Format
 
@@ -164,43 +232,29 @@ Every guide has a `## See Also` section with links to related guides, prioritizi
 ## See Also
 
 - [Guide Title](../category/guide-name.md) — brief description of why it's related.
-- [Another Guide](same-category-guide.md) — another relationship description.
+- [Same-Category Guide](guide-name.md) — another relationship description.
 ```
 
 ### Rules
 
-- **Link across categories, not just within.** A medical guide should link to relevant scenarios, tools, and psychology — not only other medical guides.
-- **Use relative paths** from the current file: `../category/guide.md` for cross-category, `guide.md` for same-category.
-- **Include an em-dash description** explaining the relationship, not just the title.
-- **Target 3-8 links per guide.** Enough to be useful, not so many it's noise.
-- **Add reciprocal links.** When guide A links to guide B, guide B should link back to guide A.
-- **Place See Also between Quick Reference and Sources.**
+- Link across categories. A medical guide should link to relevant scenarios, tools, and psychology guides.
+- Use relative paths from the current file.
+- Include an em-dash description explaining the relationship.
+- Target 3-8 links per guide.
+- Add reciprocal links: if A links to B, B links back to A.
+- Place See Also between Quick Reference and Sources.
 
-### Choosing Links
+---
 
-Prioritize connections that help a reader in context:
+## Commit Convention
 
-- A reader of "Fractures and Splints" benefits from knowing about "Cordage" (splint lashing) and "Injured and Alone" (self-splinting scenario).
-- A reader of "Fire Principles" benefits from knowing about "Shelter Principles" (fire placement relative to shelter) and "Signaling for Rescue" (signal fires).
-- A reader of "Bear Safety" benefits from knowing about "First Aid Basics" (treating wounds after an encounter) and "Animal Attack" (step-by-step response).
-
-## Review Criteria
-
-Before a guide is merged or marked complete, verify:
-
-- [ ] Follows the guide template structure
-- [ ] "At a Glance" section is present and useful
-- [ ] "Common Mistakes" section is present
-- [ ] "Quick Reference" section is present
-- [ ] "See Also" section has 3-8 cross-category links with descriptions
-- [ ] Reciprocal links added in related guides
-- [ ] No unsourced medical claims
-- [ ] Safety warnings precede dangerous procedures
-- [ ] Admonitions used (not raw blockquote warnings)
-- [ ] Regional applicability is stated where relevant
-- [ ] Measurements include both metric and imperial
-- [ ] No broken internal links
-- [ ] Tables are mobile-friendly (3-4 columns max)
-- [ ] Nav entry added in `mkdocs.yml`
-- [ ] Renders correctly in `mkdocs serve`
-- [ ] Spell-checked and grammar-checked
+```
+content: add [guide-name]       — new guide
+content: update [guide-name]    — revision to existing guide
+docs: [description]             — project documentation changes
+fix: [description]              — factual correction
+chore: [description]            — structural/organizational changes
+build: [description]            — MkDocs config, CI/CD, dependencies
+style: [description]            — CSS, theme, layout
+security: [description]         — security policy, CI hardening, content safety
+```

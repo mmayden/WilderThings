@@ -1,55 +1,79 @@
 # WilderThings — AI Context
 
-> Context for Claude Code sessions. Read this first; reference linked docs for details.
+> Read this first in every session. It replaces the need to explore the repo from scratch.
 
 ## Quick Reference
 
 ```bash
 pip install -r requirements.txt   # one-time setup
 mkdocs serve                      # dev server at http://localhost:8000
-mkdocs build                      # build to site/
+mkdocs build --strict             # production build — fail on warnings
+codespell docs/ --config .codespellrc --quiet-level=2  # spell check
 ```
 
 ## What This Project Is
 
-A **mobile-first PWA** delivering 89 survival guides across 13 categories. Zero custom application code — MkDocs Material handles rendering, search, navigation, and offline caching through configuration alone.
+A **mobile-first PWA** delivering 89 survival guides across 13 categories. Zero custom application code — MkDocs Material handles rendering, search, navigation, offline caching, and tag browsing through configuration alone.
 
 ```
-docs/*.md  -->  mkdocs.yml  -->  MkDocs Material  -->  GitHub Pages  -->  PWA (offline)
- (content)      (config)          (build)               (deploy)          (client)
+docs/*.md  →  mkdocs.yml  →  MkDocs Material  →  GitHub Pages  →  PWA (offline)
+ (content)     (config)         (build)              (deploy)         (client)
 ```
 
-**The only things to maintain are content (`docs/`) and config (`mkdocs.yml`).**
+**Maintain only two things: content (`docs/`) and config (`mkdocs.yml`).**
 
 ## Current State
 
 | Item | Status |
 |------|--------|
 | Guides | 89 across 13 categories, ~21,000 lines |
-| Milestones 0-3 | Complete (platform, P0, P1, P2) |
-| Milestone 4 | **In progress** — cross-linking done; search tags, review pass, spell-check, mobile UX remain |
-| Platform | MkDocs builds clean; PWA icons + offline plugin + GitHub remote still TODO |
-| Cross-links | 496 links across all 89 guides (all categories interlinked) |
+| Milestones 0–4 | Complete |
+| Milestone 5 | **Up next** — PWA icons, offline plugin, GitHub remote, mobile install test |
+| Cross-links | 496 links across all 89 guides |
+| Tags | YAML frontmatter tags on all 89 guides; tags index at `docs/tags.md` |
+| Spell-check | Clean; `.codespellrc` suppresses valid domain words |
+| Tables | All ≤4 columns (mobile-compliant) |
+| CI | `lint.yml` (codespell + build check on PRs), `deploy.yml` (build + deploy on push to main) |
+| Dependabot | Weekly PRs for pip and GitHub Actions updates |
+
+## Security — Read First
+
+**Content accuracy is a life-safety matter.** This project contains medical, foraging, and emergency guidance. Treat inaccurate content as a defect, not an inconvenience.
+
+- Never fabricate survival advice. Every claim must be traceable to a credible source.
+- Safety warnings must precede dangerous procedures — no exceptions.
+- Medical content must include disclaimers. Never imply it replaces professional care.
+- Plant/mushroom ID must include look-alike warnings.
+- Regulated activities (hunting, trapping) must note legal requirements.
+
+See [SECURITY.md](SECURITY.md) for the full security policy and how to report content issues.
 
 ## Repository Layout
 
 ```
 WilderThings/
 ├── mkdocs.yml              # Nav tree, theme, plugins, extensions
-├── requirements.txt        # mkdocs-material, mkdocs-minify-plugin
-├── docs/                   # Content root (13 category folders + index + assets + references)
+├── requirements.txt        # Pinned: mkdocs-material==9.7.6, mkdocs-minify-plugin==0.8.0
+├── .codespellrc            # Spell-check exceptions (sting, HACE, trough, etc.)
+├── .gitignore
+├── docs/                   # Content root — 13 category folders + index + assets + references + tags.md
 ├── templates/              # guide-template.md, checklist-template.md (not served)
-├── .github/workflows/      # deploy.yml — auto-deploy on push to main
-├── CONTRIBUTING.md          -> Content standards, review criteria, dev workflow
-├── STYLE_GUIDE.md           -> Formatting rules, admonitions, tables, mobile
-├── PROJECT_OUTLINE.md       -> Full roadmap, guide inventory, milestones
-├── TASKS.md                 -> Active work backlog
+├── .github/
+│   ├── workflows/
+│   │   ├── deploy.yml      # Build (contents:read) + Deploy (pages:write, OIDC)
+│   │   └── lint.yml        # Codespell + build --strict on every push/PR
+│   └── dependabot.yml      # Weekly pip + Actions updates
+├── SECURITY.md             # Content accuracy policy + infrastructure security
+├── CONTRIBUTING.md         # Content standards, review criteria, security guidelines
+├── STYLE_GUIDE.md          # Formatting rules, mobile standards
+├── PROJECT_OUTLINE.md      # Architecture, inventory, milestones, quality gates
+├── TASKS.md                # Active work backlog
 └── CLAUDE.md               # This file
 ```
 
 ## Content Architecture
 
-Each guide is a standalone `.md` file in a category folder under `docs/`. Adding a guide = create the file + add a nav entry in `mkdocs.yml`.
+Each guide is a standalone `.md` file with YAML frontmatter tags. Adding a guide = create file + add nav entry in `mkdocs.yml`.
 
 ### Categories (13)
 
@@ -74,66 +98,44 @@ Each guide is a standalone `.md` file in a category folder under `docs/`. Adding
 Every guide follows `templates/guide-template.md`:
 
 ```
+---
+tags:
+  - category-tag
+  - topic-tag
+---
 # Title
 > One-line summary
 ## At a Glance          (3-5 critical bullet points)
 ## [Body Sections]      (H2 major, H3 sub)
 ## Common Mistakes      (what people get wrong)
-## Quick Reference      (condensed lookup table)
-## See Also             (cross-category links with descriptions)
+## Quick Reference      (condensed lookup table — ≤4 cols)
+## See Also             (3-8 cross-category links with em-dash descriptions)
 ## Sources              (citations)
 ```
 
-All sections are required. See `STYLE_GUIDE.md` for formatting details.
+All sections are required. Tables must be ≤4 columns. See `STYLE_GUIDE.md` for full rules.
 
-## Cross-Linking Conventions
+## Cross-Linking
 
-Every guide has a `## See Also` section with links to related guides **across categories**. This is a core navigation feature.
+Every guide has `## See Also` with links to related guides **across categories**.
 
-### Format
+- **Use relative paths**: `../category/guide.md` cross-category, `guide.md` same-category
+- **Em-dash description** after each link explaining the relationship
+- **3-8 links per guide** — enough to be useful, not so many it's noise
+- **Add reciprocal links**: if A links to B, add B → A
+- **Place between Quick Reference and Sources**
 
-```markdown
-## See Also
+## Quality Gates (before marking a guide complete)
 
-- [Guide Title](relative-path.md) — one-line description of why it's related.
-```
-
-### Rules
-
-- **Link across categories, not just within.** A medical guide should link to relevant scenarios, tools, and psychology guides — not only other medical guides.
-- **Use relative paths** from the current file: `../category/guide.md` for cross-category, `guide.md` for same-category.
-- **Include a description** after the em dash explaining the relationship.
-- **3-8 links per guide** is the target range. Enough to be useful, not so many it's noise.
-- **Place See Also between Quick Reference and Sources** in every guide.
-- When adding a new guide, add See Also links to it **and** add reciprocal links from related existing guides.
-
-## Writing Guides
-
-### Process
-
-1. Follow `STYLE_GUIDE.md` for formatting
-2. Start from `templates/guide-template.md`
-3. Follow `CONTRIBUTING.md` for content standards
-4. Place in the correct `docs/` subfolder
-5. Add nav entry in `mkdocs.yml`
-6. Add cross-category See Also links (and reciprocal links in related guides)
-7. Verify with `mkdocs serve`
-
-### Key Principles
-
-- **Accuracy over volume.** Source from military manuals, medical references, established literature. Never fabricate survival advice.
-- **Actionable under stress.** Short sentences. Numbered steps. Critical info first.
-- **No filler.** Every sentence must add value.
-- **Dual measurements.** Always include metric and imperial.
-- **Safety first.** Warnings before procedures.
-- **Mobile-first.** Narrow tables (3-4 cols max), short paragraphs, scannable at phone width.
-
-### Content Safety
-
-- Medical content: include disclaimers, never replace professional training
-- Plant/mushroom ID: warn about look-alikes and regional variation
-- Hunting/trapping: note legal jurisdictional variation
-- Financial/legal: disclaim professional advice
+1. Follows guide template — all required sections present
+2. YAML frontmatter with `tags:`
+3. 3-8 cross-category See Also links with descriptions
+4. Admonitions used (no raw `> **WARNING:**` blockquotes)
+5. Tables ≤4 columns
+6. Metric + imperial measurements throughout
+7. Safety warnings precede dangerous procedures
+8. Passes `codespell docs/ --config .codespellrc --quiet-level=2`
+9. Passes `mkdocs build --strict`
 
 ## MkDocs Quick Reference
 
@@ -146,20 +148,38 @@ Every guide has a `## See Also` section with links to related guides **across ca
 !!! tip                    # Green — helpful technique
 ```
 
+### Collapsible (for long warnings)
+
+```markdown
+??? danger "Toxic look-alikes"
+    Content collapsed by default.
+```
+
 ### Content Tabs
 
 ```markdown
-=== "Tab 1"
-    Content for tab 1.
+=== "North America"
+    Content here.
 
-=== "Tab 2"
-    Content for tab 2.
+=== "Europe"
+    Content here.
 ```
 
 ### Internal Links
 
 ```markdown
 See [Guide Title](../category/guide-name.md) for details.
+```
+
+### Tags Frontmatter
+
+```yaml
+---
+tags:
+  - medical
+  - first-aid
+  - emergency
+---
 ```
 
 ## Commit Convention
@@ -172,6 +192,7 @@ fix: [description]              — corrections to factual content
 chore: [description]            — structural/organizational changes
 build: [description]            — MkDocs config, CI/CD, dependencies
 style: [description]            — CSS, theme, layout changes
+security: [description]         — security policy, CI hardening
 ```
 
 ## Tech Stack
@@ -179,8 +200,20 @@ style: [description]            — CSS, theme, layout changes
 | Layer | Tool |
 |-------|------|
 | Content | Markdown in `docs/` |
-| Build | MkDocs Material 9.x |
+| Build | MkDocs Material 9.7.6 |
+| Tags | MkDocs Material built-in tags plugin |
 | Search | lunr.js (built-in, offline-capable) |
 | Hosting | GitHub Pages |
-| CI/CD | GitHub Actions (`deploy.yml`) |
-| Deps | Python: `mkdocs-material`, `mkdocs-minify-plugin` |
+| CI/CD | GitHub Actions (deploy.yml + lint.yml) |
+| Deps | Python: pinned in requirements.txt, auto-updated by Dependabot |
+| Spell-check | codespell 2.4.2 via lint.yml |
+
+## Milestone 5 — What's Next
+
+1. Generate PWA icons: favicon (16×16, 32×32), apple-touch-icon (180×180), manifest icons (192×192, 512×512)
+2. Add `manifest.webmanifest` to `docs/` with name, icons, display, theme_color
+3. Enable MkDocs Material offline plugin in `mkdocs.yml`
+4. Configure `extra.manifest` in `mkdocs.yml`
+5. Push to GitHub remote (`git remote add origin ...`)
+6. Verify GitHub Actions deploys (Settings → Pages → Source: GitHub Actions)
+7. Test "Add to Home Screen" on iOS Safari and Android Chrome

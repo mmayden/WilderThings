@@ -4,22 +4,33 @@
 
 Build the most comprehensive, well-organized, and practically useful survival knowledge base — delivered as a mobile-first PWA that works offline. Every guide should be something you'd trust with your life: accurate, clear, searchable, and available without signal.
 
+**Accuracy is a life-safety matter.** Content quality and correctness are treated as security concerns — see [SECURITY.md](SECURITY.md).
+
 ## Architecture
 
 ```
 ┌─────────────────────────────────────────────┐
 │  Content Layer (Markdown in docs/)          │
 │  ├── 13 category folders                   │
-│  ├── 89 guides (P0–P2 complete)            │
-│  └── Templates define structure             │
+│  ├── 89 guides (all complete)              │
+│  ├── YAML frontmatter tags on every guide  │
+│  └── Templates enforce structure            │
 ├─────────────────────────────────────────────┤
 │  Build Layer (MkDocs Material 9.x)          │
 │  ├── mkdocs.yml → nav, theme, plugins       │
-│  ├── lunr.js → client-side search index     │
-│  └── Service worker → offline caching       │
+│  ├── tags plugin → browseable tag index     │
+│  ├── lunr.js → offline full-text search     │
+│  └── minify plugin → smaller assets         │
+├─────────────────────────────────────────────┤
+│  Quality Gates (CI via GitHub Actions)      │
+│  ├── lint.yml: codespell + build --strict  │
+│  ├── deploy.yml: build then deploy          │
+│  └── Dependabot: weekly dep updates         │
 ├─────────────────────────────────────────────┤
 │  Deploy Layer (GitHub Actions → GH Pages)   │
-│  ├── Auto-build on push to main             │
+│  ├── OIDC — no long-lived secrets           │
+│  ├── Least-privilege: build=read,           │
+│  │   deploy=pages:write only               │
 │  └── Static files served via CDN            │
 ├─────────────────────────────────────────────┤
 │  Client Layer (PWA)                         │
@@ -46,220 +57,227 @@ Build the most comprehensive, well-organized, and practically useful survival kn
 - Real-world scenario walkthroughs
 - Quick-reference checklists for field use
 - Mobile-first PWA delivery with offline support
-- Full-text search across all content
+- Full-text search and tag-based browsing across all content
 
-### Out of Scope (for now)
+### Out of Scope
 
 - Native mobile app (iOS/Android)
-- User accounts or personalization
+- User accounts, personalization, or data collection
 - Video or multimedia content
 - Weapons and combat
 - Long-term homesteading and agriculture (may revisit)
 - Political or ideological content
-- Backend/server/database
+- Backend, server, or database
 
 ## Guide Inventory
 
-### Medical (10 guides)
+All 89 guides are complete. Statuses are not repeated; this table serves as a reference index.
 
-| # | Guide | Status | Priority |
-|---|-------|--------|----------|
-| 1 | first-aid-basics.md | **Done** | P0 |
-| 2 | cpr-and-choking.md | **Done** | P0 |
-| 3 | fractures-and-splints.md | **Done** | P0 |
-| 4 | hypothermia-and-heatstroke.md | **Done** | P0 |
-| 5 | trauma-and-triage.md | **Done** | P0 |
-| 6 | bites-and-stings.md | **Done** | P1 |
-| 7 | wound-infection.md | **Done** | P1 |
-| 8 | dehydration-and-waterborne.md | **Done** | P1 |
-| 9 | plant-poisoning.md | **Done** | P1 |
-| 10 | improvised-medicine.md | **Done** | P2 |
+### Medical (10)
 
-### Water (5 guides)
+| Guide | Priority |
+|-------|----------|
+| first-aid-basics.md | P0 |
+| cpr-and-choking.md | P0 |
+| fractures-and-splints.md | P0 |
+| hypothermia-and-heatstroke.md | P0 |
+| trauma-and-triage.md | P0 |
+| bites-and-stings.md | P1 |
+| wound-infection.md | P1 |
+| dehydration-and-waterborne.md | P1 |
+| plant-poisoning.md | P1 |
+| improvised-medicine.md | P2 |
 
-| # | Guide | Status | Priority |
-|---|-------|--------|----------|
-| 1 | finding-water.md | **Done** | P0 |
-| 2 | purification.md | **Done** | P0 |
-| 3 | improvised-filters.md | **Done** | P1 |
-| 4 | water-storage.md | **Done** | P1 |
-| 5 | desert-and-sea-water.md | **Done** | P2 |
+### Water (5)
 
-### Shelter (6 guides)
+| Guide | Priority |
+|-------|----------|
+| finding-water.md | P0 |
+| purification.md | P0 |
+| improvised-filters.md | P1 |
+| water-storage.md | P1 |
+| desert-and-sea-water.md | P2 |
 
-| # | Guide | Status | Priority |
-|---|-------|--------|----------|
-| 1 | shelter-principles.md | **Done** | P0 |
-| 2 | debris-hut.md | **Done** | P0 |
-| 3 | snow-shelters.md | **Done** | P1 |
-| 4 | desert-shelter.md | **Done** | P1 |
-| 5 | tarp-and-poncho.md | **Done** | P1 |
-| 6 | long-term-structures.md | **Done** | P2 |
+### Shelter (6)
 
-### Fire (7 guides)
+| Guide | Priority |
+|-------|----------|
+| shelter-principles.md | P0 |
+| debris-hut.md | P0 |
+| snow-shelters.md | P1 |
+| desert-shelter.md | P1 |
+| tarp-and-poncho.md | P1 |
+| long-term-structures.md | P2 |
 
-| # | Guide | Status | Priority |
-|---|-------|--------|----------|
-| 1 | fire-principles.md | **Done** | P0 |
-| 2 | friction-methods.md | **Done** | P0 |
-| 3 | spark-methods.md | **Done** | P0 |
-| 4 | fire-from-nothing.md | **Done** | P1 |
-| 5 | fire-in-wet-conditions.md | **Done** | P1 |
-| 6 | fire-types.md | **Done** | P1 |
-| 7 | maintaining-fire.md | **Done** | P1 |
+### Fire (7)
 
-### Food (11 guides)
+| Guide | Priority |
+|-------|----------|
+| fire-principles.md | P0 |
+| friction-methods.md | P0 |
+| spark-methods.md | P0 |
+| fire-from-nothing.md | P1 |
+| fire-in-wet-conditions.md | P1 |
+| fire-types.md | P1 |
+| maintaining-fire.md | P1 |
 
-| # | Guide | Status | Priority |
-|---|-------|--------|----------|
-| 1 | foraging-basics.md | **Done** | P1 |
-| 2 | edible-plants-temperate.md | **Done** | P1 |
-| 3 | mushroom-identification.md | **Done** | P1 |
-| 4 | hunting-basics.md | **Done** | P1 |
-| 5 | trapping-and-snares.md | **Done** | P1 |
-| 6 | fishing-improvised.md | **Done** | P1 |
-| 7 | edible-plants-tropical.md | **Done** | P2 |
-| 8 | insect-foraging.md | **Done** | P2 |
-| 9 | field-butchering.md | **Done** | P2 |
-| 10 | food-preservation.md | **Done** | P2 |
-| 11 | cooking-without-gear.md | **Done** | P2 |
+### Food (11)
 
-### Navigation (5 guides)
+| Guide | Priority |
+|-------|----------|
+| foraging-basics.md | P1 |
+| edible-plants-temperate.md | P1 |
+| mushroom-identification.md | P1 |
+| hunting-basics.md | P1 |
+| trapping-and-snares.md | P1 |
+| fishing-improvised.md | P1 |
+| edible-plants-tropical.md | P2 |
+| insect-foraging.md | P2 |
+| field-butchering.md | P2 |
+| food-preservation.md | P2 |
+| cooking-without-gear.md | P2 |
 
-| # | Guide | Status | Priority |
-|---|-------|--------|----------|
-| 1 | map-and-compass.md | **Done** | P1 |
-| 2 | natural-navigation.md | **Done** | P1 |
-| 3 | signaling-for-rescue.md | **Done** | P0 |
-| 4 | gps-and-electronics.md | **Done** | P2 |
-| 5 | terrain-association.md | **Done** | P2 |
+### Navigation (5)
 
-### Wildlife (9 guides)
+| Guide | Priority |
+|-------|----------|
+| map-and-compass.md | P1 |
+| natural-navigation.md | P1 |
+| signaling-for-rescue.md | P0 |
+| gps-and-electronics.md | P2 |
+| terrain-association.md | P2 |
 
-| # | Guide | Status | Priority |
-|---|-------|--------|----------|
-| 1 | bear-safety.md | **Done** | P1 |
-| 2 | big-cats.md | **Done** | P1 |
-| 3 | venomous-snakes.md | **Done** | P1 |
-| 4 | venomous-spiders.md | **Done** | P1 |
-| 5 | insect-threats.md | **Done** | P1 |
-| 6 | wolves-and-canids.md | **Done** | P2 |
-| 7 | marine-dangers.md | **Done** | P2 |
-| 8 | moose-and-ungulates.md | **Done** | P2 |
-| 9 | alligators-and-crocs.md | **Done** | P2 |
+### Wildlife (9)
 
-### Tools and Craft (6 guides)
+| Guide | Priority |
+|-------|----------|
+| bear-safety.md | P1 |
+| big-cats.md | P1 |
+| venomous-snakes.md | P1 |
+| venomous-spiders.md | P1 |
+| insect-threats.md | P1 |
+| wolves-and-canids.md | P2 |
+| marine-dangers.md | P2 |
+| moose-and-ungulates.md | P2 |
+| alligators-and-crocs.md | P2 |
 
-| # | Guide | Status | Priority |
-|---|-------|--------|----------|
-| 1 | knife-use-and-care.md | **Done** | P1 |
-| 2 | knots-and-lashing.md | **Done** | P1 |
-| 3 | cordage.md | **Done** | P1 |
-| 4 | improvised-tools.md | **Done** | P2 |
-| 5 | containers-and-vessels.md | **Done** | P2 |
-| 6 | clothing-and-insulation.md | **Done** | P2 |
+### Tools and Craft (6)
 
-### Psychology (4 guides)
+| Guide | Priority |
+|-------|----------|
+| knife-use-and-care.md | P1 |
+| knots-and-lashing.md | P1 |
+| cordage.md | P1 |
+| improvised-tools.md | P2 |
+| containers-and-vessels.md | P2 |
+| clothing-and-insulation.md | P2 |
 
-| # | Guide | Status | Priority |
-|---|-------|--------|----------|
-| 1 | survival-mindset.md | **Done** | P0 |
-| 2 | stress-management.md | **Done** | P1 |
-| 3 | group-dynamics.md | **Done** | P2 |
-| 4 | solo-survival.md | **Done** | P2 |
+### Psychology (4)
 
-### Scenarios (6 guides)
+| Guide | Priority |
+|-------|----------|
+| survival-mindset.md | P0 |
+| stress-management.md | P1 |
+| group-dynamics.md | P2 |
+| solo-survival.md | P2 |
 
-| # | Guide | Status | Priority |
-|---|-------|--------|----------|
-| 1 | lost-in-woods.md | **Done** | P1 |
-| 2 | animal-attack.md | **Done** | P1 |
-| 3 | injured-and-alone.md | **Done** | P1 |
-| 4 | vehicle-breakdown-remote.md | **Done** | P2 |
-| 5 | natural-disaster.md | **Done** | P2 |
-| 6 | water-crossing.md | **Done** | P2 |
+### Scenarios (6)
 
-### Climate-Specific (6 guides)
+| Guide | Priority |
+|-------|----------|
+| lost-in-woods.md | P1 |
+| animal-attack.md | P1 |
+| injured-and-alone.md | P1 |
+| vehicle-breakdown-remote.md | P2 |
+| natural-disaster.md | P2 |
+| water-crossing.md | P2 |
 
-| # | Guide | Status | Priority |
-|---|-------|--------|----------|
-| 1 | arctic-survival.md | **Done** | P2 |
-| 2 | desert-survival.md | **Done** | P2 |
-| 3 | jungle-survival.md | **Done** | P2 |
-| 4 | mountain-survival.md | **Done** | P2 |
-| 5 | ocean-survival.md | **Done** | P2 |
-| 6 | urban-survival.md | **Done** | P2 |
+### Climate-Specific (6)
 
-### Preparedness (6 guides)
+| Guide | Priority |
+|-------|----------|
+| arctic-survival.md | P2 |
+| desert-survival.md | P2 |
+| jungle-survival.md | P2 |
+| mountain-survival.md | P2 |
+| ocean-survival.md | P2 |
+| urban-survival.md | P2 |
 
-| # | Guide | Status | Priority |
-|---|-------|--------|----------|
-| 1 | bug-out-bag.md | **Done** | P2 |
-| 2 | everyday-carry.md | **Done** | P2 |
-| 3 | vehicle-kit.md | **Done** | P2 |
-| 4 | home-preparedness.md | **Done** | P2 |
-| 5 | communication-plans.md | **Done** | P2 |
-| 6 | financial-preparedness.md | **Done** | P2 |
+### Preparedness (6)
 
-### References (8 items)
+| Guide | Priority |
+|-------|----------|
+| bug-out-bag.md | P2 |
+| everyday-carry.md | P2 |
+| vehicle-kit.md | P2 |
+| home-preparedness.md | P2 |
+| communication-plans.md | P2 |
+| financial-preparedness.md | P2 |
 
-| # | Item | Status | Priority |
-|---|------|--------|----------|
-| 1 | glossary.md | **Done** | P3 |
-| 2 | book-list.md | **Done** | P3 |
-| 3 | sources.md | **Done** | P3 |
-| 4 | checklists/ (5 checklists) | **Done** | P3 |
+### References (8)
+
+| Item | Type |
+|------|------|
+| glossary.md | Reference |
+| book-list.md | Reference |
+| sources.md | Reference |
+| checklists/ (5 files) | Checklist |
 
 ## Milestones
 
-### Milestone 0 — Platform Setup ✓
+### Milestone 0 — Platform ✓
 
-MkDocs Material configured, content migrated to `docs/`, GitHub Actions deploying.
+MkDocs Material configured, content in `docs/`, GitHub Actions deploying, CSS mobile-first, all admonitions converted.
 
-- MkDocs config with full nav tree (89+ entries)
-- Material theme with dark/light toggle (slate + deep orange)
-- GitHub Actions CI/CD pipeline
-- Content migrated from root to `docs/`
-- All admonitions converted from blockquote format (131 conversions)
-- Custom CSS for mobile readability
-- Internal cross-links verified
-
-**Status:** Complete — remaining: PWA icons, PWA offline plugin, GitHub remote setup, mobile install testing
+**Remaining:** PWA icons, PWA offline plugin, mobile install testing (iOS + Android)
 
 ### Milestone 1 — Foundation (P0) ✓
 
-All life-or-death basics: core medical, water, shelter, fire, psychology, rescue signaling.
-
-**14 guides** | **Status:** Complete
+14 life-critical guides: core medical, water, shelter, fire, psychology, rescue signaling.
 
 ### Milestone 2 — Critical Skills (P1) ✓
 
-Food, wildlife, tools, scenarios + extended medical, shelter, fire, water, navigation, psychology.
-
-**36 guides** | **Status:** Complete
+36 guides covering food, wildlife, tools, scenarios, extended medical/shelter/fire/water/navigation/psychology.
 
 ### Milestone 3 — Advanced & Situational (P2) ✓
 
-Climate-specific survival (arctic, desert, jungle, mountain, ocean, urban), preparedness (bug-out bag, EDC, vehicle kit, home, comms, financial), extended food (tropical plants, insects, butchering, preservation, no-gear cooking), extended wildlife (wolves, marine, moose, gators/crocs), extended tools (improvised tools, containers, clothing), advanced navigation (GPS, terrain association), advanced psychology (group dynamics, solo survival), extended scenarios (vehicle breakdown, natural disaster, water crossing), plus improvised medicine, desert/sea water, and long-term shelter.
+34 guides: climate-specific survival, preparedness, extended food, extended wildlife, tools, advanced navigation, advanced psychology, extended scenarios.
 
-**34 guides** | **Status:** Complete
+### Milestone 4 — Polish (P3) ✓
 
-### Milestone 4 — Polish (P3)
+- Cross-linking: 496 links across all 89 guides
+- Search tags: YAML frontmatter tags on all 89 guides, tags index page
+- Review pass: no broken links, no blockquote warnings, all required sections present
+- Wide tables fixed: 16 files narrowed to ≤4 columns
+- Spell-check: clean with `.codespellrc` suppressing valid domain words
+- Mobile UX: table overflow scroll, larger font on narrow screens, nav tap targets
 
-Cross-linking, review pass, search optimization, mobile UX audit.
+### Milestone 5 — PWA Completion (next)
 
-- [x] Cross-link related guides across categories (496 links across all 89 guides)
-- [ ] Add search keywords/tags to guide frontmatter
-- [ ] Full review pass against CONTRIBUTING.md criteria
-- [ ] Spell-check and grammar pass on all guides
-- [ ] Mobile UX review (tables, readability, navigation)
-
-**Status:** In progress — cross-linking complete, remaining tasks queued
+- Generate PWA icons (favicon, apple-touch-icon, manifest icons)
+- Configure PWA offline plugin (`mkdocs-material` offline plugin)
+- Push initial commit to GitHub remote
+- Verify GitHub Actions deploys successfully
+- Test "Add to Home Screen" on iOS and Android
 
 ## Quality Gates
 
-A guide moves through these states:
+Every guide passes these checks before merge:
 
-- **Planned:** Scoped in the inventory, not yet written
-- **Draft:** Content written, follows template structure, admonitions used
-- **Done:** Passes all review criteria in CONTRIBUTING.md, cross-linked, verified
+1. Follows `templates/guide-template.md` structure
+2. Has all required sections: At a Glance, Common Mistakes, Quick Reference, See Also, Sources
+3. YAML frontmatter with `tags:` present
+4. Has 3-8 cross-category See Also links with em-dash descriptions
+5. Admonitions used (no raw blockquote warnings)
+6. Tables ≤4 columns
+7. Measurements in both metric and imperial
+8. Safety warnings precede dangerous procedures
+9. Passes `codespell` with `.codespellrc`
+10. Passes `mkdocs build --strict`
+
+## Security Principles
+
+1. **Content accuracy** is a life-safety concern — treat inaccurate advice as a defect
+2. **CI pipeline** runs with least-privilege permissions (OIDC, no stored secrets)
+3. **Dependencies** are pinned and auto-updated by Dependabot
+4. **No user data** — the site is static, no tracking, no cookies, no accounts
