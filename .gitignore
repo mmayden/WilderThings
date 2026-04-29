@@ -1,6 +1,7 @@
 # OS files
 .DS_Store
 Thumbs.db
+desktop.ini
 
 # Editor files
 *.swp
@@ -8,6 +9,8 @@ Thumbs.db
 *~
 .vscode/
 .idea/
+*.sublime-project
+*.sublime-workspace
 
 # Build output
 site/
@@ -15,8 +18,28 @@ site/
 # Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 .venv/
+venv/
+env/
+.env
+*.egg-info/
+dist/
+build/
+
+# Secrets and credentials — never commit these
+.env.*
+*.secret
+*.key
+*.pem
+*.p12
+*.pfx
+secrets.yml
+secrets.yaml
+credentials.json
 
 # Temporary files
 *.tmp
 *.bak
+*.log
