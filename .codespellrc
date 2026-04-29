@@ -1,0 +1,4 @@
+[codespell]
+# Domain-specific words that codespell incorrectly flags
+ignore-words-list = sting,stings,stinging,HACE,trough,Augmentin,UpToDate,retying,Sherif,Berkley,tread
+skip = site,*.css,*.js

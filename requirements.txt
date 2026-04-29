@@ -1,2 +1,5 @@
-mkdocs-material>=9.5
-mkdocs-minify-plugin>=0.7
+# Pinned to exact versions for reproducible, secure builds.
+# To upgrade: pip install --upgrade mkdocs-material mkdocs-minify-plugin
+# then update the versions below and verify with: mkdocs build --strict
+mkdocs-material==9.7.6
+mkdocs-minify-plugin==0.8.0
