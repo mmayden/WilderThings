@@ -22,9 +22,9 @@ Active work backlog organized by milestone. Completed work is collapsed at the b
 - [ ] Create `docs/manifest.webmanifest` with name, icons, display, theme_color
 - [ ] Enable MkDocs Material offline plugin in `mkdocs.yml`
 - [ ] Configure `extra.manifest` in `mkdocs.yml`
-- [ ] Push to GitHub remote (`git remote add origin ...`)
-- [ ] Set GitHub Pages Source to "GitHub Actions" (Settings → Pages)
-- [ ] Verify GitHub Actions deploy.yml runs clean
+- [x] Push to GitHub remote (live at https://mmayden.github.io/WilderThings/)
+- [x] Set GitHub Pages Source to "GitHub Actions" (Settings → Pages)
+- [x] Verify GitHub Actions deploy.yml runs clean
 - [ ] Test "Add to Home Screen" on iOS Safari
 - [ ] Test "Add to Home Screen" on Android Chrome
 

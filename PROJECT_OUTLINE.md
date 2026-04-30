@@ -252,12 +252,12 @@ MkDocs Material configured, content in `docs/`, GitHub Actions deploying, CSS mo
 - Spell-check: clean with `.codespellrc` suppressing valid domain words
 - Mobile UX: table overflow scroll, larger font on narrow screens, nav tap targets
 
-### Milestone 5 — PWA Completion (next)
+### Milestone 5 — PWA Completion (in progress)
+
+Site is live at https://mmayden.github.io/WilderThings/ via the GitHub Actions deploy pipeline. CI lint and build run on every push/PR. Dependabot keeps actions and pip pinned. Remaining work is PWA-only:
 
 - Generate PWA icons (favicon, apple-touch-icon, manifest icons)
 - Configure PWA offline plugin (`mkdocs-material` offline plugin)
-- Push initial commit to GitHub remote
-- Verify GitHub Actions deploys successfully
 - Test "Add to Home Screen" on iOS and Android
 
 ## Quality Gates

@@ -28,7 +28,7 @@ docs/*.md  →  mkdocs.yml  →  MkDocs Material  →  GitHub Pages  →  PWA (o
 |------|--------|
 | Guides | 89 across 13 categories, ~21,000 lines |
 | Milestones 0–4 | Complete |
-| Milestone 5 | **Up next** — PWA icons, offline plugin, GitHub remote, mobile install test |
+| Milestone 5 | **In progress** — site live at https://mmayden.github.io/WilderThings/; PWA icons + offline plugin + mobile install test remain |
 | Cross-links | 496 links across all 89 guides |
 | Tags | YAML frontmatter tags on all 89 guides; tags index at `docs/tags.md` |
 | Spell-check | Clean; `.codespellrc` suppresses valid domain words |
@@ -208,12 +208,12 @@ security: [description]         — security policy, CI hardening
 | Deps | Python: pinned in requirements.txt, auto-updated by Dependabot |
 | Spell-check | codespell 2.4.2 via lint.yml |
 
-## Milestone 5 — What's Next
+## Milestone 5 — What's Left
+
+Site is live and the GitHub Actions deploy pipeline runs clean on every push to `main`. Remaining work is PWA-only:
 
 1. Generate PWA icons: favicon (16×16, 32×32), apple-touch-icon (180×180), manifest icons (192×192, 512×512)
 2. Add `manifest.webmanifest` to `docs/` with name, icons, display, theme_color
 3. Enable MkDocs Material offline plugin in `mkdocs.yml`
 4. Configure `extra.manifest` in `mkdocs.yml`
-5. Push to GitHub remote (`git remote add origin ...`)
-6. Verify GitHub Actions deploys (Settings → Pages → Source: GitHub Actions)
-7. Test "Add to Home Screen" on iOS Safari and Android Chrome
+5. Test "Add to Home Screen" on iOS Safari and Android Chrome
