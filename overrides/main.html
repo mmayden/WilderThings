@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+
+{#
+  PWA install metadata that Material does not emit on its own — base.html has no
+  manifest support, so the link is rendered here from config.extra.manifest.
+  The apple-* tags are iOS/Safari-specific; Safari ignores the web app manifest.
+#}
+{% block extrahead %}
+  {% if config.extra.manifest %}
+    <link rel="manifest" href="{{ config.extra.manifest | url }}">
+  {% endif %}
+
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/images/apple-touch-icon.png' | url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ 'assets/images/favicon-32.png' | url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ 'assets/images/favicon-16.png' | url }}">
+  <link rel="shortcut icon" href="{{ 'assets/images/favicon.ico' | url }}">
+
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="WilderThings">
+  <meta name="mobile-web-app-capable" content="yes">
+{% endblock %}

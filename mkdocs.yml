@@ -1,9 +1,12 @@
 site_name: WilderThings
 site_description: Comprehensive wilderness survival guide — offline-ready, mobile-first
 site_author: WilderThings Contributors
+site_url: https://mmayden.github.io/WilderThings/
 
 theme:
   name: material
+  custom_dir: overrides
+  favicon: assets/images/favicon-32.png
   palette:
     - scheme: slate
       primary: deep orange
@@ -32,6 +35,9 @@ theme:
     - search.highlight
     - content.tabs.link
     - toc.integrate
+
+extra:
+  manifest: manifest.webmanifest
 
 extra_css:
   - assets/css/custom.css
