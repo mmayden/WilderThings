@@ -28,7 +28,8 @@ docs/*.md  →  mkdocs.yml  →  MkDocs Material  →  GitHub Pages  →  PWA (o
 |------|--------|
 | Guides | 89 across 13 categories, ~21,000 lines |
 | Milestones 0–4 | Complete |
-| Milestone 5 | **In progress** — site live at https://mmayden.github.io/WilderThings/; PWA icons + offline plugin + mobile install test remain |
+| Milestone 5 | **In progress** — site live at https://mmayden.github.io/WilderThings/; icons + manifest done, installable. Mobile install test + offline decision remain |
+| PWA | Installable (manifest + icons + apple-* tags). **Offline caching not implemented** — see below |
 | Cross-links | 496 links across all 89 guides |
 | Tags | YAML frontmatter tags on all 89 guides; tags index at `docs/tags.md` |
 | Spell-check | Clean; `.codespellrc` suppresses valid domain words |
@@ -57,6 +58,9 @@ WilderThings/
 ├── .codespellrc            # Spell-check exceptions (sting, HACE, trough, etc.)
 ├── .gitignore
 ├── docs/                   # Content root — 13 category folders + index + assets + references + tags.md
+│   ├── manifest.webmanifest    # PWA manifest (icons, start_url, theme_color)
+│   └── assets/images/          # PWA icon set (favicons, apple-touch, 192/512, maskable)
+├── overrides/              # Theme overrides — main.html adds manifest + apple-* install tags
 ├── templates/              # guide-template.md, checklist-template.md (not served)
 ├── .github/
 │   ├── workflows/
@@ -210,10 +214,22 @@ security: [description]         — security policy, CI hardening
 
 ## Milestone 5 — What's Left
 
-Site is live and the GitHub Actions deploy pipeline runs clean on every push to `main`. Remaining work is PWA-only:
+Site is live and the GitHub Actions deploy pipeline runs clean on every push to `main`.
 
-1. Generate PWA icons: favicon (16×16, 32×32), apple-touch-icon (180×180), manifest icons (192×192, 512×512)
-2. Add `manifest.webmanifest` to `docs/` with name, icons, display, theme_color
-3. Enable MkDocs Material offline plugin in `mkdocs.yml`
-4. Configure `extra.manifest` in `mkdocs.yml`
-5. Test "Add to Home Screen" on iOS Safari and Android Chrome
+**Done:** icon set in `docs/assets/images/`, `docs/manifest.webmanifest`, and `overrides/main.html` (manifest link + apple-* install tags). The site is installable to the home screen.
+
+**Remaining:**
+
+1. Test "Add to Home Screen" on iOS Safari and Android Chrome
+2. Decide the offline strategy — **open question, do not assume it is settled**
+
+> [!WARNING]
+> **Material's `offline` plugin will not do what you want.**
+>
+> It builds the site for `file://` distribution and is incompatible with a
+> hosted site. It installs **no service worker**. Real offline support on
+> GitHub Pages needs a hand-written `sw.js` precaching pages + the lunr index,
+> registered from `overrides/main.html` — which would be this project's first
+> custom application code. See [PROJECT_OUTLINE.md](PROJECT_OUTLINE.md).
+>
+> Current state: **installable but online-only.**

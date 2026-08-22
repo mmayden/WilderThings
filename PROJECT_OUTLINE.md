@@ -254,11 +254,39 @@ MkDocs Material configured, content in `docs/`, GitHub Actions deploying, CSS mo
 
 ### Milestone 5 — PWA Completion (in progress)
 
-Site is live at https://mmayden.github.io/WilderThings/ via the GitHub Actions deploy pipeline. CI lint and build run on every push/PR. Dependabot keeps actions and pip pinned. Remaining work is PWA-only:
+Site is live at https://mmayden.github.io/WilderThings/ via the GitHub Actions deploy pipeline. CI lint and build run on every push/PR. Dependabot keeps actions and pip pinned.
 
-- Generate PWA icons (favicon, apple-touch-icon, manifest icons)
-- Configure PWA offline plugin (`mkdocs-material` offline plugin)
-- Test "Add to Home Screen" on iOS and Android
+**Done:** icon set (favicons, apple-touch-icon, 192/512 manifest icons plus a maskable variant), `docs/manifest.webmanifest`, and the install metadata Material does not emit on its own (`overrides/main.html`). The site is now installable to the home screen.
+
+**Remaining:**
+
+- Test "Add to Home Screen" on iOS Safari and Android Chrome
+- Decide the offline strategy (below)
+
+#### Offline: an open architectural decision
+
+The original plan named Material's `offline` plugin. That plugin solves a
+different problem — it builds the site for distribution as local files
+(`file://`) and is incompatible with a hosted site. It installs no service
+worker, so it cannot make the live Pages site work without signal.
+
+Genuine offline support requires a service worker that precaches the built
+pages and the lunr search index, registered from `overrides/main.html`.
+That would be this project's **first custom application code**, breaking the
+"zero custom application code" property that has kept maintenance to content
+and config alone.
+
+The trade-off is real either way: "available without signal" is stated in the
+Vision, and a survival guide that needs a connection is the one that fails
+when it matters. Options:
+
+| Option | Cost | Result |
+|--------|------|--------|
+| Hand-rolled `sw.js` | ~60 lines to own and maintain | True offline; breaks zero-code property |
+| Third-party MkDocs PWA plugin | New dependency, less control | True offline; dependency risk |
+| Accept online-only | None | Installable, but fails the Vision |
+
+Unresolved — pending a decision.
 
 ## Quality Gates
 

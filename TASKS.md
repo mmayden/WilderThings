@@ -18,10 +18,25 @@ Active work backlog organized by milestone. Completed work is collapsed at the b
 
 ### PWA Completion
 
-- [ ] Generate PWA icons (favicon 16/32px, apple-touch-icon 180px, manifest icons 192/512px)
-- [ ] Create `docs/manifest.webmanifest` with name, icons, display, theme_color
-- [ ] Enable MkDocs Material offline plugin in `mkdocs.yml`
-- [ ] Configure `extra.manifest` in `mkdocs.yml`
+- [x] Generate PWA icons (favicon 16/32/.ico, apple-touch-icon 180px, manifest icons 192/512 + 512 maskable)
+- [x] Create `docs/manifest.webmanifest` with name, icons, display, theme_color
+- [x] Emit `<link rel="manifest">` + apple-touch/`apple-mobile-web-app-*` tags via `overrides/main.html`
+- [x] Set `site_url` (enables canonical URLs)
+- [ ] **Decide the offline strategy** — see note below
+
+> [!NOTE]
+> **The `offline` plugin is not the right tool here.**
+>
+> Material's `offline` plugin builds the site for distribution as local files
+> (`file://`) and is explicitly incompatible with a hosted site. It does **not**
+> install a service worker, so it cannot give the live Pages site offline caching.
+>
+> Real offline support needs a service worker (`sw.js` precaching pages + the
+> lunr search index, registered from `overrides/main.html`). That is the
+> project's first custom application code, so it is a deliberate call — see
+> [PROJECT_OUTLINE.md](PROJECT_OUTLINE.md), Milestone 5.
+>
+> Until then the site is **installable but online-only**.
 - [x] Push to GitHub remote (live at https://mmayden.github.io/WilderThings/)
 - [x] Set GitHub Pages Source to "GitHub Actions" (Settings → Pages)
 - [x] Verify GitHub Actions deploy.yml runs clean
