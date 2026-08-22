@@ -78,14 +78,14 @@ ADMONITION_COLORS = {
     "warning": ("#ff9100", "#4a3000", "#2d1d00"),
     "caution": ("#ff9100", "#4a3000", "#2d1d00"),
     "tip":     ("#00c853", "#003d1a", "#002510"),
-    "note":    ("#448aff", "#0d2a5c", "#081a3a"),
-    "info":    ("#448aff", "#0d2a5c", "#081a3a"),
+    "note":    ("#6ba5ff", "#0d2a5c", "#081a3a"),
+    "info":    ("#6ba5ff", "#0d2a5c", "#081a3a"),
     "example": ("#9c27b0", "#3a0a42", "#240628"),
     "abstract":("#00b0ff", "#003d5c", "#00253a"),
     "success": ("#00c853", "#003d1a", "#002510"),
     "question":("#64dd17", "#1a3d00", "#102500"),
     "quote":   ("#9e9e9e", "#2a2a2a", "#1a1a1a"),
-    "bug":     ("#ff1744", "#4a0011", "#2d000a"),
+    "bug":     ("#ff5c78", "#4a0011", "#2d000a"),
 }
 
 # Material uses "danger"/"warning" as the visible titles; python-markdown emits
@@ -97,12 +97,12 @@ def build_admonition_css():
     """Generate CSS for every admonition type, for both !!! blocks and ??? details."""
     rules = [
         ".admonition, details.admonition, details[class] {",
-        "  border-left: 4px solid #448aff; background: #0d2a5c;",
+        "  border-left: 4px solid #6ba5ff; background: #0d2a5c;",
         "  border-radius: 4px; margin: 16px 0; padding: 12px 16px;",
         "}",
         ".admonition > :last-child, details > :last-child { margin-bottom: 0; }",
         ".admonition-title, details > summary {",
-        "  font-weight: 700; display: block; margin: 0 0 6px; color: #448aff; cursor: default;",
+        "  font-weight: 700; display: block; margin: 0 0 6px; color: #6ba5ff; cursor: default;",
         "}",
         "details > summary { cursor: pointer; }",
         # Body elements need spacing now that real markdown renders inside them.
@@ -541,7 +541,7 @@ img {{
 .footer {{
   text-align: center;
   padding: 32px 16px;
-  color: #666;
+  color: #9e9e9e;
   font-size: 0.8rem;
   border-top: 1px solid #2a2a2a;
 }}
