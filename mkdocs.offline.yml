@@ -1,0 +1,45 @@
+# Offline build — produces a fully self-contained copy of WilderThings that
+# runs from the filesystem with NO network and NO server. Open index.html.
+#
+#   mkdocs build -f mkdocs.offline.yml     -> site-offline/
+#
+# This is the primary deliverable. The hosted GitHub Pages site is built from
+# mkdocs.yml and is the online convenience mirror.
+#
+# Everything not overridden here is inherited from mkdocs.yml (nav, theme,
+# markdown extensions, CSS). Note that MkDocs REPLACES lists rather than
+# merging them, so `plugins` must be restated in full.
+
+INHERIT: ./mkdocs.yml
+
+site_dir: site-offline
+
+# No canonical URLs pointing at the hosted site — this build is standalone.
+site_url: ""
+
+theme:
+  # Critical: the default Roboto webfont is fetched from fonts.googleapis.com.
+  # `false` falls back to the system font stack, which needs no network.
+  font: false
+
+plugins:
+  - search
+  - tags
+  - minify:
+      minify_html: true
+  # Sets use_directory_urls=false so links resolve as real .html files, and
+  # inlines the search index into search/search_index.js so full-text search
+  # works without a server (fetch() is blocked under file://).
+  - offline
+
+extra:
+  # The offline plugin appends the iframe-worker shim from unpkg.com unless a
+  # polyfill matching "iframe-worker" is already present. Declaring the vendored
+  # copy here keeps the build free of any external request.
+  # The shim is required because Chrome refuses to construct a Web Worker from a
+  # file:// URL, which is how search runs.
+  polyfills:
+    - assets/javascripts/iframe-worker.shim.js
+
+  # A web app manifest is meaningless for a filesystem copy.
+  manifest: ""

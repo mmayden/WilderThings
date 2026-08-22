@@ -4,15 +4,27 @@
 
 ## How to Use This Guide
 
-This is a Progressive Web App (PWA). Once loaded, all content is cached for **offline access** — no signal required.
+There are two ways to carry this collection. **If you need it to work without signal, use the offline copy.**
 
-**Install on your phone:**
+### 1. Offline copy — works with no internet, no server, no install
 
-1. Open this site in your mobile browser.
-2. Tap **"Add to Home Screen"** (iOS Safari: share icon → Add to Home Screen; Android Chrome: menu → Install app).
-3. The app works offline from your home screen like a native app.
+A self-contained folder holding all 89 guides. Copy it to a phone, a USB stick, an SD card, or a laptop, then open `index.html` in any browser. Full-text search works. Nothing is ever fetched from the network.
 
-**Search everything:** Use the search bar at the top. It works offline and searches all guide content.
+This is the version to carry into the field, and the version to share — it keeps working if you have no signal, no power grid, and no access to this website.
+
+### 2. Online site — the convenience mirror
+
+Read it in a browser at any time, and optionally add it to your home screen (iOS Safari: share icon → Add to Home Screen; Android Chrome: menu → Install app), which gives it an app icon.
+
+!!! warning "The online version currently needs a connection"
+
+    Adding the site to your home screen gives you an icon and a full-screen
+    app window, but it does **not** yet store the guides on your device.
+    Without signal it will not load.
+
+    For genuine no-signal access, use the offline copy above.
+
+**Search:** the search bar at the top searches the full text of every guide, and works in both versions.
 
 ## Categories
 
@@ -53,5 +65,5 @@ Every guide in this collection follows these rules:
 
 - **Accuracy over volume.** No fabricated advice. Sourced from military field manuals, medical references, and established survival literature.
 - **Actionable under stress.** Short sentences. Numbered steps. Critical info first. Written for someone who is panicking, injured, or exhausted.
-- **Offline-first.** Works without internet. Designed for the field, not the couch.
+- **Offline-first.** The offline copy works with no internet, no server, and no install. Designed for the field, not the couch.
 - **No filler.** Every sentence earns its place.

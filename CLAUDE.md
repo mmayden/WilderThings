@@ -7,20 +7,32 @@
 ```bash
 pip install -r requirements.txt   # one-time setup
 mkdocs serve                      # dev server at http://localhost:8000
-mkdocs build --strict             # production build — fail on warnings
+mkdocs build --strict             # online build — fail on warnings
+./scripts/build-offline.sh        # OFFLINE build + self-check + zip  <-- primary deliverable
 codespell docs/ --config .codespellrc --quiet-level=2  # spell check
 ```
 
 ## What This Project Is
 
-A **mobile-first PWA** delivering 89 survival guides across 13 categories. Zero custom application code — MkDocs Material handles rendering, search, navigation, offline caching, and tag browsing through configuration alone.
+89 survival guides across 13 categories, shipped **two ways from one content source**:
+
+| | Build | Output | Needs network |
+|---|---|---|---|
+| **Primary** — shareable offline copy | `mkdocs.offline.yml` | `site-offline/` + zip | **No** |
+| Secondary — online mirror | `mkdocs.yml` | GitHub Pages | Yes (for now) |
 
 ```
-docs/*.md  →  mkdocs.yml  →  MkDocs Material  →  GitHub Pages  →  PWA (offline)
- (content)     (config)         (build)              (deploy)         (client)
+                      ┌─ mkdocs.offline.yml ─→ site-offline/ ─→ zip  (offline, primary)
+docs/*.md ─→ nav ─────┤
+ (content)            └─ mkdocs.yml ────────→ GitHub Pages          (online mirror)
 ```
 
-**Maintain only two things: content (`docs/`) and config (`mkdocs.yml`).**
+**The offline copy is the product.** It must work with no internet, no server, and
+no install — someone opens `index.html` from a USB stick and everything works,
+search included. Treat any change that introduces a network request into that
+build as a defect; `scripts/build-offline.sh` fails the build if one appears.
+
+**Maintain only content (`docs/`) and config (the two `mkdocs*.yml` files).**
 
 ## Current State
 
@@ -28,8 +40,9 @@ docs/*.md  →  mkdocs.yml  →  MkDocs Material  →  GitHub Pages  →  PWA (o
 |------|--------|
 | Guides | 89 across 13 categories, ~21,000 lines |
 | Milestones 0–4 | Complete |
-| Milestone 5 | **In progress** — site live at https://mmayden.github.io/WilderThings/; icons + manifest done, installable. Mobile install test + offline decision remain |
-| PWA | Installable (manifest + icons + apple-* tags). **Offline caching not implemented** — see below |
+| Milestone 5 | **In progress** — offline copy done and verified; hosted offline caching + device install testing remain |
+| Offline copy | **Working.** `./scripts/build-offline.sh` → 12 MB folder / 2.8 MB zip, 0 external requests, search index of 2,777 docs loads under `file://` |
+| Hosted site | Live at https://mmayden.github.io/WilderThings/. Installable (manifest + icons + apple-* tags) but **no service worker — requires a connection** |
 | Cross-links | 496 links across all 89 guides |
 | Tags | YAML frontmatter tags on all 89 guides; tags index at `docs/tags.md` |
 | Spell-check | Clean; `.codespellrc` suppresses valid domain words |
@@ -53,8 +66,12 @@ See [SECURITY.md](SECURITY.md) for the full security policy and how to report co
 
 ```
 WilderThings/
-├── mkdocs.yml              # Nav tree, theme, plugins, extensions
-├── requirements.txt        # Pinned: mkdocs-material==9.7.6, mkdocs-minify-plugin==0.8.0
+├── mkdocs.yml              # Nav tree, theme, plugins, extensions (online build)
+├── mkdocs.offline.yml      # Offline build — INHERITs mkdocs.yml, no network
+├── scripts/
+│   ├── build-offline.sh    # Build + verify-no-network + zip the offline copy
+│   └── generate-icons.py   # Regenerates the icon set (compass rose, deep orange)
+├── requirements.txt        # Pinned: mkdocs-material==9.7.7, mkdocs-minify-plugin==0.8.0
 ├── .codespellrc            # Spell-check exceptions (sting, HACE, trough, etc.)
 ├── .gitignore
 ├── docs/                   # Content root — 13 category folders + index + assets + references + tags.md
@@ -214,22 +231,32 @@ security: [description]         — security policy, CI hardening
 
 ## Milestone 5 — What's Left
 
-Site is live and the GitHub Actions deploy pipeline runs clean on every push to `main`.
-
-**Done:** icon set in `docs/assets/images/`, `docs/manifest.webmanifest`, and `overrides/main.html` (manifest link + apple-* install tags). The site is installable to the home screen.
+**Done:** the offline copy (`mkdocs.offline.yml` + `scripts/build-offline.sh`), the icon set in `docs/assets/images/`, `docs/manifest.webmanifest`, and `overrides/main.html`.
 
 **Remaining:**
 
-1. Test "Add to Home Screen" on iOS Safari and Android Chrome
-2. Decide the offline strategy — **open question, do not assume it is settled**
+1. Test "Add to Home Screen" on real iOS Safari and Android Chrome hardware
+2. Decide whether the hosted site also needs offline caching (a service worker)
+3. Decide how the offline zip is distributed (release asset vs. committed) — deliberately deferred
 
-> [!WARNING]
-> **Material's `offline` plugin will not do what you want.**
->
-> It builds the site for `file://` distribution and is incompatible with a
-> hosted site. It installs **no service worker**. Real offline support on
-> GitHub Pages needs a hand-written `sw.js` precaching pages + the lunr index,
-> registered from `overrides/main.html` — which would be this project's first
-> custom application code. See [PROJECT_OUTLINE.md](PROJECT_OUTLINE.md).
->
-> Current state: **installable but online-only.**
+### Two different meanings of "offline" — don't conflate them
+
+| | Offline copy (done) | Hosted offline caching (not done) |
+|---|---|---|
+| Mechanism | Material `offline` plugin, `file://` | Service worker on GitHub Pages |
+| Config | `mkdocs.offline.yml` | Would need a hand-written `sw.js` |
+| Status | **Working and verified** | Not implemented |
+
+The `offline` plugin sets `use_directory_urls=false` and inlines the search index;
+it installs **no service worker** and cannot make the *hosted* site work offline.
+Those are separate problems with separate solutions — solving one does not solve
+the other. A `sw.js` would be this project's first custom application code.
+
+### Rules for keeping the offline copy genuinely offline
+
+Anything that fetches at runtime breaks the product's core promise:
+
+- **Never** add a webfont (`theme.font` is `false` in the offline build for exactly this reason).
+- **Never** reference a CDN. Vendor it into `docs/assets/` instead — see `iframe-worker.shim.js`.
+- **Never** add external images to guide content. External links in `## Sources` are fine — they are citations, not loads.
+- Run `./scripts/build-offline.sh` before shipping; it greps the output for external `script`/`link`/`img` and fails if any exist.

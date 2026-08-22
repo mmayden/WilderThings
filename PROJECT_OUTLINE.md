@@ -2,7 +2,9 @@
 
 ## Vision
 
-Build the most comprehensive, well-organized, and practically useful survival knowledge base — delivered as a mobile-first PWA that works offline. Every guide should be something you'd trust with your life: accurate, clear, searchable, and available without signal.
+Build the most comprehensive, well-organized, and practically useful survival knowledge base — delivered primarily as a **self-contained offline copy you can hand to anyone**. Every guide should be something you'd trust with your life: accurate, clear, searchable, and available without signal.
+
+The failure mode that matters is a survival guide that needs a connection at the moment you have none. So the product is a folder that opens from `index.html` with no internet, no server, and no install. The hosted site is a convenience mirror, not the deliverable.
 
 **Accuracy is a life-safety matter.** Content quality and correctness are treated as security concerns — see [SECURITY.md](SECURITY.md).
 
@@ -254,39 +256,46 @@ MkDocs Material configured, content in `docs/`, GitHub Actions deploying, CSS mo
 
 ### Milestone 5 — PWA Completion (in progress)
 
-Site is live at https://mmayden.github.io/WilderThings/ via the GitHub Actions deploy pipeline. CI lint and build run on every push/PR. Dependabot keeps actions and pip pinned.
+**The primary deliverable now works.** `./scripts/build-offline.sh` produces a
+self-contained copy — 12 MB unpacked, 2.8 MB zipped — that runs from the
+filesystem with no network, no server, and no install.
 
-**Done:** icon set (favicons, apple-touch-icon, 192/512 manifest icons plus a maskable variant), `docs/manifest.webmanifest`, and the install metadata Material does not emit on its own (`overrides/main.html`). The site is now installable to the home screen.
+Getting there required fixing three things the original plan did not account for:
+
+| Problem | Why it broke offline | Fix |
+|---------|----------------------|-----|
+| Roboto webfont | Fetched from `fonts.googleapis.com` on every page load | `theme.font: false` — system font stack |
+| `iframe-worker` shim | The `offline` plugin pulls it from `unpkg.com`; Chrome cannot start a Web Worker from `file://`, so search depends on it | Vendored to `docs/assets/javascripts/` and declared in `extra.polyfills` |
+| Search index | Loaded via `fetch()`, which `file://` blocks | The `offline` plugin inlines it; Material detects `file:` at runtime and loads `search_index.js` |
+
+Verified: 0 external resource loads, 0 broken internal links across 91 pages,
+and a 2,777-document search index that loads under `file://`. The build script
+re-checks the first two on every run and fails if a network request reappears.
+
+Also done: icon set (favicons, apple-touch-icon, 192/512 manifest icons plus a
+maskable variant), `docs/manifest.webmanifest`, and the install metadata
+Material does not emit on its own (`overrides/main.html`).
+
+Corrected along the way: the homepage claimed content "is cached for offline
+access." It was not. On a project that treats accuracy as life-safety, a false
+offline promise is a defect, and it is now fixed.
 
 **Remaining:**
 
-- Test "Add to Home Screen" on iOS Safari and Android Chrome
-- Decide the offline strategy (below)
+- Test "Add to Home Screen" on real iOS Safari and Android Chrome hardware
+- Decide distribution for the zip (release asset vs. committed) — deferred
+- Optional: a service worker so the *hosted* site also survives losing signal
 
-#### Offline: an open architectural decision
+#### Note on the hosted site and "offline"
 
-The original plan named Material's `offline` plugin. That plugin solves a
-different problem — it builds the site for distribution as local files
-(`file://`) and is incompatible with a hosted site. It installs no service
-worker, so it cannot make the live Pages site work without signal.
+The `offline` plugin installs no service worker, so it does nothing for the
+hosted site. Making *that* work without a connection is a separate problem
+requiring a hand-written `sw.js`, which would be this project's first custom
+application code and would break the "zero custom application code" property.
 
-Genuine offline support requires a service worker that precaches the built
-pages and the lunr search index, registered from `overrides/main.html`.
-That would be this project's **first custom application code**, breaking the
-"zero custom application code" property that has kept maintenance to content
-and config alone.
-
-The trade-off is real either way: "available without signal" is stated in the
-Vision, and a survival guide that needs a connection is the one that fails
-when it matters. Options:
-
-| Option | Cost | Result |
-|--------|------|--------|
-| Hand-rolled `sw.js` | ~60 lines to own and maintain | True offline; breaks zero-code property |
-| Third-party MkDocs PWA plugin | New dependency, less control | True offline; dependency risk |
-| Accept online-only | None | Installable, but fails the Vision |
-
-Unresolved — pending a decision.
+Because the offline copy already covers the no-signal case completely, this is
+now optional convenience rather than a gap in the product — a materially
+smaller decision than it was when the hosted PWA was the only plan.
 
 ## Quality Gates
 

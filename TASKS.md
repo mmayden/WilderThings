@@ -4,7 +4,27 @@ Active work backlog organized by milestone. Completed work is collapsed at the b
 
 ---
 
-## Up Next — Milestone 5 (PWA Completion + Infrastructure)
+> [!IMPORTANT]
+> **The shareable offline copy is the primary deliverable.** A folder that opens
+> from `index.html` with no internet, no server, and no install. The hosted
+> GitHub Pages site is an online convenience mirror, not the product.
+
+## Up Next — Milestone 5 (Delivery)
+
+### Offline copy — DONE
+
+- [x] Add `mkdocs.offline.yml` (Material `offline` plugin, `use_directory_urls=false`, inlined search index)
+- [x] Disable the Google Fonts webfont (`theme.font: false`) — was the one real network dependency
+- [x] Vendor the `iframe-worker` shim locally so the offline plugin does not pull it from unpkg.com
+- [x] Add `scripts/build-offline.sh` — builds, **verifies zero external requests**, and zips
+- [x] Ship a `START-HERE.txt` in the package for non-technical recipients
+- [x] Verify: 0 external resource loads, 0 broken internal links across 91 pages, search index of 2,777 docs loads under `file://`
+
+Result: 12 MB folder / 2.8 MB zip.
+
+- [ ] Decide distribution — release asset vs. committed to repo (deliberately deferred)
+
+### Hosted site (secondary)
 
 ### Documentation and Security
 
@@ -22,21 +42,22 @@ Active work backlog organized by milestone. Completed work is collapsed at the b
 - [x] Create `docs/manifest.webmanifest` with name, icons, display, theme_color
 - [x] Emit `<link rel="manifest">` + apple-touch/`apple-mobile-web-app-*` tags via `overrides/main.html`
 - [x] Set `site_url` (enables canonical URLs)
-- [ ] **Decide the offline strategy** — see note below
+- [x] Correct the homepage, which claimed content "is cached for offline access" — it was not, and on a life-safety project a false offline promise is a defect
+- [ ] Test "Add to Home Screen" on iOS Safari (needs real hardware)
+- [ ] Test "Add to Home Screen" on Android Chrome (needs real hardware)
+- [ ] Decide: does the *hosted* site also need to work offline? Needs a service worker
 
 > [!NOTE]
-> **The `offline` plugin is not the right tool here.**
+> **Two different things both called "offline".**
 >
-> Material's `offline` plugin builds the site for distribution as local files
-> (`file://`) and is explicitly incompatible with a hosted site. It does **not**
-> install a service worker, so it cannot give the live Pages site offline caching.
+> The Material `offline` plugin (now used, and working) produces a `file://`
+> copy. It installs **no service worker** and cannot make the hosted site work
+> without a connection — that is a separate problem needing a hand-written
+> `sw.js` precaching pages plus the lunr index, registered from
+> `overrides/main.html`. It would be the project's first custom application code.
 >
-> Real offline support needs a service worker (`sw.js` precaching pages + the
-> lunr search index, registered from `overrides/main.html`). That is the
-> project's first custom application code, so it is a deliberate call — see
-> [PROJECT_OUTLINE.md](PROJECT_OUTLINE.md), Milestone 5.
->
-> Until then the site is **installable but online-only**.
+> Since the offline copy now fully covers the no-signal use case, this is
+> optional convenience rather than a gap in the product.
 - [x] Push to GitHub remote (live at https://mmayden.github.io/WilderThings/)
 - [x] Set GitHub Pages Source to "GitHub Actions" (Settings → Pages)
 - [x] Verify GitHub Actions deploy.yml runs clean

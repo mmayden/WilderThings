@@ -1,18 +1,42 @@
 # WilderThings — Survival Guide Collection
 
-A comprehensive, mobile-first survival knowledge base — searchable, offline-capable, and installable on any phone.
+A comprehensive, mobile-first survival knowledge base — searchable, and genuinely usable with no internet connection.
 
 ## What Is This?
 
-89 survival guides across 13 categories covering medical emergencies, wilderness skills, wildlife encounters, climate-specific survival, disaster preparedness, and real-world scenarios. Built as a Progressive Web App (PWA) so you can install it on your phone and access it anywhere — even without signal.
+89 survival guides across 13 categories covering medical emergencies, wilderness skills, wildlife encounters, climate-specific survival, disaster preparedness, and real-world scenarios.
+
+The primary deliverable is a **self-contained offline copy** — a folder you can put on a phone, USB stick, or SD card and open in any browser with no internet, no server, and no install. A hosted site exists as an online convenience mirror.
 
 **Content accuracy is a life-safety matter.** Every guide is sourced from military field manuals, medical references, and established survival literature. See [SECURITY.md](SECURITY.md) for how to report inaccurate or dangerous content.
 
 ## Quick Start
 
-### For Users
+### For Users — the offline copy (recommended)
 
-Visit the site URL, tap **"Add to Home Screen"** on your phone, and you have an offline survival reference app.
+Get `wilderthings-offline.zip`, unzip it, and open `index.html` in any browser. That is the whole procedure. Full-text search across all 89 guides works with no connection.
+
+Copy the folder anywhere you like — phone storage, USB stick, SD card, another machine. It keeps working with no signal and no access to this repository.
+
+To build it yourself:
+
+```bash
+pip install -r requirements.txt
+./scripts/build-offline.sh
+# -> site-offline/index.html  and  wilderthings-offline.zip
+```
+
+The build script verifies the result makes **zero external network requests** and fails if that is ever untrue.
+
+### For Users — the online site
+
+Browse at <https://mmayden.github.io/WilderThings/>. You can add it to your home screen for an app icon.
+
+> [!WARNING]
+> The hosted site currently **requires a connection**. "Add to Home Screen" gives
+> you an icon and a full-screen window, but does not yet store the guides on your
+> device — there is no service worker. For true no-signal access, use the offline
+> copy. See [TASKS.md](TASKS.md).
 
 ### For Contributors
 
@@ -32,9 +56,10 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for content standards, [STYLE_GUIDE.md](S
 |-------|------|
 | Content | Markdown files in `docs/` |
 | Site generator | [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) 9.x |
-| Search | Built-in lunr.js (offline-capable) |
+| Offline build | `mkdocs.offline.yml` — Material `offline` plugin, system fonts, vendored shim |
+| Search | Built-in lunr.js (index inlined for offline use) |
 | Tags | MkDocs Material tags plugin |
-| Hosting | GitHub Pages |
+| Hosting | GitHub Pages (online mirror only) |
 | CI/CD | GitHub Actions (build + deploy, least-privilege) |
 | Deps | Pinned in `requirements.txt`, auto-updated by Dependabot |
 
@@ -93,7 +118,12 @@ Guides are prioritized around the survival rule of threes:
 
 ```
 WilderThings/
-├── mkdocs.yml                  # Site configuration and navigation
+├── mkdocs.yml                  # Site configuration and navigation (online build)
+├── mkdocs.offline.yml          # Offline build — self-contained, no network
+├── scripts/
+│   ├── build-offline.sh        # Builds + verifies + zips the offline copy
+│   └── generate-icons.py       # Regenerates the PWA/favicon icon set
+├── overrides/main.html         # Manifest link + iOS install meta tags
 ├── requirements.txt            # Pinned Python dependencies
 ├── .codespellrc                # Spell-check config (domain-specific word exceptions)
 ├── .gitignore
@@ -130,17 +160,19 @@ WilderThings/
 
 ## Current Status
 
-All four content milestones are complete:
+All content milestones are complete, and the offline copy — the primary deliverable — works:
 
 | Milestone | Scope | Status |
 |-----------|-------|--------|
-| 0 — Platform | MkDocs, CI/CD, theme, CSS | Complete (PWA icons + offline plugin pending) |
+| 0 — Platform | MkDocs, CI/CD, theme, CSS | Complete |
 | 1 — Foundation (P0) | 14 life-critical guides | Complete |
 | 2 — Critical Skills (P1) | 36 guides | Complete |
 | 3 — Advanced (P2) | 34 guides | Complete |
 | 4 — Polish (P3) | Tags, review pass, spell-check, mobile UX | Complete |
+| 5 — Delivery | Offline build, icons, manifest | Offline copy **done**; hosted offline caching outstanding |
 
-Remaining: PWA icons, offline plugin, mobile install testing. See [TASKS.md](TASKS.md).
+Remaining: a service worker so the hosted site also works without signal, plus
+home-screen install testing on real iOS/Android hardware. See [TASKS.md](TASKS.md).
 
 ## GitHub Pages Setup
 

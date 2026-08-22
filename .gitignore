@@ -43,3 +43,7 @@ credentials.json
 *.tmp
 *.bak
 *.log
+
+# Offline build output (built via: mkdocs build -f mkdocs.offline.yml)
+site-offline/
+wilderthings-offline*.zip
