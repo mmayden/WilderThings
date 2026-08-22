@@ -47,3 +47,8 @@ credentials.json
 # Offline build output (built via: mkdocs build -f mkdocs.offline.yml)
 site-offline/
 wilderthings-offline*.zip
+
+# Single-file build output (built via: python3 build_single_file.py)
+# Was committed and silently went 4 months stale; CI now builds it fresh and
+# uploads it as a workflow artifact instead.
+wilderthings-mobile.html

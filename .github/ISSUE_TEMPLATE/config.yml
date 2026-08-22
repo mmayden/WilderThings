@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security or safety disclosure
+    url: https://github.com/mmayden/WilderThings/security/advisories/new
+    about: >
+      For issues you would rather not disclose publicly. See SECURITY.md.
+  - name: Emergency
+    url: https://en.wikipedia.org/wiki/List_of_emergency_telephone_numbers
+    about: >
+      This repository is not a source of emergency help. Contact your local
+      emergency services.

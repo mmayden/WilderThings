@@ -1,0 +1,79 @@
+name: Content accuracy report
+description: Report inaccurate, dangerous, or outdated survival guidance
+title: "[accuracy] "
+labels: ["accuracy", "priority-high"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        **Thank you for reporting this.** Content accuracy is treated as a
+        life-safety matter here, not a cosmetic issue. Inaccurate guidance is a
+        defect and is prioritised accordingly.
+
+        If someone is in immediate danger, contact emergency services — do not
+        wait on this issue.
+
+  - type: input
+    id: guide
+    attributes:
+      label: Which guide?
+      description: Path or title, e.g. `docs/medical/trauma-and-triage.md`
+      placeholder: docs/category/guide-name.md
+    validations:
+      required: true
+
+  - type: textarea
+    id: claim
+    attributes:
+      label: What does the guide currently say?
+      description: Quote the specific passage.
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong with it, and what is the risk?
+      description: >
+        Explain the error and what could happen if someone followed it.
+    validations:
+      required: true
+
+  - type: textarea
+    id: correction
+    attributes:
+      label: What should it say instead?
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources supporting the correction
+      description: >
+        Field manuals, medical guidelines, textbooks, peer-reviewed work.
+        Corrections need to be traceable to a credible source — the same bar
+        the original content is held to.
+      placeholder: |
+        - Wilderness Medical Society Practice Guidelines, 2019
+        - PHTLS 10th Edition, ch. 12
+    validations:
+      required: true
+
+  - type: dropdown
+    id: severity
+    attributes:
+      label: Severity
+      options:
+        - Could get someone killed or seriously injured
+        - Could make a survival situation worse
+        - Misleading but unlikely to cause harm
+        - Outdated or imprecise
+    validations:
+      required: true
+
+  - type: input
+    id: region
+    attributes:
+      label: Region this applies to (if relevant)
+      description: Species ranges, legal rules, and protocols vary by region.

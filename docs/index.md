@@ -1,6 +1,6 @@
 # WilderThings — Survival Guide Collection
 
-> Comprehensive, field-tested survival knowledge — offline-ready, mobile-first, and built for when it matters most.
+> Comprehensive, well-sourced survival knowledge — works offline, built for the field, and free to share.
 
 ## How to Use This Guide
 

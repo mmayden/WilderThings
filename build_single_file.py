@@ -65,8 +65,13 @@ def parse_nav():
     return flatten_nav(nav)
 
 # ---------------------------------------------------------------------------
-# Admonition pre-processing (before markdown conversion)
+# Admonition styling
 # ---------------------------------------------------------------------------
+# Admonitions carry the safety-critical content (DANGER / WARNING blocks), so
+# they are rendered by the `admonition` and `pymdownx.details` extensions —
+# the same ones MkDocs uses — and styled here by class. They are deliberately
+# NOT hand-parsed: doing so previously escaped the body, which meant bold text,
+# links and tables inside safety warnings rendered as literal markup.
 
 ADMONITION_COLORS = {
     "danger":  ("#ff5252", "#4a0000", "#2d0000"),  # border, bg-dark, bg-darker
@@ -83,95 +88,96 @@ ADMONITION_COLORS = {
     "bug":     ("#ff1744", "#4a0011", "#2d000a"),
 }
 
-def convert_admonitions(md_text):
-    """Convert MkDocs-style admonitions to HTML before markdown processing."""
-    lines = md_text.split("\n")
-    result = []
-    i = 0
-    while i < len(lines):
-        # Match !!! type "Title" or !!! type
-        m = re.match(r'^!!! (\w+)\s*(?:"([^"]*)")?', lines[i])
-        if m:
-            adm_type = m.group(1).lower()
-            adm_title = m.group(2) or adm_type.upper()
-            colors = ADMONITION_COLORS.get(adm_type, ("#448aff", "#0d2a5c", "#081a3a"))
-            border_color, bg_color, _ = colors
-
-            # Collect indented body lines
-            body_lines = []
-            i += 1
-            while i < len(lines) and (lines[i].startswith("    ") or lines[i].strip() == ""):
-                if lines[i].strip() == "" and i + 1 < len(lines) and not lines[i + 1].startswith("    "):
-                    break
-                body_lines.append(lines[i][4:] if lines[i].startswith("    ") else "")
-                i += 1
-
-            body_text = "\n".join(body_lines).strip()
-            # We'll wrap in a special HTML block that markdown will pass through
-            result.append(f'<div class="admonition adm-{adm_type}" style="border-left:4px solid {border_color}; background:{bg_color}; padding:12px 16px; margin:16px 0; border-radius:4px;">')
-            result.append(f'<strong style="color:{border_color}; display:block; margin-bottom:6px;">{html_module.escape(adm_title)}</strong>')
-            result.append(f'<span class="adm-body">{html_module.escape(body_text)}</span>')
-            result.append('</div>')
-            result.append('')
-        else:
-            result.append(lines[i])
-            i += 1
-    return "\n".join(result)
+# Material uses "danger"/"warning" as the visible titles; python-markdown emits
+# the type as a class, so map aliases onto the same styling.
+ADMONITION_ALIASES = {"attention": "warning", "important": "warning", "hint": "tip", "failure": "bug"}
 
 
-def convert_content_tabs(md_text):
-    """Convert === \"Tab Title\" blocks to simple labeled sections."""
-    lines = md_text.split("\n")
-    result = []
-    i = 0
-    while i < len(lines):
-        m = re.match(r'^=== "([^"]*)"', lines[i])
-        if m:
-            tab_title = m.group(1)
-            result.append(f'**{tab_title}:**\n')
-            i += 1
-            # Collect indented body
-            while i < len(lines) and (lines[i].startswith("    ") or lines[i].strip() == ""):
-                if lines[i].strip() == "" and i + 1 < len(lines) and not lines[i + 1].startswith("    ") and not re.match(r'^=== "', lines[i + 1] if i + 1 < len(lines) else ""):
-                    result.append("")
-                    i += 1
-                    break
-                result.append(lines[i][4:] if lines[i].startswith("    ") else "")
-                i += 1
-        else:
-            result.append(lines[i])
-            i += 1
-    return "\n".join(result)
+def build_admonition_css():
+    """Generate CSS for every admonition type, for both !!! blocks and ??? details."""
+    rules = [
+        ".admonition, details.admonition, details[class] {",
+        "  border-left: 4px solid #448aff; background: #0d2a5c;",
+        "  border-radius: 4px; margin: 16px 0; padding: 12px 16px;",
+        "}",
+        ".admonition > :last-child, details > :last-child { margin-bottom: 0; }",
+        ".admonition-title, details > summary {",
+        "  font-weight: 700; display: block; margin: 0 0 6px; color: #448aff; cursor: default;",
+        "}",
+        "details > summary { cursor: pointer; }",
+        # Body elements need spacing now that real markdown renders inside them.
+        ".admonition p, details p { margin: 0 0 8px; }",
+        ".admonition ul, .admonition ol, details ul, details ol { margin: 0 0 8px 1.2em; }",
+        ".admonition table, details table { margin: 8px 0; }",
+    ]
+    for kind, (border, bg, _) in ADMONITION_COLORS.items():
+        names = [kind] + [a for a, t in ADMONITION_ALIASES.items() if t == kind]
+        sel = ", ".join(f".admonition.{n}, details.{n}" for n in names)
+        title_sel = ", ".join(f".admonition.{n} > .admonition-title, details.{n} > summary" for n in names)
+        rules.append(f"{sel} {{ border-left-color: {border}; background: {bg}; }}")
+        rules.append(f"{title_sel} {{ color: {border}; }}")
 
+    # pymdownx.tabbed (alternate_style) — content tabs
+    rules += [
+        ".tabbed-set { margin: 16px 0; }",
+        ".tabbed-set > input { display: none; }",
+        ".tabbed-labels { display: flex; flex-wrap: wrap; gap: 4px; border-bottom: 1px solid #333; }",
+        ".tabbed-labels > label {",
+        "  padding: 6px 12px; cursor: pointer; font-weight: 600; font-size: 0.9rem;",
+        "  color: #9e9e9e; border-bottom: 2px solid transparent; min-height: 2.4rem;",
+        "}",
+        ".tabbed-content { padding-top: 10px; }",
+        ".tabbed-block { display: none; }",
+    ]
+    # Show the block whose radio is checked (supports up to 8 tabs per set).
+    for n in range(1, 9):
+        rules.append(
+            f".tabbed-set > input:nth-child({n}):checked ~ .tabbed-labels > label:nth-child({n}) "
+            "{ color: #ff9100; border-bottom-color: #ff9100; }"
+        )
+        rules.append(
+            f".tabbed-set > input:nth-child({n}):checked ~ .tabbed-content > .tabbed-block:nth-child({n}) "
+            "{ display: block; }"
+        )
+    return "\n".join(rules)
 
 # ---------------------------------------------------------------------------
 # Markdown conversion
 # ---------------------------------------------------------------------------
 
-def md_to_html(md_text):
-    """Convert markdown text to HTML."""
-    # Pre-process admonitions and content tabs
-    md_text = convert_content_tabs(md_text)
-    md_text = convert_admonitions(md_text)
+# Mirrors markdown_extensions in mkdocs.yml. Keeping these in sync is what makes
+# the single-file build render identically to the MkDocs builds — the guides are
+# authored against this feature set, so anything missing here silently degrades
+# content rather than failing loudly.
+MARKDOWN_EXTENSIONS = [
+    'tables',
+    'admonition',           # !!! danger "..."  — safety warnings depend on this
+    'pymdownx.details',     # ??? collapsible admonitions
+    'pymdownx.superfences',
+    'pymdownx.tabbed',      # === "Tab"
+    'pymdownx.mark',
+    'attr_list',
+    'md_in_html',
+    'fenced_code',
+    'codehilite',
+]
 
-    if HAS_MARKDOWN:
-        md = markdown.Markdown(extensions=[
-            'tables',
-            'fenced_code',
-            'codehilite',
-            'attr_list',
-            TocExtension(permalink=False),
-        ], extension_configs={
-            'codehilite': {'css_class': 'code-block', 'guess_lang': False},
-        })
-        try:
-            return md.convert(md_text)
-        except Exception:
-            # Fallback if extensions cause issues
-            md = markdown.Markdown(extensions=['tables', 'fenced_code'])
-            return md.convert(md_text)
-    else:
+MARKDOWN_EXTENSION_CONFIGS = {
+    'codehilite': {'css_class': 'code-block', 'guess_lang': False},
+    'pymdownx.tabbed': {'alternate_style': True},
+}
+
+
+def md_to_html(md_text):
+    """Convert markdown text to HTML using the same extensions as mkdocs.yml."""
+    if not HAS_MARKDOWN:
         return fallback_md_to_html(md_text)
+
+    md = markdown.Markdown(
+        extensions=MARKDOWN_EXTENSIONS + [TocExtension(permalink=False)],
+        extension_configs=MARKDOWN_EXTENSION_CONFIGS,
+    )
+    return md.convert(md_text)
 
 
 def fallback_md_to_html(text):
@@ -206,6 +212,42 @@ def fallback_md_to_html(text):
     text = '<p>' + text + '</p>'
 
     return text
+
+
+def namespace_ids(html_content, prefix):
+    """Make every generated id/name unique to one guide.
+
+    Each guide is converted by its own Markdown instance, so python-markdown
+    restarts its heading-id and tab counters for all 91 of them. Concatenating
+    the results into a single document produced 148 duplicate ids ("see-also"
+    appeared 89 times) and duplicate radio-group names, which merged every
+    guide's content tabs into one group document-wide and left all tabs
+    unselected. Prefixing per guide keeps anchors and tab groups independent.
+    """
+    # Collect this guide's own ids BEFORE rewriting, so intra-guide fragment
+    # links can be distinguished from links pointing at other guides.
+    local_ids = set(re.findall(r'\sid="([^"]+)"', html_content))
+
+    def prefixed(value):
+        return f"{prefix}--{value}"
+
+    def sub_attr(match):
+        return f'{match.group(1)}{prefixed(match.group(2))}{match.group(3)}'
+
+    html_content = re.sub(r'(\sid=")([^"]+)(")', sub_attr, html_content)
+    html_content = re.sub(r'(\sfor=")([^"]+)(")', sub_attr, html_content)
+    # Radio groups for content tabs — collisions here are what break tab state.
+    html_content = re.sub(r'(\sname=")(__tabbed_[^"]+)(")', sub_attr, html_content)
+
+    def sub_href(match):
+        fragment = match.group(2)
+        # Only namespace fragments that point inside this guide. Links to other
+        # guides target section ids, which are already globally unique.
+        if fragment in local_ids:
+            return f'{match.group(1)}{prefixed(fragment)}{match.group(3)}'
+        return match.group(0)
+
+    return re.sub(r'(\shref="#)([^"]+)(")', sub_href, html_content)
 
 
 def make_anchor(title):
@@ -485,17 +527,8 @@ td {{
 
 tr:hover td {{ background: rgba(255,255,255,0.03); }}
 
-/* ===== ADMONITIONS ===== */
-.admonition {{
-  border-radius: 4px;
-  margin: 16px 0;
-  padding: 12px 16px;
-}}
-.adm-body {{
-  white-space: pre-line;
-  display: block;
-  margin-top: 2px;
-}}
+/* ===== ADMONITIONS & CONTENT TABS (generated) ===== */
+{admonition_css}
 
 /* ===== IMAGES ===== */
 img {{
@@ -554,7 +587,13 @@ img {{
 
 <div class="footer">
   WilderThings Survival Guide &mdash; Offline Reference<br>
-  Use browser search (Ctrl+F / Cmd+F) to find specific topics.
+  Use browser search (Ctrl+F / Cmd+F) to find specific topics.<br><br>
+  Guides licensed <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>
+  &middot; tooling MIT &middot; &copy; WilderThings Contributors.<br>
+  Share and adapt freely; credit the source and keep derivatives under the same license.<br><br>
+  <strong>Reference material only.</strong> Not a substitute for training, professional
+  medical care, or emergency services. Plant and mushroom identification carries a risk
+  of death from misidentification.
 </div>
 
 <script>
@@ -623,10 +662,14 @@ def build():
             if link_target.endswith(".md") or ".md#" in link_target:
                 # Extract just the filename part for anchor
                 base = link_target.split("/")[-1].replace(".md", "").split("#")[0]
-                fragment = ""
+                target = make_anchor(base)
                 if "#" in link_target:
-                    fragment = "#" + link_target.split("#")[1]
-                return f"[{link_text}](#{make_anchor(base)}{fragment})"
+                    # Heading anchors are namespaced per guide by namespace_ids,
+                    # so "guide.md#heading" resolves to "#guide--heading".
+                    # Previously this emitted "#guide#heading", which is a single
+                    # malformed fragment matching nothing.
+                    target = f"{target}--{link_target.split('#', 1)[1]}"
+                return f"[{link_text}](#{target})"
             return m.group(0)
 
         md_text = re.sub(r'\[([^\]]+)\]\(([^)]*\.md[^)]*)\)', rewrite_link, md_text)
@@ -649,8 +692,8 @@ def build():
             toc_entries.append(f'<div class="nav-section-title">{html_module.escape(section_name)}</div>')
         toc_entries.append(f'<a class="nav-link" href="#{anchor}">{html_module.escape(title)}</a>')
 
-        # Convert to HTML
-        html_content = md_to_html(md_text)
+        # Convert to HTML, then scope its ids to this guide.
+        html_content = namespace_ids(md_to_html(md_text), anchor)
 
         section_html = f'<section class="guide-section" id="{anchor}">\n'
         if section_name:
@@ -667,6 +710,7 @@ def build():
     final_html = HTML_TEMPLATE.format(
         toc_html=toc_html,
         content_html=content_html,
+        admonition_css=build_admonition_css(),
     )
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:

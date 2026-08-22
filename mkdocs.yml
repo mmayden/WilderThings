@@ -2,6 +2,11 @@ site_name: WilderThings
 site_description: Comprehensive wilderness survival guide — offline-ready, mobile-first
 site_author: WilderThings Contributors
 site_url: https://mmayden.github.io/WilderThings/
+copyright: >
+  Guides licensed
+  <a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC BY-SA 4.0</a>
+  &middot; tooling MIT &middot; &copy; WilderThings Contributors &mdash;
+  reference material, not a substitute for training or professional medical care.
 
 theme:
   name: material

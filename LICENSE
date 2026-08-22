@@ -1,0 +1,78 @@
+# Licensing
+
+WilderThings is free and open source. It is licensed in two parts, because a
+repository of survival guides is mostly writing with a little bit of tooling
+around it, and those two things want different licenses.
+
+## The guides (content) — CC BY-SA 4.0
+
+Everything in `docs/`, plus `templates/`, is licensed under the
+**Creative Commons Attribution-ShareAlike 4.0 International License**.
+
+Full text: [LICENSE-CONTENT.txt](LICENSE-CONTENT.txt)
+Summary: <https://creativecommons.org/licenses/by-sa/4.0/>
+
+You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+
+for any purpose, **including commercially**. Print it, translate it, put it on
+a USB stick, hand it out, fold it into a course, sell the printed copies.
+
+Under these terms:
+
+- **Attribution** — credit "WilderThings Contributors", link to the license,
+  and indicate if you made changes.
+- **ShareAlike** — if you remix or build upon it, distribute your contributions
+  under this same license.
+- **No additional restrictions** — you may not apply legal terms or
+  technological measures that legally restrict others from doing anything the
+  license permits.
+
+ShareAlike is deliberate: it keeps this collection free for everyone downstream.
+Nobody can take these guides, improve them, and lock the result away.
+
+## The tooling (code) — MIT
+
+The build and configuration code is licensed under the **MIT License**.
+
+Full text: [LICENSE-CODE.txt](LICENSE-CODE.txt)
+
+This covers:
+
+- `mkdocs.yml`, `mkdocs.offline.yml`
+- `scripts/` (`build-offline.sh`, `generate-icons.py`)
+- `build_single_file.py`
+- `overrides/`
+- `docs/assets/css/`
+- `.github/` workflows and configuration
+
+MIT keeps the tooling trivially reusable — copy the offline build setup into
+your own MkDocs project without inheriting ShareAlike obligations.
+
+## Third-party components
+
+- **MkDocs Material** — MIT License, © Martin Donath. See
+  <https://github.com/squidfunk/mkdocs-material>.
+- **`docs/assets/javascripts/iframe-worker.shim.js`** — MIT License, from the
+  `iframe-worker` package by Martin Donath. Vendored so the offline build makes
+  no network requests.
+
+## Sources cited in the guides
+
+The guides cite external references — field manuals, medical guidelines,
+textbooks. Those works remain under their own copyright and are **not**
+relicensed here. Citing a source is not redistributing it. Where a guide
+paraphrases a procedure, the wording is original; where a specific protocol is
+named (TCCC, START triage, ATLS), the underlying protocol belongs to its issuing
+body.
+
+## No warranty
+
+This material is provided as-is, with no warranty of any kind. See the
+disclaimer in [README.md](README.md) and the content accuracy policy in
+[SECURITY.md](SECURITY.md).
+
+**This is reference material, not a substitute for training, professional
+medical care, or emergency services.**

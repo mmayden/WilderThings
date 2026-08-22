@@ -25,6 +25,10 @@ mkdocs build -f mkdocs.offline.yml --strict
 # which cannot resolve on a filesystem copy, so it is dead weight here.
 rm -f "$OUT_DIR/404.html"
 
+echo "==> Bundling licenses (recipients need to know their rights)"
+cp LICENSE "$OUT_DIR/LICENSE.md"
+cp LICENSE-CONTENT.txt LICENSE-CODE.txt "$OUT_DIR/"
+
 echo "==> Adding START-HERE for recipients"
 cat > "$OUT_DIR/START-HERE.txt" <<'EOF'
 WilderThings — Offline Survival Guide Collection
@@ -41,6 +45,14 @@ Use the search box at the top to search all 89 guides.
 Copy this whole folder anywhere you like: a phone, a USB stick,
 an SD card, another computer. Keep the folder together — the
 guides live in the subfolders next to index.html.
+
+--------------------------------------------------------------
+SHARE THIS FREELY
+
+The guides are licensed CC BY-SA 4.0. You may copy, print,
+translate, adapt, and redistribute them — commercially too.
+Credit "WilderThings Contributors" and keep any derivative
+under the same free license. Full terms: LICENSE.md
 
 --------------------------------------------------------------
 IMPORTANT — READ THIS

@@ -22,7 +22,29 @@ Active work backlog organized by milestone. Completed work is collapsed at the b
 
 Result: 12 MB folder / 2.8 MB zip.
 
-- [ ] Decide distribution — release asset vs. committed to repo (deliberately deferred)
+- [ ] Decide distribution — GitHub Release asset vs. committed to repo (deferred; CI uploads both artifacts on every run in the meantime)
+
+### Single-file build — DONE
+
+- [x] Adopt the same markdown extension set as `mkdocs.yml` — admonition bodies were HTML-escaped, so **bold, links and tables inside safety warnings rendered as literal markup**
+- [x] Namespace generated ids per guide — 148 duplicate ids across the 91 concatenated documents, which merged every content-tab radio group and left all tabs unselected
+- [x] Fix cross-guide fragment links emitting malformed `#guide#heading`
+- [x] Add license + disclaimer footer to the distributed file
+- [x] Stop committing the generated file — it had gone 4 months stale in the repo; CI builds it fresh instead
+
+### Licensing — DONE
+
+- [x] `LICENSE` — CC BY-SA 4.0 for guides, MIT for tooling, © WilderThings Contributors
+- [x] Bundle licenses into the offline zip and the single file so recipients know their rights
+- [x] Footer notice on the hosted site
+
+### Engineering standards — DONE
+
+- [x] `scripts/verify.py` — test suite (no external requests, link integrity, id uniqueness, render correctness); negative-tested to confirm it actually catches regressions
+- [x] CI `offline-check` job builds both offline artifacts, verifies them, and uploads them
+- [x] Declare direct dependencies (`Markdown`, `PyYAML`, `pymdown-extensions`) instead of relying on transitive installs
+- [x] `CODE_OF_CONDUCT.md`, content-accuracy issue template, PR template
+- [x] Remove the "field-tested" claim — the content is well-sourced, which is a different claim
 
 ### Hosted site (secondary)
 

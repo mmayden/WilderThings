@@ -1,5 +1,15 @@
 # Pinned to exact versions for reproducible, secure builds.
-# To upgrade: pip install --upgrade mkdocs-material mkdocs-minify-plugin
-# then update the versions below and verify with: mkdocs build --strict
+# To upgrade: pip install --upgrade <package>, update the version below, then
+# verify with:  mkdocs build --strict  &&  ./scripts/build-offline.sh
+# Dependabot opens a PR weekly for anything out of date.
+
+# Site generation (hosted build + offline build)
 mkdocs-material==9.7.7
 mkdocs-minify-plugin==0.8.0
+
+# Used directly by build_single_file.py. These arrive transitively via
+# mkdocs-material, but the single-file build imports them itself, so they are
+# declared here — an implicit dependency is one that can vanish in an upgrade.
+Markdown==3.10.2
+PyYAML==6.0.1
+pymdown-extensions==10.21

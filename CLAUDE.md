@@ -8,24 +8,31 @@
 pip install -r requirements.txt   # one-time setup
 mkdocs serve                      # dev server at http://localhost:8000
 mkdocs build --strict             # online build — fail on warnings
-./scripts/build-offline.sh        # OFFLINE build + self-check + zip  <-- primary deliverable
+./scripts/build-offline.sh        # OFFLINE folder + zip  <-- primary deliverable
+python3 build_single_file.py      # ONE self-contained .html file
+python3 scripts/verify.py --offline site-offline --single wilderthings-mobile.html
 codespell docs/ --config .codespellrc --quiet-level=2  # spell check
 ```
 
 ## What This Project Is
 
-89 survival guides across 13 categories, shipped **two ways from one content source**:
+89 survival guides across 13 categories, shipped **three ways from one content source**:
 
 | | Build | Output | Needs network |
 |---|---|---|---|
-| **Primary** — shareable offline copy | `mkdocs.offline.yml` | `site-offline/` + zip | **No** |
+| **Primary** — offline folder | `mkdocs.offline.yml` | `site-offline/` + 2.8 MB zip | **No** |
+| **Primary** — single file | `build_single_file.py` | `wilderthings-mobile.html`, 1.45 MB | **No** |
 | Secondary — online mirror | `mkdocs.yml` | GitHub Pages | Yes (for now) |
 
 ```
-                      ┌─ mkdocs.offline.yml ─→ site-offline/ ─→ zip  (offline, primary)
-docs/*.md ─→ nav ─────┤
- (content)            └─ mkdocs.yml ────────→ GitHub Pages          (online mirror)
+                      ┌─ mkdocs.offline.yml ─→ site-offline/ ─→ zip   (full UI, offline)
+docs/*.md ─→ nav ─────┼─ build_single_file.py ─→ one .html file       (max portability)
+ (content)            └─ mkdocs.yml ──────────→ GitHub Pages          (online mirror)
 ```
+
+The two offline builds are not redundant — the zip keeps the full Material UI
+(sidebar nav, lunr search); the single file is one attachment you can email or
+AirDrop, searched with Ctrl+F. Both must work with no network.
 
 **The offline copy is the product.** It must work with no internet, no server, and
 no install — someone opens `index.html` from a USB stick and everything works,
@@ -252,11 +259,39 @@ it installs **no service worker** and cannot make the *hosted* site work offline
 Those are separate problems with separate solutions — solving one does not solve
 the other. A `sw.js` would be this project's first custom application code.
 
-### Rules for keeping the offline copy genuinely offline
+### Rules for keeping the offline copies genuinely offline
 
 Anything that fetches at runtime breaks the product's core promise:
 
 - **Never** add a webfont (`theme.font` is `false` in the offline build for exactly this reason).
 - **Never** reference a CDN. Vendor it into `docs/assets/` instead — see `iframe-worker.shim.js`.
 - **Never** add external images to guide content. External links in `## Sources` are fine — they are citations, not loads.
-- Run `./scripts/build-offline.sh` before shipping; it greps the output for external `script`/`link`/`img` and fails if any exist.
+- Run `scripts/verify.py` before shipping. CI runs it on every push.
+
+### Testing
+
+`scripts/verify.py` is the test suite. It exists because each check corresponds
+to a bug that actually shipped here:
+
+| Check | The bug it catches |
+|---|---|
+| No external resource loads | A webfont/CDN silently making the "offline" copy need a network |
+| All local refs resolve | Broken links in a copy with no online fallback |
+| Search index present | Search silently doing nothing under `file://` |
+| Unique ids (single file) | 91 documents concatenated → duplicate ids merged all content-tab radio groups, leaving every tab unselected |
+| Anchors resolve (single file) | `guide.md#heading` rewritten to malformed `#guide#heading` |
+| No literal `**` in text | Admonition bodies HTML-escaped instead of rendered, so **safety warnings showed raw markup** |
+
+If you change how anything is built, add the corresponding check. A build step
+without a check is a regression waiting to ship.
+
+### Keeping the single-file build correct
+
+`build_single_file.py` renders each guide with its own `Markdown()` instance and
+concatenates them. Two consequences to respect:
+
+1. **Its extension list must mirror `markdown_extensions` in `mkdocs.yml`**
+   (`MARKDOWN_EXTENSIONS`). Guides are authored against that feature set; a
+   missing extension degrades content silently rather than failing.
+2. **All generated ids must stay namespaced per guide** (`namespace_ids`).
+   Without it, ids collide across guides.

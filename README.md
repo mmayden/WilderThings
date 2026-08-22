@@ -12,21 +12,28 @@ The primary deliverable is a **self-contained offline copy** — a folder you ca
 
 ## Quick Start
 
-### For Users — the offline copy (recommended)
+### For Users — the offline copies (recommended)
 
-Get `wilderthings-offline.zip`, unzip it, and open `index.html` in any browser. That is the whole procedure. Full-text search across all 89 guides works with no connection.
+Two formats, both fully self-contained. Pick whichever suits how you're sharing:
 
-Copy the folder anywhere you like — phone storage, USB stick, SD card, another machine. It keeps working with no signal and no access to this repository.
+| | What you get | Best for |
+|---|---|---|
+| **`wilderthings-offline.zip`** (2.8 MB) | Unzip, open `index.html`. Full sidebar navigation and instant full-text search across all 89 guides. | Putting on a phone, USB stick, or SD card to actually use in the field. |
+| **`wilderthings-mobile.html`** (1.45 MB) | One single file. Open it. Search with Ctrl+F. | Handing to someone — email it, message it, AirDrop it. Nothing to unzip. |
 
-To build it yourself:
+Neither ever touches the network. Copy them anywhere; they keep working with no signal and no access to this repository.
+
+Both are built and verified by CI on every change — download them from the
+[latest workflow run](https://github.com/mmayden/WilderThings/actions/workflows/lint.yml)
+under **Artifacts**, or build them yourself:
 
 ```bash
 pip install -r requirements.txt
-./scripts/build-offline.sh
-# -> site-offline/index.html  and  wilderthings-offline.zip
+./scripts/build-offline.sh        # -> site-offline/ and wilderthings-offline.zip
+python3 build_single_file.py      # -> wilderthings-mobile.html
 ```
 
-The build script verifies the result makes **zero external network requests** and fails if that is ever untrue.
+Both builds are checked by `scripts/verify.py`, which **fails** if the output makes any external network request, contains a broken link, or renders markup incorrectly.
 
 ### For Users — the online site
 
@@ -48,7 +55,19 @@ mkdocs serve
 # Open http://localhost:8000
 ```
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for content standards, [STYLE_GUIDE.md](STYLE_GUIDE.md) for formatting rules, and [SECURITY.md](SECURITY.md) for the security policy.
+Before opening a PR:
+
+```bash
+mkdocs build --strict
+./scripts/build-offline.sh
+python3 build_single_file.py
+python3 scripts/verify.py --offline site-offline --single wilderthings-mobile.html --site site
+codespell docs/ --config .codespellrc --quiet-level=2
+```
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for content standards, [STYLE_GUIDE.md](STYLE_GUIDE.md) for formatting rules, [SECURITY.md](SECURITY.md) for the security policy, and [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+**Never add a webfont, CDN reference, or external image to guide content** — it breaks the offline copies, and CI will fail the build.
 
 ## Tech Stack
 
@@ -120,8 +139,10 @@ Guides are prioritized around the survival rule of threes:
 WilderThings/
 ├── mkdocs.yml                  # Site configuration and navigation (online build)
 ├── mkdocs.offline.yml          # Offline build — self-contained, no network
+├── build_single_file.py        # Builds the one-file HTML copy
 ├── scripts/
 │   ├── build-offline.sh        # Builds + verifies + zips the offline copy
+│   ├── verify.py               # Test suite — run by CI on every push
 │   └── generate-icons.py       # Regenerates the PWA/favicon icon set
 ├── overrides/main.html         # Manifest link + iOS install meta tags
 ├── requirements.txt            # Pinned Python dependencies
@@ -188,4 +209,13 @@ This collection is for **educational and reference purposes only**. It is not a 
 
 ## License
 
-This project is unlicensed pending a decision on open-source licensing. Content is currently for personal use.
+**Free and open source.** Dual-licensed, because content and code want different terms:
+
+| Part | License | What it means |
+|------|---------|---------------|
+| Guides (`docs/`, `templates/`) | [CC BY-SA 4.0](LICENSE-CONTENT.txt) | Copy, print, translate, adapt, sell — commercially too. Credit "WilderThings Contributors" and keep derivatives under the same free license. |
+| Tooling (`scripts/`, `mkdocs*.yml`, `overrides/`, `build_single_file.py`, CSS, CI) | [MIT](LICENSE-CODE.txt) | Reuse the build setup in your own project with no strings. |
+
+ShareAlike is deliberate: nobody can take these guides, improve them, and lock the result away.
+
+See [LICENSE](LICENSE) for the full picture, including how cited third-party sources are handled.

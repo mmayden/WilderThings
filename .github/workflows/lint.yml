@@ -46,3 +46,44 @@ jobs:
 
       - name: Build (strict)
         run: mkdocs build --strict
+
+      - name: Verify hosted build links
+        run: python3 scripts/verify.py --site site
+
+  offline-check:
+    name: Offline build (must work with no network)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # The offline copy is the primary deliverable. If it ever starts making a
+      # network request, or a link stops resolving, that is a shipping defect —
+      # the whole point is that it works with no signal.
+      - name: Build offline copy
+        run: ./scripts/build-offline.sh
+
+      - name: Build single-file copy
+        run: python3 build_single_file.py
+
+      - name: Verify both offline artifacts
+        run: python3 scripts/verify.py --offline site-offline --single wilderthings-mobile.html
+
+      # Makes a current, verified copy downloadable from every CI run, so the
+      # shareable file is never stale relative to the content.
+      - name: Upload offline artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: wilderthings-offline
+          path: |
+            wilderthings-offline.zip
+            wilderthings-mobile.html
+          if-no-files-found: error
+          retention-days: 90
