@@ -25,7 +25,7 @@ Rock boiling lets you boil water in any container that holds liquid — bark ves
 
 **Method:**
 
-1. Build a hot fire and place fist-sized rocks directly in the coals. Use dense, dry rocks — granite, basalt, or sandstone. Heat for 20-30 minutes until glowing.
+1. Build a hot fire and place fist-sized rocks directly in the coals. Use dense, dry, non-porous rock — basalt and other solid igneous rock are best. Heat for 20-30 minutes until glowing.
 2. Prepare a container with water and food.
 3. Use two green-wood sticks as tongs (or a split stick) to lift hot rocks from the fire.
 4. Brush off ash and drop rocks into the water.
@@ -33,7 +33,12 @@ Rock boiling lets you boil water in any container that holds liquid — bark ves
 6. Replace rocks as they cool. Keep a rotation: rocks heating in the fire, rocks in the water, spent rocks drying to be reheated.
 
 !!! danger "WARNING"
-    Never use rocks from streambeds, lakeshores, or wet ground. Moisture trapped inside expands when heated and can cause the rock to explode violently, throwing sharp fragments. Use only dry rocks from high, dry ground.
+    Heated rock can explode and throw fragments at face height. Two rules:
+
+    - **Never use rock from streambeds, lakeshores, or wet ground.** Trapped moisture turns to steam and bursts the rock.
+    - **Never use porous or layered rock** — sandstone, shale, slate, limestone, or pumice. These hold water inside even when the surface feels bone dry, and they split along their layers. Sandstone is porous enough to hold aquifers; do not put it in a fire.
+
+    Use dense igneous rock (basalt is ideal) collected from high, dry ground. If a rock hisses, cracks, or pings as it heats, back away and let it burn out.
 
 !!! tip
     A bark container will not burn as long as the water level stays above the flame line. Birch bark holds water naturally. Fold the edges up and pin with wooden skewers or thorns.

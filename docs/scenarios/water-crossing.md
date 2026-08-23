@@ -179,7 +179,7 @@ If you must cross deep water, improvise flotation:
 - **Dry bag or stuff sack:** Seal air inside a waterproof bag. Hug it to your chest.
 - **Closed-cell foam pad:** Sleeping pad provides significant flotation. Hold it under your chest.
 - **Sealed water bottles:** Two 1-liter bottles provide noticeable buoyancy. Tuck them inside your shirt.
-- **Log:** A dry log 6 inches (15 cm) in diameter and 4 feet (1.2 m) long supports approximately 50 lb (23 kg).
+- **Log:** A dry log 6 inches (15 cm) in diameter and 4 feet (1.2 m) long supports only about 15-30 lb (7-14 kg), depending on the wood — a light softwood is near the top of that range, a dense hardwood near the bottom. That is enough to help you stay afloat, **not** enough to hold your weight. Waterlogged wood supports almost nothing. Test any log in shallow water before trusting it.
 
 !!! note
     Improvised flotation aids balance and buoyancy but does not make you safe in fast current. Use flotation only in slow-moving, deep water where wading is impossible.

@@ -220,7 +220,7 @@ Shrub with narrow, leathery leaves and pink/white flowers. All parts are toxic. 
 
 ## Universal Edibility Test — Tropical Considerations
 
-The standard 8-hour test sequence applies (see [foraging-basics.md](foraging-basics.md)), but in the tropics:
+The standard protocol applies — approximately **24 hours per plant part**, with its serious limits (see [foraging-basics.md](foraging-basics.md#the-universal-edibility-test)). In the tropics, additionally:
 
 - Test only one plant part at a time — fruit, leaves, and roots may have different toxicity levels
 - Tropical toxins often act faster and more severely than temperate ones

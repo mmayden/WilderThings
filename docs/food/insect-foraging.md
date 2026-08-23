@@ -30,6 +30,20 @@ Insects are the most abundant animal food source on Earth. They require no weapo
 | Calories | 400 | 550 | 350 |
 | Iron | 5 mg | 3 mg | 5 mg |
 
+!!! danger "WARNING: shellfish allergy means insect allergy"
+
+    Insects and crustaceans share the allergen **tropomyosin** — shrimp, dust mite,
+    and cockroach tropomyosins are 75-80% identical. Anyone allergic to shrimp,
+    crab, lobster, or other shellfish can suffer a serious allergic reaction,
+    including anaphylaxis, from eating insects. Crickets, grasshoppers, locusts,
+    and mealworms are all implicated.
+
+    **If you have a shellfish allergy, do not eat insects.** Cooking does not
+    destroy tropomyosin. If insects are the only food available and you carry an
+    epinephrine auto-injector, understand that you are accepting a real risk of
+    anaphylaxis in a setting with no medical support — see
+    [Bites and Stings](../medical/bites-and-stings.md) for anaphylaxis management.
+
 ## Safe Species
 
 ### Crickets and Grasshoppers (Order Orthoptera)
@@ -80,7 +94,7 @@ Insects are the most abundant animal food source on Earth. They require no weapo
 
 **Collection:** Insert a moistened stick into a mound opening. Termites cling to it — withdraw and shake into a container. Repeat.
 
-**Preparation:** Eat raw in an emergency — termites have a nutty flavor and are one of the safest insects to eat with minimal preparation. Roasting improves flavor and safety.
+**Preparation:** Roast or boil like any other insect. Termites are among the safest insects and are eaten raw in some regions, but raw insects can carry parasites — cook them whenever you have fire. Eat raw only if you have no means of cooking and the alternative is going without food.
 
 **Calories:** ~350-550 per 100 g (winged reproductive termites are especially fatty).
 
@@ -153,7 +167,7 @@ Psychological aversion to eating insects is cultural, not biological. In a survi
 
 - Start with the mildest-tasting species: roasted crickets taste nutty, similar to popcorn
 - Grind dried insects into powder and mix with other food — texture aversion disappears
-- Remember that shrimp, crab, and lobster are arthropods, closely related to insects
+- Remember that shrimp, crab, and lobster are arthropods, closely related to insects (this is also why a shellfish allergy rules insects out — see the warning above)
 - Focus on the outcome: a handful of roasted grubs provides more protein than a similar portion of wild greens
 
 ## Common Mistakes
@@ -172,7 +186,7 @@ Psychological aversion to eating insects is cultural, not biological. In a survi
 | Grasshoppers | Fields, meadows | 5 min roast | Remove legs |
 | Grubs | Dead wood, soil | 5 min roast | Squeeze gut first |
 | Ants | Trails, nests, logs | 5 min boil | Boil to neutralize formic acid |
-| Termites | Mounds, dead wood | Minimal | Safest raw option |
+| Termites | Mounds, dead wood | Roast or boil | Lowest-risk if raw is unavoidable |
 | Earthworms | Soil, under logs | Purge + boil | Purge gut before cooking |
 
 ## See Also

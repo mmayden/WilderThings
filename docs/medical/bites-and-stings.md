@@ -222,19 +222,30 @@ Two or more body systems involved after a known exposure = anaphylaxis. Act imme
 
     #### Jellyfish and Portuguese Man-of-War
 
-    !!! warning "CAUTION"
-        Do NOT rinse with fresh water — it causes unfired nematocysts to discharge. Do NOT apply urine (ineffective and unsanitary).
+    !!! danger "WARNING: vinegar is not for every species"
+        **Vinegar helps for tropical box jellyfish. It makes Portuguese man-of-war / bluebottle (*Physalia*) stings WORSE** — it triggers unfired nematocysts to discharge. Identify the species, or default to hot water.
 
-    **Treatment:**
+    !!! warning "CAUTION"
+        Never rinse with fresh water — the osmotic change fires unfired nematocysts. Never apply urine (ineffective and unsanitary).
+
+    **All stings — first steps:**
 
     1. Remove the victim from the water.
-    2. Remove visible tentacles using tweezers, a stick, or gloved hands. Do not touch with bare skin.
-    3. Rinse the area with vinegar (5% acetic acid) for at least 30 seconds to deactivate nematocysts. If vinegar is unavailable, use saltwater.
-    4. Immerse the affected area in hot water — as hot as tolerable without burning, 110-113°F (43-45°C) — for 20-45 minutes.
-    5. Administer pain medication as needed.
+    2. Remove visible tentacles with tweezers, a stick, or gloved hands. Never with bare skin.
+
+    **Then, by species:**
+
+    | Sting | Treatment |
+    |---|---|
+    | Tropical box jellyfish (*Chironex*), Irukandji | Douse with vinegar (5% acetic acid) for 30 seconds. Then evacuate urgently. |
+    | Portuguese man-of-war / bluebottle (*Physalia*) | **No vinegar.** Rinse with seawater, then hot water immersion. |
+    | Unknown / temperate species | Rinse with seawater, then hot water immersion. |
+
+    3. Hot water immersion: as hot as tolerable without scalding, 110-113°F (43-45°C), for 20-45 minutes. This is the best-evidenced pain treatment for most stings.
+    4. Administer pain medication as needed.
 
     !!! note
-        Box jellyfish (*Chironex fleckeri*) stings in Australia and Indo-Pacific waters can be lethal within minutes. Apply vinegar immediately and prepare for CPR. Evacuate.
+        Box jellyfish (*Chironex fleckeri*) stings in northern Australian and Indo-Pacific waters can kill within minutes. Apply vinegar immediately, prepare for CPR, and evacuate.
 
     #### Sea Urchin Spines
 
@@ -250,7 +261,8 @@ Two or more body systems involved after a known exposure = anaphylaxis. Act imme
 - **Applying a tourniquet to a snake bite.** Traps venom in the limb, causing massive tissue destruction. Immobilize instead.
 - **Sucking venom from a wound.** Does not extract meaningful venom. Introduces oral bacteria into the wound.
 - **Delaying epinephrine during anaphylaxis.** Antihistamines do not stop anaphylaxis. Epinephrine is the only first-line treatment. Give it early.
-- **Using fresh water on jellyfish stings.** Osmotic change causes remaining nematocysts to fire. Use vinegar or saltwater.
+- **Using fresh water on jellyfish stings.** Osmotic change causes remaining nematocysts to fire. Use seawater.
+- **Using vinegar on a man-of-war sting.** Vinegar is for tropical box jellyfish. On *Physalia* it triggers nematocyst discharge and worsens the sting.
 - **Twisting or jerking ticks during removal.** Breaks off mouthparts and may cause regurgitation into the wound. Pull straight up with steady force.
 - **Ignoring "mild" bites in the field.** Infection develops over days. Clean every bite wound and monitor daily.
 
@@ -267,7 +279,8 @@ Two or more body systems involved after a known exposure = anaphylaxis. Act imme
 | Scorpion | Clean, cold pack, pain relief | Tourniquet, incision | Neurotoxic signs, children |
 | Bee/wasp | Remove stinger fast, cold pack | Squeeze stinger | Anaphylaxis, >20 stings |
 | Tick | Pull straight up with tweezers | Heat, petroleum jelly | Rash, fever within 30 days |
-| Jellyfish | Vinegar rinse, hot water soak | Fresh water, urine | Box jellyfish, breathing difficulty |
+| Jellyfish (box/tropical) | Vinegar 30 s, then evacuate | Fresh water, urine | Always — can be lethal |
+| Man-of-war / bluebottle | Seawater rinse, hot water soak | **Vinegar**, fresh water, urine | Breathing difficulty, large sting |
 
 **Anaphylaxis Protocol:**
 

@@ -90,7 +90,7 @@ If pre-mixed ORS packets are available, follow packet instructions.
 ### Field Alternatives for IV Fluids
 
 !!! danger "WARNING"
-    Rectal and subcutaneous fluid administration are emergency techniques only. They carry infection risk and should be used only when oral rehydration has failed and evacuation is delayed.
+    Rectal fluid administration is an emergency technique only. It carries infection risk and should be used only when oral rehydration has failed and evacuation is delayed. Subcutaneous infusion (hypodermoclysis) requires sterile equipment and training and is not a field-improvisable technique — do not attempt it.
 
 **Rectal Rehydration (Proctoclysis):**
 

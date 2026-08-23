@@ -196,7 +196,7 @@ Cross-reference with [foraging-basics.md](foraging-basics.md) for the Universal 
 !!! danger "WARNING"
     Avoid yew (*Taxus*), which resembles pine superficially but has flat needles, red berry-like arils, and no cones. Yew is extremely toxic. Also avoid ponderosa pine needle tea if pregnant — it can cause miscarriage.
 
-**Calories:** Inner bark: ~500-600 per 100 g dried and ground. Pine nuts: ~670 per 100 g.
+**Calories:** Inner bark: roughly 150-250 per 100 g dried and ground — much of the mass is indigestible fiber, so usable calories are lower than the raw figure suggests. Pine nuts: ~670 per 100 g (genuinely calorie-dense).
 
 **Look-alikes:** Yew (deadly) — flat needles, no bundling, red fleshy arils. Spruce and fir — edible, similar uses but single needles.
 
