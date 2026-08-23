@@ -111,9 +111,12 @@ Expose the chest and assess breathing:
     Needle decompression is a life-saving but invasive procedure. Perform it only when you are confident in the diagnosis and the patient is deteriorating. An incorrect diagnosis results in an iatrogenic pneumothorax.
 
 - **Flail chest:** Three or more adjacent ribs broken in two or more places, creating a free-floating segment that moves paradoxically (inward during inhalation).
-  1. Position the patient with the injured side down (if no spinal injury suspected) to splint the flail segment against the ground.
-  2. Alternatively, apply a bulky dressing and tape firmly over the flail segment.
+  1. Support the flail segment with a hand or a light bulky dressing held loosely in place. Positioning the patient injured-side-down can splint the segment if no spinal injury is suspected and breathing improves.
+  2. Give pain control if available. Pain is what stops these patients breathing deeply, and shallow breathing is what kills them.
   3. The real danger is the underlying pulmonary contusion. Monitor for worsening respiratory distress.
+
+!!! danger "WARNING"
+    Do **not** strap, tape, or bind the chest circumferentially to immobilize a flail segment. It was standard teaching for decades and is now contraindicated — it restricts chest expansion, worsens ventilation, and accelerates respiratory failure in a patient whose lung is already injured.
 
 ### C — Circulation (Shock)
 
@@ -147,10 +150,11 @@ The civilian primary survey uses the ABCDE framework. Complete it in 60-90 secon
 ### C — Circulation
 
 - Check pulse: rate, rhythm, strength.
-- Radial pulse present: systolic blood pressure is at least 80 mmHg.
-- Femoral pulse present: systolic BP is at least 70 mmHg.
-- Carotid pulse only: systolic BP is at least 60 mmHg.
+- **A weak or absent radial pulse with a palpable carotid indicates poor perfusion — treat for shock.** Use this as a yes/no perfusion check, not a blood pressure estimate.
 - Assess skin: color, temperature, moisture. Cool, pale, clammy skin indicates shock.
+
+!!! warning "CAUTION"
+    You may have been taught that a radial pulse means a systolic BP of at least 80 mmHg, femoral 70, and carotid 60. **These numbers are unreliable and were removed from ATLS.** Studies found they substantially overestimate actual blood pressure, which can make a patient in serious shock look stable. Judge perfusion by the overall picture — pulse quality, skin, and mental status — not by a number inferred from which pulses you can feel.
 - Capillary refill: press a fingernail and release. Normal refill is under 2 seconds.
 - Control any remaining hemorrhage not addressed in the M step.
 

@@ -25,7 +25,10 @@ Smoking preserves meat through dehydration, antimicrobial compounds in the smoke
 
 ### Hot Smoking
 
-Hot smoking cooks and partially preserves the meat simultaneously. Temperature: 125-175°F (52-80°C) at the meat.
+Hot smoking cooks and partially preserves the meat simultaneously. Target 165-200°F (74-93°C) at the meat.
+
+!!! warning "CAUTION"
+    Meat held between 40°F and 140°F (4-60°C) is in the range where bacteria multiply fastest. Older instructions for hot smoking start at 125°F (52°C), which sits inside that range — meat can spend hours there growing bacteria while appearing to cook. Keep the smoker hot enough that the thickest part of the meat reaches at least 160°F (71°C), and get it there within a few hours rather than slowly.
 
 **Setup:**
 
@@ -42,7 +45,10 @@ Hot smoking cooks and partially preserves the meat simultaneously. Temperature: 
 
 ### Cold Smoking
 
-Cold smoking dehydrates and flavors without cooking. Temperature: below 90°F (32°C) at the meat. Requires more setup but produces longer-lasting preservation.
+Cold smoking dehydrates and flavors without cooking. Temperature: below 90°F (32°C) at the meat.
+
+!!! danger "WARNING"
+    Cold smoking does not cook the meat and does not by itself make it safe. The whole process happens at temperatures where bacteria grow. Traditionally, cold smoking is **always** paired with a salt cure done first — the cure, not the smoke, is what preserves the meat. Salt-cure before cold smoking, never cold smoke alone.
 
 **Setup:**
 
@@ -52,7 +58,7 @@ Cold smoking dehydrates and flavors without cooking. Temperature: below 90°F (3
 4. Hang or rack meat strips inside the chamber.
 5. Maintain smoke for 12-48 hours, adding fuel as needed.
 
-**Shelf life:** 1-4 weeks depending on humidity and temperature. Combine with salt curing for months.
+**Shelf life (salt-cured first, then cold smoked):** 1-4 weeks depending on humidity and temperature; months with a heavy cure.
 
 === "Improvised Smokehouse (Tripod)"
     Lash three poles into a tripod. Wrap the sides with bark, large leaves, or a poncho, leaving the bottom open over the fire pit and the top slightly vented. Hang meat from cross-sticks inside.
@@ -150,18 +156,41 @@ Store fruits, roots, and meat in cool underground caches.
 **Temperature guide:** Below 2 ft (60 cm), ground temperature stays roughly 50-55°F (10-13°C) in summer, which slows spoilage significantly.
 
 !!! tip
-    Elevate meat caches out of reach of predators when possible — suspend from a branch or store on a high platform. Bear hangs (10 ft / 3 m up, 4 ft / 1.2 m from trunk) protect against large animals.
+    Elevate meat caches out of reach of predators when possible — suspend from a branch or store on a high platform. Bear hangs (12 ft / 3.7 m up, 6 ft / 1.8 m from the trunk) protect against large animals — see [Bear Safety](../wildlife/bear-safety.md).
 
 ## Fermentation
 
 Controlled fermentation preserves food through acid production by beneficial bacteria.
 
-**Fish fermentation:** Pack small fish in a tight container (bark box, hide pouch) with salt. Seal and bury in cool ground. After 2-7 days, the fish develops a strong flavor but remains safe. This method is used across Arctic, Scandinavian, and Asian cultures.
+!!! danger "WARNING: do not ferment fish or meat in a sealed container"
 
-**Vegetable fermentation:** Pack wild greens, roots, or vegetables into a container with 2-3% salt by weight. Submerge in liquid (the vegetables' own juice or added water). Cover and keep in a cool place for 3-7 days. Lactic acid bacteria preserve the food.
+    Fermented fish is the single largest cause of foodborne botulism in North
+    America. Alaska has the highest rate in the United States, almost entirely
+    from traditionally fermented fish and marine mammal products — and cases
+    **increased** when people moved from porous, grass-lined ground pits to
+    sealed plastic buckets, jars, and bags. Sealing the container is what
+    creates the oxygen-free environment *Clostridium botulinum* needs.
+
+    You cannot detect this by smell, taste, or appearance. **Botulinum toxin is
+    odorless and tasteless**, and correctly fermented fish is supposed to smell
+    powerfully strong — so the usual spoilage checks tell you nothing here.
+    Botulism causes descending paralysis and respiratory failure, and the
+    treatment is antitoxin plus possible mechanical ventilation. There is no
+    field treatment.
+
+    Do not attempt fish or meat fermentation in a survival situation. Dry it,
+    smoke it, or salt-cure it instead — all three are covered above, all are
+    more reliable, and none carry this risk.
+
+**Vegetable fermentation** is a different proposition and is comparatively safe. Lactic acid bacteria rapidly drop the pH below 4.6, which is the threshold that prevents *C. botulinum* from producing toxin. Meat and fish have no such acid defence.
+
+1. Pack wild greens, roots, or vegetables into a container with 2-3% salt by weight.
+2. Submerge fully in liquid (the vegetables' own juice or added water). Anything above the brine line will mold.
+3. Cover **loosely** — fermentation produces gas, which must escape. Do not seal airtight.
+4. Keep in a cool place for 3-7 days.
 
 !!! warning "CAUTION"
-    Fermentation gone wrong produces botulism toxin. If the food smells foul (not merely sour/pungent), appears slimy, or has unusual colors, discard it. Proper fermentation smells acidic and tangy, not rotten.
+    Correct vegetable fermentation smells sharply acidic and tangy, and the brine turns cloudy. Discard it if it smells putrid or rotten rather than sour, if it turns slimy or ropy, or if it grows black, pink, or fuzzy mold. A thin white film on the surface is usually harmless yeast and can be skimmed off.
 
 ## Signs of Spoilage
 
@@ -179,18 +208,19 @@ Controlled fermentation preserves food through acid production by beneficial bac
 - **Smoking with resinous wood** — pine, spruce, and fir deposit toxic creosote on food
 - **Insufficient drying time** — meat that feels dry on the surface may still be moist inside. Twist a strip — if moisture appears, continue drying.
 - **Storing preserved food in humid, warm conditions** — heat and moisture reverse preservation. Cache in cool, dry, shaded locations.
-- **Ignoring the smell test** — trust your nose. If food smells wrong, it is wrong. The caloric cost of discarding suspect food is always less than the cost of foodborne illness in a survival situation.
+- **Fermenting fish or meat in a sealed container** — this is how people get botulism. The toxin is odorless, so no smell test will catch it. Dry, smoke, or salt-cure instead.
+- **Ignoring the smell test** — trust your nose for ordinary spoilage (it will not detect botulinum toxin). If food smells wrong, it is wrong. The caloric cost of discarding suspect food is always less than the cost of foodborne illness in a survival situation.
 
 ## Quick Reference
 
 | Method | Time Required | Shelf Life | Materials Needed |
 |--------|--------------|------------|-----------------|
 | Hot smoking | 4-8 hours | 3-7 days | Fire, hardwood, rack |
-| Cold smoking | 12-48 hours | 1-4 weeks | Fire pit, tunnel, chamber |
+| Cold smoking (after salt cure) | 12-48 hours | 1-4 weeks | Fire pit, tunnel, chamber, salt |
 | Sun drying (jerky) | 1-3 days | 2 weeks-months | Rack, sun, wind |
 | Salt curing | 7-14 days | Weeks-months | Salt |
 | Pemmican | 2-3 hours (after drying) | Months-years | Dried meat, rendered fat |
-| Fermentation | 3-7 days | Weeks | Salt, sealed container |
+| Fermentation (vegetables only) | 3-7 days | Weeks | Salt, loosely covered container |
 | Root cellar cache | 1 hour to build | Extends life 2-4x | Digging tool |
 
 ## See Also

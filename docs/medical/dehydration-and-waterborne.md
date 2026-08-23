@@ -11,7 +11,11 @@ tags:
 
 > Recognize and treat dehydration and waterborne diseases in the field when clean water access is limited or compromised.
 
-> **DISCLAIMER:** This guide is for educational and emergency preparedness purposes only. It does not replace professional medical training, certification, or the judgment of a licensed medical provider. Severe dehydration and cholera can kill within hours. Seek professional care as soon as it becomes available.
+!!! warning "DISCLAIMER"
+    This guide is for educational and emergency preparedness purposes only. It does not replace
+    professional medical training, certification, or the judgment of a licensed medical
+    provider. Severe dehydration and cholera can kill within hours. Seek professional care as
+    soon as it becomes available.
 
 ## At a Glance
 

@@ -19,7 +19,7 @@ tags:
 - Do NOT induce vomiting for most plant poisonings — many plant toxins cause more damage on the way back up.
 - Activated charcoal (1 g per kg body weight, or roughly 50 g for an adult) is the primary field treatment for ingestion if given within 1 hour.
 - Cardiac and neurological symptoms after plant ingestion are immediate evacuation criteria.
-- Poison ivy, oak, and sumac cause contact dermatitis — wash skin with soap and cold water within 10 minutes of exposure to prevent rash.
+- Poison ivy, oak, and sumac cause contact dermatitis — wash skin with soap and cool water within 10 minutes of exposure to prevent rash. Speed matters more than temperature.
 
 ---
 
@@ -143,9 +143,9 @@ All three plants produce urushiol, an oily resin that causes allergic contact de
 
 **Treatment:**
 
-1. Wash the exposed skin with soap and cold water (or rubbing alcohol if available) within 10 minutes of contact. Cold water closes pores and prevents deeper urushiol penetration.
+1. Wash the exposed skin with soap and cool water (or rubbing alcohol if available) within 10 minutes of contact. Speed is what matters — urushiol binds to skin within about 10-30 minutes, and soap is what lifts the oil off.
 2. Remove and bag contaminated clothing.
-3. Do NOT use hot water — it opens pores and drives urushiol deeper.
+3. Avoid hot water while washing off the oil — it increases blood flow and spreads the oil more easily. (Once a rash is established and the urushiol is long gone, hot water is harmless and many people find it relieves itching temporarily.)
 4. If a rash develops (typically 12-72 hours after exposure): apply calamine lotion or hydrocortisone cream.
 5. Take oral antihistamines (diphenhydramine 25-50 mg every 6 hours) for itching.
 6. Cool compresses relieve itch and inflammation.
@@ -170,18 +170,16 @@ These plants cause phytophotodermatitis — sap on skin combined with sunlight p
 
 ## Universal Edibility Test
 
-Use this test only as a last resort when starvation is a genuine threat. The test takes approximately 24 hours per plant part and is not foolproof.
+The full protocol lives in one place — **[Foraging Basics](../food/foraging-basics.md#the-universal-edibility-test)** — so there is only ever one version to follow. Read the warnings there before using it.
 
 !!! danger "WARNING"
-    The universal edibility test does NOT detect all toxins. Some lethal toxins (amatoxin in death cap mushrooms, cardiac glycosides in oleander) produce no immediate reaction during the test but kill days later. Never use this test on mushrooms.
+    The Universal Edibility Test does NOT detect all toxins, including several that kill.
 
-1. **Separate** the plant into parts: leaves, stems, roots, flowers, seeds. Test each part individually.
-2. **Skin contact test:** Rub the plant part on the inside of your wrist. Wait 15 minutes. If no redness, itching, or burning, continue.
-3. **Lip test:** Touch the plant part to your outer lip. Wait 15 minutes. If no reaction, continue.
-4. **Tongue test:** Place the plant part on your tongue. Do not chew. Wait 15 minutes. If no numbness, burning, or bitter taste, continue.
-5. **Chew test:** Chew a small amount and hold it in your mouth for 15 minutes. Do not swallow. Spit it out. If no reaction, continue.
-6. **Swallow test:** Eat a small amount (roughly 1 tablespoon). Wait 8 hours. Eat nothing else during this time. If no GI symptoms develop, continue.
-7. **Larger portion:** Eat 1/4 cup (60 mL) of the plant part. Wait another 8 hours. If no symptoms, the plant part is likely safe in moderate amounts.
+    - **Water hemlock, poison hemlock, death camas, foxglove, oleander, monkshood, and yew** can pass the tasting stages. Some taste mild or pleasant.
+    - Cardiac glycosides (oleander, foxglove) and amatoxins (death cap) produce no immediate reaction and kill hours to days later.
+    - **Never use this test on mushrooms.**
+
+    Treat it as a last resort when starvation is a genuine threat, not as a way to make an unknown plant safe. Positive identification of a few known species is always better.
 
 !!! note
     Cooking can neutralize some toxins but concentrate others. If you plan to eat the plant cooked, perform the test with the cooked version.
@@ -220,7 +218,7 @@ Use this test only as a last resort when starvation is a genuine threat. The tes
 - **Assuming a plant is safe because animals eat it.** Many animals tolerate toxins that are lethal to humans. Deer eat yew and poison ivy without harm.
 - **Relying on taste as a safety indicator.** Many lethal plants (death camas, water hemlock root) taste mild or even pleasant.
 - **Applying the universal edibility test to mushrooms.** Amatoxin (death cap, destroying angel) causes no symptoms for 6-24 hours, then destroys the liver. The edibility test cannot detect it in time.
-- **Using hot water on poison ivy exposure.** Hot water opens pores and drives urushiol deeper into the skin. Use cold water.
+- **Washing off urushiol slowly, or without soap.** The oil binds to skin within 10-30 minutes. Soap and cool water within 10 minutes is what prevents the rash — not water temperature alone. ("Hot water opens your pores" is a myth; pores do not open and close with temperature.)
 - **Assuming all parts of a "safe" plant are edible.** Rhubarb stalks are edible; rhubarb leaves contain lethal levels of oxalic acid. Elderberries are edible when cooked; raw berries, leaves, and stems are toxic.
 - **Burning brush containing poison ivy/oak.** Urushiol in smoke causes severe respiratory inflammation. Clear these plants by pulling (with gloves) or herbicide — never fire.
 
@@ -239,23 +237,13 @@ Use this test only as a last resort when starvation is a genuine threat. The tes
 
 **Contact Dermatitis Protocol (Poison Ivy/Oak/Sumac):**
 
-1. Wash with soap and cold water within 10 minutes.
+1. Wash with soap and cool water within 10 minutes — speed matters more than temperature.
 2. Remove contaminated clothing.
 3. Apply calamine or hydrocortisone for rash.
 4. Antihistamines for itching.
 5. Do not break blisters.
 
-**Universal Edibility Test Timing:**
-
-| Step | Wait Time |
-|---|---|
-| Skin contact (wrist) | 15 min |
-| Lip test | 15 min |
-| Tongue test | 15 min |
-| Chew test (spit out) | 15 min |
-| Swallow small amount | 8 hours |
-| Eat larger portion | 8 hours |
-| **Total minimum** | **~17 hours** |
+**Universal Edibility Test:** see [Foraging Basics](../food/foraging-basics.md#the-universal-edibility-test) for the protocol (~24 hours per plant part) and its limits. It cannot detect water hemlock, poison hemlock, death camas, foxglove, oleander, monkshood, or yew.
 
 ---
 

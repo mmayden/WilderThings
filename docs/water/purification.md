@@ -131,7 +131,7 @@ Use **unscented liquid household bleach** with 5.25–8.25% sodium hypochlorite.
 |---|---|---|
 | 1 quart / 1 liter | 2 drops | 2 drops |
 | 1 gallon / 4 liters | 8 drops (1/8 tsp) | 6 drops |
-| 5 gallons / 19 liters | 40 drops (1/2 tsp) | 32 drops (1/3 tsp) |
+| 5 gallons / 19 liters | 40 drops (5/8 tsp) | 32 drops (1/2 tsp) |
 
 3. Stir and wait **30 minutes**.
 4. The water should have a slight chlorine smell after treatment. If it does not, repeat the dose and wait another 30 minutes.
@@ -236,7 +236,7 @@ When no commercial filter is available, build a layered filter to remove particu
    - **Layer 1 (bottom):** Small gravel or pebbles — 2 inches / 5 cm.
    - **Layer 2:** Coarse sand — 2 inches / 5 cm.
    - **Layer 3:** Fine sand — 4 inches / 10 cm.
-   - **Layer 4:** Crushed charcoal (from hardwood fire, NOTite briquettes) — 4 inches / 10 cm.
+   - **Layer 4:** Crushed charcoal from a hardwood fire — 4 inches / 10 cm. Use **only** charcoal you made yourself; never commercial charcoal briquettes, which contain binders, accelerants, and fillers that leach into the water.
    - **Layer 5:** Fine sand — 2 inches / 5 cm.
    - **Layer 6 (top):** Gravel — 2 inches / 5 cm.
 3. Pour water through the top. Collect filtered water at the bottom.

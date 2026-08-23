@@ -25,7 +25,7 @@ tags:
 
 #### Rattlesnakes (Crotalus and Sistrurus)
 
-- **Range:** All 48 contiguous US states except Maine, Alaska, and Hawaii. Southern Canada. Mexico. Most diverse in the southwestern US.
+- **Range:** Every contiguous US state except Maine (also absent from Alaska and Hawaii; extirpated from Rhode Island and Delaware). Southern Canada. Mexico. Most diverse in the southwestern US.
 - **Identification:** Segmented rattle on the tail (may be missing in juveniles or if broken off). Broad, triangular head. Vertical pupils. Heat-sensing pits between the eye and nostril.
 - **Size:** Varies by species. Timber rattlesnake: 36–60 in (91–152 cm). Western diamondback: 48–72 in (122–183 cm). Eastern diamondback: up to 96 in (244 cm) — the largest venomous snake in North America.
 - **Behavior:** Generally rattle before striking. May NOT rattle if startled or if they have learned that rattling attracts predators. Strike range is approximately one-half to two-thirds body length.

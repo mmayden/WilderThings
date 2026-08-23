@@ -11,7 +11,11 @@ tags:
 
 > Identify, treat, and manage wound infections in the field before they become systemic and life-threatening.
 
-> **DISCLAIMER:** This guide is for educational and emergency preparedness purposes only. It does not replace professional medical training, certification, or the judgment of a licensed medical provider. Systemic infection (sepsis) is a medical emergency. Seek professional care as soon as it becomes available.
+!!! warning "DISCLAIMER"
+    This guide is for educational and emergency preparedness purposes only. It does not replace
+    professional medical training, certification, or the judgment of a licensed medical
+    provider. Systemic infection (sepsis) is a medical emergency. Seek professional care as soon
+    as it becomes available.
 
 ## At a Glance
 

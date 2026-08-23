@@ -52,7 +52,10 @@ Abrasions (scrapes, road rash) remove the outer skin layers. They are painful, p
 
 ## Bleeding Control
 
-Address bleeding in this order — move to the next step only if the current one fails.
+Life-threatening bleeding has three interventions, in this order. Move to the next step only if the current one fails.
+
+!!! danger "WARNING"
+    A femoral artery wound can kill in 3-5 minutes. Every second spent on a technique that does not work is a second the patient does not have. Go straight down this list — do not improvise extra steps.
 
 ### Step 1: Direct Pressure
 
@@ -62,31 +65,18 @@ Address bleeding in this order — move to the next step only if the current one
 4. Maintain pressure continuously for at least 10 minutes. Do not lift to check.
 5. If blood soaks through, add more material on top. Do not remove the original dressing.
 
-### Step 2: Elevation
+### Step 2: Wound Packing
 
-Raise the injured limb above the level of the heart while maintaining direct pressure. Gravity reduces arterial pressure at the wound site.
-
-### Step 3: Pressure Points
-
-If direct pressure and elevation fail, compress the artery upstream of the wound against underlying bone.
-
-| Body Region | Pressure Point | Location |
-|---|---|---|
-| Arm | Brachial artery | Inner upper arm, between bicep and tricep |
-| Leg | Femoral artery | Groin crease, midpoint between hip bone and pubic bone |
-| Scalp/Temple | Temporal artery | Just in front of the ear |
-| Neck | Carotid artery | Side of neck — compress ONE side only, never both |
-
-### Step 4: Wound Packing
-
-For deep wounds that direct pressure cannot control:
+For deep or junctional wounds that direct pressure alone cannot control:
 
 1. Open the wound with gloved fingers to visualize the bleeding source.
 2. Pack gauze tightly into the wound, starting at the deepest point.
 3. Fill the entire wound cavity. Use hemostatic gauze (QuikClot, Celox) if available.
 4. Apply direct pressure on top for a minimum of 3 minutes (5 minutes for hemostatic agents).
 
-### Step 5: Tourniquet
+Wound packing is the primary answer for bleeding in the groin, armpit, and neck, where a tourniquet cannot be placed.
+
+### Step 3: Tourniquet
 
 Apply a tourniquet when:
 
@@ -109,6 +99,15 @@ Apply a tourniquet when:
     A tourniquet that is too loose increases bleeding by occluding venous return without stopping arterial flow. Tighten until the bleeding stops and the distal pulse is absent.
 
 **Improvised tourniquet:** Use a strip of material at least 1.5 inches (4 cm) wide. Never use wire, paracord, or narrow material — these cause tissue necrosis without effectively stopping blood flow. A triangular bandage folded into a cravat with a stick windlass is the most effective improvised option.
+
+### Two Steps That Used to Be Taught — and Are Not Anymore
+
+If you learned bleeding control before roughly 2010, you were probably taught to try **elevation** and **pressure points** between direct pressure and a tourniquet. Both have been removed from current trauma guidelines (ATLS, TCCC, and the American Red Cross).
+
+- **Elevation** — no evidence it meaningfully reduces bleeding, and it delays effective treatment.
+- **Pressure points** — difficult to locate correctly under stress, rarely effective, and impossible to maintain while doing anything else.
+
+Neither is dangerous in itself. The danger is the time they cost. On an arterial bleed you have minutes, so go directly from pressure to packing to tourniquet.
 
 ---
 
@@ -264,11 +263,12 @@ For small or irregular burns, the patient's palm (including fingers) equals appr
 
 ### Third-Degree Burn Treatment
 
-1. Do not cool with water — hypothermia is a greater immediate risk.
-2. Cover with a clean, dry, non-adherent dressing.
-3. Treat for shock: lay flat, elevate legs 6-12 inches (15-30 cm), keep warm.
-4. Monitor airway — inhalation burns cause progressive airway swelling.
-5. Evacuate immediately.
+1. Cool **small** full-thickness burns (under about 5% TBSA — roughly five palm-sizes) with clean, cool running water for 10 minutes, as with any burn.
+2. Do **not** immerse or extensively cool a **large** burn. Burned skin cannot regulate temperature, and cooling a large area drives fatal hypothermia faster than the burn itself threatens the patient. Cover large burns dry and keep the patient warm.
+3. Cover with a clean, dry, non-adherent dressing.
+4. Treat for shock: lay flat, elevate legs 6-12 inches (15-30 cm), keep warm.
+5. Monitor airway — inhalation burns cause progressive airway swelling.
+6. Evacuate immediately.
 
 ### Burns: Do Not
 
@@ -311,7 +311,8 @@ Check every wound for these signs at least twice daily:
 - Changing dressings too frequently on healing wounds, disrupting new tissue formation.
 - Failing to check distal circulation after applying bandages or splints.
 - Ignoring puncture wounds because they "look small."
-- Cooling large burns with cold water, causing hypothermia.
+- Cooling large burns with cold water, causing hypothermia. Cool small burns; cover large ones dry and keep the patient warm.
+- Working through elevation and pressure points before packing or applying a tourniquet — both were removed from current guidelines and cost time an arterial bleed does not allow.
 
 ---
 
@@ -319,7 +320,7 @@ Check every wound for these signs at least twice daily:
 
 | Problem | Immediate Action | Time-Critical? |
 |---|---|---|
-| Arterial bleed (spurting, bright red) | Direct pressure, pack, tourniquet | Yes — minutes |
+| Arterial bleed (spurting, bright red) | Direct pressure -> pack -> tourniquet | Yes — minutes |
 | Venous bleed (steady, dark red) | Direct pressure, elevation | Yes — minutes to hours |
 | Deep laceration | Clean, close if appropriate, dress | Moderate — close within 6 hours |
 | Puncture wound | Soak, do not probe, monitor for infection | Moderate — watch 48+ hours |

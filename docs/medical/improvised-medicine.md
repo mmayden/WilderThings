@@ -10,7 +10,11 @@ tags:
 
 > Treat wounds, manage pain, and prevent infection using natural and improvised materials when no medical kit is available.
 
-> **DISCLAIMER:** This guide is for educational and emergency preparedness purposes only. It does not replace professional medical training, certification, or the judgment of a licensed medical provider. Improvised treatments carry higher risk than standard medical care. Seek professional help as soon as it becomes available.
+!!! warning "DISCLAIMER"
+    This guide is for educational and emergency preparedness purposes only. It does not replace
+    professional medical training, certification, or the judgment of a licensed medical
+    provider. Improvised treatments carry higher risk than standard medical care. Seek
+    professional help as soon as it becomes available.
 
 ## At a Glance
 

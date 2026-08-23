@@ -11,7 +11,10 @@ tags:
 
 > Recognize, treat, and triage venomous and non-venomous bites and stings when professional medical care is unavailable.
 
-> **DISCLAIMER:** This guide is for educational and emergency preparedness purposes only. It does not replace professional medical training, certification, or the judgment of a licensed medical provider. Envenomation can be fatal. Seek professional care as soon as it becomes available.
+!!! warning "DISCLAIMER"
+    This guide is for educational and emergency preparedness purposes only. It does not replace
+    professional medical training, certification, or the judgment of a licensed medical
+    provider. Envenomation can be fatal. Seek professional care as soon as it becomes available.
 
 ## At a Glance
 
@@ -73,7 +76,7 @@ Two or more body systems involved after a known exposure = anaphylaxis. Act imme
     - Coloring and pattern. Photograph if possible.
 
     !!! note
-        Roughly 20-25% of venomous snake bites are "dry bites" with no venom injected. Treat every bite as envenomation until proven otherwise.
+        An estimated 20-50% of venomous snake bites are "dry bites" with no venom injected. Treat every bite as envenomation until proven otherwise.
 
     #### Immediate Treatment
 

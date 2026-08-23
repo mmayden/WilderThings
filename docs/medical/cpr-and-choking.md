@@ -26,11 +26,17 @@ tags:
 
 ## When to Start CPR
 
-Start CPR when a person meets **all** of the following criteria:
+Start CPR when **both** of the following are true:
 
 1. Unresponsive — does not react to shouting or a firm tap on the shoulders.
 2. Not breathing normally — no chest rise, only gasping (agonal respirations), or no breath sounds.
-3. No definite pulse within 10 seconds (check the carotid artery in the neck for adults/children, the brachial artery in the upper arm for infants).
+
+That is the whole test. **Do not delay compressions to search for a pulse.**
+
+!!! warning "CAUTION"
+    Untrained rescuers should not attempt a pulse check at all — current guidelines removed it because bystanders are unreliable at finding a pulse and the attempt wastes the minutes that matter most.
+
+    Trained rescuers may check for up to 10 seconds while assessing breathing (carotid artery in the neck for adults and children, brachial artery in the upper arm for infants). If you have not found a definite pulse in 10 seconds, start compressions.
 
 !!! danger "WARNING"
     Agonal breathing (irregular gasps, gurgling, or snoring sounds) is NOT normal breathing. It occurs in up to 40% of cardiac arrest victims. Begin CPR immediately if you see agonal breathing.

@@ -14,17 +14,39 @@ tags:
 ## At a Glance
 
 - Wild plants rarely provide enough calories to sustain you — treat them as supplements, not meals
-- The Universal Edibility Test takes 24 hours; do not skip steps or compress the timeline
+- The Universal Edibility Test is a last resort, not a safety guarantee — it cannot detect water hemlock and several other lethal plants. It takes 24 hours; never compress it
 - Avoid plants with milky sap, white/yellow berries, or umbrella-shaped flower clusters unless you have positive identification
 - Learn 5-10 plants with absolute certainty rather than 50 with vague familiarity
 - Foraging is most productive in spring and early summer; least productive in deep winter
 
 ## The Universal Edibility Test
 
-Use this 8-step protocol only when you cannot positively identify a plant. It requires approximately 24 hours and tests only ONE plant part at a time (leaf, stem, root, flower, fruit — each tested separately).
+!!! danger "WARNING: this test does not detect the plants most likely to kill you"
 
-!!! danger "WARNING"
-    The Universal Edibility Test does not detect all toxins. Some poisons (oxalic acid, certain alkaloids) cause delayed organ damage with no immediate symptoms. This test reduces risk — it does not eliminate it. Never use it on mushrooms; see [mushroom-identification.md](mushroom-identification.md).
+    The Universal Edibility Test comes from the U.S. Army survival manual and is
+    widely reproduced, but it is a **last resort with real limits**, not a safety
+    guarantee. Understand what it cannot do before you rely on it:
+
+    - **It misses the deadliest plants.** Water hemlock — the most violently
+      toxic plant in North America — smells like parsnip, does not reliably
+      burn the lips or tongue, and produces no warning at the tasting stages.
+      The final step has you eat 1/4 cup. A single mouthful of water hemlock
+      root can kill an adult.
+    - **Others that defeat it:** poison hemlock, death camas, foxglove,
+      oleander, monkshood, and yew. Several taste mild or pleasant, and several
+      act on the heart or nervous system hours after the test says "safe."
+    - **Delayed-onset toxins pass unnoticed.** Oxalates and some alkaloids
+      damage kidneys and liver over days with no immediate symptom.
+    - **Never use it on mushrooms.** See [mushroom-identification.md](mushroom-identification.md).
+
+    Weigh it against the payoff: 24 hours and considerable water for a plant
+    part likely worth 15-30 calories per cup. **Positive identification of a few
+    known species is always the better strategy.** Skip this test entirely if
+    the plant has any warning trait from the list below — especially umbrella-
+    shaped flower clusters, which is the family water hemlock and poison
+    hemlock belong to.
+
+Use this 8-step protocol only when you cannot positively identify a plant and starvation is a genuine threat. It requires approximately 24 hours and tests only ONE plant part at a time (leaf, stem, root, flower, fruit — each tested separately).
 
 ### Step 1 — Separate the Plant into Parts
 
@@ -122,7 +144,7 @@ Most wild greens provide 15-30 calories per cup (240 ml). Compare this to your d
 | Berries (average) | 60-85 | Supplement |
 | Nuts (acorns, processed) | 350-500 | Viable staple |
 | Roots/tubers (cattail, burdock) | 60-120 | Good supplement |
-| Pine inner bark (dried, ground) | 500-600 per 100 g | Emergency staple |
+| Pine inner bark (dried, ground) | 100-160 | Emergency staple |
 | Seeds (collected) | 400-550 | Labor-intensive but calorie-dense |
 
 **Bottom line:** Prioritize roots, nuts, seeds, and starchy plants over leafy greens. Greens provide essential vitamins and minerals but not survival calories. Combine foraging with trapping ([trapping-and-snares.md](trapping-and-snares.md)) and fishing ([fishing-improvised.md](fishing-improvised.md)) for adequate caloric intake.
