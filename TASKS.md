@@ -99,9 +99,9 @@ wilderness-medicine standards, plus mechanical checks across all 89.
 - [x] `CODE_OF_CONDUCT.md`, content-accuracy issue template, PR template
 - [x] Remove the "field-tested" claim — the content is well-sourced, which is a different claim
 
-### "Things You Would Not Think to Look Up" — STARTED, decisions pinned
+### "Critical" page — STARTED, decisions pinned
 
-`docs/critical-knowledge.md`. Started with one entry (phone satellite SOS) to see the
+`docs/critical.md`. Started with one entry (phone satellite SOS) to see the
 shape. Two decisions deliberately deferred until it can be looked at:
 
 - [ ] **Entry bar.** Currently the strictest option: only facts where the belief most
@@ -124,6 +124,11 @@ shape. Two decisions deliberately deferred until it can be looked at:
       NWS withdrew the lightning crouch; botulinum toxin is odourless; saxitoxin is
       heat-stable; solar retinopathy is painless while it happens; ground insulation
       matters more than the roof; do not eat snow.
+
+- [ ] **Presentation.** First draft was far too text-heavy. The page has to be scannable,
+      not read. Two ideas to carry forward: collapsible sections (`??? note "..."`) so a
+      long page is not a wall of text — one is already in use here — and applying the
+      same treatment to the guides themselves, which have the same problem in places.
 
 - [ ] Consider a `verify.py` check that every claim on the page still exists in the
       guide it links to, so the page cannot drift from its sources — and a hard cap on

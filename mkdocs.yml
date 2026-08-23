@@ -67,7 +67,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Things You Would Not Think to Look Up: critical-knowledge.md
+  - Critical: critical.md
   - Tags: tags.md
   - Medical:
     - First Aid Basics: medical/first-aid-basics.md
