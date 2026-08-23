@@ -75,7 +75,9 @@ When municipal water fails, secure water immediately. You need 1 gallon (3.8 lit
     Hot water heater (30-80 gallons / 114-300 liters). Toilet tanks (not bowls) — water is clean if no chemical treatment tablets have been added. Ice in freezers. Canned food liquids.
 
 === "Outside Sources"
-    Rainwater collection from rooftops and tarps. Swimming pools and hot tubs (treat chemically before drinking — they contain chemicals but are not sterile). Water heaters in adjacent buildings. Streams and ponds (purify before drinking).
+    Rainwater collection from rooftops and tarps. Water heaters in adjacent buildings.
+    Streams and ponds (purify before drinking). **Swimming pools and hot tubs — for
+    washing and flushing, not for drinking.**
 
 === "Purification"
     Boil for 1 minute. Or add plain unscented household bleach per gallon (3.8 L) — 8
@@ -83,6 +85,20 @@ When municipal water fails, secure water immediately. You need 1 gallon (3.8 lit
     both if the water is cloudy or very cold. Or use a portable filter rated for bacteria
     and protozoa. Bleach does not kill cryptosporidium; boiling and filtration do. Full
     detail in [Water Purification](../water/purification.md#household-bleach-sodium-hypochlorite).
+
+!!! warning "CAUTION: pool water is for washing, not drinking"
+    A swimming pool looks like the largest water source in the neighbourhood and it is
+    the wrong one to drink. The problem is not germs — it is the cyanuric acid, algaecides
+    and stabilisers already dissolved in it, and boiling, bleaching, or filtering removes
+    none of them. Chemical treatment makes it worse by adding more.
+
+    Boiling actually concentrates them, since the water leaves and the chemicals stay.
+    Only distillation separates them, and that is slow enough to be irrelevant at pool
+    volumes.
+
+    Hot tubs are worse again: far higher chemical loads in far less water. Use pool water
+    for flushing toilets, washing, and firefighting, which frees your drinkable water for
+    drinking. That is a real and substantial gain — it is just not a drinking source.
 
 !!! warning "CAUTION"
     Do not drink water from radiators, boilers, or industrial systems. They contain antifreeze, rust inhibitors, and other toxic chemicals.
@@ -147,6 +163,18 @@ Post-disaster fires are common. Gas leaks, downed power lines, and damaged chimn
 - Do not hoard. Take what you need. Leave supplies for others.
 - Prioritize water, food, first aid supplies, batteries, and tools.
 - Avoid pharmacies and hospitals — these are high-conflict areas after disasters.
+
+!!! warning "DISCLAIMER: taking property is a legal matter"
+    Taking goods from a damaged or abandoned building is theft in ordinary
+    circumstances, and remains so in most circumstances after a disaster. Most legal
+    systems recognise a defence of necessity when life is genuinely at risk and no
+    alternative exists — the same principle that applies to taking game out of season.
+
+    In practice that means: take what is needed to keep people alive and nothing beyond
+    it, leave what others will need, note what you took and from where, and report it to
+    the authorities afterwards. Emergency services and aid distribution exist and reaching
+    them is almost always the better option. The further you are from immediate danger to
+    life, the less this defence holds.
 
 ## Group Organization
 
