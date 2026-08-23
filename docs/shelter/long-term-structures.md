@@ -169,7 +169,7 @@ Ground insulation remains the top priority. For long-term use, improve beyond th
 !!! danger "DANGER"
     Carbon monoxide from an interior fire is odorless and lethal. Never seal a shelter completely. Always maintain at least two ventilation openings.
 
-!!! danger "DANGER: the smoke hole is a spark path into your roof"
+!!! danger "WARNING: the smoke hole is a spark path into your roof"
     An open fire throws sparks straight up, and the smoke hole sits directly above it —
     with thatch or bark, the most flammable part of the structure, all around the
     opening. A roof fire in a shelter you spent weeks building, at night, with one small

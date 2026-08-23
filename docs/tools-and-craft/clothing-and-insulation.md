@@ -82,7 +82,7 @@ For immediate need, skip tanning:
 Brain tanning produces soft, washable leather. Every animal has enough brain to tan its
 own hide.
 
-!!! danger "DANGER: not with deer or elk brain"
+!!! warning "CAUTION: not with deer or elk brain"
     [Field Butchering](../food/field-butchering.md#disease-and-hygiene) says to avoid
     contact with the brain, spinal cord, eyes, and lymph nodes of deer and elk, because
     that is where chronic wasting disease prions concentrate. Brain tanning asks you to

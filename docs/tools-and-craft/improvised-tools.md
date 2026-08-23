@@ -51,7 +51,7 @@ Not all stone works for tool-making. Seek fine-grained, glassy, or crypto-crysta
 4. A sharp flake detaches from the opposite side. This flake is your cutting tool.
 5. Use the flake as-is for cutting hide, plant fibers, or meat. The edge is sharper than steel when freshly struck.
 
-!!! danger "DANGER: protect your eyes before you strike the first flake"
+!!! danger "WARNING: protect your eyes before you strike the first flake"
     Percussion flaking throws razor-sharp fragments at speed, and they travel toward your
     face. Eye injury is the characteristic knapping injury, and losing an eye in the field
     is not survivable in any practical sense — you lose depth perception for every task
