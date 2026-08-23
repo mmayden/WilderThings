@@ -163,6 +163,24 @@ Absence is invisible. You have to go looking.
 
 Ask: **who reads this guide, and what will hurt them that is not on this page?**
 
+**The technique that works:** find hazards documented in only one guide, then ask
+whether that guide is where the person actually *meets* the hazard. Warnings drift
+toward the guide about the injury and away from the guide about the activity — which
+puts them where the victim looks instead of where the actor is.
+
+Every instance found this way had the same shape:
+
+| Hazard | Was documented in | Belonged also in |
+|---|---|---|
+| Carbon monoxide from generators | home preparedness | the disaster guide people read during an event |
+| Urushiol in smoke | plant poisoning | the seven fire guides, where fuel is gathered |
+| Cold shock drowning | water crossing | ocean survival — the guide about ending up in the sea |
+| Handle a hypothermic person gently | the hypothermia guide | arctic survival, which a rescuer is reading |
+| Crush syndrome on release | trauma and triage | the earthquake guide |
+
+Point to the canonical copy rather than duplicating the protocol — a short block
+naming the hazard, the recognition signs, and the link.
+
 ---
 
 ### Stage 2 — Mechanical sweeps: script it, do not think about it
