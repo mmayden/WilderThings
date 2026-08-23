@@ -179,6 +179,23 @@ Char cloth is the critical link in traditional flint-and-steel fire-making.
 
 A convex lens concentrates parallel rays of sunlight into a small focal point. At the focal point, light energy converts to heat energy. A lens of sufficient size focuses enough energy to exceed the ignition temperature of fine, dark tinder.
 
+!!! danger "DANGER: never sight through an optic toward the sun"
+    Binoculars, rifle scopes, and camera lenses concentrate sunlight — that is the
+    whole reason they work here. Pointed at the sun with your eye behind them, they
+    concentrate it onto your retina instead, and the damage is instant, permanent, and
+    **completely painless while it happens**. You will not feel a warning.
+
+    - Never look through any optic at or near the sun. Use a **single objective lens
+      with the optic pointed away from your face**, or take the lens out.
+    - Do not stare at the focal point on the tinder either. It is bright enough to
+      leave afterimages. Glance to check placement, then look away.
+    - Position yourself so you are looking *down* at the tinder with the sun behind
+      you, never up along the light path.
+
+    Solar retinopathy shows up hours later as a blind spot in the centre of your
+    vision, and there is no treatment. Losing central vision in a survival situation
+    ends it.
+
 ### Lens Sources
 
 | Source | Aperture | Effectiveness |
@@ -291,6 +308,7 @@ Rapid compression of air in a sealed cylinder generates extreme heat — the sam
 - Failing to prepare char cloth in advance — traditional flint and steel is nearly useless without it.
 - Attempting solar ignition with light-colored tinder — dark tinder absorbs far more energy.
 - Holding the magnifying lens at the wrong distance — the focal point must be precise. Move the lens, not the tinder.
+- Sighting through binoculars or a scope to aim them at the sun. That concentrates sunlight onto your retina and blinds you permanently.
 - Touching 9V battery terminals together in storage — tape over them.
 - Using coarse steel wool with a battery — fine grade (0000) ignites far more reliably.
 - Expecting a ferro rod to light damp tinder — the sparks are hot, but the tinder still needs to be dry enough to catch.

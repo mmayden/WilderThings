@@ -114,6 +114,15 @@ Solar ignition requires direct, strong sunlight and a focusing element. These me
 !!! note
     Solar methods work only in clear-sky conditions with strong sun. They are supplementary techniques, not primary methods.
 
+!!! danger "DANGER: do not look into the focused light or toward the sun"
+    Every method below concentrates sunlight, including the polished can bottom, which
+    is a concave mirror. Do not stare at the focal point, and never sight along the
+    light path toward the sun. Retinal burns from concentrated sunlight are instant,
+    permanent, and painless while they happen — the blind spot appears hours later.
+
+    Glance to check placement, then look away. Full detail in
+    [Spark and Lens Methods](spark-methods.md#lens-sources).
+
 ### Ice Lens
 
 1. Find or carve a piece of clear ice 2-3 inches (5-7.5 cm) in diameter and at least 1.5 inches (4 cm) thick.
