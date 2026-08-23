@@ -137,7 +137,12 @@ Your phone provides more survival capability than any other single item:
 - **Communication.** Call, text, or signal for help.
 - **Navigation.** GPS works without cell service. Download offline maps (Google Maps, Gaia GPS, OsmAnd) before you need them.
 - **Light.** Built-in flashlight.
-- **Fire.** Battery can ignite steel wool in an extreme emergency.
+- **Fire.** Not from the phone. The battery-and-steel-wool method uses a 9V or AA cell,
+  not a lithium pouch cell — see
+  [Spark and Lens Methods](../fire/spark-methods.md#9v-battery-steel-wool). Deliberately
+  shorting or puncturing a phone battery causes thermal runaway: it vents burning
+  electrolyte and toxic gas in your hand, and takes your phone with it. Your phone is
+  worth far more as a light, a map, and a way to reach a satellite.
 - **Information.** Stored first aid guides, survival references, contact numbers.
 - **Camera.** Document injuries, record surroundings, photograph maps.
 
