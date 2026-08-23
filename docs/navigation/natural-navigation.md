@@ -14,7 +14,7 @@ tags:
 ## At a Glance
 
 - The shadow stick method gives a reliable east-west line anywhere the sun is visible
-- Polaris (Northern Hemisphere) and the Southern Cross (Southern Hemisphere) provide true north and south within 2-3 degrees
+- Polaris gives true north within about 1-2 degrees; the Southern Cross gives south within about 3-5 degrees
 - Moss on trees is not a reliable direction indicator — tree growth asymmetry caused by prevailing wind and sun exposure is
 - No single natural method is accurate enough alone — combine at least two methods and cross-check
 - Terrain association (rivers flow downhill, drainages merge) is the most practical way to find civilization
@@ -34,8 +34,8 @@ This method takes 2-3 hours but gives a true east-west line.
 2. Mark the tip of the shadow with a stone or scratch.
 3. Wait 2-3 hours. The shadow tip moves in an arc.
 4. Mark the new shadow tip position.
-5. Draw a straight line between the two marks. This line runs approximately east-west. The first mark is west, the second is east (in the Northern Hemisphere the shadow moves from west to east).
-6. A perpendicular line gives you a north-south line.
+5. Draw a straight line between the two marks. This line runs approximately east-west. The first mark is west, the second is east — shadow tips travel west to east in **both** hemispheres, because the sun always tracks east to west.
+6. A perpendicular line gives you a north-south line. Which end is north does depend on hemisphere — in the Northern Hemisphere, north is the side away from the midday sun.
 
 ### Shadow Stick — Shortest Shadow Method
 

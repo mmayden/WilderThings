@@ -15,7 +15,7 @@ tags:
 
 - Dehydration kills faster than starvation — prioritize water within the first 24 hours.
 - Terrain and vegetation provide reliable indicators of subsurface water.
-- Collect rainwater and dew before expending energy on digging.
+- Collect rainwater and dew before expending energy on digging. Rain catchment massively outproduces every other method — a single tarp in one inch of rain yields more than a week of solar stills.
 - Always purify found water before drinking (see [purification](./purification.md)).
 - Energy cost matters — avoid methods that consume more water (through sweat) than they yield.
 
@@ -92,7 +92,9 @@ Rainwater is one of the cleanest sources available in the wild. Collect it aggre
 
 ### Methods
 
-1. **Tarp or poncho catchment** — suspend a tarp at an angle with a low point draining into a container. A 6 x 8 foot (1.8 x 2.4 m) tarp collects roughly 1 gallon (3.8 L) per 1 inch (2.5 cm) of rainfall.
+1. **Tarp or poncho catchment** — suspend a tarp at an angle with a low point draining into a container. A 6 x 8 ft (1.8 x 2.4 m) tarp yields roughly **20 gallons (75 L) per inch (25 mm) of rainfall** — about 30 gallons in theory, less splash and runoff losses.
+
+    Rules of thumb: 1 inch of rain on 1 sq ft = 0.6 US gallons. In metric it is simpler — **1 mm of rain on 1 m² = 1 litre**.
 2. **Broad leaves** — angle large leaves (banana, burdock, elephant ear) into a container.
 3. **Rock depressions** — natural bowls in rock collect rain. Check after any rainfall.
 4. **Clothing absorption** — drape clean cloth over vegetation overnight. Wring collected water into a container at dawn.
@@ -102,7 +104,7 @@ Rainwater is one of the cleanest sources available in the wild. Collect it aggre
 
 ### Maximizing Collection
 
-- Set up rain catchment **before** you need water. Build it on day one.
+- Set up rain catchment **before** you need water. Build it on day one. It is the highest-yield, lowest-effort water source available and it outproduces stills, dew, and transpiration bags by an order of magnitude.
 - Use multiple collection points simultaneously.
 - Cover stored rainwater to prevent evaporation and contamination.
 
@@ -294,7 +296,7 @@ Melting snow without fire costs significant body heat and calories. Calculate th
 
 | Method | Yield per Day | Effort | Best Conditions |
 |---|---|---|---|
-| Rainwater catchment | 1+ gal / 4+ L | Low | Rainy weather |
+| Rainwater catchment | 20+ gal / 75+ L per inch of rain (6x8 ft tarp) | Low | Rainy weather |
 | Dew collection | 0.5–1 qt / 0.5–1 L | Low | Clear humid nights |
 | Transpiration bag (x10) | 0.5–2 qt / 0.5–2 L | Low | Hot sunny days |
 | Solar still | 0.5–1 qt / 0.5–1 L | Medium | Moist soil, full sun |
