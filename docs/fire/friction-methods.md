@@ -14,10 +14,30 @@ tags:
 ## At a Glance
 
 - Bow drill is the most reliable friction method; expect 2-4 weeks of practice to achieve consistent results.
+- Practise this before you need it. A first attempt during an emergency will most likely fail and will cost hours, calories, water, and hand skin.
 - Hand drill requires less equipment but far more endurance and technique.
 - Wood selection is the single most important factor — wrong wood means no fire regardless of skill.
 - All friction methods require wood moisture content below 15%; 8-12% is ideal.
 - Friction fire produces a coal, not a flame. Transfer the coal to a tinder bundle and blow it to flame.
+
+!!! warning "CAUTION: this is a skill to learn before you need it, not during"
+    The numbers in this guide are honest and worth reading as a decision, not as
+    encouragement. Bow drill takes 15-30 hours of practice to become reliable; hand drill
+    takes 30-60. Someone attempting either for the first time in an emergency will most
+    likely fail, and will spend hours of daylight, a large number of calories, a
+    meaningful amount of water, and the skin on their hands finding that out.
+
+    **If you have a lighter, matches, or a ferro rod, use them** — see
+    [Spark and Lens Methods](spark-methods.md). Carry two. A ferro rod weighs almost
+    nothing, works wet, and lasts for thousands of strikes.
+
+    If you have no ignition source and have never made friction fire, weigh those hours
+    honestly against shelter and insulation, which need no practice and no equipment.
+    Fire is not always the priority it feels like — see
+    [Shelter Principles](../shelter/shelter-principles.md).
+
+    None of this argues against the skill. It argues for learning it at home, where
+    failing costs an afternoon.
 
 ## Bow Drill
 
@@ -66,7 +86,7 @@ The bow drill system has five components. Each must be correct for the system to
 - Willow / cottonwood
 - Cottonwood / willow
 
-!!! danger "WARNING"
+!!! tip
     Do not mix hardwood and softwood. A hardwood spindle on a softwood board drills a hole. A softwood spindle on a hardwood board glazes and polishes without producing dust.
 
 #### Bearing Block (Handhold / Socket)
@@ -119,7 +139,7 @@ Tie the string to one end of the bow with a fixed knot. At the other end, use an
 12. **Transfer the coal.** Gently tap the fireboard to release the coal onto the leaf or bark chip. Carefully transfer the coal into the center of your prepared tinder bundle.
 13. **Blow to flame.** Hold the tinder bundle loosely. Blow gently and steadily at the base of the coal. Increase force as the smoke intensifies. The bundle will ignite — this moment happens suddenly. Be ready to place it into your fire lay.
 
-!!! danger "WARNING"
+!!! tip
     Smoke from the socket (where the spindle meets the board) is not the same as smoke from the notch (where the dust collects). Socket smoke means friction is working. Notch smoke means a coal is forming. Do not stop at socket smoke — push through to notch smoke.
 
 ### Troubleshooting
@@ -196,9 +216,21 @@ The fireboard and spindle do not need to be the same species for hand drill, but
 
 - **Spit on your palms** or rub them with fine sand for better grip (but not so much sand that it tears skin).
 - **Use a thumb loop.** Tie a short cord loop around the top of the spindle. Hook your thumbs through the loop to prevent hands from sliding down.
-- **Use a mouth hold.** Place the top of the spindle against a socket held in your teeth (use a piece of flat wood to protect teeth). This adds downward pressure and prevents the spindle from walking out.
+- **Use a mouth hold.** Place the top of the spindle against a socket held in your teeth,
+  with a piece of flat hardwood between the spindle and your teeth. This adds downward
+  pressure and stops the spindle walking out.
+
+    !!! warning "CAUTION"
+        Never take the spindle directly against your teeth — the load fractures enamel,
+        and a spindle that slips travels toward your palate and throat. Use a carved
+        wooden bearing piece thick enough that the spindle cannot punch through it, and
+        stop the moment it starts to wear thin. A broken tooth or a puncture to the roof
+        of the mouth is a poor trade for a fire you could have made another way.
 - **Alternate with a partner.** One person holds the board and feeds the coal; the other drills. Switch before exhaustion.
-- **Build calluses.** Practice frequently in short sessions. Blisters make the hand drill impossible.
+- **Build calluses.** Practice frequently in short sessions. Blisters make the hand drill
+  impossible — and in the field they are an open wound on the hands you need for
+  everything else. Leave blisters intact rather than draining them, and see
+  [Wound Infection](../medical/wound-infection.md).
 - **Work fast, not long.** A coal from hand drill should come in 30-90 seconds of full-effort drilling if conditions are right. If nothing happens in 3 minutes, stop and reassess materials.
 
 ## Fire Plow
@@ -231,7 +263,7 @@ The fireboard and spindle do not need to be the same species for hand drill, but
 5. Hot dust piles up at the end of the groove. Continue until it smokes freely.
 6. Tip the coal out onto a leaf. Transfer to tinder bundle.
 
-!!! danger "WARNING"
+!!! warning "CAUTION"
     Fire plow requires enormous sustained effort. It is significantly more exhausting than bow drill. Reserve energy and hydration before attempting.
 
 ## Fire Saw (Bamboo Method)
@@ -312,6 +344,8 @@ Press your thumbnail into the wood surface. If it leaves a clear dent, the wood 
 - Neglecting to prepare the tinder bundle in advance — the coal dies while you scramble.
 - Stopping too soon — the dust pile must smoke on its own for at least 5 seconds before you have a viable coal.
 - Practicing with commercial lumber — kiln-dried construction lumber can work for learning, but it does not replicate field conditions.
+- **Attempting friction fire first in a real emergency.** It is the slowest, least reliable ignition method available to an untrained person. Exhaust every other option, and weigh the hours against shelter.
+- **Tearing your hands open.** Hand drill blisters cost you every other task in camp. Stop before the skin breaks; swap methods or partners.
 
 ## Quick Reference
 
@@ -332,6 +366,8 @@ Press your thumbnail into the wood surface. If it leaves a clear dent, the wood 
 | Bow length | 24-30 in / 60-75 cm |
 | Target wood moisture | 8-12% ideal, below 15% maximum |
 | Notch angle | 1/8 of circle (45-degree wedge) |
+| Practice to reliability | Bow drill 15-30 h; hand drill 30-60 h |
+| In an emergency, untrained | Use a ferro rod or matches; weigh shelter first |
 
 ## See Also
 
@@ -339,6 +375,8 @@ Press your thumbnail into the wood surface. If it leaves a clear dent, the wood 
 - [Spark and Lens Methods](spark-methods.md) — ferro rod, flint and steel, battery, lens, and fire piston techniques.
 - [Cordage](../tools-and-craft/cordage.md) — bow drill string from natural or improvised rope.
 - [Knife Use and Care](../tools-and-craft/knife-use-and-care.md) — carving fire sets, notches, and spindles.
+- [Fire in Wet Conditions](fire-in-wet-conditions.md) — why friction fire is close to hopeless when everything is damp.
+- [Shelter Principles](../shelter/shelter-principles.md) — the alternative use of the same hours, needing no practice.
 
 ## Sources
 
