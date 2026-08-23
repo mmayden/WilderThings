@@ -23,7 +23,7 @@ tags:
 
 | Knot             | Use Case                                       | Strength Retention |
 |------------------|-------------------------------------------------|--------------------|
-| Bowline          | Rescue loop, anchor loop, non-slip fixed loop   | ~60%              |
+| Bowline          | Rescue loop, anchor loop, non-slip fixed loop   | ~70%              |
 | Clove hitch      | Quick attachment to pole or stake, starting lashings | ~60-65%       |
 | Taut-line hitch  | Adjustable tension (guy lines, ridgelines)       | ~65%              |
 | Trucker's hitch  | Mechanical advantage (tarp lines, load securing) | ~50-55%          |
@@ -42,7 +42,37 @@ Creates a fixed loop that does not slip or tighten under load. The most importan
 - Lowering or raising a person.
 - Creating an anchor point around a tree.
 - Making a fixed loop at the end of a line.
-- Tying around your waist as an emergency harness.
+- Tying around your waist as an emergency harness — **read the warning below first.**
+
+!!! danger "DANGER: a rope around the waist is not a harness, and hanging in one kills"
+    A bowline round the chest or waist is a genuine last-resort technique and it has two
+    ways of killing someone who does not know them.
+
+    **Suspension trauma.** Hanging still in any rope or harness lets blood pool in the
+    legs, so too little returns to the heart. People lose consciousness and can die from
+    it — in a fall-arrest harness this has happened within 10 to 30 minutes, and a plain
+    rope loop is far worse than a harness. **Anyone hanging must be brought down fast**,
+    not left suspended while you work out the next step.
+
+    **Constriction.** A single loop takes the whole load on a narrow band. Around the
+    waist it compresses the abdomen and stops the diaphragm working; it can also ride up
+    under the ribs. Around the chest it can suffocate someone who cannot take their
+    weight on their legs.
+
+    If someone is suspended and conscious, have them keep their legs moving and push
+    against a foot loop or the rock — working the leg muscles pumps blood back. Then get
+    them down.
+
+    **Once they are down, treat them normally: lay them flat and follow standard first
+    aid.** Older guidance said to keep a suspension casualty semi-upright for half an
+    hour, on the theory that lying flat would flood the heart with pooled blood. That
+    advice has been withdrawn. Reviews of the evidence found no sign of the "rescue
+    death" it was meant to prevent, and keeping a shocked casualty sitting up does
+    real harm. Get medical help either way.
+
+    A proper sit harness spreads the load across the thighs and pelvis and exists because
+    a rope round the body does not. Improvise one from webbing if you have any. Use the
+    waist loop when there is no alternative and for as little time as possible.
 
 ### Step by Step
 1. Hold the standing end (the long, loaded side) in your left hand and the working end (the free tail) in your right.
@@ -86,7 +116,7 @@ Wraps around a pole or stake and grips under load. Fast to tie and untie.
 2. Stack the second loop on top of the first.
 3. Slide both loops over the end of the pole and pull tight.
 
-!!! danger "WARNING"
+!!! warning "CAUTION"
     A clove hitch can slip on smooth poles under variable loading. Back it up with a half hitch if the load changes direction.
 
 ---
@@ -130,7 +160,7 @@ Creates a 3:1 (theoretical) mechanical advantage for tensioning lines. The most 
 5. Pull the working end to tension the line. You will feel the mechanical advantage — approximately 3:1 before friction losses.
 6. Secure the tension with two half hitches around the standing end below the midpoint loop.
 
-!!! danger "WARNING"
+!!! warning "CAUTION"
     The trucker's hitch generates significant force. On a tarp or shelter, it is easy to rip grommets or snap cordage. Apply tension gradually.
 
 ---
@@ -170,11 +200,15 @@ Joins two ropes of equal diameter. Simple and flat, making it useful for bandage
 
 ### Step by Step
 1. Hold one end in each hand: left rope (L) and right rope (R).
-2. Cross L over R and tuck L under R. Pull snug.
-3. Now cross R over L and tuck R under L. Pull snug.
+2. Cross R over L and tuck R under L. Pull snug.
+3. Now cross L over R and tuck L under R. Pull snug.
 4. The result: two interlocking loops that lie flat. Both free ends exit on the same side of the knot.
 
-**Verification:** "Right over left, then left over right." If both tails exit on the same side, it is a square knot. If tails exit on opposite sides, it is a granny knot (which slips under load). Retie.
+**Verification:** "Right over left, then left over right." Starting the other way round —
+left over right, then right over left — gives the same knot; what matters is that the
+second crossing is the mirror of the first. If both tails exit on the same side, it is a
+square knot. If tails exit on opposite sides, it is a granny knot (which slips under
+load). Retie.
 
 !!! danger "WARNING"
     A square knot is not safe for joining ropes under significant or dynamic load. Use a sheet bend or double fisherman's for critical joins.
@@ -270,6 +304,12 @@ Joins two poles that cross at an angle other than 90 degrees (typically 45-60 de
 | Poles end-to-end (extending)      | Shear lashing      |
 | Poles side-by-side (bundling)     | Round lashing      |
 
+The two above are outside the scope of this guide but easy to describe. **Shear lashing**
+binds two parallel poles with 6-8 wraps and 2-3 frapping turns, then the poles are opened
+into an A-frame or left overlapped to make one longer pole. **Round lashing** is the same
+wraps with no frapping, used purely to bundle poles that stay parallel. Both start and
+finish with a clove hitch, like square lashing.
+
 ---
 
 ## Rope Care
@@ -307,6 +347,8 @@ Before any load-bearing use:
 - Not leaving enough tail on the working end (minimum 6 in / 15 cm for safety).
 - Storing rope in a tangled pile instead of coiling it.
 - Failing to inspect rope before critical use.
+- **Leaving someone hanging in a rope loop while you decide what to do.** Suspension trauma can kill in under half an hour. Getting them down is the priority.
+- Treating a waist loop as a harness for anything but the shortest possible time.
 
 ---
 
@@ -339,4 +381,7 @@ Before any load-bearing use:
 - Ashley, Clifford W. *The Ashley Book of Knots.* Doubleday, 1944.
 - Pawson, Des. *The Handbook of Knots.* DK Publishing, 2004.
 - Boy Scouts of America. *Pioneering Merit Badge Pamphlet.* BSA, 2016.
+- UK Health and Safety Executive, RR708, "Evidence-based review of the current guidance on first aid measures for suspension trauma" (2009).
+- ANZCOR Guideline 9.1.5, "First Aid Management of Harness Suspension Trauma".
+- International Guild of Knot Tyers, knot strength reference tables.
 - Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
