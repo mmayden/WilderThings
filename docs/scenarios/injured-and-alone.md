@@ -306,7 +306,7 @@ If your injuries limit you to only a few actions, prioritize in this order:
 - [Animal Attack](animal-attack.md) — wound care specific to animal-inflicted injuries
 - [Knife Use and Care](../tools-and-craft/knife-use-and-care.md) — cutting splint materials, preparing wound irrigation tools
 - [Knots and Lashing](../tools-and-craft/knots-and-lashing.md) — lashing splints, tying slings, improvised stretcher construction
-- [Cordage](../tools-and-craft/cordage.md) — improvised tourniquet and splint-lashing material
+- [Cordage](../tools-and-craft/cordage.md) — splint and litter lashing. Cord is the wrong material for a tourniquet — see First Aid Basics
 - [First Aid Basics](../medical/first-aid-basics.md) — wound care, bleeding control, and burn treatment.
 - [Fractures and Splints](../medical/fractures-and-splints.md) — self-splinting techniques.
 - [Signaling for Rescue](../navigation/signaling-for-rescue.md) — attracting help when immobile.

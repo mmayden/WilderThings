@@ -312,7 +312,7 @@ Each inner strand can itself be unbraided into two thinner fibers. This gives yo
 - [Knots and Lashing](knots-and-lashing.md) — what to do with cordage once you have made it
 - [Knife Use and Care](knife-use-and-care.md) — processing fibers, carving toggles, harvesting bark
 - [Lost in the Woods](../scenarios/lost-in-woods.md) — shelter and snare applications when stranded
-- [Injured and Alone](../scenarios/injured-and-alone.md) — improvised tourniquet and splint-lashing cordage
+- [Injured and Alone](../scenarios/injured-and-alone.md) — splint and litter lashing when you are your own rescuer
 - [Trapping and Snares](../food/trapping-and-snares.md) — snare lines and trigger cords from natural cordage.
 - [Improvised Fishing](../food/fishing-improvised.md) — fishing line from plant fibers and sinew.
 

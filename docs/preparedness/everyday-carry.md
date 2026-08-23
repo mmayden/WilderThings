@@ -74,10 +74,25 @@ Expands capability without adding pocket bulk:
 - Water purification tablets (4-6 tablets)
 - Energy bar or gel
 - Battery bank with cable
-- Bandana (tourniquet, pre-filter, sun protection, sling)
+- Bandana (pre-filter, dust mask, sun protection, sling, pot holder)
 
 !!! note
-    A bandana is one of the most versatile EDC items. It serves as a dust mask, water pre-filter, tourniquet, pot holder, signaling flag, and sun shade.
+    A bandana is one of the most versatile EDC items. It serves as a dust mask, water
+    pre-filter, pot holder, signalling flag, sling, and sun shade.
+
+!!! danger "DANGER: a bandana is not a tourniquet"
+    A cloth band alone cannot generate the pressure needed to stop arterial bleeding. Tied
+    tight it occludes the veins and not the artery, so blood keeps arriving and cannot
+    leave — which makes the bleeding **worse**, not better.
+
+    An improvised tourniquet needs a band at least 1.5 in (4 cm) wide **and a rigid
+    windlass** — a stick, a pen, a screwdriver — twisted until the bleeding stops and then
+    locked. A folded bandana can be the band. It is not the tourniquet. See
+    [Tourniquet](../medical/first-aid-basics.md#step-3-tourniquet).
+
+    If you carry EDC for trauma, carry a real tourniquet. A CAT or SOFTT-W is about the
+    size of a folded pair of socks and works one-handed on your own limb, which no
+    improvised device does.
 
 ## Urban vs Rural EDC
 

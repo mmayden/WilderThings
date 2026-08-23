@@ -284,7 +284,7 @@ Evacuate immediately if:
 - [Injured and Alone](injured-and-alone.md) — self-treatment after an attack when help is unavailable
 - [Lost in the Woods](lost-in-woods.md) — survival priorities if an animal encounter leaves you disoriented
 - [Knife Use and Care](../tools-and-craft/knife-use-and-care.md) — defensive knife use and wound care tool
-- [Cordage](../tools-and-craft/cordage.md) — making improvised tourniquets and lashing for splints
+- [Cordage](../tools-and-craft/cordage.md) — lashing for splints and litters. Not for tourniquets — cord is too narrow and causes injury without stopping the bleeding
 - [Bear Safety](../wildlife/bear-safety.md) — species-specific bear encounter protocols.
 - [Venomous Snakes](../wildlife/venomous-snakes.md) — identification and response to snakebites.
 - [Bites and Stings](../medical/bites-and-stings.md) — medical treatment for animal bites.
