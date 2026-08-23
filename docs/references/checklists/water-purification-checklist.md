@@ -18,7 +18,7 @@ tags:
 - [ ] Prefer clear water over murky water
 - [ ] Collect water upstream of any camps, trails, animal activity, or agriculture
 - [ ] Avoid water near mining operations, industrial sites, or chemical runoff (treatment does not remove chemical contaminants)
-- [ ] Look for animal tracks near the source as an indicator of drinkability (animals use clean water)
+- [ ] Use animal tracks to help you *find* water — but never as evidence it is safe. Animals drink water full of Giardia and Cryptosporidium, and are usually the source of it
 - [ ] See [Finding Water](../../water/finding-water.md) for detailed source identification
 
 ### Pre-Filtering
@@ -56,7 +56,7 @@ Choose the best available method based on your equipment and situation:
 - [ ] Follow the manufacturer's dosage instructions exactly
 - [ ] **Iodine tablets:** Add tablets per instructions (typically 1-2 tablets per quart/liter). Wait 30 minutes. In cold or cloudy water, double the wait time or dosage
 - [ ] **Chlorine dioxide (Aquamira, Katadyn Micropur).** Mix components per instructions. Add to water. Wait 15-30 minutes (4 hours for Cryptosporidium)
-- [ ] **Household bleach (sodium hypochlorite 5-8%).** Add 2 drops per quart (liter) of clear water, or 4 drops if water is cloudy. Wait 30 minutes. Water should have a slight chlorine smell; if not, repeat the dose and wait another 15 minutes
+- [ ] **Household bleach (sodium hypochlorite 5-8%).** Add 2 drops per quart (liter) of clear water, or 4 drops if water is cloudy. Wait 30 minutes. Water should have a slight chlorine smell; if not, repeat the dose and wait another 30 minutes
 
 #### Filtration
 

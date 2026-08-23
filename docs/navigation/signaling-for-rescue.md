@@ -25,15 +25,24 @@ tags:
 
 Construct these symbols at least 10 ft / 3 m tall per character, with proportions of 6:1 (length to width). Use materials that contrast sharply with the ground — dark rocks on snow, light fabric on dark earth, trampled paths in tall grass.
 
+**Current ICAO standard (Annex 12).** These five are what aircrew are trained on worldwide — use them by preference:
+
 | Symbol | Meaning |
 |---|---|
 | **V** | Require assistance |
-| **X** | Require medical help |
-| **N** | No / Negative |
-| **Y** | Yes / Affirmative |
+| **X** | Require medical assistance |
+| **N** | No / negative |
+| **Y** | Yes / affirmative |
+| &#8594; (Arrow) | Proceeding in this direction |
+
+**Legacy extended code.** These appear in older survival manuals and are still widely printed, but they are not part of the current ICAO set — a given aircrew may or may not know them. Use them only in addition to a **V** or **X**, never instead of one:
+
+| Symbol | Meaning |
+|---|---|
 | **F** | Need food and water |
-| &#8594; (Arrow) | Traveling in this direction |
 | **I** | Require doctor — serious injury |
+| **II** | Require medical supplies |
+| **LL** | All is well |
 | **II** | Need supplies |
 | **LL** | All is well |
 

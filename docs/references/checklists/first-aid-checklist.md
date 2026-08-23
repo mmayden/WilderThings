@@ -31,8 +31,8 @@ tags:
 
 - [ ] Apply direct pressure with a clean dressing or cloth
 - [ ] If blood soaks through, pack the wound with gauze and apply more pressure (do not remove the first dressing)
-- [ ] Elevate the injured limb above the heart if possible
 - [ ] For life-threatening limb bleeding that does not stop with pressure, apply a tourniquet 2-3 inches (5-7.5 cm) above the wound
+- [ ] Do **not** spend time on elevation — it has no evidence behind it and delays what works
 - [ ] Tighten the tourniquet until bleeding stops completely
 - [ ] Note and record the time the tourniquet was applied
 - [ ] Apply a hemostatic agent (QuikClot, Celox) to junctional wounds (groin, armpit, neck) if available
@@ -70,6 +70,7 @@ tags:
 
 - The primary survey (ABCDE) is always performed in order. Treat each life threat as you find it before moving to the next letter.
 - Tourniquets are safe for field use. Do not loosen a tourniquet once applied unless directed by a physician.
+- The sequence is direct pressure -> wound packing -> tourniquet. Elevation and pressure points are no longer steps in that sequence, though hard pressure on the artery above the wound is a valid stopgap if you have no tourniquet and nothing to improvise one from.
 - In a wilderness context, definitive care may be hours or days away. Monitor the patient closely and plan evacuation early.
 - Document all injuries, treatments, and times. This information is critical for the receiving medical team.
 

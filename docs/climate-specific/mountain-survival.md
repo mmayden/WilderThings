@@ -15,7 +15,7 @@ tags:
 
 - Altitude sickness can kill. Ascend no more than 1,000-1,500 ft (300-450 m) per day above 8,000 ft (2,400 m). Descend immediately if symptoms worsen.
 - Mountain weather changes in minutes. Clear skies become violent storms with zero warning. Watch clouds constantly.
-- Lightning kills on ridges and summits. Descend below treeline when thunderstorms approach.
+- Lightning kills on ridges and summits. Descend below treeline when thunderstorms approach — there is no safe position to adopt outdoors, only safer ground.
 - The only cure for serious altitude illness is descent. No drug, rest period, or acclimatization trick substitutes for going lower.
 - UV radiation increases 4-5% per 1,000 ft (300 m) of elevation. Sunburn and snow blindness are serious threats above treeline.
 
@@ -88,19 +88,32 @@ Mountain weather shifts faster than any other environment. A clear morning can b
 
 ### If Caught in the Open
 
-1. Descend from ridges, peaks, and high points immediately.
-2. Avoid tall isolated objects — lone trees, poles, metal structures.
-3. Get below treeline if possible. Dense forest of uniform height is the safest natural shelter.
-4. If above treeline with no escape, assume the lightning position: crouch on the balls of your feet, feet together, arms around knees, head tucked. Minimize ground contact.
-5. Spread group members 50-100 ft (15-30 m) apart to avoid mass casualty from a single strike.
-6. Discard metal-frame packs and trekking poles. Place them 100 ft (30 m) away.
+!!! danger "The 'lightning crouch' does not work — do not rely on it"
+
+    The National Weather Service **withdrew the lightning crouch in 2008**. It
+    provides no meaningful protection: if the lightning channel comes down on
+    you, your posture does not change the outcome.
+
+    Worse, teaching it causes harm. People who believe they have a protective
+    position delay seeking real shelter. **There is no safe place outdoors in a
+    thunderstorm.** Keep moving toward genuine shelter rather than stopping to
+    assume a position.
+
+1. **Descend immediately** from ridges, peaks, and exposed high points. Losing elevation is the single most useful thing you can do.
+2. Head for a substantial building or a hard-topped vehicle if either is reachable. Nothing outdoors is equivalent.
+3. Get below treeline. Dense forest of *uniform* height is the best of the bad outdoor options — you are not the tallest object.
+4. Avoid tall isolated objects — lone trees, poles, metal structures — and avoid open ground where you are the high point.
+5. **Avoid shallow caves, overhangs, and rock crevices.** These do not shelter you from lightning; ground current arcs across the gap and they are a common site of injury.
+6. Spread group members 50-100 ft (15-30 m) apart so one strike cannot injure everyone.
+7. Discard metal-frame packs and trekking poles and move away from them.
+8. Keep moving toward safety. Do not stop and wait it out in the open.
 
 ## Rockfall and Avalanche Awareness
 
 ### Rockfall
 
 - Most frequent in early morning when overnight frost loosens rock, and in afternoon when solar warming melts ice that holds rock in place.
-- Travel close to the fall line (directly below the source) to minimize exposure time. Do not traverse horizontally beneath a rockfall zone.
+- **Minimize time spent under the hazard, not distance from it.** Move straight up or straight down through a rockfall zone — the shortest path out. Never traverse horizontally beneath one, which keeps you exposed for far longer.
 - Wear a helmet in terrain with overhead rockfall hazard.
 - Shout "ROCK!" loudly if you dislodge a stone. Do not look up — protect your head and press against the slope.
 
@@ -127,7 +140,7 @@ Mountain weather shifts faster than any other environment. A clear morning can b
 
 - Snowmelt streams are abundant in spring and summer. Water is typically clean near its source but should still be treated.
 - Above treeline, water may be scarce on ridges and summits. Carry at least 2 quarts (2 liters) above your last reliable water source.
-- Glacial melt contains rock flour (fine sedite) that gives it a milky appearance. It is safe to drink after settling or filtering but may cause digestive discomfort in quantity.
+- Glacial melt contains rock flour (fine glacial sediment) that gives it a milky appearance. It is safe to drink after settling or filtering but may cause digestive discomfort in quantity.
 - Snow can be melted for water. See [Finding Water](../water/finding-water.md) for efficient snow-melting techniques.
 
 ## Hypothermia Risk
@@ -174,6 +187,7 @@ Do not let summit goals override survival judgment. Most mountain fatalities occ
 - **Ascending too fast.** Altitude sickness is the most preventable mountain emergency. Follow the 1,000-1,500 ft (300-450 m) per day rule above 8,000 ft (2,400 m).
 - **Ignoring afternoon weather.** Storms build predictably after midday. Start early and descend before afternoon.
 - **Staying on ridges in lightning.** Descend immediately when you hear thunder. The 30-30 rule saves lives.
+- **Relying on the "lightning crouch."** Withdrawn by the National Weather Service in 2008. It offers no real protection and delays people from reaching actual shelter.
 - **Not carrying rain gear in clear weather.** Mountain weather changes without warning. Always carry a shell.
 - **Pushing to the summit despite symptoms.** HACE and HAPE kill when victims refuse to descend. The summit is optional; going home is not.
 - **Traveling alone without communication.** Carry a satellite communicator or personal locator beacon. Cell phones do not work in most mountain terrain.
@@ -186,7 +200,7 @@ Do not let summit goals override survival judgment. Most mountain fatalities occ
 | AMS (headache, nausea) | Stop ascending, hydrate, rest 24-48 hr, descend if worsening |
 | HACE (confusion, ataxia) | Descend immediately. Dexamethasone if available |
 | HAPE (breathless at rest, cough) | Descend immediately. Keep upright. Oxygen if available |
-| Lightning | Descend below treeline. Lightning position if trapped |
+| Lightning | Descend below treeline, keep moving to real shelter. The crouch does not work |
 | Rockfall | Helmet, fall line travel, shout warning |
 | Avalanche | Avoid 25-45° slopes with new snow. Cross one at a time |
 | Hypothermia | Add layers, shelter from wind, eat calories, warm fluids |

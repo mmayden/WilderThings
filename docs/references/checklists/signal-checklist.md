@@ -23,12 +23,14 @@ tags:
 - [ ] Choose a large, flat, open area visible from the air (clearing, hilltop, riverbank, beach)
 - [ ] Construct symbols at least 10 feet (3 m) tall and 3 feet (1 m) wide with high contrast to the ground
 - [ ] Use rocks, logs, clothing, gear, or trampled snow/vegetation to form the symbols
-- [ ] Standard symbols:
-  - **V** — Need assistance
-  - **X** — Need medical help
-  - **Arrow** — Traveling in this direction
-  - **I** — Need supplies
-  - **F** — Need food and water
+- [ ] Standard ICAO ground-to-air symbols (the five any aircrew will recognize):
+  - **V** — Require assistance
+  - **X** — Require medical assistance
+  - **N** — No / negative
+  - **Y** — Yes / affirmative
+  - **Arrow** — Proceeding in this direction
+
+- [ ] If you only remember one, make it **V** for help or **X** for a medical emergency. Older manuals list extra letters (F, I, II, LL) from a legacy code that aircrew may not know — use those only *in addition* to a V or X. See [Signaling for Rescue](../../navigation/signaling-for-rescue.md)
 - [ ] Create shadow by building symbols with raised edges (stacked rocks, mounded snow) so they are visible even when the sun is overhead
 - [ ] Maintain the signals: rebuild after wind or rain disturbs them
 
@@ -38,7 +40,7 @@ tags:
 - [ ] Build each fire large enough to produce a visible column of smoke
 - [ ] Keep fires ready to ignite quickly: tinder and kindling staged, covered against rain
 - [ ] For daytime signaling, create smoke by adding green branches, wet leaves, or damp grass to a hot fire (produces white smoke against dark backgrounds)
-- [ ] For dark backgrounds (forest), use white smoke; for snow or overcast skies, add rubber, oil, or plastic to produce dark smoke (if available)
+- [ ] For dark backgrounds (forest), use white smoke; for snow or overcast skies, add rubber, oil, or plastic to produce dark smoke (if available). Burning rubber and plastic releases toxic fumes — light it, then stay upwind and out of the plume
 - [ ] For nighttime signaling, build bright, high-flame fires using dry wood
 - [ ] Light all three fires simultaneously when you see or hear an aircraft
 
@@ -58,7 +60,7 @@ tags:
 - [ ] Pause and listen for a response
 - [ ] Repeat every few minutes
 - [ ] A whistle carries much farther than the human voice and requires less energy
-- [ ] If you hear two blasts in response, rescuers have heard you and are moving toward your position
+- [ ] **Any** answering sound means you have been heard — keep blasting at intervals so they can track you. Do not stop signaling and move toward them; let them come to you
 
 ### Electronic Devices
 
