@@ -23,6 +23,19 @@ source: field manuals, medical guidelines, established literature. Never
 fabricated, never "generally known".
 -->
 
+## Accuracy review — the seven lenses
+
+See [CONTRIBUTING.md](../CONTRIBUTING.md#the-seven-lenses--how-to-review-content-for-accuracy).
+Structural checks tell you a guide is well-formed; these tell you it is right.
+
+- [ ] **1. True?** Claim survives contact with the source. Anything computable has been recomputed
+- [ ] **2. Current?** Checked against the current guideline, not the traditional technique
+- [ ] **3. Displacement?** Believing this does not stop the reader doing the thing that actually works
+- [ ] **4. Detectable?** Any safety check given can actually detect the hazard it is checking for
+- [ ] **5. Consistent?** Grepped for this procedure/number elsewhere, including the reference checklists
+- [ ] **6. Complete?** Considered what will hurt this guide's reader that is not on the page
+- [ ] **7. Sound reasoning?** The stated mechanism is real, not a plausible-sounding invention
+
 ## Checklist
 
 Content changes:

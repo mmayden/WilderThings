@@ -63,18 +63,28 @@ The highest-risk guides (medical, plant/mushroom ID, water, wildlife, food
 preservation) were reviewed in Aug 2026 against current clinical and
 wilderness-medicine standards. Corrections applied are recorded in TASKS.md.
 
-Three lessons from that review, which apply to any future content work:
+**Review content against the seven lenses** in
+[CONTRIBUTING.md](CONTRIBUTING.md#the-seven-lenses--how-to-review-content-for-accuracy).
+Each one exists because it caught a real defect here:
 
-1. **Outdated guidance survives in survival writing.** Elevation and pressure
-   points for bleeding, chest taping for flail segments, and pulse-to-BP
-   correlation were all standard teaching and are all now wrong. Check the
-   current guideline, not what the technique "has always been."
-2. **A safety check that cannot detect the hazard is worse than none.** The
-   fermented-fish entry told readers to smell for spoilage; botulinum toxin is
-   odorless. State plainly when a check does not work.
-3. **Never let one procedure exist in two places.** The Universal Edibility
-   Test had two contradictory versions in two guides. Cross-link to one
-   canonical copy instead of duplicating.
+| # | Lens | Caught |
+|---|------|--------|
+| 1 | Is it true? | "Cook to avoid paralytic shellfish poisoning" — saxitoxin is heat stable |
+| 2 | Is it current? | Elevation/pressure points for bleeding; the 80/70/60 rule; flail chest taping |
+| 3 | **Does believing it stop the reader doing what works?** | The lightning crouch |
+| 4 | Can the stated check detect the hazard? | "Smell the fermented fish" — botulinum toxin is odorless |
+| 5 | Does it agree with the rest of the collection? | Vinegar for man-of-war: prescribed in one guide, contraindicated in another |
+| 6 | Complete where omission is dangerous? | No shellfish cross-allergy warning in the insect guide |
+| 7 | Is the reasoning sound even when the advice is? | "Cold water closes your pores" |
+
+Lens 3 is the one most easily missed. The National Weather Service withdrew the
+lightning crouch in 2008 not because the posture is harmful but because
+believing you have a protective position delays you seeking real shelter. Ask
+of any protective measure: **if this does not work, what does the reader lose by
+having tried it?**
+
+**Prefer checking to recalling.** Every source check during the audit changed
+something — including one that corrected an earlier correction.
 
 **Still outstanding:** no licensed clinician or regional botanist has reviewed
 this content, and cited sources have not been verified against the originals.
