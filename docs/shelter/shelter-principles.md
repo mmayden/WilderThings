@@ -141,7 +141,7 @@ Without ground insulation, your shelter's roof and walls are close to worthless.
 
 Apply the same principle: trap dead air space.
 
-- Minimum roof insulation for a debris shelter: 2–3 feet (0.6–1 m) of loose debris.
+- Minimum roof insulation for a debris shelter: 3 feet (1 m) of loose debris. More is better; less is the commonest reason a shelter fails.
 - Test with the "arm test" — push your arm into the debris layer from outside. If you can see daylight through the inside, add more material.
 - In rain environments, the outer layer must shed water — shingle bark, layers of broad leaves, or tightly packed fine debris acts as a thatch.
 
@@ -228,7 +228,7 @@ In hot environments, shelter serves the opposite function: blocking heat and pro
 
 ## Cold Weather Considerations
 
-- Insulate aggressively — minimum 4–6 inches (10–15 cm) ground insulation, 2–3 feet (0.6–1 m) roof debris.
+- Insulate aggressively — minimum 4–6 inches (10–15 cm) ground insulation, 3 feet (1 m) roof debris.
 - Seal all gaps against wind infiltration.
 - Keep the entrance small and consider a door plug of stuffed debris.
 - Build a fire reflector wall from green logs or stacked rocks to redirect radiant heat toward the shelter opening.
@@ -269,7 +269,7 @@ Not every situation calls for shelter construction. Conserve energy when:
 | Factor | Guideline |
 |---|---|
 | Ground insulation minimum | 4–6 in / 10–15 cm compressed |
-| Roof debris minimum | 2–3 ft / 0.6–1 m loose |
+| Roof debris minimum | 3 ft / 1 m loose |
 | Distance from water | 50+ ft / 15+ m above waterline |
 | Deadfall check radius | 50 ft / 15 m minimum |
 | Emergency build time | Under 4 hours |
