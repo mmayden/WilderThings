@@ -16,7 +16,7 @@ tags:
 - Mountain lions are ambush predators. If you can see one, you have already disrupted its attack pattern.
 - Running triggers pursuit. Stand your ground every time.
 - Children are disproportionately targeted. Keep them close and pick them up immediately.
-- Fatal mountain lion attacks average 1 per year in North America. Lightning kills 20.
+- Fatal mountain lion attacks average well under 1 per year in North America. Lightning kills about 20 people a year in the US alone.
 - Most big cat encounters end without contact if you deny the cat an easy target.
 
 ## Mountain Lion / Cougar
@@ -130,7 +130,7 @@ Night hiking in active mountain lion territory substantially increases your risk
 ### North America (Mountain Lion)
 
 - Fatal attacks: approximately 27 confirmed deaths from 1890 to 2025.
-- Average: roughly 1 fatality per 5 years historically, increasing to approximately 1 per year in recent decades as habitat overlap grows.
+- Average: roughly 1 fatality every 4-5 years. The rate has risen somewhat in recent decades as habitat overlap grows, but has not approached one per year.
 - Non-fatal attacks: approximately 200 confirmed from 1890 to 2025.
 - Most victims: solo adults or unaccompanied children. Children under 16 are overrepresented.
 - Most attacks: dawn, dusk, or full darkness.
@@ -141,7 +141,7 @@ Night hiking in active mountain lion territory substantially increases your risk
 - Deer kill approximately 200 people per year in the US (vehicle collisions).
 - Domestic dogs kill approximately 30–50 people per year in the US.
 - Lightning kills approximately 20 people per year in the US.
-- Mountain lions kill approximately 1 person per year in the US and Canada combined.
+- Mountain lions kill well under 1 person per year in the US and Canada combined.
 
 Your risk is real but statistically low. Proper behavior reduces it to near zero.
 

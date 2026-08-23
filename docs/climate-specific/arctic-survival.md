@@ -63,7 +63,7 @@ tags:
 Build shelter immediately when conditions deteriorate. Priorities:
 
 1. Get out of the wind. Even a snow wall reduces wind chill dramatically.
-2. Insulate from the ground. Snow conducts heat 25 times faster than air.
+2. Insulate from the ground. Snow itself is a good insulator — that is why snow shelters work — but lying directly on it melts the contact layer, and meltwater soaks your clothing and drains heat fast. Put something between you and the snow.
 3. Keep the shelter small. Body heat warms a small space faster.
 
 ### Shelter Options
@@ -78,7 +78,7 @@ Build shelter immediately when conditions deteriorate. Priorities:
 
 ## Fire in Extreme Cold
 
-- Carry multiple ignition sources in waterproof containers. Lighters fail below -10°F (-23°C) — keep one in an inner pocket warmed by body heat.
+- Carry multiple ignition sources in waterproof containers. Butane lighters begin failing near freezing (butane stops vaporizing around 32°F / 0°C) and are useless in real cold — keep one in an inner pocket warmed by body heat, and carry a ferrocerium rod, which works at any temperature.
 - Use a platform of green logs or rocks under the fire. Fire built directly on snow melts through and extinguishes.
 - Birch bark ignites even when frozen. Collect it as tinder whenever you see it.
 - Split wood exposes dry interior — frozen exterior wood resists ignition. Split small.
@@ -127,10 +127,18 @@ Whiteout conditions eliminate all visual references. Depth perception fails comp
 | Air Temp | 10 mph (16 km/h) | 20 mph (32 km/h) | 30 mph (48 km/h) |
 |----------|-------------------|-------------------|-------------------|
 | 20°F (-7°C) | 9°F (-13°C) | 4°F (-16°C) | 1°F (-17°C) |
-| 0°F (-18°C) | -11°F (-24°C) | -17°F (-27°C) | -21°F (-29°C) |
-| -20°F (-29°C) | -32°F (-36°C) | -39°F (-39°C) | -44°F (-42°C) |
+| 0°F (-18°C) | -16°F (-27°C) | -22°F (-30°C) | -26°F (-32°C) |
+| -20°F (-29°C) | -41°F (-41°C) | -48°F (-44°C) | -53°F (-47°C) |
 
-Reduce wind exposure at every opportunity. Travel in valleys, behind ridges, and in tree cover when available.
+What the numbers mean for exposed skin (National Weather Service):
+
+| Wind chill | Frostbite in |
+|---|---|
+| -18°F (-28°C) | 30 minutes |
+| -32°F (-36°C) | 10 minutes |
+| -48°F (-44°C) | 5 minutes |
+
+At -20°F with a 30 mph wind, exposed skin freezes in about five minutes. Reduce wind exposure at every opportunity. Travel in valleys, behind ridges, and in tree cover when available.
 
 ## Polar Bear Awareness
 

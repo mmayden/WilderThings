@@ -50,7 +50,7 @@ Two or more body systems involved after a known exposure = anaphylaxis. Act imme
 4. Note the time of injection.
 5. If no improvement in 5-15 minutes, administer a second dose.
 6. Position the patient lying down with legs elevated unless breathing is difficult — then allow them to sit upright.
-7. Evacuate immediately. Anaphylaxis can recur (biphasic reaction) 4-12 hours later.
+7. Evacuate immediately. Anaphylaxis can recur after appearing to resolve (biphasic reaction), typically 1-12 hours later and occasionally up to 72 hours. Feeling better is not the same as being out of danger.
 
 !!! tip
     Administer diphenhydramine (Benadryl) 25-50 mg orally as a secondary measure if available. It does not replace epinephrine.

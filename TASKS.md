@@ -57,12 +57,24 @@ wilderness-medicine standards, plus mechanical checks across all 89.
 - [x] 4 medical disclaimers converted from blockquotes to admonitions so they render as warning boxes
 - [x] Verified 689 dual measurements convert correctly across all 89 guides — no errors found
 
+**Round 2 (all high-risk guides now read in full — 25 of 89):**
+
+- [x] Man-of-war vs box jellyfish — vinegar is contraindicated for *Physalia*; two guides disagreed
+- [x] Shellfish/insect cross-allergy (tropomyosin) — anaphylaxis risk was entirely unmentioned
+- [x] Sandstone recommended for rock boiling despite being porous — it spalls in fire
+- [x] Wind chill table understated cold by 5-9°F; added NWS frostbite times
+- [x] Log buoyancy overstated 2-3x (physics checked)
+- [x] Biphasic anaphylaxis timing conflated with the second-dose window
+- [x] "Snow conducts heat 25x faster than air" — snow is an insulator; that figure is water's
+- [x] Butane lighter failure temperature; mountain lion fatality rate stated three ways
+- [x] Verified corpus-wide: 689 dual measurements and 91 °F/°C pairs all convert correctly
+
 **Still open — not a substitute for expert review:**
 
 - [ ] Independent review of medical guides by a licensed clinician
 - [ ] Independent review of plant/mushroom ID by a regional botanist/mycologist
-- [ ] Line-by-line accuracy pass on the remaining 75 lower-risk guides (fire, shelter, navigation, tools, psychology, scenarios)
-- [ ] Verify cited sources actually say what guides attribute to them (spot-check TCCC 2023, WMS 2019, PHTLS 10th)
+- [ ] Line-by-line pass on the remaining 64 lower-risk guides (fire, shelter, navigation, tools, psychology, most scenarios, preparedness, references) — these had automated checks only
+- [ ] Verify cited sources actually say what guides attribute to them (only a handful spot-checked against the literature so far)
 
 ### Engineering standards — DONE
 

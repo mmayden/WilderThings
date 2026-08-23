@@ -144,8 +144,13 @@ Two or more body systems affected after a sting = anaphylaxis. Treat immediately
 3. Swing and press firmly into the outer thigh (through clothing if necessary).
 4. Hold in place for 10 seconds.
 5. Remove and massage the injection site for 10 seconds.
-6. Note the time. Symptoms may return in 15–20 minutes (biphasic reaction). A second dose may be needed.
-7. **Always evacuate to a medical facility after using an EpiPen**, even if symptoms resolve. A biphasic reaction can be fatal.
+6. Note the time. **If symptoms have not clearly improved after 5–15 minutes, give a second dose.**
+7. **Always evacuate to a medical facility after using an EpiPen**, even if symptoms resolve completely.
+
+!!! danger "WARNING"
+    A **biphasic reaction** — anaphylaxis returning after it appeared to resolve — typically strikes **1–12 hours later**, and can occur up to 72 hours after the first reaction. Do not confuse this with the 5–15 minute window for a second dose.
+
+    Someone who feels fine 20 minutes after epinephrine is **not** in the clear. They need to be somewhere with medical support and a second dose available for at least the next several hours.
 
 ### Field Treatment Without EpiPen
 
