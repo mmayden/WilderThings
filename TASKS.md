@@ -99,6 +99,39 @@ wilderness-medicine standards, plus mechanical checks across all 89.
 - [x] `CODE_OF_CONDUCT.md`, content-accuracy issue template, PR template
 - [x] Remove the "field-tested" claim — the content is well-sourced, which is a different claim
 
+### Cross-linking polish — OPEN
+
+- [ ] **124 See Also entries have no description.** `CLAUDE.md` requires an em-dash
+      description after every cross-link explaining the relationship; roughly a third
+      of them are a bare title. Concentrated in the reference checklists, glossary,
+      navigation, and medical guides.
+
+      Deliberately not mass-generated. Writing 124 in one pass produces filler
+      ("— related information") that is worse than the gap, because it looks answered.
+      Each needs someone who knows both guides to say why a reader would follow the
+      link. Do it a category at a time, alongside reviewing that category's content.
+
+      The two mechanical halves of this are already fixed and enforced by
+      `scripts/verify.py`: no bare filenames as link text, and one name per guide.
+
+- [ ] Five guides fall outside the 3-8 See Also range (`book-list` and `sources` have
+      2; `injured-and-alone`, `lost-in-woods`, and `shelter-principles` have 9). Minor,
+      and the two references guides may be legitimate exceptions.
+
+### Dependency risk — WATCH
+
+- [ ] **MkDocs 2.0 removes the plugin system with no migration path.** Material for
+      MkDocs now prints this warning on every build. This project depends on the
+      Material theme, the `offline` plugin, the `tags` plugin, and `minify` — the
+      offline copy, the primary deliverable, is built entirely on that plugin stack.
+
+      Nothing to do today: the pinned versions in `requirements.txt` keep building.
+      But the single-file build (`build_single_file.py`) is worth noting as the
+      hedge — it depends only on `Markdown` plus `pymdown-extensions`, not on MkDocs
+      at all, so the most portable artifact survives whatever happens upstream.
+      Re-evaluate before any Material major-version bump. See
+      https://squidfunk.github.io/mkdocs-material/blog/2026/02/18/mkdocs-2.0/
+
 ### Documentation and Security
 
 - [x] Add SECURITY.md (content accuracy policy + CI security)
