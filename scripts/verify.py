@@ -228,7 +228,15 @@ RECURRING_CLAIMS = {
     "bleach re-dose wait":        r"repeat the dose and wait another (\d+)\s*minutes",
     "epinephrine adult dose":     r"(?:epinephrine|EpiPen)[^.]{0,60}?(0\.\d+)\s*mg",
     "tourniquet above wound":     r"tourniquet[^.]{0,60}?(\d+)-(\d+)\s*inches",
+    # Added after each was found disagreeing across guides during the audit.
+    "signal mirror range (mi)":   r"signal mirror[^.]{0,80}?(\d+)\s*miles",
 }
+
+# A pattern that matches nothing is worse than no pattern: it reports PASS and
+# implies the claim is covered. Solar-still yield was tried here and dropped —
+# the figure sits several lines below its heading, so a line-based matcher
+# cannot tie the two together. Verify a new pattern actually matches before
+# adding it.
 
 # Lines matching these are legitimately different claims, not contradictions.
 CLAIM_EXCLUSIONS = {
