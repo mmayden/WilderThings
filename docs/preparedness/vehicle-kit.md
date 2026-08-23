@@ -40,7 +40,46 @@ Every vehicle should carry these items year-round, regardless of climate or vehi
 - High-visibility vest.
 - Headlamp with spare batteries (keep hands free while working).
 - Fire extinguisher (ABC-rated, minimum 2 lbs / 0.9 kg).
-- Seatbelt cutter and window breaker (mount within driver's reach).
+- Seatbelt cutter and window breaker (mount within driver's reach). **Check that your
+  side windows are tempered, not laminated — see below.**
+
+!!! danger "DANGER: your window breaker may not work on your car"
+    AAA tested vehicle escape tools against both glass types. Spring-loaded punches break
+    **tempered** glass. **Nothing tested broke laminated glass**, which stayed intact even
+    after cracking. Roughly one in three 2018 models already had laminated side windows,
+    fitted to stop occupants being ejected in a crash, and the share has grown since.
+
+    **Check now, not while the car fills with water.** There is a label in the bottom
+    corner of each side window saying which it is. Many vehicles mix the two — laminated
+    in front, tempered in the rear — so check every window and know which one you would
+    go through. If there is no label, ask the manufacturer.
+
+    If all your side windows are laminated, an escape tool will not get you out. Your
+    escape is the door or the window opened under power, which makes the sequence below
+    more important, not less.
+
+### Escaping a Sinking Vehicle
+
+The kit item above is useless without the sequence, and the intuitive version of this
+sequence is fatal.
+
+!!! danger "DANGER: do not wait for the pressure to equalise"
+    The widely repeated advice — let the car fill so the pressure equalises, then open the
+    door — will drown you. By the time it equalises you have been underwater for minutes.
+    You act in the first 30 to 60 seconds, while the car floats and the windows are above
+    the waterline.
+
+    **Seatbelts. Window. Out. Children first.**
+
+    1. **Seatbelts off** — yours first, or you cannot help anyone.
+    2. **Window open** — power windows work for a short time in water. Put it down
+       immediately. If that fails, break it, aiming at a corner rather than the centre.
+    3. **Out** — push the oldest children out first and have them wait; work from oldest
+       to youngest so each one can hold on.
+    4. **Do not phone for help first.** Call from outside the car. Seconds spent dialling
+       are seconds the window is still reachable.
+
+    Do not try the doors. Water pressure holds them shut almost immediately.
 
 ### Communication
 
@@ -87,7 +126,11 @@ Every vehicle should carry these items year-round, regardless of climate or vehi
     - Extra warm layers: insulated jacket, hat, gloves, wool socks.
     - Hand and body warmers (12-hour type).
     - Bag of sand or cat litter (40 lbs / 18 kg) for traction.
-    - Candle and metal can (emergency heat source inside vehicle — crack window for ventilation).
+    - Candle and metal can. Treat this as a last resort, not a plan: an open flame in a
+      fabric-lined cabin is a fire risk, and any combustion in an enclosed space consumes
+      oxygen and produces carbon monoxide. Stand the candle in the can so it cannot tip,
+      keep it clear of upholstery, and crack a downwind window. Extra layers and shared
+      body heat are safer and usually enough.
     - Sleeping bag rated to 0 degF (-18 degC) or lower.
 
     !!! danger "DANGER"
@@ -120,6 +163,13 @@ Every vehicle should carry these items year-round, regardless of climate or vehi
 
 !!! warning "CAUTION"
     Attach tow straps to frame-mounted recovery points only. Never attach to bumpers, axles, or suspension components. A snapping strap under tension is lethal.
+
+    **Never attach a strap to a tow ball.** The ball shears off under recovery load and
+    becomes a projectile that travels through windscreens. This has killed people. Use a
+    rated shackle through a receiver-mounted recovery point, or a frame recovery eye.
+
+    Use a strap with sewn loops, not metal hooks. Anything metal in the line becomes the
+    projectile if the strap parts.
 
 ## Kit by Vehicle Type
 
@@ -179,7 +229,7 @@ Every vehicle should carry these items year-round, regardless of climate or vehi
 |-----------|--------------|---------------|
 | Flat tire | Pull safely off road, hazards on, triangles out | Jack, lug wrench, spare or plug kit |
 | Dead battery | Hood up, connect jumper cables or jump starter | Jumper cables or lithium starter |
-| Stranded in winter | Stay with vehicle, run engine 10 min/hr, signal | Blankets, warmers, candle, shovel |
+| Stranded in winter | Stay with vehicle, clear the tailpipe, run engine ~10 min/hr, signal | Blankets, warmers, shovel |
 | Stranded in heat | Stay in shade of vehicle, ration water, signal | Water, shade tarp, electrolytes |
 | Accident | Check injuries, call 911, move to safety | First aid kit, flares, fire extinguisher |
 | Stuck (mud/snow/sand) | Clear around tires, place traction aids | Shovel, traction boards, cat litter |
@@ -201,3 +251,5 @@ Every vehicle should carry these items year-round, regardless of climate or vehi
 - National Highway Traffic Safety Administration (NHTSA). *Winter Driving Tips.* 2024.
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - American Red Cross. *Car Emergency Kit.* redcross.org, 2024.
+- AAA Foundation, "Vehicle Escape Tools" testing programme (2019) — tempered versus laminated side glass.
+- Giesbrecht, G. G., et al. Research on submerged-vehicle escape and the "seatbelts, window, out, children first" sequence.

@@ -59,7 +59,9 @@ If you leave, write a note on the vehicle dashboard: your name, the date, the ti
 
 === "Cold/Winter Climate"
     - Close all windows and doors. Insulate gaps with clothing, floor mats, or seat stuffing.
-    - Run the engine for heat in 15-minute intervals if fuel remains. Crack a downwind window 1 inch (2.5 cm) to prevent carbon monoxide buildup.
+    - Run the engine for heat roughly 10 minutes in every hour if fuel remains, not
+      continuously. Crack a downwind window 1 inch (2.5 cm) and clear the exhaust pipe
+      first — see [Vehicle Emergency Kit](../preparedness/vehicle-kit.md).
     - Remove seat cushion foam and stuff it inside your clothing for insulation.
     - Huddle with other passengers. Shared body heat in an enclosed vehicle is significant.
     - Clear snow from the exhaust pipe before running the engine to prevent carbon monoxide backup into the cabin.

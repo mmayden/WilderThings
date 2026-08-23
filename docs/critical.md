@@ -42,7 +42,9 @@ no setup, nothing to remember. Free for the life of the phone on iPhone.
     cooking does not make every fish safe · antihistamines do not stop anaphylaxis ·
     bleach does not kill cryptosporidium · bat contact counts even with no visible bite ·
     the lightning crouch was withdrawn · ground insulation matters more than the roof ·
-    a hammock is colder than the ground, not warmer.
+    a hammock is colder than the ground, not warmer · in a sinking car, get out in the
+    first seconds — do not wait for the pressure to equalise · your window breaker may
+    not work on laminated glass.
 
 ## See Also
 
