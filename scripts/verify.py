@@ -226,19 +226,31 @@ RECURRING_CLAIMS = {
     "boil time above 6,500 ft":   r"6,500[^\n]{0,80}?(\d+)\s*min",
     "signal fire triangle spacing": r"triangle[^.]{0,60}?(\d+)\s*(?:ft|feet)",
     "bleach re-dose wait":        r"repeat the dose and wait another (\d+)\s*minutes",
+    # Only one guide states the milligram dose (elsewhere it is an auto-injector,
+    # which is pre-dosed). Kept because it still catches the dose drifting between
+    # the protocol and the quick reference inside that guide.
     "epinephrine adult dose":     r"(?:epinephrine|EpiPen)[^.]{0,60}?(0\.\d+)\s*mg",
     "tourniquet above wound":     r"tourniquet[^.]{0,60}?(\d+)-(\d+)\s*inches",
     # Added after each was found disagreeing across guides during the audit.
     "signal mirror range (mi)":   r"signal mirror[^.]{0,80}?(\d+)\s*miles",
     "snow-to-water ratio":        r"(\d+):1\s*snow-to-water|snow-to-water ratio: approximately (\d+):1",
-    "knot strength loss (range)": r"(?:knots?|knot) reduces? (?:rope|cordage) strength by (\d+)-(\d+)\s*%",
+    # Both guides state the general range, but phrase it differently.
+    "knot strength loss (range)": r"(?:reduces rope strength by|across knots generally the loss is)\s*(\d+)-(\d+)\s*%",
+    "dry bite rate":              r"(\d+)[-\u2013](\d+)%\s*of (?:venomous )?snake bites are \"dry|dry bites?\"?[^.]{0,40}?(\d+)[-\u2013](\d+)%",
+    # Pipes excluded from the gap would skip table rows, so allow them.
+    "moose safe distance (ft)":   r"[Mm]oose[^.\n]{0,70}?(\d+)\s*ft\s*\(\d+\s*m\)",
 }
 
 # A pattern that matches nothing is worse than no pattern: it reports PASS and
 # implies the claim is covered. Solar-still yield was tried here and dropped —
 # the figure sits several lines below its heading, so a line-based matcher
-# cannot tie the two together. Verify a new pattern actually matches before
-# adding it.
+# cannot tie the two together.
+#
+# A pattern matching only ONE place is nearly as weak: with a single instance
+# there is nothing to compare it against, so it can never report a disagreement.
+# Crocodilian land speed was tried and dropped for that reason — it appears in
+# exactly one guide. Before adding a pattern, confirm it matches every place the
+# claim is made, and at least two.
 
 # Lines matching these are legitimately different claims, not contradictions.
 CLAIM_EXCLUSIONS = {

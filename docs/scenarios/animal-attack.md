@@ -70,6 +70,7 @@ Ask in order:
 2. Back away slowly. Do not turn your back.
 3. Use bear spray at 20-30 ft (6-9 m).
 4. If it bluff-charges, hold your ground and keep shouting.
+5. **If it makes contact, fight back — target the nose and eyes.** Never play dead with a black bear regardless of why it attacked. This is the rule that separates black bears from grizzlies, and getting it backwards is fatal.
 
 **Any Bear — Predatory Attack:**
 1. Do not play dead. This bear wants to eat you.
@@ -126,7 +127,7 @@ Moose injure more people than bears and wolves combined in North America. A bull
 - Lowering the head.
 
 ### Response
-1. Give moose at least 50 ft (15 m) of space. They have a larger personal-space threshold than bears.
+1. Give moose at least 75 ft (23 m) of space — more if a cow has a calf. They have a larger personal-space threshold than bears.
 2. If it charges: **run.** Unlike bears and cats, moose often do not pursue far. They want you away from them.
 3. Put a large object between you and the moose: a tree, a car, a boulder.
 4. If knocked down, curl into a ball, protect your head and neck with your arms, and stay down until the moose leaves. Getting up triggers repeated stomping.
@@ -170,18 +171,18 @@ Wild boar (feral hogs) weigh 100-400 lb (45-180 kg) and have razor-sharp tusks. 
 - Apply electric shock (myth with no medical basis).
 
 !!! danger "WARNING"
-    Roughly 25% of venomous snake bites are "dry bites" with no venom injected. Evacuate regardless — you cannot determine envenomation status in the field.
+    An estimated 20-50% of venomous snake bites are "dry bites" with no venom injected. Evacuate regardless — you cannot determine envenomation status in the field, and coral snake envenomation in particular can be symptom-free for hours.
 
 ### Pit Viper vs Coral Snake (North America)
 - **Pit vipers** (rattlesnake, copperhead, cottonmouth): triangular head, vertical pupils, heat-sensing pits between eye and nostril. Cause immediate local pain and swelling.
-- **Coral snakes:** red-yellow-black banding ("red touches yellow, kills a fellow"). Neurotoxic venom may produce delayed symptoms. Seek medical care even if you feel fine.
+- **Coral snakes:** red-yellow-black banding ("red touches yellow, kills a fellow"). **That rhyme works only for North American species** — coral snakes elsewhere, and some harmless mimics, break the pattern entirely. Neurotoxic venom may produce delayed symptoms; seek medical care even if you feel fine. See [Venomous Snakes](../wildlife/venomous-snakes.md).
 
 ---
 
 ## Alligator and Crocodile
 
 ### Myth Busted: Zigzag Running
-The old advice to run in a zigzag pattern is wrong. Alligators and crocodiles are fast in a straight line for short distances (up to 20 mph / 32 km/h on land) but tire quickly. **Run straight and fast away from the water.** Zigzagging slows you down for no benefit — these animals do not chase prey on land for extended distances.
+The old advice to run in a zigzag pattern is wrong. Alligators and crocodiles are fast in short bursts on land — around 11 mph (18 km/h) — but cannot sustain it. **Run straight and fast away from the water.** Zigzagging slows you down for no benefit — these animals do not chase prey on land for extended distances.
 
 ### If Grabbed
 1. Target the eyes — gouge, poke, stab. The eyes are their most sensitive point.
