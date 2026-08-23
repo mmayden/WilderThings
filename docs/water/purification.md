@@ -131,7 +131,7 @@ Use **unscented liquid household bleach** with 5.25–8.25% sodium hypochlorite.
 |---|---|---|
 | 1 quart / 1 liter | 2 drops | 2 drops |
 | 1 gallon / 4 liters | 8 drops (1/8 tsp) | 6 drops |
-| 5 gallons / 19 liters | 40 drops (5/8 tsp) | 32 drops (1/2 tsp) |
+| 5 gallons / 19 liters | 40 drops (5/8 tsp) | 30 drops (1/2 tsp) |
 
 3. Stir and wait **30 minutes**.
 4. The water should have a slight chlorine smell after treatment. If it does not, repeat the dose and wait another 30 minutes.

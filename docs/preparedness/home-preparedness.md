@@ -43,7 +43,11 @@ Water is the first priority. Without it, survival is limited to 3 days.
 
 ### Treatment for Long-Term Storage
 
-Add 1/8 teaspoon of unscented household bleach (8.25% sodium hypochlorite) per gallon (3.8 L). Replace stored water every 12 months or treat with fresh bleach.
+Add plain unscented household bleach per gallon (3.8 L): 8 drops if the label says 6%
+sodium hypochlorite, 6 drops if it says 8.25%. Replace stored water every 12 months or
+treat with fresh bleach — bleach loses strength on the shelf, so a bottle over a year old
+should not be relied on. See
+[Water Purification](../water/purification.md#household-bleach-sodium-hypochlorite).
 
 !!! tip
     Fill a WaterBOB or clean bathtub when a storm or disruption is forecast. This adds 100 gallons (378 L) of clean water instantly.

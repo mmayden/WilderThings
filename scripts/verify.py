@@ -270,6 +270,16 @@ RECURRING_CLAIMS = {
     "dry bite rate":              r"(\d+)[-\u2013](\d+)%\s*of (?:venomous )?snake bites are \"dry|dry bites?\"?[^.]{0,40}?(\d+)[-\u2013](\d+)%",
     # Pipes excluded from the gap would skip table rows, so allow them.
     "moose safe distance (ft)":   r"[Mm]oose[^.\n]{0,70}?(\d+)\s*ft\s*\(\d+\s*m\)",
+    # Six guides gave a bleach dose and four disagreed with the canonical table in
+    # purification.md, which is the only one that ties the dose to the concentration
+    # on the bottle. The dose is meaningless without it: 8 drops is right at 6% and a
+    # third too much at 8.25%.
+    # The gap must exclude "%" itself. Guides that name both concentrations on one
+    # line ("8 drops if 6%, 6 drops if 8.25%") otherwise let the 8.25% pattern reach
+    # back past the 6% clause and pick up the wrong number — a checker bug that looked
+    # exactly like a content disagreement until the matches were printed.
+    "bleach drops per gallon at 6%":    r"(\d+)\s*drops?[^%.\n|]{0,30}?6%",
+    "bleach drops per gallon at 8.25%": r"(\d+)\s*drops?[^%.\n|]{0,30}?8\.25%",
 }
 
 # A pattern that matches nothing is worse than no pattern: it reports PASS and

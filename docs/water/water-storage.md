@@ -219,7 +219,7 @@ Water loss through evaporation is significant in arid and hot environments.
 ## Quick Reference
 
 - **Minimum daily water:** 1 gallon (3.8 L) per person — double in heat or exertion
-- **Bleach dose:** 8 drops per gallon (5.25% bleach), wait 30 minutes
+- **Bleach dose:** 8 drops per gallon at 6%, 6 drops at 8.25%; wait 30 minutes, and double both if cloudy or very cold
 - **Re-treat schedule:** Every 48–72 hours (warm), every 5–7 days (cool)
 - **Container priority:** Sealed plastic > clay pot > bamboo > birch bark > animal organ
 - **Ice vs. snow yield:** Ice produces roughly **9x** more water per volume than snow (1 L of ice yields about 0.9 L of water; 1 L of snow yields about 0.1 L). Chip ice in preference to scooping snow whenever both are available — it is also far cheaper in fuel and body heat

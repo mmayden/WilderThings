@@ -78,7 +78,11 @@ When municipal water fails, secure water immediately. You need 1 gallon (3.8 lit
     Rainwater collection from rooftops and tarps. Swimming pools and hot tubs (treat chemically before drinking — they contain chemicals but are not sterile). Water heaters in adjacent buildings. Streams and ponds (purify before drinking).
 
 === "Purification"
-    Boil for 1 minute. Or add 8 drops (1/8 teaspoon) of unscented household bleach per gallon (3.8 liters), wait 30 minutes. Or use a portable water filter rated for bacteria and protozoa.
+    Boil for 1 minute. Or add plain unscented household bleach per gallon (3.8 L) — 8
+    drops if the label says 6%, 6 drops if it says 8.25% — and wait 30 minutes; double
+    both if the water is cloudy or very cold. Or use a portable filter rated for bacteria
+    and protozoa. Bleach does not kill cryptosporidium; boiling and filtration do. Full
+    detail in [Water Purification](../water/purification.md#household-bleach-sodium-hypochlorite).
 
 !!! warning "CAUTION"
     Do not drink water from radiators, boilers, or industrial systems. They contain antifreeze, rust inhibitors, and other toxic chemicals.
