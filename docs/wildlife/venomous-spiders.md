@@ -30,7 +30,24 @@ tags:
 
 ### Range
 
-All 48 contiguous US states, southern Canada, Mexico, and much of the temperate world. Five species of Latrodectus occur in North America. Most common in the South and West.
+All 48 contiguous US states, southern Canada, Mexico, and much of the temperate world.
+Five species of *Latrodectus* occur in North America. Most common in the South and West.
+
+The genus is global and goes by different names, which matters if you are reading this
+outside North America. All of them cause the same syndrome and take the same treatment:
+
+| Region | Common name | Species |
+|--------|------------|---------|
+| North America | Black widow | *L. mactans*, *L. hesperus*, *L. variolus* |
+| Australia, New Zealand | Redback, katipō | *L. hasselti*, *L. katipo* |
+| Southern Africa | Button spider | *L. indistinctus* and others |
+| Mediterranean, Central Asia | Malmignatte, karakurt | *L. tredecimguttatus* |
+| South America | Viuda negra | *L. curacaviensis* and others |
+
+The redback is the most common significant spider envenomation in Australia — far more
+frequent than funnel-web bites. Unlike the funnel-web, **a redback bite does not take a
+pressure immobilization bandage.** The venom acts slowly and binding the limb only
+concentrates the pain.
 
 ### Habitat
 
@@ -60,8 +77,17 @@ The bite itself may feel like a pinprick or go unnoticed.
 - Clean the bite with soap and water.
 - Apply ice wrapped in cloth for 10–15 minutes to manage pain.
 - Over-the-counter pain relief (ibuprofen, acetaminophen). Opioids may be needed for severe pain.
-- Seek medical care for moderate to severe symptoms. Antivenom (Antivenin Latrodectus mactans) exists and is effective but is reserved for severe cases due to allergic reaction risk.
-- Muscle relaxants (benzodiazepines) and IV calcium gluconate are standard hospital treatments.
+- Seek medical care for moderate to severe symptoms.
+- Hospital treatment is opioids for pain and benzodiazepines for muscle spasm. Antivenom
+  (Antivenin *Latrodectus mactans*) is held back for severe envenomation — seizures,
+  hypertensive crisis, respiratory compromise, or pain that opioids will not touch —
+  because of the risk of anaphylaxis to the horse serum it is made from.
+
+!!! note "IV calcium gluconate is no longer recommended"
+    It was standard for decades and appears in older references. Trials found it does not
+    work: 96% of moderate-to-severe cases started on calcium gluconate needed opioids
+    added anyway. Methocarbamol was dropped for the same reason. Listed here because a
+    reader may find the old advice elsewhere and wonder why nobody is using it.
 - Most healthy adults recover fully within 1–3 days with supportive care.
 
 ## Brown Recluse (Loxosceles reclusa)
@@ -115,7 +141,7 @@ The bite is often painless at first.
 - Surgical debridement may be needed for large necrotic wounds, but early surgery is generally avoided — it often worsens outcomes. Allow the wound to declare itself over 1–2 weeks before surgical intervention.
 - Dapsone and other systemic therapies are sometimes used but remain controversial.
 
-## Hobo Spider (Eravus agrestis)
+## Hobo Spider (*Eratigena agrestis*, formerly *Tegenaria agrestis*)
 
 - **Range:** Pacific Northwest US and southern British Columbia.
 - **Previously considered:** A significant medical threat causing necrotic bites similar to brown recluse.
@@ -246,3 +272,9 @@ False on every count. "Daddy longlegs" refers to harvestmen (not spiders, no ven
 - Centers for Disease Control and Prevention. "Venomous Spiders." cdc.gov. Accessed 2025.
 - Australian Museum. "Funnel-web Spiders." australian.museum. Accessed 2025.
 - Vetter, R. S. *The Brown Recluse Spider*. Cornell University Press, 2015.
+- Dart, R. C., et al. "Treatments for Latrodectism — A Systematic Review on Their
+  Clinical Effectiveness." *Toxins* 2017;9(4):148 — the review that retired calcium
+  gluconate and methocarbamol.
+- Bolzern, A., Burckhardt, D., Hänggi, A. "Phylogeny and taxonomy of European funnel-web
+  spiders." *Zool J Linn Soc* 2013;168:723-848 — the reclassification of the hobo spider
+  to *Eratigena*.
