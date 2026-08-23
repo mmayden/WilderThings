@@ -121,6 +121,16 @@ Commercial solar stills (inflatable, cone-shaped) produce 1-3 pints (0.5-1.5 lit
 | 60°F (16°C) | 2-7 hours |
 | 70°F (21°C) | 3-40 hours |
 
+!!! danger "DANGER: the first minute is cold shock, not hypothermia"
+    Going into cold water triggers an involuntary gasp and uncontrollable
+    hyperventilation. If your head is submerged when it hits, you inhale water. **Most
+    cold-water deaths are drownings in the first minute**, not hypothermia hours later.
+
+    Get your head clear and do nothing else until your breathing settles — about a
+    minute. Then you have roughly ten minutes of useful hand and arm strength before
+    grip fails, and perhaps an hour before hypothermia becomes the threat. Spend the
+    ten minutes getting out of the water or securing yourself to something that floats.
+
 ### If in the Water
 
 - Adopt the HELP position (Heat Escape Lessening Posture): draw knees to chest, cross arms over chest, keep head above water.

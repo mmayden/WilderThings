@@ -35,6 +35,18 @@ tags:
 - **Doorways are not safer** than other parts of a modern building. Get under a table.
 - **The "triangle of life"** theory (lying beside large objects) is not supported by earthquake engineering research. Drop, Cover, Hold On remains the evidence-based response.
 
+!!! danger "DANGER: freeing a long-trapped person can kill them"
+    Someone pinned for more than an hour — under rubble, a vehicle, or heavy furniture
+    — develops **crush syndrome**. Damaged muscle floods the bloodstream with potassium
+    and toxins the moment pressure is released, and the person can arrest within minutes
+    of being freed, having seemed stable the whole time they were trapped.
+
+    If a person has been crushed for hours and is stable, **do not rush to pull them
+    out**. Wait for responders with fluids and cardiac monitoring if that is at all
+    possible, keep the person warm and talking, and tell arriving responders exactly how
+    long they were pinned. If you must extricate to save them from fire or water, do it
+    — but say how long they were trapped, because it changes their treatment entirely.
+
 ### After the Shaking
 
 1. Expect aftershocks. Drop, Cover, Hold On again when they hit.

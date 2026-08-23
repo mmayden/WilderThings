@@ -33,6 +33,53 @@ tags:
 !!! danger "WARNING"
     Paradoxical undressing occurs in moderate-to-severe hypothermia. The victim feels burning hot and removes clothing. If you witness this, the person is in critical danger.
 
+!!! danger "DANGER: a moderately hypothermic person can be killed by rough handling"
+    Below about 90°F (32°C) the heart becomes extremely irritable. Jolting, dragging,
+    or standing the person up can trigger a fatal arrhythmia. This is a real way that
+    rescuers kill people they are trying to save.
+
+    Handle them **gently and horizontally**. Do not let them walk, sit up, or "help".
+    Cut wet clothing off rather than pulling it. Rewarm the core, not the limbs —
+    warming arms and legs first drives cold blood inward and drops core temperature
+    further (afterdrop). Full protocol in
+    [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md).
+
+### If You Fall Through Ice
+
+Immersion is the fastest killer in this environment, and the first minute decides it.
+
+!!! danger "DANGER"
+    Hitting cold water triggers an involuntary gasp and hyperventilation — **cold shock**.
+    If your head is under when it happens you inhale water. Most people who die in cold
+    water drown in the first minute, long before hypothermia is a factor.
+
+1. **Do not thrash. Control your breathing first.** The gasping passes in about a minute.
+   You cannot do anything useful until it does.
+2. **Turn back the way you came.** That ice held your weight seconds ago; ice ahead of
+   you has not been tested.
+3. **Get horizontal.** Put both arms on the ice, kick your legs up behind you, and swim
+   yourself onto the surface like a seal hauling out. Trying to climb out vertically
+   just breaks more edge.
+4. **Roll away — do not stand.** Keep your weight spread until you are well clear.
+5. Then treat as an immediate hypothermia emergency: shelter, dry insulation, fire.
+
+You have roughly 10 minutes of useful hand and arm function before grip fails. Spend
+it getting out, not on anything else.
+
+### Trench Foot (Immersion Foot)
+
+Trench foot is a cold-wet injury, not a tropical one — it takes its name from the
+trenches of the First World War. Feet that stay wet at temperatures anywhere from
+freezing to about 60°F (15°C) develop nerve and tissue damage in **24-48 hours**, and
+the damage can be permanent.
+
+- Dry your feet and change socks at every opportunity, even when it feels like a waste
+  of time. It is the highest-value thing you will do for yourself all day.
+- Dry damp socks against your body overnight.
+- Early signs: numbness, tingling, blotchy white or red skin, swelling.
+- Unlike frostbite the tissue never freezes, so there is no obvious moment of injury —
+  it just quietly happens.
+
 ### Frostbite Prevention
 
 - Exposed skin freezes in under 10 minutes at -20°F (-29°C) with wind.
