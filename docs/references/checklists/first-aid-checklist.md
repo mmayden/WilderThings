@@ -40,7 +40,8 @@ tags:
 ### Shock Treatment
 
 - [ ] Lay the patient flat on their back
-- [ ] Elevate the legs 6-12 inches (15-30 cm) unless spinal injury, head injury, or leg fracture is suspected
+- [ ] Do **not** raise the legs — no longer recommended for blood-loss shock. Spend the time on bleeding control, warmth, and evacuation
+- [ ] For an isolated head injury, raise the head about 30 degrees instead
 - [ ] Maintain body temperature: insulate from the ground, cover with blankets or extra clothing
 - [ ] Do not give food or water if evacuation is imminent or the patient is not fully conscious
 - [ ] Monitor breathing and pulse continuously

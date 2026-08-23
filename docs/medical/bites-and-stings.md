@@ -49,7 +49,7 @@ Two or more body systems involved after a known exposure = anaphylaxis. Act imme
 3. Hold in place for 10 seconds.
 4. Note the time of injection.
 5. If no improvement in 5-15 minutes, administer a second dose.
-6. Position the patient lying down with legs elevated unless breathing is difficult — then allow them to sit upright.
+6. Lie the patient flat, legs raised, unless breathing is difficult — then let them sit up. **Never stand them up or sit them up suddenly**, and never walk them to transport. In anaphylaxis the circulation depends on that position; people have arrested within seconds of being stood upright.
 7. Evacuate immediately. Anaphylaxis can recur after appearing to resolve (biphasic reaction), typically 1-12 hours later and occasionally up to 72 hours. Feeling better is not the same as being out of danger.
 
 !!! tip
@@ -285,7 +285,7 @@ Two or more body systems involved after a known exposure = anaphylaxis. Act imme
 **Anaphylaxis Protocol:**
 
 1. Epinephrine 0.3 mg IM (outer thigh) — repeat in 5-15 min if needed.
-2. Position patient supine with legs elevated.
+2. Lie flat, legs raised. **Never stand or sit them up** — that alone can cause arrest.
 3. Administer antihistamine if available.
 4. Evacuate immediately.
 

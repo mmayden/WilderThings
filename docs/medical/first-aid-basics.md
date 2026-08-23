@@ -274,7 +274,7 @@ For small or irregular burns, the patient's palm (including fingers) equals appr
 1. Cool **small** full-thickness burns (under about 5% TBSA — roughly five palm-sizes) with clean, cool running water for 10 minutes, as with any burn.
 2. Do **not** immerse or extensively cool a **large** burn. Burned skin cannot regulate temperature, and cooling a large area drives fatal hypothermia faster than the burn itself threatens the patient. Cover large burns dry and keep the patient warm.
 3. Cover with a clean, dry, non-adherent dressing.
-4. Treat for shock: lay flat, elevate legs 6-12 inches (15-30 cm), keep warm.
+4. Treat for shock: lay flat and keep warm. See [Trauma and Triage](trauma-and-triage.md) — raising the legs is no longer recommended for blood-loss shock.
 5. Monitor airway — inhalation burns cause progressive airway swelling.
 6. Evacuate immediately.
 

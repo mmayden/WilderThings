@@ -268,7 +268,18 @@ Take and record baseline vital signs. Reassess every 5-15 minutes depending on p
 ### Shock Treatment (Field)
 
 1. **Control the bleeding source.** Shock treatment is futile if hemorrhage continues.
-2. Lay the patient flat. Elevate the legs 6-12 inches (15-30 cm) if no spinal injury, pelvic fracture, or head injury is suspected.
+2. Lay the patient flat on their back.
+
+!!! warning "CAUTION: raising the legs is not the treatment"
+    Leg elevation and Trendelenburg were standard teaching for shock and are no
+    longer recommended for blood-loss shock. The volume returned from the legs of a
+    hypovolemic patient is negligible, any effect lasts minutes, and tipping the
+    patient head-down presses the abdominal contents against the diaphragm and can
+    raise intracranial pressure.
+
+    It is not the harm that matters so much as the substitution: **the things that
+    actually work are stopping the bleeding, preventing hypothermia, and evacuating.**
+    Lay them flat and spend your time on those.
 3. Keep the patient warm — insulate from the ground and cover with blankets. Prevent hypothermia aggressively.
 4. Do not give oral fluids to a patient with altered mental status, abdominal trauma, or who may need surgery.
 5. If the patient is alert with no abdominal injury, small sips of water are acceptable.
@@ -277,7 +288,7 @@ Take and record baseline vital signs. Reassess every 5-15 minutes depending on p
 8. Evacuate. Definitive shock treatment requires surgery and blood products.
 
 !!! danger "WARNING"
-    Do not elevate the legs of a patient with a suspected head injury — this increases intracranial pressure. Keep the head of the bed elevated 30 degrees for isolated head injuries.
+    For an isolated head injury, raise the head about 30 degrees rather than laying the patient flat or head-down. Anything that raises intracranial pressure worsens the injury.
 
 ---
 
@@ -438,7 +449,7 @@ Use the patient's forehead, chest, or a piece of tape. Information that travels 
 - Pronouncing a hypothermic patient dead in the field.
 - Spending excessive time on one patient during mass casualty events — triage demands 30 seconds per patient, not 30 minutes.
 - Not documenting tourniquet time — without this, downstream providers cannot make informed decisions about limb salvage.
-- Elevating the legs of a patient with a head injury — this worsens intracranial pressure.
+- Elevating the legs for shock. It was standard teaching, it is no longer recommended for blood-loss shock, and in head injury it is actively harmful.
 - Removing impaled objects — stabilize them in place. Removal can cause uncontrolled hemorrhage. The only exception is objects in the cheek obstructing the airway.
 
 ---
@@ -452,7 +463,7 @@ Use the patient's forehead, chest, or a piece of tape. Information that travels 
 | M | Massive hemorrhage | Tourniquet, wound packing, direct pressure |
 | A | Airway | Jaw thrust, NPA/OPA, recovery position |
 | R | Respiration | Chest seal, needle decompression, flail management |
-| C | Circulation | Shock treatment, IV fluids if available, leg elevation |
+| C | Circulation | Shock treatment, IV fluids if available, keep flat and warm |
 | H | Hypothermia / Head injury | Insulate, hypothermia wrap; elevate head, monitor GCS |
 
 ### ABCDE Primary Survey

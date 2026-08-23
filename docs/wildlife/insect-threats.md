@@ -157,7 +157,7 @@ Two or more body systems affected after a sting = anaphylaxis. Treat immediately
 If no EpiPen is available:
 
 - Administer 50 mg diphenhydramine (Benadryl) orally if the victim can swallow.
-- Position the victim on their back with legs elevated (shock position). If vomiting, turn on their side.
+- Lie them flat with legs raised. If vomiting, turn them on their side. **Never stand them up or sit them up suddenly** — in anaphylaxis that alone can cause cardiac arrest.
 - If the victim carries an asthma inhaler, administer 2 puffs. Albuterol helps with bronchospasm.
 - Keep the victim warm.
 - Prepare for CPR if breathing stops.
