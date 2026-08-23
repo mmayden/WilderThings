@@ -364,6 +364,9 @@ This layered approach addresses the full spectrum of threats.
 - Centers for Disease Control and Prevention (CDC). *A Guide to Drinking Water Treatment Technologies for Household Use.* 2024.
 - World Health Organization. *SODIS Method Technical Notes.* WHO, 2023.
 - Backer, Howard D. "Water Disinfection for International and Wilderness Travelers." *Clinical Infectious Diseases*, 2002.
+Backer, H. D., Derlet, R. W., Hill, V. R. "Wilderness Medical Society Clinical Practice
+  Guidelines on Water Treatment for Wilderness, International Travel, and Austere
+  Situations: 2024 Update." *Wilderness Environ Med* 2024.
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - Environmental Protection Agency. *Emergency Disinfection of Drinking Water.* EPA, 2024.
 - Johnson, Mark. *The Complete Guide to Water Filtration in the Backcountry.* Wilderness Medicine Society, 2021.

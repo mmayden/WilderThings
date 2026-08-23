@@ -185,11 +185,20 @@ A solar still extracts moisture from soil through evaporation and condensation.
 ### Vines
 
 - Cut a thick vine high up first, then cut the bottom. Water drips from the upper cut.
-- If the water is **clear and tasteless**, it is generally safe.
-- If the water is **milky, colored, or bitter**, discard it immediately — it may be toxic.
+- If the sap is **milky, coloured, soapy, or bitter**, discard it — those are reliable
+  signs of a vine you must not drink from.
+- Clear and tasteless sap is *less likely* to be toxic. It is not a safety test.
 
-!!! danger "WARNING"
-    Never drink milky or discolored sap. Many tropical vines produce caustic latex that causes severe internal burns.
+!!! danger "WARNING: clear and tasteless does not mean safe"
+    Discarding milky, coloured, or bitter sap rules some vines **out**. Nothing about
+    taste rules a vine **in**. Plenty of serious plant toxins are colourless and have no
+    taste, which is the same reason the Universal Edibility Test fails against the
+    plants most likely to kill you — see
+    [Foraging Basics](../food/foraging-basics.md#the-universal-edibility-test).
+
+    Drink vine water when you can identify the species, or when the alternative is
+    genuinely worse. Many tropical vines produce caustic latex that causes severe
+    internal burns, and a bad guess here costs you fluid rather than gaining it.
 
 ### Cacti
 
@@ -315,9 +324,11 @@ Melting snow without fire costs significant body heat and calories. Calculate th
 
 ## Sources
 
-- U.S. Army Field Manual FM 21-76, *Survival* (Department of the Army).
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - Mears, Raymond. *Essential Bushcraft.* Hodder & Stoughton, 2002.
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
 - Canterbury, Dave. *Bushcraft 101.* Adams Media, 2014.
-- Gregory, Joy. *Water in the Wilderness.* Wilderness Medicine Society Practice Guidelines, 2019.
+- Backer, H. D., Derlet, R. W., Hill, V. R. "Wilderness Medical Society Clinical Practice
+  Guidelines on Water Treatment for Wilderness, International Travel, and Austere
+  Situations: 2024 Update." *Wilderness Environ Med* 2024.

@@ -291,7 +291,9 @@ Fluids administered rectally are absorbed through the rectal mucosa. This techni
 ## Sources
 
 - World Health Organization (WHO): "Oral Rehydration Salts — Production of the New ORS," 2006.
-- Wilderness Medical Society Practice Guidelines for Water Disinfection, 2019.
+- Backer, H. D., Derlet, R. W., Hill, V. R. "Wilderness Medical Society Clinical Practice
+  Guidelines on Water Treatment for Wilderness, International Travel, and Austere
+  Situations: 2024 Update." *Wilderness Environ Med* 2024.
 - Centers for Disease Control and Prevention (CDC): "Parasites — Giardia," 2023.
 - Centers for Disease Control and Prevention (CDC): "Cholera — Vibrio cholerae Infection," 2023.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.

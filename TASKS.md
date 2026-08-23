@@ -135,6 +135,34 @@ shape. Two decisions deliberately deferred until it can be looked at:
       the number of entries, since selectivity is the whole value and cannot be
       enforced by judgement alone across many sessions.
 
+### Citation verification — OPEN, and now known to be needed
+
+Three citations checked at random against reality turned out to be wrong, all in
+different guides:
+
+| Cited as | Actually |
+|---|---|
+| Hume, Ed. *Primitive Fire: Mastering the Bow Drill*, 2016 | Does not exist. Daniel Hume, *Fire Making*, 2017 |
+| Hennessy, Tom. *Hammock Camping*, 2008 | Ed Speer, Speer Hammocks, 2003 |
+| Gregory, Joy. *Water in the Wilderness*, WMS, 2019 | Does not exist. Backer, Derlet & Hill, WMS, 2019 (updated 2024) |
+
+Each was found by opening the source to check what it said, not by scanning the
+bibliography. Each looked entirely plausible: right subject, plausible author,
+plausible publisher, plausible year.
+
+- [ ] **A systematic pass over all 504 citations is warranted.** The pattern is
+      consistent enough that the remainder should be assumed unverified rather than
+      assumed correct.
+
+**`scripts/verify.py` cannot do this and never will.** The citation check compares the
+corpus against itself — it catches one work cited two ways, and a fabricated citation
+stated consistently passes clean. Every one of the three above would have passed. This
+is a limitation to state plainly rather than design around: internal consistency is not
+accuracy, and the check reports the former.
+
+CLAUDE.md already says citations have not been verified against the originals. That was
+written as a caveat; it is now a measured finding.
+
 ### Cross-linking polish — OPEN
 
 - [ ] **124 See Also entries have no description.** `CLAUDE.md` requires an em-dash
@@ -218,7 +246,7 @@ edition. Re-check each against its publisher annually and update the date below.
 | Source | Last verified | Revises |
 |---|---|---|
 | TCCC / Joint Trauma System | 2026-08-23 | ~annually |
-| Wilderness Medical Society practice guidelines | 2026-08-23 | ~5 yr per topic |
+| Wilderness Medical Society practice guidelines | 2026-08-23 | ~5 yr per topic (water treatment updated 2024) |
 | AHA / ILCOR / Red Cross first aid | 2026-08-23 | ~5 yr + focused updates |
 | ATLS (American College of Surgeons) | 2026-08-23 | by edition |
 | PHTLS (NAEMT) | 2026-08-23 | by edition |
