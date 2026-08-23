@@ -90,7 +90,8 @@ Punk wood is soft, spongy, partially decayed wood that smolders slowly without f
 1. Find a piece of thoroughly dry punk wood from a standing dead tree. It should be soft enough to crumble between your fingers but not wet or powdery.
 2. Touch the punk wood to a live coal. Blow gently until it catches and begins to glow and smolder.
 3. Wrap the smoldering punk loosely in green leaves or bark to slow the burn and protect it from wind. Leave enough airflow to sustain the smolder.
-4. Carry it in your hand or in a bark trough. Check every 30 minutes to ensure it is still smoldering.
+4. Carry it in your hand or in a bark trough — **outside, and outside only.** Check every
+   30 minutes to ensure it is still smouldering.
 5. At your destination, place the glowing punk wood into a tinder bundle and blow it to flame.
 
 !!! tip
@@ -115,6 +116,16 @@ Build a simple carrier for transporting coals over longer distances.
 4. Add another thin layer of soil.
 5. Wrap loosely in green bark. Leave small air holes.
 6. This carrier preserves coals for 6-12 hours.
+
+!!! danger "DANGER: never bring a smouldering carrier inside"
+    Everything in this section is a device designed to smoulder for hours with restricted
+    airflow, which is precisely the condition that produces carbon monoxide rather than
+    clean combustion. A coal carrier, a slow match, or a lump of punk wood taken into a
+    tent, snow shelter, vehicle, or debris hut will fill it with an odourless gas that
+    kills people in their sleep.
+
+    Park it outside, downwind, clear of anything that can catch. The same applies to a
+    carrier riding inside a closed pack against your back.
 
 !!! note
     The Pacific Northwest peoples used clam shells lined with damp sand and cedar bark to carry coals in canoes. Adapt the principle to available materials.
@@ -149,7 +160,17 @@ Ash accumulates quickly and causes problems if ignored.
 - **Too much ash smothers coals.** Rake ash away from the active coal bed periodically. Push it to the perimeter of the fire pit.
 - **Use ash for banking.** Fine ash is the ideal insulating material for overnight coal preservation.
 - **Use ash for cooking.** Wrap food in leaves and bury it in hot ash for slow baking.
-- **Use ash for sanitation.** Wood ash mixed with water creates a crude lye solution for cleaning.
+- **Use ash for sanitation.** Wood ash mixed with water creates a crude lye solution for
+  scrubbing pots and greasy hands.
+
+    !!! warning "CAUTION: lye burns skin, and worse in the eyes"
+        The reason ash water cuts grease is that it is caustic. Strong solutions burn
+        skin on contact and cause serious, sometimes permanent, injury to the eyes.
+
+        Keep it weak, use a cloth or stick rather than bare hands, rinse with clean water
+        afterwards, and keep it well away from your face. Never use it on a wound, never
+        drink it, and never store it in a container you also drink from. If it gets in an
+        eye, flush with clean water continuously for at least 20 minutes.
 
 Maintain a clear coal bed at the center of the fire with ash pushed to the sides. This ensures oxygen reaches the coals from below.
 
@@ -231,6 +252,8 @@ Not every fire needs to last all night. Weigh the cost of maintaining against th
 - **Placing wet wood directly on the fire.** This drops temperature and produces smoke. Pre-dry all fuel near the fire first.
 - **Failing to bank before sleeping.** Without banking, the fire burns out in 1-2 hours. You wake cold and must restart from scratch.
 - **Carrying fire without checking the ember.** Check smoldering punk wood or slow match every 30 minutes. A dead ember means starting over at your destination.
+- **Taking a coal carrier into a shelter.** A device built to smoulder with restricted airflow is a carbon monoxide generator. Outside only, including inside a closed pack.
+- **Washing with strong ash water.** It is lye. It cuts grease because it is caustic, and it burns skin and eyes.
 - **No fire watcher in groups.** An untended overnight fire either dies or spreads. Assign shifts.
 
 ## Quick Reference
