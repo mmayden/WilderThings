@@ -63,25 +63,38 @@ The highest-risk guides (medical, plant/mushroom ID, water, wildlife, food
 preservation) were reviewed in Aug 2026 against current clinical and
 wilderness-medicine standards. Corrections applied are recorded in TASKS.md.
 
-**Review content against the seven lenses** in
-[CONTRIBUTING.md](CONTRIBUTING.md#the-seven-lenses--how-to-review-content-for-accuracy).
-Each one exists because it caught a real defect here:
+**Review process:** [CONTRIBUTING.md](CONTRIBUTING.md#reviewing-content-for-accuracy).
 
-| # | Lens | Caught |
-|---|------|--------|
-| 1 | Is it true? | "Cook to avoid paralytic shellfish poisoning" — saxitoxin is heat stable |
-| 2 | Is it current? | Elevation/pressure points for bleeding; the 80/70/60 rule; flail chest taping |
-| 3 | **Does believing it stop the reader doing what works?** | The lightning crouch |
-| 4 | Can the stated check detect the hazard? | "Smell the fermented fish" — botulinum toxin is odorless |
-| 5 | Does it agree with the rest of the collection? | Vinegar for man-of-war: prescribed in one guide, contraindicated in another |
-| 6 | Complete where omission is dangerous? | No shellfish cross-allergy warning in the insect guide |
-| 7 | Is the reasoning sound even when the advice is? | "Cold water closes your pores" |
+**Triage first — do not review everything.** Ask: if a reader acts on this and
+it is wrong, what happens? Only "could die or be seriously injured" gets the
+full treatment. Doses, times, temperatures, thresholds, and any "never"/"always"
+always escalate.
 
-Lens 3 is the one most easily missed. The National Weather Service withdrew the
-lightning crouch in 2008 not because the posture is harmful but because
-believing you have a protective position delays you seeking real shelter. Ask
-of any protective measure: **if this does not work, what does the reader lose by
-having tried it?**
+Then four checks, each of which caught a real defect here:
+
+| # | Check | Caught |
+|---|-------|--------|
+| 1 | True, including the *why*? | "Cook to avoid PSP" (saxitoxin is heat stable); a rain-catchment figure 30x low; "cold water closes your pores" |
+| 2 | Current? | Elevation/pressure points for bleeding; the 80/70/60 rule; flail chest taping |
+| 3 | **False confidence?** | The lightning crouch (displaces shelter); "smell the fermented fish" (botulinum toxin is odorless) |
+| 4 | Missing? | No shellfish cross-allergy in the insect guide; no carbon monoxide in the disaster guide |
+
+Check 3 is the one most easily missed and the reason the framework exists. The
+NWS withdrew the lightning crouch in 2008 not because the posture harms you but
+because believing you have a protective position delays you seeking shelter.
+Ask: **if this does not work, what does the reader lose by having tried it?**
+
+**Consistency is mechanical — script it, do not think about it.** Grep for any
+number or procedure you change, including the reference checklists, which
+drifted from their parent guides during the audit. Extend `scripts/verify.py`
+rather than adding a manual step.
+
+**Signal words carry severity (ANSI Z535):** DANGER = will kill or seriously
+injure; WARNING = could; CAUTION = lesser harm. Severity is earned — if every
+block is red the lethal ones lose their force.
+
+**Say how sure you are.** Where trials do not exist and expert consensus is
+carrying the weight, write it that way. Do not launder tradition into fact.
 
 **Prefer checking to recalling.** Every source check during the audit changed
 something — including one that corrected an earlier correction.
@@ -206,8 +219,9 @@ Every guide has `## See Also` with links to related guides **across categories**
 ### Admonitions
 
 ```markdown
-!!! danger "WARNING"       # Red — risk of death/serious injury
-!!! warning "CAUTION"      # Orange — risk of worsening situation
+!!! danger "DANGER"        # Red — acting wrongly here WILL kill or maim
+!!! danger "WARNING"       # Red — COULD kill or seriously injure
+!!! warning "CAUTION"      # Orange — moderate/minor injury, or worsens the situation
 !!! note                   # Blue — important context
 !!! tip                    # Green — helpful technique
 ```

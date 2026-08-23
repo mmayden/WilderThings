@@ -23,18 +23,28 @@ source: field manuals, medical guidelines, established literature. Never
 fabricated, never "generally known".
 -->
 
-## Accuracy review — the seven lenses
+## Accuracy review
 
-See [CONTRIBUTING.md](../CONTRIBUTING.md#the-seven-lenses--how-to-review-content-for-accuracy).
-Structural checks tell you a guide is well-formed; these tell you it is right.
+See [CONTRIBUTING.md](../CONTRIBUTING.md#reviewing-content-for-accuracy).
 
-- [ ] **1. True?** Claim survives contact with the source. Anything computable has been recomputed
-- [ ] **2. Current?** Checked against the current guideline, not the traditional technique
-- [ ] **3. Displacement?** Believing this does not stop the reader doing the thing that actually works
-- [ ] **4. Detectable?** Any safety check given can actually detect the hazard it is checking for
-- [ ] **5. Consistent?** Grepped for this procedure/number elsewhere, including the reference checklists
-- [ ] **6. Complete?** Considered what will hurt this guide's reader that is not on the page
-- [ ] **7. Sound reasoning?** The stated mechanism is real, not a plausible-sounding invention
+**Triage first:** if a reader acts on this and it is wrong, what happens? Only
+claims that could kill or seriously injure need the full four checks. Doses,
+times, temperatures, thresholds, and any "never"/"always" always escalate.
+
+For each escalated claim:
+
+- [ ] **1. True, including the why?** Verified against a source. Anything computable has been recomputed
+- [ ] **2. Current?** Checked the current guideline, not the traditional technique
+- [ ] **3. False confidence?** It does not displace the thing that works, and any safety check given can actually detect the hazard
+- [ ] **4. Missing?** Considered what will hurt this guide's reader that is not on the page
+
+Mechanical (do not eyeball — grep or run the script):
+
+- [ ] Grepped for this number/procedure elsewhere, **including the reference checklists**
+- [ ] `python3 scripts/verify.py --offline site-offline --single wilderthings-mobile.html`
+
+- [ ] Signal word severity is earned (DANGER = will kill; WARNING = could kill; CAUTION = lesser)
+- [ ] Where evidence is thin, the text says so rather than sounding confident
 
 ## Checklist
 

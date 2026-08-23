@@ -50,6 +50,11 @@ jobs:
       - name: Verify hosted build links
         run: python3 scripts/verify.py --site site
 
+      # Consistency is mechanical, so it is scripted rather than reviewed by eye.
+      # See CONTRIBUTING.md, "Stage 2 — Mechanical sweeps".
+      - name: Verify content consistency (units, temperatures, recurring claims, signal words)
+        run: python3 scripts/verify.py --content docs
+
   offline-check:
     name: Offline build (must work with no network)
     runs-on: ubuntu-latest

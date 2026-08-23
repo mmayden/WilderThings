@@ -192,15 +192,185 @@ def check_site(root):
         ok("site references resolve", f"{total} local refs across {len(html_files)} pages")
 
 
+
+# ---------------------------------------------------------------------------
+# Content-consistency checks. These exist because CONTRIBUTING.md's review
+# process says consistency is mechanical and should not consume judgment.
+# Everything here was a real defect found by hand during the August 2026 audit.
+# ---------------------------------------------------------------------------
+
+IMPERIAL_TO_METRIC = {
+    ("in", "cm"): 2.54, ("inch", "cm"): 2.54, ("inches", "cm"): 2.54,
+    ("ft", "m"): 0.3048, ("feet", "m"): 0.3048,
+    ("mi", "km"): 1.609344, ("miles", "km"): 1.609344,
+    ("lb", "kg"): 0.453592, ("lbs", "kg"): 0.453592, ("pounds", "kg"): 0.453592,
+    ("yd", "m"): 0.9144, ("yards", "m"): 0.9144,
+    ("qt", "l"): 0.946353, ("quart", "l"): 0.946353, ("quarts", "l"): 0.946353,
+    ("gal", "l"): 3.78541, ("gallon", "l"): 3.78541, ("gallons", "l"): 3.78541,
+    ("oz", "g"): 28.3495,
+}
+
+# Claims that recur across guides. A disagreement here is a contradiction the
+# reader can actually hit by following two pages.
+#
+# LIMITATION: this check is only as good as the patterns below. It proves the
+# listed claims agree; it does not prove the corpus is free of contradictions.
+# When you find a new contradiction by hand, add a pattern for it here so the
+# same class cannot come back.
+RECURRING_CLAIMS = {
+    # Matches prose ("above 6,500 ft ... boil 3 minutes") and table rows. The
+    # sea-level row of an altitude table also mentions 6,500 and says 1 minute,
+    # which is correct and must not be read as a disagreement — hence EXCLUDE.
+    "boil time above 6,500 ft":   r"6,500[^\n]{0,80}?(\d+)\s*min",
+    "signal fire triangle spacing": r"triangle[^.]{0,60}?(\d+)\s*(?:ft|feet)",
+    "bleach re-dose wait":        r"repeat the dose and wait another (\d+)\s*minutes",
+    "epinephrine adult dose":     r"(?:epinephrine|EpiPen)[^.]{0,60}?(0\.\d+)\s*mg",
+    "tourniquet above wound":     r"tourniquet[^.]{0,60}?(\d+)-(\d+)\s*inches",
+}
+
+# Lines matching these are legitimately different claims, not contradictions.
+CLAIM_EXCLUSIONS = {
+    "boil time above 6,500 ft": r"sea level|below 6,500|0[\u2013-]2,000",
+}
+
+# ANSI Z535: DANGER = will kill/maim, WARNING = could, CAUTION = lesser harm.
+ALLOWED_TITLES = {
+    "danger": {"DANGER", "WARNING"},
+    "warning": {"CAUTION", "DISCLAIMER", "NOTICE"},
+}
+
+
+def _md_files(root):
+    return [os.path.join(dp, fn)
+            for dp, _, fns in os.walk(root)
+            for fn in fns if fn.endswith(".md")]
+
+
+def check_unit_conversions(root):
+    num = r"(\d+(?:,\d{3})*(?:\.\d+)?)"
+    rng = num + r"\s*(?:[-\u2013\u2014]\s*" + num + r")?"
+    pat = re.compile(
+        rng + r"\s*(in|inch|inches|ft|feet|mi|miles|lb|lbs|pounds|yd|yards|"
+              r"qt|quart|quarts|gal|gallon|gallons|oz)\b\s*\(\s*~?" + rng +
+        r"\s*(cm|m|km|kg|l|g)\b", re.I)
+    bad, checked = [], 0
+    for path in _md_files(root):
+        for ln, line in enumerate(open(path, encoding="utf-8"), 1):
+            # Fractions like "1/2 in" confuse the parser; skip those spans.
+            if re.search(r"\d/\d", line):
+                continue
+            for m in pat.finditer(line):
+                a1, a2, u1, b1, b2, u2 = m.groups()
+                k = IMPERIAL_TO_METRIC.get((u1.lower(), u2.lower()))
+                if not k:
+                    continue
+                checked += 1
+                # Ranges may be written "800 to 1,500 lbs (360-680 kg)", where the
+                # regex sees only the upper imperial value. Accept a match against
+                # either metric endpoint rather than reporting a false positive —
+                # a check that cries wolf is a check people learn to ignore.
+                metric_vals = [float(v.replace(",", "")) for v in (b1, b2) if v]
+                imperial_vals = [float(v.replace(",", "")) for v in (a1, a2) if v]
+                for src in imperial_vals:
+                    exp = src * k
+                    if not exp:
+                        continue
+                    tol = 0.13 if exp >= 10 else 0.30
+                    if not any(abs(dst - exp) / exp <= tol for dst in metric_vals):
+                        bad.append(f"{path}:{ln} {m.group(0)[:50]!r} ({src}{u1}={exp:.1f}{u2})")
+    if bad:
+        fail("unit conversions", f"{len(bad)} suspicious; first: {bad[0]}")
+    else:
+        ok("unit conversions", f"{checked} dual measurements verified")
+
+
+def check_temperature_conversions(root):
+    # The corpus writes temperatures both as "95°F (35°C)" and "95 degF (35 degC)".
+    # An earlier version of this check only matched the degree symbol and silently
+    # skipped every "degF" pair — found by negative-testing the check itself.
+    pat = re.compile(
+        r"(-?\d+(?:\.\d+)?)\s*(?:\u00b0\s*|deg\s*)F\b"
+        r"[^()]{0,12}\(\s*~?\s*(-?\d+(?:\.\d+)?)\s*(?:\u00b0\s*|deg\s*)C\b")
+    bad, checked = [], 0
+    for path in _md_files(root):
+        for ln, line in enumerate(open(path, encoding="utf-8"), 1):
+            # Temperature *differences* convert by ratio, not offset — skip them.
+            if re.search(r"drops?\s+of|drop of|difference|colder than|below ambient", line, re.I):
+                continue
+            for m in pat.finditer(line):
+                f, c = float(m.group(1)), float(m.group(2))
+                checked += 1
+                exp = (f - 32) * 5 / 9
+                if abs(c - exp) > max(1.5, abs(exp) * 0.05):
+                    bad.append(f"{path}:{ln} {m.group(0)} (should be {exp:.0f}C)")
+    if bad:
+        fail("temperature conversions", f"{len(bad)} suspicious; first: {bad[0]}")
+    else:
+        ok("temperature conversions", f"{checked} F/C pairs verified")
+
+
+def check_recurring_claims(root):
+    disagreements = []
+    for name, pat in RECURRING_CLAIMS.items():
+        seen = collections.defaultdict(set)
+        excl = CLAIM_EXCLUSIONS.get(name)
+        for path in _md_files(root):
+            for line in open(path, encoding="utf-8"):
+                if excl and re.search(excl, line, re.I):
+                    continue
+                for m in re.finditer(pat, line, re.I):
+                    seen[m.groups()].add(os.path.relpath(path, root))
+        if len(seen) > 1:
+            disagreements.append(f"{name}: " + " vs ".join(
+                f"{k} in {sorted(v)[:2]}" for k, v in seen.items()))
+    if disagreements:
+        fail("guides disagree on a recurring claim",
+             f"{len(disagreements)}; first: {disagreements[0]}")
+    else:
+        ok("recurring claims agree", f"{len(RECURRING_CLAIMS)} claims checked across guides")
+
+
+def check_signal_words(root):
+    """ANSI Z535 severity. Severity must be earned or the lethal warnings lose force."""
+    bad = []
+    counts = collections.Counter()
+    for path in _md_files(root):
+        for ln, line in enumerate(open(path, encoding="utf-8"), 1):
+            m = re.match(r'\s*!!!\s+(danger|warning)\s+"([^"]*)"', line)
+            if not m:
+                continue
+            kind, title = m.group(1), m.group(2)
+            head = title.split(":")[0].strip().upper()
+            counts[head] += 1
+            allowed = ALLOWED_TITLES[kind]
+            # A descriptive title (a sentence) is fine; a wrong signal word is not.
+            if head in {"DANGER", "WARNING", "CAUTION", "NOTICE"} and head not in allowed:
+                bad.append(f"{os.path.relpath(path, root)}:{ln} !!! {kind} \"{head}\"")
+    if bad:
+        fail("signal word severity (ANSI Z535)",
+             f"{len(bad)} mismatched; first: {bad[0]}")
+    else:
+        ok("signal word severity", f"{sum(counts.values())} labelled admonitions consistent")
+
+
+def check_content(root):
+    check_unit_conversions(root)
+    check_temperature_conversions(root)
+    check_recurring_claims(root)
+    check_signal_words(root)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--offline", metavar="DIR")
     ap.add_argument("--single", metavar="FILE")
     ap.add_argument("--site", metavar="DIR")
+    ap.add_argument("--content", metavar="DOCS_DIR",
+                    help="consistency checks over the markdown source")
     args = ap.parse_args()
 
-    if not any([args.offline, args.single, args.site]):
-        ap.error("nothing to verify — pass --offline, --single, and/or --site")
+    if not any([args.offline, args.single, args.site, args.content]):
+        ap.error("nothing to verify — pass --offline, --single, --site, and/or --content")
 
     if args.offline:
         check_offline_dir(args.offline)
@@ -208,6 +378,8 @@ def main():
         check_single_file(args.single)
     if args.site:
         check_site(args.site)
+    if args.content:
+        check_content(args.content)
 
     print("\n".join(notes))
     if failures:

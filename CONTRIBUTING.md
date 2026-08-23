@@ -58,146 +58,217 @@ Before a guide is merged or marked complete, verify all of the following:
 - [ ] Passes `mkdocs build --strict`
 
 The checklist above is **structural**. It tells you the guide is well-formed. It
-does not tell you the guide is right. For that, use the seven lenses below.
+does not tell you the guide is right. For that, see
+[Reviewing Content for Accuracy](#reviewing-content-for-accuracy) below.
 
 ---
 
-## The Seven Lenses — How to Review Content for Accuracy
+## Reviewing Content for Accuracy
 
 Structural review catches malformed guides. Accuracy review catches guides that
-are well-formed and wrong. Apply all seven lenses to any content change, and to
-any guide being audited.
+are well-formed and wrong. This section is the second kind.
 
-Each lens below exists because it caught a real defect in this repository. The
-examples are actual findings, not hypotheticals.
-
-### 1. Is it true?
-
-The plain factual check. Does the claim survive contact with the source?
-
-> **Found:** "Cook shellfish before eating to avoid paralytic shellfish
-> poisoning." Saxitoxin is heat and acid stable — boiling, frying, canning, and
-> freezing all leave it intact, and acid plus heat can make it *more* toxic.
-
-Watch for numbers that are physically impossible. Pine inner bark was listed at
-500-600 kcal/100 g; the ceiling for a carbohydrate food is 400. A wind chill
-table understated cold by up to 9°F. A log's stated buoyancy was 2-3x what
-Archimedes allows. **Recompute anything computable.**
-
-### 2. Is it current?
-
-Survival writing has a long tail. Techniques persist in print for decades after
-the field abandons them. Check the guideline, not what the technique "has
-always been."
-
-> **Found:** elevation and pressure points in the bleeding ladder (dropped from
-> ATLS/TCCC/Red Cross), the 80/70/60 pulse-to-blood-pressure rule (dropped from
-> ATLS at the 8th edition), taping a flail chest (now contraindicated by PHTLS),
-> and a ground-to-air signal code superseded by the current ICAO set.
-
-### 3. Does believing this stop someone doing the thing that works?
-
-**The displacement test.** This is the subtlest lens and the most valuable.
-
-Some advice is not exactly false — it simply *substitutes* for the action that
-actually saves the person. The harm is not the technique. The harm is the
-confidence it creates.
-
-> **Found:** the "lightning crouch." The National Weather Service withdrew it in
-> 2008, and their stated reason is the lens itself:
->
-> > "Promoting the crouch gives people the false impression that crouching will
-> > provide safety... These beliefs could cause people to become apathetic and
-> > not seek a safe shelter before the lightning threat becomes significant."
->
-> The crouch is not dangerous in itself. It is dangerous because someone who
-> believes they have a protective position stops running for shelter.
-
-Ask of any protective measure: **if this does not work, what does the reader
-lose by having tried it?** If the answer is "the minutes in which the real
-option was available," say so explicitly. Do not present a weak measure and a
-strong measure as though they are alternatives on a list.
-
-Other instances found: "cook it to avoid PSP" (displaces avoidance, the only
-real defense), and "animals drink here so the water is safe" (displaces
-treating the water).
-
-### 4. Can the stated check actually detect the hazard?
-
-Related to lens 3, but distinct. Here the *verification method* is the defect.
-A check that cannot detect the thing it is checking for is worse than no check,
-because it manufactures certainty.
-
-> **Found:** fermented fish, with "discard it if it smells foul" as the safety
-> test. **Botulinum toxin is odorless and tasteless**, and correctly fermented
-> fish is supposed to smell powerful. The test cannot separate safe from lethal.
-
-> **Found:** the Universal Edibility Test as a general-purpose safety procedure.
-> Water hemlock smells like parsnip, does not reliably burn the lips or tongue,
-> and the final step has you eat a quarter cup.
-
-When you write a check, state plainly what it **cannot** catch.
-
-### 5. Does it agree with the rest of the collection?
-
-A reader who follows two guides and gets two answers has lost confidence in
-both, and may follow the wrong one.
-
-> **Found:** vinegar prescribed for Portuguese man-of-war in one guide and
-> contraindicated in another (the second was right). Cold-water survival times
-> differing 3x at the same temperature. Signal fires spaced 25 ft in one guide
-> and 100 ft in four others. Bleach re-dose waits of 15 vs 30 minutes.
-
-**Any procedure that appears in two places is a defect waiting to happen.**
-Cross-link to one canonical copy instead of duplicating. When a guide changes,
-grep for every other place that number or procedure appears — including the
-reference checklists, which are what people actually follow under stress.
-
-### 6. Is it complete where the omission is dangerous?
-
-Absence is invisible in review. You have to go looking for it.
-
-> **Found:** the insect foraging guide had no mention of shellfish
-> cross-allergy. Insect and shrimp tropomyosin are 75-80% identical, so
-> shellfish-allergic people risk anaphylaxis from crickets — and cooking does
-> not destroy the allergen. The guide even cited the arthropod relationship as
-> *encouragement* to eat them.
-
-> **Found:** the natural disaster guide never mentioned carbon monoxide.
-> Generators and grills run indoors are a leading cause of death *after*
-> hurricanes and winter storms.
-
-Ask: **who reads this guide, and what will kill them that is not on this page?**
-
-### 7. Is the reasoning sound, even when the advice is right?
-
-A correct instruction supported by an invented mechanism is still a defect. It
-teaches the reader a false model, which they will then apply somewhere else.
-
-> **Found:** "wash urushiol off with cold water — cold closes your pores." Pores
-> do not open and close with temperature. The advice (wash fast, use soap) was
-> right; the explanation was fabricated, and a reader who believes the pore
-> model will make bad decisions about burns, heat, and hygiene.
-
-This project's first rule is that every claim is traceable. That applies to the
-*why*, not only the *what*.
+It is deliberately short at the point of use. **The operational part is one
+triage question and four checks.** Everything after that is rationale you read
+once, not a procedure you run every time.
 
 ---
 
-## Applying the Lenses
+### Stage 0 — Triage: does this claim need review at all?
 
-- **On a new guide:** all seven, before merge.
-- **On a content change:** at minimum lenses 1, 2, and 5.
-- **On a periodic audit:** work by lens rather than by guide. Sweeping the whole
-  collection for one lens at a time surfaces patterns that guide-by-guide
-  reading misses — that is how the duplicated-procedure and unit-conversion
-  problems were found.
+Do not run the checks on everything. Reviewing "how to tie a bowline" with the
+same rigor as an epinephrine dose wastes the attention that the dose needed.
+
+Ask one question:
+
+> **If a reader acts on this and it is wrong, what happens?**
+
+| Answer | Treatment |
+|---|---|
+| They could die or be seriously injured | Full review — all four checks, verify against a source |
+| They lose time, comfort, or resources | Check it is true and consistent. Move on |
+| Nothing much | Normal editing. No review needed |
+
+Most sentences are in the bottom row. Spend the effort where the first row is.
+
+**Always escalate to full review**, regardless of topic: doses, times,
+temperatures, thresholds, ratios, distances, and any sentence containing
+"never" or "always."
+
+---
+
+### Stage 1 — The four checks
+
+Run these only on claims Stage 0 escalated.
+
+#### 1. Is it true — including the *why*?
+
+Does the claim survive contact with a source? **Recompute anything computable.**
+
+> A tarp's rain yield was understated 30x. Pine bark was listed above the
+> calorie ceiling for a carbohydrate. A wind chill table was 9°F off. All three
+> were arithmetic, and all three were found by doing the arithmetic.
+
+The mechanism counts too. "Cold water closes your pores" was attached to correct
+advice, but pores do not do that, and a reader who believes the model will apply
+it wrongly somewhere else.
+
+#### 2. Is it current?
+
+Survival writing has a long tail. Techniques persist in print for decades after
+the field drops them. **Check the current guideline, not what the technique has
+always been.**
+
+> Elevation and pressure points for bleeding; the 80/70/60 pulse rule; taping a
+> flail chest; the lightning crouch. All were standard teaching. All are now
+> withdrawn.
+
+#### 3. Does it create false confidence?
+
+The subtlest check and the most valuable. Two shapes, same failure — the reader
+believes they are covered when they are not:
+
+**(a) It displaces the thing that works.** Some advice is not false; it simply
+consumes the window the effective action needed.
+
+> The National Weather Service withdrew the lightning crouch in 2008. Their
+> stated reason is the check itself: promoting it "gives people the false
+> impression that crouching will provide safety... could cause people to become
+> apathetic and not seek a safe shelter."
+
+This is the same logic emergency medicine applies as **delay to definitive
+care** — an intervention is judged not only on whether it helps but on what it
+costs in time to real treatment.
+
+Ask: **if this does not work, what does the reader lose by having tried it?**
+Where the answer is "the minutes in which the real option was available," say so.
+Never list a weak measure and a strong one as peers.
+
+**(b) The safety check cannot detect the hazard.** A test that cannot find the
+thing it tests for is worse than no test, because it manufactures certainty.
+
+> "Discard the fermented fish if it smells foul." Botulinum toxin is odorless,
+> and correctly fermented fish smells powerful. The test cannot separate safe
+> from lethal.
+
+When you write a check, state what it **cannot** catch.
+
+#### 4. What is missing?
+
+Absence is invisible. You have to go looking.
+
+> The insect foraging guide never mentioned shellfish cross-allergy — and cited
+> the arthropod relationship as encouragement. The disaster guide never
+> mentioned carbon monoxide, which kills people after the storm.
+
+Ask: **who reads this guide, and what will hurt them that is not on this page?**
+
+---
+
+### Stage 2 — Mechanical sweeps: script it, do not think about it
+
+Consistency is not a judgment call, so it should not consume judgment. Anything
+mechanical belongs in `scripts/verify.py` or a grep, run in CI.
+
+| Sweep | Why it is mechanical |
+|---|---|
+| Unit conversions | Arithmetic. 689 pairs verified this way |
+| Duplicated procedures and numbers | `grep` finds them; reading does not |
+| Cross-guide contradictions | Extract each recurring claim, compare |
+| Signal word severity | Rule-based (see below) |
+| Broken links, missing sections | Already automated |
+
+**Any procedure appearing in two places is a defect waiting to happen.**
+Cross-link to one canonical copy. When you change a number, grep for it
+everywhere — including the reference checklists, which are what people follow
+under stress and which drifted from their parent guides during this audit.
+
+---
+
+### Stage 3 — Say how sure you are
+
+The Wilderness Medical Society grades every recommendation on evidence quality
+and notes plainly where trials do not exist and expert consensus is carrying the
+weight. This project cites WMS constantly; it should adopt the same honesty.
+
+Where a claim is not solidly established, mark it in the text:
+
+| Tier | Means | Phrasing |
+|---|---|---|
+| **Established** | A current published guideline says this | State it plainly |
+| **Consensus** | No trials, but expert bodies agree | "Standard practice is…" |
+| **Field practice** | Traditional or anecdotal; unverified | "Traditionally… but this has not been well studied" |
+
+Do not launder tier 3 into tier 1 by writing it confidently. A reader deciding
+whether to risk something deserves to know which one they are holding.
+
+---
+
+### Signal words: use ANSI Z535 severity
+
+The project's admonitions are safety labels, and there is a standard for those.
+Severity must be **earned**, not decorative:
+
+| Use | When | Standard meaning |
+|---|---|---|
+| `!!! danger "DANGER"` | Acting wrongly here **will** kill or seriously injure | Imminent hazard |
+| `!!! danger "WARNING"` | It **could** kill or seriously injure | Potential hazard |
+| `!!! warning "CAUTION"` | Could cause moderate or minor injury, or make the situation worse | Lesser hazard |
+| `!!! note` | Important but not a hazard | Notice |
+
+A good safety message has four parts: **the hazard, the consequence, how to
+avoid it, and the severity** (carried by the signal word). Most of this
+project's warnings already do this — keep it.
+
+**Warnings compete with each other for attention.** If every block is red, the
+reader stops distinguishing them and the genuinely lethal ones lose their force.
+Reserve DANGER for the small number of things that actually belong there:
+amatoxins, botulism, water hemlock, PSP, carbon monoxide, hypothermic
+handling, arterial bleeding.
+
+---
+
+### Stopping rules — how not to spiral
+
+The review process has its own failure modes. These are the guards:
+
+- **Sources disagree?** Do not adjudicate. Say so in the guide, give the safer
+  option, cite both, and move on. One paragraph, not an afternoon.
+- **Cannot verify a claim?** Downgrade it to its real tier (above) rather than
+  deleting it or defending it.
+- **Time-box each claim.** Checklist research finds attention degrades past
+  roughly 60–90 seconds at a single checkpoint, after which people start
+  skipping steps. If a claim is taking longer, it is a tier-3 claim — mark it
+  and move on.
+- **Do not re-review settled content** without a reason: a new source, a
+  contradiction, or a report.
+- **State scope when you claim something is reviewed.** "Reviewed" without scope
+  is not a claim. Record what you checked *and what you did not* — see TASKS.md.
+
+### Failure modes of this process
+
+Watch for these in yourself:
+
+| Failure | Looks like | Guard |
+|---|---|---|
+| Lens shopping | Arguing which check something falls under | The checks overlap by design; fix the defect, do not classify it |
+| Warning inflation | Adding DANGER to be safe | Severity is earned. Inflation destroys the signal |
+| Analysis paralysis | Re-litigating a thin claim | Stage 3 tiers exist so you can ship uncertainty honestly |
+| Review theater | "Fully reviewed" with no scope | Record coverage and gaps |
+| False precision | Inventing a number to replace a vague one | "Roughly" is better than a fabricated figure |
+
+---
+
+### Applying it
+
+- **New guide:** Stage 0 on every claim, four checks on what escalates, all sweeps.
+- **Content change:** four checks on the changed claim, plus the consistency grep.
+- **Periodic audit:** work **by check, across the whole collection**, not guide by
+  guide. Sweeping one check at a time is how the unit-conversion and duplicated-
+  procedure problems surfaced; reading guide by guide would have missed both.
 - **Prefer checking to recalling.** Every source check performed during the
-  August 2026 audit changed something, including one that corrected an earlier
-  correction. If a claim is checkable, check it.
-
-Record what you verified and what you did not. "Reviewed" without scope is not
-a useful claim — see TASKS.md for the current audit scope and its explicit gaps.
+  August 2026 audit changed something — including one that corrected an earlier
+  correction.
 
 ---
 
