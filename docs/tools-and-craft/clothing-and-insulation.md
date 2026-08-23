@@ -79,7 +79,23 @@ For immediate need, skip tanning:
 
 ### Brain Tanning (Soft Leather)
 
-Brain tanning produces soft, washable leather. Every animal has enough brain to tan its own hide.
+Brain tanning produces soft, washable leather. Every animal has enough brain to tan its
+own hide.
+
+!!! danger "DANGER: not with deer or elk brain"
+    [Field Butchering](../food/field-butchering.md#disease-and-hygiene) says to avoid
+    contact with the brain, spinal cord, eyes, and lymph nodes of deer and elk, because
+    that is where chronic wasting disease prions concentrate. Brain tanning asks you to
+    mash that exact tissue by hand and work it into something you will then wear.
+
+    Prions are not destroyed by cooking, drying, smoking, or the tanning itself. Do not
+    use cervid brain in a CWD area, and never use it from an animal that looked sick.
+
+    **What to use instead:** the brain of a non-cervid animal, or one of the traditional
+    substitutes, which work by the same mechanism — emulsified fat and lecithin dressing
+    the fibres. Egg yolks (about six per deer-sized hide), rendered fat and soap worked
+    into a paste, or oil and egg together all produce soft leather. Glove up either way,
+    and cover any cuts.
 
 1. **Flesh and de-hair:** Soak the hide in water for 1-2 days. Scrape hair off with a dull blade or bone scraper, working from neck to tail.
 2. **Prepare the brain solution:** Mash the animal's brain in warm water until dissolved into a creamy paste. One brain per hide.
@@ -104,6 +120,17 @@ Foot injuries end self-rescue. Protect your feet.
 4. Fold the material up around your foot.
 5. Punch holes with a bone awl and lace with cordage or thin rawhide strips.
 6. Add a second sole layer for durability over rocky terrain.
+
+!!! warning "CAUTION: keep the inside dry, not just the outside"
+    Improvised footwear is rarely waterproof, and feet that stay wet for 24-48 hours
+    develop trench foot — nerve and tissue damage that can become permanent, and that
+    disables you long before it looks serious. It is a cold-wet injury, not only a
+    tropical one.
+
+    Dry your feet and your stuffing at every stop. Carry a second batch of dry grass or
+    moss and swap it in when the first is damp. See
+    [Trench Foot Prevention](../climate-specific/jungle-survival.md#trench-foot-prevention)
+    and [Arctic Survival](../climate-specific/arctic-survival.md#trench-foot-immersion-foot).
 
 ### Bark Sandals
 
@@ -174,6 +201,8 @@ Repair clothing damage the moment it occurs. Small tears become large failures.
 ## Common Mistakes
 - Wearing wet insulation layers instead of replacing them with dry material.
 - Making footwear too tight (restricts blood flow, accelerates frostbite in cold conditions).
+- Leaving feet damp inside improvised footwear — trench foot takes 24-48 hours and disables you for weeks.
+- Using deer or elk brain for tanning. Prions concentrate there and survive every step of the process. Use a non-cervid brain, or eggs and fat.
 - Skipping the smoking step in brain tanning (hide stiffens permanently when it gets wet).
 - Neglecting head and hand protection (high heat loss areas that degrade function quickly).
 - Using green, sap-heavy bark for clothing (irritates skin, does not insulate, dries rigid).
