@@ -19,6 +19,12 @@ tags:
 - A 8 x 10 ft (2.4 x 3 m) tarp shelters one to two people. A 10 x 12 ft (3 x 3.7 m) tarp adds gear coverage.
 - Pitch the low side into the wind and angle the roof to direct rain runoff away from the sleeping area.
 
+!!! warning "CAUTION: look up before you tie onto anything"
+    Every configuration below starts by running a line between two trees. Check the
+    canopy above the whole footprint for dead standing timber, hanging limbs, and cracked
+    trunks first — they fall without wind or warning and a tarp stops nothing. Full site
+    criteria in [Shelter Principles](shelter-principles.md).
+
 ## Tarp Configurations
 
 ### A-Frame
@@ -81,6 +87,26 @@ Covers a hammock from rain and wind. Requires a larger tarp — 10 x 12 ft (3 x 
 4. Ensure the tarp extends at least 12 inches (30 cm) past each end of the hammock to prevent diagonal rain from reaching the occupant.
 5. In heavy rain or wind, lower the tarp sides closer to the hammock. In dry weather, raise them for airflow.
 
+!!! danger "DANGER: a hammock is colder than the ground, not warmer"
+    Your weight crushes the insulation underneath you flat. A sleeping bag insulates by
+    loft, and compressed loft does nothing — so the whole underside of your body has
+    almost no insulation, with open air moving freely beneath it. Convection carries heat
+    away far faster than the ground ever conducts it.
+
+    People get dangerously cold in hammocks at temperatures that would be comfortable on
+    the ground. It starts around **70°F (21°C)** and it surprises almost everyone the
+    first time, because nothing about the setup feels cold when you get in.
+
+    **Do not sleep in a hammock below about 70°F (21°C) without one of these:**
+
+    - An **underquilt** hung beneath the hammock, outside it, where nothing compresses it.
+    - A **closed-cell foam pad** inside the hammock, under your torso. Pads slide out from
+      under you — a wide pad or one with wings works better than a narrow one.
+    - Failing both, **sleep on the ground** with proper insulation beneath you. A
+      well-insulated ground bed beats an uninsulated hammock at any temperature.
+
+    A top-quilt or sleeping bag alone does not solve this. The problem is underneath you.
+
 !!! note
     The tarp ridgeline must be separate from the hammock suspension. Attaching both to the same line transfers rain along the cord directly into the hammock.
 
@@ -130,7 +156,18 @@ See [Knots and Lashing](../tools-and-craft/knots-and-lashing.md) for detailed ty
 
 ## Ground Cloth Layering
 
-A ground cloth prevents moisture wicking from below and protects the tarp floor from abrasion.
+A ground cloth prevents moisture wicking from below and protects the tarp floor from
+abrasion.
+
+!!! warning "CAUTION: a ground cloth is not insulation"
+    It is a moisture barrier. It stops the damp reaching you and does essentially nothing
+    about the ground pulling heat out of you, which is the larger problem — see
+    [Ground Insulation Is Priority One](shelter-principles.md#ground-insulation-is-priority-one).
+
+    A tarp gives you a roof and walls, and those are close to worthless without something
+    insulating between your body and the earth. If you have no sleeping pad, build the
+    layer from whatever the site offers: 4-6 in (10-15 cm) of dry leaves, grass, or
+    evergreen boughs, compressed, underneath the ground cloth or on top of it.
 
 1. Clear the ground of rocks, sticks, and pinecones.
 2. Lay the ground cloth inside the tarp footprint. Fold edges under so no ground cloth extends beyond the tarp — exposed edges channel rain underneath.
@@ -219,6 +256,9 @@ Stakes melt out of consolidated snow and pull from powder.
 - **Using the hammock line as the tarp ridgeline.** Rain follows the cord directly into the hammock. Run a separate ridgeline above.
 - **Ignoring guy line tension after rain starts.** Silnylon and natural cordage stretch when wet. Re-tension all lines after precipitation begins.
 - **Pitching the open side into the wind.** Rain drives horizontally into the shelter. Face the open or high side downwind.
+- **Treating the ground cloth as insulation.** It blocks moisture, not heat loss. Build an insulating layer beneath you.
+- **Sleeping in a hammock with only a sleeping bag.** Your weight flattens the insulation underneath. Use an underquilt or a pad, or sleep on the ground.
+- **Rigging to trees without checking the canopy.** Dead limbs drop without warning and a tarp offers no protection.
 
 ## Quick Reference
 
@@ -234,11 +274,14 @@ Stakes melt out of consolidated snow and pull from powder.
 | Ground cloth rule | Never extend past tarp edge |
 | Hammock tarp extension | 12+ in (30 cm) past each hammock end |
 | Poncho pitch time | ~5 minutes |
+| Ground cloth | Moisture barrier only — add insulation separately |
+| Hammock below 70°F (21°C) | Underquilt or pad required, or sleep on the ground |
 
 ## See Also
 
-- [Shelter Principles](shelter-principles.md)
-- [Knots and Lashing](../tools-and-craft/knots-and-lashing.md)
+- [Shelter Principles](shelter-principles.md) — site selection, and why ground insulation outranks the roof you just rigged.
+- [Knots and Lashing](../tools-and-craft/knots-and-lashing.md) — the trucker's hitch and taut-line hitch in detail.
+- [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md) — what an uninsulated hammock or ground bed leads to.
 - [Cordage](../tools-and-craft/cordage.md) — guy lines and tie-down material for tarp shelters.
 - [Bug-Out Bag](../preparedness/bug-out-bag.md) — packing tarp and poncho as part of your kit.
 
@@ -248,4 +291,4 @@ Stakes melt out of consolidated snow and pull from powder.
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - Mears, Ray. *Ray Mears' Outdoor Survival Handbook.* Ebury Press, 2001.
-- Hennessy, Tom. *Hammock Camping: The Complete Guide to Greater Comfort, Convenience, and Freedom.* 2008.
+- Speer, Ed. *Hammock Camping: The Complete Guide to Greater Comfort, Convenience and Freedom.* Speer Hammocks, 2003.

@@ -41,7 +41,8 @@ no setup, nothing to remember. Free for the life of the phone on iPhone.
     Rabies treatment has no deadline · lean meat alone is worse than eating nothing ·
     cooking does not make every fish safe · antihistamines do not stop anaphylaxis ·
     bleach does not kill cryptosporidium · bat contact counts even with no visible bite ·
-    the lightning crouch was withdrawn · ground insulation matters more than the roof.
+    the lightning crouch was withdrawn · ground insulation matters more than the roof ·
+    a hammock is colder than the ground, not warmer.
 
 ## See Also
 
