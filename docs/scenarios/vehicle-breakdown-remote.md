@@ -198,8 +198,8 @@ If you make the decision to leave the vehicle:
 ---
 
 ## Sources
-- Wiseman, John "Lofty." *SAS Survival Handbook.* William Morrow, 2014.
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - Lundin, Cody. *98.6 Degrees: The Art of Keeping Your Ass Alive.* Gibbs Smith, 2003.
-- U.S. Army. *FM 21-76: Survival.* Department of the Army, 2002.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - National Park Service. "Desert Safety." *NPS Visitor Safety*, 2022.
 - American Automobile Association (AAA). "What to Do If Your Car Breaks Down." *AAA Exchange*, 2023.

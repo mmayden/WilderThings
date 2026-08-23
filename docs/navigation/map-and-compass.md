@@ -233,9 +233,9 @@ Carry a compass and paper map as primary backup on every trip. Practice compass 
 
 ## Sources
 
-- *FM 21-76: Survival* — US Army, Department of the Army, 1992
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - *FM 3-25.26: Map Reading and Land Navigation* — US Army, Department of the Army, 2001
-- *SAS Survival Handbook* — John "Lofty" Wiseman, 3rd edition, 2014
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - *Be Expert with Map and Compass* — Bjorn Kjellstrom, revised edition, 2009
 - NOAA National Centers for Environmental Information — Magnetic Declination Calculator
 - *USAF Survival Training (AFPAM 36-2211)* — US Air Force, 2008

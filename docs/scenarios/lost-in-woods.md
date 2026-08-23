@@ -269,8 +269,8 @@ Fear and panic kill faster than cold or thirst. Manage your mental state deliber
 ---
 
 ## Sources
-- Gonzales, Laurence. *Deep Survival: Who Lives, Who Dies, and Why.* W.W. Norton, 2004.
-- Wiseman, John "Lofty." *SAS Survival Handbook.* William Morrow, 2014.
+- Gonzales, Laurence. *Deep Survival: Who Lives, Who Dies, and Why.* W.W. Norton, 2003.
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - Lundin, Cody. *98.6 Degrees: The Art of Keeping Your Ass Alive.* Gibbs Smith, 2003.
 - National Association for Search and Rescue (NASAR). *Managing the Lost Person Incident.* 2012.
 - Koester, Robert. *Lost Person Behavior.* dbS Productions, 2008.

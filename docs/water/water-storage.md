@@ -237,7 +237,7 @@ Water loss through evaporation is significant in arid and hot environments.
 ## Sources
 
 - U.S. Army, *FM 21-76 Survival Manual*, Department of the Army, 2002
-- Wiseman, John "Lofty," *SAS Survival Handbook*, revised ed., William Collins, 2014
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - World Health Organization, *Guidelines for Drinking-water Quality*, 4th ed., 2011
 - Centers for Disease Control and Prevention, "Making Water Safe in an Emergency," 2021
 - Wilderness Medical Society, *Practice Guidelines for Wilderness Emergency Care*, 5th ed., 2014

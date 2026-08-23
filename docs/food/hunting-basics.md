@@ -380,7 +380,7 @@ In a genuine survival emergency, preserving your life is the priority. Most lega
 
 ## Sources
 
-- U.S. Army Survival Manual (FM 21-76), Chapter 8: Food Procurement
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992, ch. 8 (Food Procurement).
 - SAS Survival Handbook (John "Lofty" Wiseman)
 - Tom Brown's Field Guide to Nature Observation and Tracking
 - Tracking and the Art of Seeing (Paul Rezendes)

@@ -359,7 +359,7 @@ Attempt field reduction only when evacuation is delayed more than several hours 
 ## Sources
 
 - Wilderness Medical Society Practice Guidelines for Spine Immobilization in the Austere Environment, 2019.
-- Tactical Combat Casualty Care (TCCC) Guidelines, Committee on TCCC, 2023.
+- Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, 2023.
 - American Red Cross First Aid/CPR/AED Participant's Manual, 2021.
 - Wilderness First Responder: How to Recognize, Treat, and Prevent Emergencies in the Backcountry, Buck Tilton, 4th Edition.
 - NAEMSP Position Paper on Prehospital Spinal Immobilization, 2018.

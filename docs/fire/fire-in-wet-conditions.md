@@ -230,6 +230,6 @@ Once the fire is burning, keep it alive with active management.
 - Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
 - Canterbury, Dave. *Bushcraft 101.* Adams Media, 2014.
 - Canterbury, Dave. *Advanced Bushcraft.* Adams Media, 2015.
-- U.S. Army. *FM 21-76 Survival.* Department of the Army, 2002.
-- Wiseman, John. *SAS Survival Handbook.* William Collins, 2014.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - Kochanski, Mors. *Northern Bushcraft.* Lone Pine Publishing, 1988.

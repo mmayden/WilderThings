@@ -338,9 +338,9 @@ If staying more than one night:
 ## Sources
 
 - U.S. Army Field Manual FM 21-76, *Survival* (Department of the Army).
-- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival*. Lone Pine Publishing, 1987.
-- Brown, Tom Jr. *Tom Brown's Field Guide to Wilderness Survival*. Berkley Books, 1983.
-- Canterbury, Dave. *Bushcraft 101*. Adams Media, 2014.
-- Wiseman, John "Lofty." *SAS Survival Handbook*. William Collins, 2014.
-- Lundin, Cody. *98.6 Degrees: The Art of Keeping Your Ass Alive*. Gibbs Smith, 2003.
-- Mears, Raymond. *Essential Bushcraft*. Hodder & Stoughton, 2002.
+- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
+- Brown, Tom Jr. *Tom Brown's Field Guide to Wilderness Survival.* Berkley Books, 1983.
+- Canterbury, Dave. *Bushcraft 101.* Adams Media, 2014.
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
+- Lundin, Cody. *98.6 Degrees: The Art of Keeping Your Ass Alive.* Gibbs Smith, 2003.
+- Mears, Raymond. *Essential Bushcraft.* Hodder & Stoughton, 2002.

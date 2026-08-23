@@ -228,6 +228,6 @@ Post-disaster fires are common. Gas leaks, downed power lines, and damaged chimn
 
 - Federal Emergency Management Agency. *Are You Ready? An In-Depth Guide to Citizen Preparedness.* FEMA, 2004.
 - American Red Cross. *Disaster Preparedness Guide.* redcross.org. Accessed 2025.
-- Wiseman, John "Lofty." *SAS Survival Handbook.* William Collins, 3rd ed., 2014.
-- Rawles, James Wesley. *How to Survive the End of the World as We Know It.* Dutton, 2009.
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
+- Rawles, James Wesley. *How to Survive the End of the World as We Know It.* Plume, 2009.
 - Community Emergency Response Team (CERT). *CERT Basic Training Participant Manual.* FEMA, 2019.

@@ -225,7 +225,7 @@ For chemical, biological, or radiological events:
 
 ## Sources
 
-- Federal Emergency Management Agency (FEMA). *Are You Ready? An In-Depth Guide to Citizen Preparedness.* 2024.
+- Federal Emergency Management Agency. *Are You Ready? An In-Depth Guide to Citizen Preparedness.* FEMA, 2004.
 - American Red Cross. *Home Emergency Preparedness Kit.* redcross.org, 2024.
 - Centers for Disease Control and Prevention (CDC). *Emergency Water Supply Preparation.* 2024.
 - U.S. Department of Energy. *Home Generator Safety.* energy.gov, 2023.

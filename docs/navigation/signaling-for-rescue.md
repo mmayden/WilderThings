@@ -303,10 +303,10 @@ Do not assume the aircraft has seen you on the first pass. Continue signaling th
 
 ## Sources
 
-- U.S. Air Force. *Air Force Handbook 10-644: Survival Evasion Resistance Escape (SERE) Operations*. Department of the Air Force, 2017.
-- U.S. Army. *FM 21-76: Survival*. Department of the Army, 2002.
-- Tawrell, Paul. *Camping & Wilderness Survival*. Paul Tawrell, 2006.
-- Wiseman, John "Lofty". *SAS Survival Handbook*. William Collins, 2014.
-- National Search and Rescue Committee. *National Search and Rescue Supplement to the International Aeronautical and Maritime Search and Rescue Manual*. U.S. Coast Guard, 2000.
-- COSPAS-SARSAT. *System Overview*. cospas-sarsat.int.
-- Stoffel, Robert C. *Emergency Signaling*. U.S. National Park Service publications.
+- U.S. Air Force. *Air Force Handbook 10-644: Survival Evasion Resistance Escape (SERE) Operations.* Department of the Air Force, 2017.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
+- Tawrell, Paul. *Camping & Wilderness Survival.* Paul Tawrell, 2006.
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
+- National Search and Rescue Committee. *National Search and Rescue Supplement to the International Aeronautical and Maritime Search and Rescue Manual.* U.S. Coast Guard, 2000.
+- COSPAS-SARSAT. *System Overview.* cospas-sarsat.int.
+- Stoffel, Robert C. *Emergency Signaling.* U.S. National Park Service publications.

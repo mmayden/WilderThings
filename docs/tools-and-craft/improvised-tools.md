@@ -222,8 +222,8 @@ Hafting attaches a stone, bone, or shell head to a wooden handle. A hafted tool 
 ---
 
 ## Sources
-- Wescott, David. *Primitive Technology: A Book of Earth Skills.* Gibbs Smith, 1999.
+- Wescott, David, ed. *Primitive Technology: A Book of Earth Skills.* Gibbs Smith, 1999.
 - Whittaker, John C. *Flintknapping: Making and Understanding Stone Tools.* University of Texas Press, 1994.
-- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 2014.
+- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
 - Canterbury, Dave. *Bushcraft 101.* Adams Media, 2014.
 - Hellweg, Paul. *Flintknapping: The Art of Making Stone Tools.* Canyon Publishing, 1984.

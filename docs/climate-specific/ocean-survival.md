@@ -254,8 +254,8 @@ Once ashore:
 
 ## Sources
 
-- Wiseman, John "Lofty." *SAS Survival Handbook.* William Collins, 3rd ed., 2014.
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - U.S. Navy. *U.S. Navy Survival Manual (NAVPERS 16083).* Department of the Navy.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
-- Callahan, Steven. *Adrift: Seventy-six Days Lost at Sea.* Houghton Mifflin, 1986.
+- Callahan, Steven. *Adrift: Seventy-Six Days Lost at Sea.* Houghton Mifflin, 1986.
 - Robertson, Dougal. *Survive the Savage Sea.* Praeger, 1973.

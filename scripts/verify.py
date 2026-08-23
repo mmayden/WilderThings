@@ -475,6 +475,62 @@ def check_link_labels(root):
         ok("link labels consistent", "%d guides, one name each" % len(labels))
 
 
+# Skip anything naming a specific article or chapter: many share a container title
+# legitimately, and their page ranges look like years to any naive scan (pp. 2039-2047).
+# The quoted-title test needs three or more words. Excluding every citation with a
+# quote mark also excluded every author with a quoted nickname — John "Lofty"
+# Wiseman among them — which silently skipped the SAS Handbook, one of the works
+# this check was written to catch. Found by negative-testing, not by reading.
+JOURNAL_MARKERS = re.compile(
+    r"\bvol\.|\bpp\.|\bno\.|\bdoi|;\d+\(|\bch\.\s*\d"
+    r"|[\u201c\"][^\u201d\"]*\s\S+\s[^\u201d\"]*[\u201d\"]")
+
+
+def check_citation_consistency(root):
+    """One work, one citation.
+
+    Sources listed a book under two different years or two different publishers in
+    six cases — Kochanski as both 1987 and 2014, FM 21-76 as both 1992 and 2002, the
+    SAS Handbook under two publishers. A source cited two ways is a source nobody
+    checked, and this project's own policy is that every claim must be traceable.
+
+    Journal articles are skipped: many articles share a journal title legitimately,
+    and their page ranges look like years to any naive scan (pp. 2039-2047).
+    """
+    import collections
+    works = collections.defaultdict(dict)
+    for path in _md_files(root):
+        with io.open(path, encoding="utf-8") as f:
+            body = f.read()
+        m = re.search(r"^## Sources\s*$(.*)", body, re.M | re.S)
+        if not m:
+            continue
+        for line in m.group(1).splitlines():
+            line = line.strip()
+            if not line.startswith("- "):
+                continue
+            cite = line[2:].strip()
+            if JOURNAL_MARKERS.search(cite):
+                continue
+            titles = re.findall(r"\*([^*]{6,})\*", cite)
+            if not titles:
+                continue
+            key = re.sub(r"[^a-z0-9]", "", max(titles, key=len).lower())
+            works[key][cite] = os.path.relpath(path, root)
+
+    clashes = []
+    for key, variants in sorted(works.items()):
+        if len(variants) > 1:
+            first = sorted(variants)[0]
+            clashes.append("%s cited %d ways (e.g. %s in %s)"
+                           % (key[:32], len(variants), first[:60], variants[first]))
+    if clashes:
+        fail("the same work cited more than one way",
+             "%d; first: %s" % (len(clashes), clashes[0]))
+    else:
+        ok("citations consistent", "%d works, one citation each" % len(works))
+
+
 def check_content(root):
     check_clinical_sources(root)
     check_source_currency()
@@ -483,6 +539,7 @@ def check_content(root):
     check_recurring_claims(root)
     check_signal_words(root)
     check_link_labels(root)
+    check_citation_consistency(root)
 
 
 

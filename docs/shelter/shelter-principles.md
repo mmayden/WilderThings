@@ -293,12 +293,12 @@ Not every situation calls for shelter construction. Conserve energy when:
 ## Sources
 
 - U.S. Army Field Manual FM 21-76, *Survival* (Department of the Army).
-- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival*. Lone Pine Publishing, 1987.
-- Wiseman, John "Lofty." *SAS Survival Handbook*. William Collins, 2014.
-- Canterbury, Dave. *Bushcraft 101*. Adams Media, 2014.
-- Mears, Raymond. *Essential Bushcraft*. Hodder & Stoughton, 2002.
-- Olsen, Larry Dean. *Outdoor Survival Skills*. Chicago Review Press, 1997.
-- National Outdoor Leadership School (NOLS). *NOLS Wilderness Medicine*. Stackpole Books, 2017.
+- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
+- Canterbury, Dave. *Bushcraft 101.* Adams Media, 2014.
+- Mears, Raymond. *Essential Bushcraft.* Hodder & Stoughton, 2002.
+- Olsen, Larry Dean. *Outdoor Survival Skills.* Chicago Review Press, 1997.
+- National Outdoor Leadership School (NOLS). *NOLS Wilderness Medicine.* Stackpole Books, 2017.
 - National Weather Service, Wind Chill Temperature Index (2001 revision) — the formula
   behind the figures above.
 - Pretorius T et al. "Thermal effects of whole head submersion in cold water."

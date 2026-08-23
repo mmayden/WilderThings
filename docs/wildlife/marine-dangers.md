@@ -216,4 +216,4 @@ are covered where the reader is deciding whether to eat a catch:
 - Australian Resuscitation Council, guideline on jellyfish stings
 - Divers Alert Network (DAN), marine life injuries reference
 - NOAA rip current safety resources
-- Auerbach, Paul S., *Wilderness Medicine*, 7th Edition
+- Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.

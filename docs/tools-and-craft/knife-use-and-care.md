@@ -266,7 +266,7 @@ If you can carry only one piece of gear into the wilderness, carry a quality fix
 ---
 
 ## Sources
-- Mors Kochanski. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 2014.
-- Kephart, Horace. *Camping and Woodcraft.* University of Tennessee Press, 1988 (reprint).
+- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
+- Kephart, Horace. *Camping and Woodcraft.* Macmillan, 1906.
 - Canterbury, Dave. *Bushcraft 101.* Adams Media, 2014.
 - Verhoeven, John D. *Metallurgy of Steel for Bladesmiths & Others Who Heat Treat and Forge Steel.* Iowa State University, 2005.

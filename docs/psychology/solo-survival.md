@@ -243,4 +243,4 @@ In extended solo survival, hygiene is not about health alone — it is about mai
 - Callahan, Steven. *Adrift: Seventy-Six Days Lost at Sea.* Houghton Mifflin, 1986.
 - Knight, Michael Finkel. *The Stranger in the Woods: The Extraordinary Story of the Last True Hermit.* Knopf, 2017.
 - Leach, John. "Give-up-itis revisited: Neuropathology of extremis." *Medical Hypotheses*, vol. 120, 2018.
-- U.S. Army. *FM 21-76: Survival.* Department of the Army, 2002.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.

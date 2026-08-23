@@ -224,7 +224,7 @@ Includes clovers, vetches, wild peas. Identified by butterfly-shaped flowers and
 
 ## Sources
 
-- U.S. Army Survival Manual (FM 21-76), Chapter 9: Survival Use of Plants
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992, ch. 9 (Survival Use of Plants).
 - Peterson Field Guide to Edible Wild Plants (Lee Allen Peterson)
 - Botany in a Day (Thomas J. Elpel) — plant family identification method
 - Edible Wild Plants: A North American Field Guide (Elias & Dykeman)

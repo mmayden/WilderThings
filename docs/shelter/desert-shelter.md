@@ -211,7 +211,7 @@ Evaluate potential shelter sites against these factors:
 
 ## Sources
 
-- Wiseman, John "Lofty." *SAS Survival Handbook.* William Collins, 3rd ed., 2014.
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - Alloway, David. *Desert Survival Skills.* University of Texas Press, 2000.
 - Mears, Ray. *Ray Mears' Outdoor Survival Handbook.* Ebury Press, 2001.

@@ -208,7 +208,7 @@ Repair clothing damage the moment it occurs. Small tears become large failures.
 
 ## Sources
 - Richards, Matt. *Deerskins into Buckskins: How to Tan with Brains, Soap or Eggs.* Backcountry Publishing, 2004.
-- Wescott, David. *Primitive Technology: A Book of Earth Skills.* Gibbs Smith, 1999.
-- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 2014.
+- Wescott, David, ed. *Primitive Technology: A Book of Earth Skills.* Gibbs Smith, 1999.
+- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
 - Stewart, Hilary. *Cedar: Tree of Life to the Northwest Coast Indians.* Douglas & McIntyre, 1984.
-- U.S. Army. *FM 21-76: Survival.* Department of the Army, 2002.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.

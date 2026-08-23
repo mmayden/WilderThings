@@ -344,7 +344,7 @@ Press your thumbnail into the wood surface. If it leaves a clear dent, the wood 
 
 - Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
 - Canterbury, Dave. *Bushcraft 101.* Adams Media, 2014.
-- Hume, Ed. *Primitive Fire: Mastering the Bow Drill.* Self-published, 2016.
+- Hume, Daniel. *Fire Making: The Forgotten Art of Conjuring Flame with Spark, Tinder, and Skill.* The Experiment, 2017.
 - Wescott, David, ed. *Primitive Technology: A Book of Earth Skills.* Gibbs Smith, 1999.
-- U.S. Army. *FM 21-76 Survival.* Department of the Army, 2002.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - McPherson, John and Geri. *Primitive Wilderness Living and Survival Skills.* Prairie Wolf Publishing, 1993.

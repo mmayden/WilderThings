@@ -275,7 +275,7 @@ Some conditions exceed the capability of improvised medicine. Attempting treatme
 - Molan, Peter C. "The Evidence and the Rationale for the Use of Honey as a Wound Dressing." *Wound Practice & Research*, 2011.
 - Shilling, Malcolm et al. "Antimicrobial Effects of Virgin Coconut Oil and its Medium-Chain Fatty Acids." *Journal of Medicinal Food*, 2013.
 - Vlachojannis, Julia et al. "A Systematic Review on the Effectiveness of Willow Bark for Musculoskeletal Pain." *Phytotherapy Research*, 2009.
-- Auerbach, Paul S. *Wilderness Medicine*, 7th Edition. Elsevier, 2017.
+- Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
 - U.S. Army Special Forces Medical Handbook (ST 31-91B).
 - Wilderness Medical Society Practice Guidelines for Basic Wound Management, 2014 (updated 2019).
 - Halcon, Linda and Milisa, Kelly. "Staphylococcus aureus and Wounds: A Review of Tea Tree Oil as a Promising Antimicrobial." *American Journal of Infection Control*, 2004.

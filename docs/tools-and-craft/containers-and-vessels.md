@@ -222,8 +222,8 @@ Pine pitch seals seams, repairs cracks, and waterproofs porous containers.
 ---
 
 ## Sources
-- Wescott, David. *Primitive Technology: A Book of Earth Skills.* Gibbs Smith, 1999.
-- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 2014.
+- Wescott, David, ed. *Primitive Technology: A Book of Earth Skills.* Gibbs Smith, 1999.
+- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
 - Canterbury, Dave. *Advanced Bushcraft.* Adams Media, 2015.
 - Turner, Nancy J. *Plant Technology of First Peoples in British Columbia.* UBC Press, 1998.
 - Watts, Steve. "Bark Containers." *Bulletin of Primitive Technology*, no. 12, 1996.

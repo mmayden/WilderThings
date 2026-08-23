@@ -259,9 +259,9 @@ The full protocol lives in one place — **[Foraging Basics](../food/foraging-ba
 
 - American Association of Poison Control Centers (AAPCC): Annual Report of the National Poison Data System, 2023.
 - Centers for Disease Control and Prevention (CDC): "Poisonous Plants," 2023.
-- Auerbach, Paul S. *Wilderness Medicine*, 7th Edition. Elsevier, 2017.
+- Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
 - Nelson, Lewis S., et al. *Goldfrank's Toxicologic Emergencies*, 11th Edition. McGraw-Hill, 2019.
-- U.S. Army Survival Manual (FM 21-76), Chapter 9: Survival Use of Plants.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992, ch. 9 (Survival Use of Plants).
 - Mabberley, David J. *Mabberley's Plant-Book*, 4th Edition. Cambridge University Press, 2017.
-- Peterson, Lee Allen. *A Field Guide to Edible Wild Plants: Eastern and Central North America*. Houghton Mifflin, 1999.
+- Peterson, Lee Allen. *A Field Guide to Edible Wild Plants: Eastern and Central North America.* Houghton Mifflin, 1999.
 - North American Mycological Association (NAMA): "Mushroom Poisoning Syndromes," 2022.

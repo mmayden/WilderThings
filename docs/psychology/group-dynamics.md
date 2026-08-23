@@ -245,5 +245,5 @@ Children respond to the emotional state of adults more than to the actual danger
 - Gonzales, Laurence. *Deep Survival: Who Lives, Who Dies, and Why.* W.W. Norton, 2003.
 - Sherif, Muzafer. *The Robbers Cave Experiment.* Wesleyan University Press, 1988.
 - Janis, Irving. *Groupthink: Psychological Studies of Policy Decisions and Fiascoes.* Houghton Mifflin, 1982.
-- U.S. Army. *FM 21-76: Survival.* Department of the Army, 2002.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - Grossman, Dave. *On Combat.* Warrior Science Publications, 2004.

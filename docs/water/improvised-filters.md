@@ -215,7 +215,7 @@ Clay-rich soil can be formed into a crude ceramic filter if you have the ability
 ## Sources
 
 - U.S. Army, *FM 21-76 Survival Manual*, Department of the Army, 2002
-- Wiseman, John "Lofty," *SAS Survival Handbook*, revised ed., William Collins, 2014
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - World Health Organization, *Guidelines for Drinking-water Quality*, 4th ed., 2011
 - Centers for Disease Control and Prevention, "Household Water Treatment: Filtration," CDC Global Water, Sanitation & Hygiene, 2020
 - Wilderness Medical Society, *Practice Guidelines for Wilderness Emergency Care*, 5th ed., 2014

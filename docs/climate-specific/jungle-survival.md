@@ -206,7 +206,7 @@ Rivers are the highways of the jungle. When available, river travel is faster an
 
 ## Sources
 
-- Wiseman, John "Lofty." *SAS Survival Handbook.* William Collins, 3rd ed., 2014.
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
 - Souman, J. L., et al. "Walking Straight into Circles." *Current Biology*, vol. 19, no. 18, 2009, pp. 1538-1542. (Basis for the walking-in-circles figure.)

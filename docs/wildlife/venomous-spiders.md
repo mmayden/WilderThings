@@ -271,7 +271,7 @@ False on every count. "Daddy longlegs" refers to harvestmen (not spiders, no ven
 - Swanson, D. L., and Vetter, R. S. "Bites of Brown Recluse Spiders and Suspected Necrotic Arachnidism." *New England Journal of Medicine*, vol. 352, no. 7, 2005, pp. 700–707.
 - Centers for Disease Control and Prevention. "Venomous Spiders." cdc.gov. Accessed 2025.
 - Australian Museum. "Funnel-web Spiders." australian.museum. Accessed 2025.
-- Vetter, R. S. *The Brown Recluse Spider*. Cornell University Press, 2015.
+- Vetter, R. S. *The Brown Recluse Spider.* Cornell University Press, 2015.
 - Dart, R. C., et al. "Treatments for Latrodectism — A Systematic Review on Their
   Clinical Effectiveness." *Toxins* 2017;9(4):148 — the review that retired calcium
   gluconate and methocarbamol.

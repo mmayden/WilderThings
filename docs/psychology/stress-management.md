@@ -273,11 +273,11 @@ Use any available method: scratching bark, arranging stones, marking dirt, or wr
 
 ## Sources
 
-- *FM 21-76: Survival* — US Army, Department of the Army, 1992
-- *Deep Survival: Who Lives, Who Dies, and Why* — Laurence Gonzales, W.W. Norton, 2003
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
+- Gonzales, Laurence. *Deep Survival: Who Lives, Who Dies, and Why.* W.W. Norton, 2003.
 - *Surviving Survival: The Art and Science of Resilience* — Laurence Gonzales, W.W. Norton, 2012
 - *USAF Survival Training (AFPAM 36-2211)* — US Air Force, 2008
 - *On Combat: The Psychology and Physiology of Deadly Conflict* — Dave Grossman, 3rd edition, 2008
 - *SERE (Survival, Evasion, Resistance, Escape) Training Manual* — US Joint Personnel Recovery Agency
-- *SAS Survival Handbook* — John "Lofty" Wiseman, 3rd edition, 2014
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - Grossman, Dave. "On the Psychology of Combat" — lectures on heart rate and performance zones

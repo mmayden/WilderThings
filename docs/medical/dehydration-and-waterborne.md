@@ -294,7 +294,7 @@ Fluids administered rectally are absorbed through the rectal mucosa. This techni
 - Wilderness Medical Society Practice Guidelines for Water Disinfection, 2019.
 - Centers for Disease Control and Prevention (CDC): "Parasites — Giardia," 2023.
 - Centers for Disease Control and Prevention (CDC): "Cholera — Vibrio cholerae Infection," 2023.
-- Auerbach, Paul S. *Wilderness Medicine*, 7th Edition. Elsevier, 2017.
+- Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
 - Sanford Guide to Antimicrobial Therapy, 2024.
 - U.S. Army Center for Health Promotion and Preventive Medicine: "Water Purification in the Field," Technical Guide 297.
 - Backer, Howard D. "Water Disinfection for International and Wilderness Travelers." *Clinical Infectious Diseases*, 2002.

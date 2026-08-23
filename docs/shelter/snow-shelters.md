@@ -217,7 +217,7 @@ Remove wet outer layers before entering the shelter. Brush off all snow from clo
 ## Sources
 
 - Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
-- Wiseman, John "Lofty." *SAS Survival Handbook.* William Collins, 3rd ed., 2014.
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - Mears, Ray. *Ray Mears' Outdoor Survival Handbook.* Ebury Press, 2001.
 - Fredston, Jill and Fesler, Doug. *Snow Sense: A Guide to Evaluating Snow Avalanche Hazard.* Alaska Mountain Safety Center, 5th ed., 2011.

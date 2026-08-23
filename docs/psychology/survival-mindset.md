@@ -296,12 +296,12 @@ The sole survivor of LANSA Flight 508, Koepcke fell 10,000 ft / 3,048 m into the
 
 ## Sources
 
-- Leach, John. *Survival Psychology*. Palgrave Macmillan, 1994.
-- Gonzales, Laurence. *Deep Survival: Who Lives, Who Dies, and Why*. W.W. Norton, 2003.
-- Frankl, Viktor. *Man's Search for Meaning*. Beacon Press, 1946.
-- Callahan, Steven. *Adrift: Seventy-Six Days Lost at Sea*. Houghton Mifflin, 1986.
-- Ralston, Aron. *Between a Rock and a Hard Place*. Atria Books, 2004.
-- Koepcke, Juliane. *When I Fell From the Sky*. Titletown Publishing, 2011.
-- Grossman, Dave. *On Combat: The Psychology and Physiology of Deadly Conflict in War and Peace*. Warrior Science Publications, 2004.
-- U.S. Army. *FM 21-76: Survival*. Department of the Army, 2002.
+- Leach, John. *Survival Psychology.* Palgrave Macmillan, 1994.
+- Gonzales, Laurence. *Deep Survival: Who Lives, Who Dies, and Why.* W.W. Norton, 2003.
+- Frankl, Viktor. *Man's Search for Meaning.* Beacon Press, 1946.
+- Callahan, Steven. *Adrift: Seventy-Six Days Lost at Sea.* Houghton Mifflin, 1986.
+- Ralston, Aron. *Between a Rock and a Hard Place.* Atria Books, 2004.
+- Koepcke, Juliane. *When I Fell From the Sky.* Titletown Publishing, 2011.
+- Grossman, Dave. *On Combat: The Psychology and Physiology of Deadly Conflict in War and Peace.* Warrior Science Publications, 2004.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - Leach, John. "Give-up-itis revisited: Neuropathology of extremis." *Medical Hypotheses*, vol. 120, 2018, pp. 14-21.

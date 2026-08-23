@@ -242,8 +242,8 @@ If the downstream assessment is unfavorable, walk upstream until you find a cros
 
 ## Sources
 - Bechdel, Les, and Slim Ray. *River Rescue.* Appalachian Mountain Club Books, 1997.
-- Wiseman, John "Lofty." *SAS Survival Handbook.* William Morrow, 2014.
-- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 2014.
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
+- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
 - Golden, Frank, and Michael Tipton. *Essentials of Sea Survival.* Human Kinetics, 2002.
-- U.S. Army. *FM 21-76: Survival.* Department of the Army, 2002.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - American Canoe Association. *River Safety Anthology.* Menasha Ridge Press, 2003.

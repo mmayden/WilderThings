@@ -317,6 +317,6 @@ If your injuries limit you to only a few actions, prioritize in this order:
 ## Sources
 - Auerbach, Paul S. *Medicine for the Outdoors.* Elsevier, 2016.
 - Tilton, Buck. *Wilderness First Responder.* Falcon Guides, 2010.
-- Tactical Combat Casualty Care (TCCC) Guidelines. Committee on Tactical Combat Casualty Care, 2023.
+- Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, 2023.
 - Forgey, William W. *Wilderness Medicine: Beyond First Aid.* Falcon Guides, 2017.
-- Gonzales, Laurence. *Deep Survival: Who Lives, Who Dies, and Why.* W.W. Norton, 2004.
+- Gonzales, Laurence. *Deep Survival: Who Lives, Who Dies, and Why.* W.W. Norton, 2003.

@@ -199,5 +199,5 @@ Every vehicle should carry these items year-round, regardless of climate or vehi
 - American Automobile Association (AAA). *Emergency Car Kit Checklist.* 2024.
 - Federal Emergency Management Agency (FEMA). *Vehicle Emergency Supply Kit.* Ready.gov, 2024.
 - National Highway Traffic Safety Administration (NHTSA). *Winter Driving Tips.* 2024.
-- Wiseman, John "Lofty." *SAS Survival Handbook.* William Collins, 2014.
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - American Red Cross. *Car Emergency Kit.* redcross.org, 2024.

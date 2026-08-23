@@ -341,7 +341,7 @@ Rapid compression of air in a sealed cylinder generates extreme heat — the sam
 - Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
 - Canterbury, Dave. *Bushcraft 101.* Adams Media, 2014.
 - Wescott, David, ed. *Primitive Technology: A Book of Earth Skills.* Gibbs Smith, 1999.
-- U.S. Army. *FM 21-76 Survival.* Department of the Army, 2002.
-- Wiseman, John. *SAS Survival Handbook.* William Collins, 2014.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - Petroski, Henry. *The Evolution of Useful Things.* Vintage, 1994.
 - Baer, Daniel. "Ferrocerium: History and Metallurgy." *Journal of Chemical Education* 72, no. 12 (1995).

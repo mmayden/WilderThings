@@ -319,8 +319,8 @@ Each inner strand can itself be unbraided into two thinner fibers. This gives yo
 ---
 
 ## Sources
-- Mors Kochanski. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 2014.
-- Watts, Steve, and David Wescott. *Primitive Technology: A Book of Earth Skills.* Gibbs Smith, 1999.
+- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
+- Wescott, David, ed. *Primitive Technology: A Book of Earth Skills.* Gibbs Smith, 1999.
 - Crellin, Dawn, and Dennis Crellin. *Twist It: Making Cordage (Rope) from Natural Fibers.* Backcountry Publishing, 2012.
 - Canterbury, Dave. *Advanced Bushcraft.* Adams Media, 2015.
 - Turner, Nancy J. *Plant Technology of First Peoples in British Columbia.* UBC Press, 1998.

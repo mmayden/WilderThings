@@ -276,9 +276,9 @@ If trapped and unable to evacuate:
 ---
 
 ## Sources
-- Federal Emergency Management Agency (FEMA). *Are You Ready? An In-Depth Guide to Citizen Preparedness.* 2004.
+- Federal Emergency Management Agency. *Are You Ready? An In-Depth Guide to Citizen Preparedness.* FEMA, 2004.
 - National Weather Service. "Tornado Safety." *weather.gov*, 2023.
 - U.S. Geological Survey. "Earthquake Hazards Program." *earthquake.usgs.gov*, 2023.
 - National Oceanic and Atmospheric Administration. "Tsunami Safety." *tsunami.noaa.gov*, 2023.
 - California Department of Forestry and Fire Protection (CAL FIRE). "Ready, Set, Go! Wildfire Action Plan." 2022.
-- Wiseman, John "Lofty." *SAS Survival Handbook.* William Morrow, 2014.
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.

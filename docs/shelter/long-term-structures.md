@@ -220,8 +220,8 @@ Organize the interior for efficiency and safety.
 
 ## Sources
 
-- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 2014.
+- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
 - Canterbury, Dave. *Bushcraft 101: A Field Guide to the Art of Wilderness Survival.* Adams Media, 2014.
-- Wiseman, John. *SAS Survival Handbook.* William Morrow Paperbacks, 2014.
-- US Army. *FM 21-76: Survival.* Department of the Army, 2002.
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - Olsen, Larry Dean. *Outdoor Survival Skills.* Chicago Review Press, 1997.

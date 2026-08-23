@@ -304,10 +304,10 @@ Two or more body systems involved after a known exposure = anaphylaxis. Act imme
 ## Sources
 
 - Wilderness Medical Society Practice Guidelines for the Treatment of Pitviper Envenomation, 2011 (updated 2020).
-- Tactical Combat Casualty Care (TCCC) Guidelines, Joint Trauma System, 2023.
+- Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, 2023.
 - American Heart Association / American Red Cross First Aid Guidelines, 2020.
 - UpToDate: "Anaphylaxis: Emergency Treatment," 2024.
-- Auerbach, Paul S. *Wilderness Medicine*, 7th Edition. Elsevier, 2017.
+- Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
 - Centers for Disease Control and Prevention (CDC): "Tick Removal and Testing," 2023.
 - Wilderness Medical Society Practice Guidelines for the Prevention and Treatment of Tick-Borne Disease, 2019.
 - Australian Resuscitation Council Guideline 9.4.1 — Envenomation: Bites and Stings, 2021.

@@ -316,8 +316,8 @@ Melting snow without fire costs significant body heat and calories. Calculate th
 ## Sources
 
 - U.S. Army Field Manual FM 21-76, *Survival* (Department of the Army).
-- Mears, Raymond. *Essential Bushcraft*. Hodder & Stoughton, 2002.
-- Wiseman, John "Lofty." *SAS Survival Handbook*. William Collins, 2014.
-- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival*. Lone Pine Publishing, 1987.
-- Canterbury, Dave. *Bushcraft 101*. Adams Media, 2014.
+- Mears, Raymond. *Essential Bushcraft.* Hodder & Stoughton, 2002.
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
+- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
+- Canterbury, Dave. *Bushcraft 101.* Adams Media, 2014.
 - Gregory, Joy. *Water in the Wilderness.* Wilderness Medicine Society Practice Guidelines, 2019.
