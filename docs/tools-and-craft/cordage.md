@@ -180,7 +180,7 @@ Never trust cordage for a critical application without testing.
 ### Knot Test
 1. Tie a simple overhand knot in the cordage and pull tight.
 2. If it breaks at the knot, the fibers are too brittle or the twist is too loose.
-3. Knots reduce cordage strength by 40-50%, same as with commercial rope (see [Knots and Lashing](knots-and-lashing.md)).
+3. Expect an overhand knot to cost roughly 40-50% of the strength — it is the worst of the common knots for this. Across knots generally the loss is 20-50%, so choose the strongest knot a task allows (see [Knots and Lashing](knots-and-lashing.md)).
 
 ### Bend Test
 1. Bend the cordage sharply at a 90-degree angle.

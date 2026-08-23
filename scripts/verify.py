@@ -231,6 +231,7 @@ RECURRING_CLAIMS = {
     # Added after each was found disagreeing across guides during the audit.
     "signal mirror range (mi)":   r"signal mirror[^.]{0,80}?(\d+)\s*miles",
     "snow-to-water ratio":        r"(\d+):1\s*snow-to-water|snow-to-water ratio: approximately (\d+):1",
+    "knot strength loss (range)": r"(?:knots?|knot) reduces? (?:rope|cordage) strength by (\d+)-(\d+)\s*%",
 }
 
 # A pattern that matches nothing is worse than no pattern: it reports PASS and

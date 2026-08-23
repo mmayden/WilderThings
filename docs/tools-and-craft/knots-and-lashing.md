@@ -12,7 +12,7 @@ tags:
 
 ## At a Glance
 - Learn the bowline first — it is the single most useful rescue and utility knot.
-- Every knot reduces rope strength by 20-50%. Choose the strongest knot the task allows.
+- Every knot reduces rope strength by 20-50% — a figure-eight costs about 20-25%, a bowline about 30%, a plain overhand closer to 50%. Choose the strongest knot the task allows.
 - A knot that cannot be untied when needed is the wrong knot.
 - Square lashing and diagonal lashing together can build any shelter frame.
 - Inspect rope and cordage before every load-bearing use.
