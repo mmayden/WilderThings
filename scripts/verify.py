@@ -14,6 +14,8 @@ Exits non-zero on any failure.
 
 import argparse
 import collections
+import datetime
+import glob
 import os
 import re
 import sys
@@ -354,10 +356,98 @@ def check_signal_words(root):
 
 
 def check_content(root):
+    check_clinical_sources(root)
+    check_source_currency()
     check_unit_conversions(root)
     check_temperature_conversions(root)
     check_recurring_claims(root)
     check_signal_words(root)
+
+
+
+# ---------------------------------------------------------------------------
+# Source currency. "Is it current?" only happens if something makes someone
+# look. AGREE II rates the updating procedure as the strongest predictor of
+# guideline quality, and this project previously had none — four withdrawn
+# techniques sat in the text, one withdrawn in 2008.
+# ---------------------------------------------------------------------------
+
+# Bodies that publish living clinical guidance. A guide covering a clinical
+# topic should cite at least one, or it is working from textbooks and tradition.
+CLINICAL_BODIES = [
+    (r"\bWilderness Medical Society\b", False), (r"\bWMS\b", True),
+    (r"\bTCCC\b", True), (r"\bILCOR\b", True), (r"\bATLS\b", True),
+    (r"\bPHTLS\b", True), (r"\bANZCOR\b", True), (r"\bNAEMSP\b", True),
+    (r"\bCDC\b", True), (r"\bAmerican Heart Association\b", False),
+    (r"\bRed Cross\b", False), (r"\bCenters for Disease Control\b", False),
+    (r"\bAustralian Resuscitation Council\b", False),
+    (r"\bAmerican College of Surgeons\b", False),
+    (r"\bSurviving Sepsis\b", False), (r"\bUpToDate\b", False),
+    (r"\bSanford Guide\b", False),
+]
+
+# Clinical topics that live outside docs/medical/. Listed explicitly rather than
+# guessed: a heuristic over the whole corpus produced 20 flags, nearly all false
+# (bear-safety citing the National Park Service is correct, not a gap).
+CLINICAL_ELSEWHERE = [
+    "climate-specific/mountain-survival.md",   # altitude illness — WMS topic
+    "climate-specific/arctic-survival.md",     # hypothermia, frostbite — WMS topics
+    "wildlife/marine-dangers.md",
+    "wildlife/insect-threats.md",
+    "wildlife/venomous-snakes.md",
+    "wildlife/venomous-spiders.md",
+]
+
+STALE_AFTER_DAYS = 400  # annual cadence, with grace
+
+
+def _cites_clinical_body(text):
+    return any(re.search(pat, text, 0 if cs else re.I) for pat, cs in CLINICAL_BODIES)
+
+
+def check_clinical_sources(root):
+    """Clinical guides must cite a body that revises, not only textbooks."""
+    targets = sorted(glob.glob(os.path.join(root, "medical", "*.md")))
+    targets += [os.path.join(root, rel) for rel in CLINICAL_ELSEWHERE]
+    missing = []
+    for path in targets:
+        if not os.path.exists(path):
+            continue
+        m = re.search(r"^## Sources\s*$(.*)", open(path, encoding="utf-8").read(), re.M | re.S)
+        if not m or not _cites_clinical_body(m.group(1)):
+            missing.append(os.path.relpath(path, root))
+    if missing:
+        fail("clinical guides citing no living guideline body",
+             f"{len(missing)}: {', '.join(missing)}")
+    else:
+        ok("clinical guides cite a living body", f"{len(targets)} checked")
+
+
+def check_source_currency(tasks_path="TASKS.md"):
+    """Living sources get re-checked annually; the dates live in TASKS.md."""
+    if not os.path.exists(tasks_path):
+        return
+    text = open(tasks_path, encoding="utf-8").read()
+    block = re.search(r"<!-- source-currency -->(.*?)<!-- /source-currency -->", text, re.S)
+    if not block:
+        return
+    rows = re.findall(r"\|\s*([^|]+?)\s*\|\s*(\d{4}-\d{2}-\d{2})\s*\|", block.group(1))
+    if not rows:
+        fail("source currency", "no dated rows found in the source-currency block")
+        return
+    today = datetime.date.today()
+    overdue = []
+    for name, datestr in rows:
+        age = (today - datetime.date.fromisoformat(datestr)).days
+        if age > STALE_AFTER_DAYS:
+            overdue.append(f"{name} ({age} days)")
+    if overdue:
+        fail("living sources overdue for re-check",
+             f"{len(overdue)} of {len(rows)}: {'; '.join(overdue)}. "
+             f"Re-check each against its publisher, then update the date in TASKS.md")
+    else:
+        oldest = max((today - datetime.date.fromisoformat(d)).days for _, d in rows)
+        ok("living sources current", f"{len(rows)} tracked, oldest checked {oldest} days ago")
 
 
 def main():

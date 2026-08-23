@@ -70,6 +70,15 @@ The MARCH mnemonic reorders traditional ABCDE to prioritize the leading cause of
 4. Insert a nasopharyngeal airway (NPA) if available — lubricate and insert into one nostril with the bevel toward the septum. Size: measure from the nostril to the earlobe.
 5. Insert an oropharyngeal airway (OPA) if the patient has no gag reflex. Size: measure from the corner of the mouth to the earlobe.
 
+!!! danger "Beyond wilderness first aid scope"
+    Steps 4 and 5 are **outside Wilderness First Aid scope**. Invasive and mechanical
+    airway adjuncts require provider-level training.
+
+    An OPA placed in someone with a gag reflex causes vomiting and aspiration. An NPA
+    forced against resistance, or placed with a basilar skull fracture, can do severe
+    damage. Untrained, the effective airway skills are jaw thrust, recovery position,
+    and clearing what you can see — those are in scope and they work.
+
 !!! danger "WARNING"
     Do not insert an NPA if there is suspected mid-face or basilar skull fracture (raccoon eyes, Battle's sign behind the ear, CSF leaking from the nose or ears). Use an OPA instead.
 
@@ -99,7 +108,17 @@ Expose the chest and assess breathing:
   - Hyperresonance (hollow, drum-like sound) when tapping the affected side.
   - Subcutaneous emphysema spreading from the chest.
 
-  **Field treatment — needle decompression:**
+!!! danger "Beyond wilderness first aid scope"
+      This procedure is outside Wilderness First Aid scope and requires provider-level
+      training. It is described here so you can **recognize the problem, understand what
+      a provider will do, and make the evacuation decision** — not so you can perform it.
+  
+      Attempting it untrained is more likely to kill the patient than the condition is.
+      A needle placed wrong punctures the lung, an intercostal vessel, or — at the
+      5th intercostal space — the heart or liver. An unnecessary decompression
+      creates the pneumothorax it was meant to treat.
+  
+  **Field treatment — needle decompression (provider-level, for recognition):**
   1. Locate the 2nd intercostal space at the mid-clavicular line (two finger-widths below the collarbone, at the midpoint of the collarbone) on the affected side. Alternative: 5th intercostal space at the anterior axillary line (nipple level, at the front of the armpit).
   2. Insert a 14-gauge needle (at least 3.25 inches / 8 cm long for adults) perpendicular to the chest wall, just above the top of the 3rd rib (to avoid the neurovascular bundle that runs beneath each rib).
   3. A rush of air confirms the diagnosis.
@@ -108,7 +127,9 @@ Expose the chest and assess breathing:
   6. This is a temporizing measure — definitive treatment requires a chest tube.
 
 !!! danger "WARNING"
-    Needle decompression is a life-saving but invasive procedure. Perform it only when you are confident in the diagnosis and the patient is deteriorating. An incorrect diagnosis results in an iatrogenic pneumothorax.
+    Confidence in the diagnosis is **not** the gate — competence is. Panic manufactures certainty, and someone watching a friend struggle to breathe can be entirely certain and entirely unqualified.
+
+    If you are not trained to do this, the correct actions are: seal any open chest wound, position the patient for easiest breathing, and evacuate as fast as possible. Recognizing tension pneumothorax and calling it in is genuinely useful. Attempting the needle is not.
 
 - **Flail chest:** Three or more adjacent ribs broken in two or more places, creating a free-floating segment that moves paradoxically (inward during inhalation).
   1. Support the flail segment with a hand or a light bulky dressing held loosely in place. Positioning the patient injured-side-down can splint the segment if no spinal injury is suspected and breathing improves.

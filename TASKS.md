@@ -138,6 +138,34 @@ wilderness-medicine standards, plus mechanical checks across all 89.
 
 ---
 
+## Source Currency
+
+These bodies revise on cycles, so a citation to any of them is a citation to an
+edition. Re-check each against its publisher annually and update the date below.
+`scripts/verify.py --content docs` fails once a row passes 400 days.
+
+<!-- source-currency -->
+
+| Source | Last verified | Revises |
+|---|---|---|
+| TCCC / Joint Trauma System | 2026-08-23 | ~annually |
+| Wilderness Medical Society practice guidelines | 2026-08-23 | ~5 yr per topic |
+| AHA / ILCOR / Red Cross first aid | 2026-08-23 | ~5 yr + focused updates |
+| ATLS (American College of Surgeons) | 2026-08-23 | by edition |
+| PHTLS (NAEMT) | 2026-08-23 | by edition |
+| ANZCOR guidelines | 2026-08-23 | rolling |
+| CDC (tick-borne, waterborne, botulism) | 2026-08-23 | without announcement |
+| NWS / NOAA (lightning, wind chill, rip currents) | 2026-08-23 | without announcement |
+
+<!-- /source-currency -->
+
+**What "verified" means here:** someone checked whether the body has published a
+newer edition than the one cited, and if so ran check 2 (is it current?) against
+the guides citing it. It does not mean every claim was re-read.
+
+
+---
+
 ## Completed
 
 <details>

@@ -92,6 +92,15 @@ If pre-mixed ORS packets are available, follow packet instructions.
 !!! danger "WARNING"
     Rectal fluid administration is an emergency technique only. It carries infection risk and should be used only when oral rehydration has failed and evacuation is delayed. Subcutaneous infusion (hypodermoclysis) requires sterile equipment and training and is not a field-improvisable technique — do not attempt it.
 
+!!! danger "Beyond wilderness first aid scope"
+    Proctoclysis is a provider-level technique, described here for recognition and for
+    genuinely prolonged evacuations under medical direction — not as a routine field
+    option. Too-fast administration causes cramping and expulsion; unclean equipment
+    causes serious infection.
+
+    In almost every survival scenario the in-scope answer is small, frequent sips of
+    ORS — 1 tablespoon every 1-2 minutes if the patient is vomiting — and evacuation.
+
 **Rectal Rehydration (Proctoclysis):**
 
 Fluids administered rectally are absorbed through the rectal mucosa. This technique works when the patient cannot keep oral fluids down.

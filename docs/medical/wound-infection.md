@@ -153,6 +153,16 @@ Begin oral antibiotics if available and infection signs are worsening despite lo
 
 An abscess is a walled-off pocket of pus. Antibiotics alone cannot clear it — the pus must be drained.
 
+!!! danger "Beyond wilderness first aid scope"
+    Incision and drainage is outside Wilderness First Aid scope and requires
+    provider-level training. It is described here so you can **recognize an abscess,
+    understand why antibiotics alone will not clear it, and judge the urgency of
+    evacuation** — not so you can cut into one.
+
+    Cutting blind into swelling risks opening a vessel, a nerve, or a joint capsule,
+    and turns a contained infection into a spreading one. Warm soaks and evacuation
+    are the in-scope response.
+
 !!! danger "WARNING"
     Do not attempt to drain abscesses near major blood vessels (neck, groin, armpit), near the eyes, or on the face unless you have surgical training. Evacuate.
 

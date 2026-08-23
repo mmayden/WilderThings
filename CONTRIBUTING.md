@@ -204,6 +204,81 @@ whether to risk something deserves to know which one they are holding.
 
 ---
 
+### Scope of practice: separate "recognize" from "perform"
+
+Some procedures in this collection are outside what an untrained person should
+attempt. Teaching them is still correct — a reader needs to recognize a tension
+pneumothorax to make an evacuation decision — but teaching them *without saying
+who may perform them* is not.
+
+NOLS and the Wilderness Medical Society publish Scope of Practice documents for
+Wilderness First Aid and Wilderness First Responder. Needle decompression,
+invasive airway adjuncts, and releasing a tourniquet in the field are explicitly
+**excluded** from WFA scope.
+
+Mark every procedure at one of three levels:
+
+| Level | Meaning | Examples |
+|---|---|---|
+| **Anyone** | No training gate. Do it | Direct pressure, wound packing, applying a tourniquet, CPR, epinephrine auto-injector, splinting, hypothermia wrap |
+| **Trained** | Requires hands-on certification and practice | Suturing, shoulder reduction, improvised traction splint |
+| **Beyond wilderness first aid** | Provider-level. Here so you can **recognize** it, not perform it | Needle decompression, NPA/OPA insertion, abscess incision and drainage, rectal rehydration |
+
+For anything in the third row, use this block verbatim so readers learn the
+pattern and can spot it at a glance:
+
+```markdown
+!!! danger "Beyond wilderness first aid scope"
+    This procedure is outside Wilderness First Aid scope and requires provider-level
+    training. It is described here so you can **recognize the problem, understand
+    what a provider will do, and make the evacuation decision** — not so you can
+    perform it.
+
+    Attempting it untrained is more likely to kill the patient than the condition is.
+    [what specifically goes wrong]
+```
+
+**Why the wording matters.** "Only if you are confident" is the wrong gate: it
+asks about *certainty*, not *competence*, and panic manufactures certainty.
+Someone watching a friend struggle to breathe can be entirely certain and
+entirely unqualified. Gate on training, and name the specific harm.
+
+**Check the gating is not inverted.** Before this standard existed, suturing
+(worst case: an infected wound) was gated with "use only if trained" while
+needle decompression (worst case: you puncture the heart) said only "be
+confident in the diagnosis."
+
+---
+
+### Keeping sources current
+
+"Is it current?" is a check you run when you happen to be looking at a page.
+This is what makes someone look. Without it, withdrawn guidance sits in the text
+for years — this audit found four such techniques, one withdrawn in 2008.
+
+**These bodies revise on cycles.** A citation to any of them is a citation to an
+edition, and editions expire:
+
+| Source | Revises |
+|---|---|
+| TCCC / Joint Trauma System | Roughly annually |
+| AHA / ILCOR / Red Cross first aid | ~5 years, with focused updates between |
+| Wilderness Medical Society practice guidelines | ~5 years per topic |
+| ATLS, PHTLS | By edition |
+| CDC, NWS, ANSI | Without announcement |
+
+**Cadence.** Re-check the list above once a year and record the date in
+TASKS.md. This is a check of roughly eight sources, not a re-read of 89 guides.
+When a source has been revised, run check 2 (is it current?) against the guides
+that cite it.
+
+**Automated backstop.** `scripts/verify.py --content docs` flags any life-safety
+guide whose newest cited source is older than the staleness threshold. It caught
+that the altitude guide's newest clinical source was a 2001 paper while WMS had
+published altitude guidelines in 2019 and again in 2024.
+
+---
+
 ### Signal words: use ANSI Z535 severity
 
 The project's admonitions are safety labels, and there is a standard for those.
