@@ -112,12 +112,17 @@ Line a pit with plastic sheeting for larger-volume ground-level storage — up t
 
 Use regular, unscented household bleach containing 5.25–8.25% sodium hypochlorite.
 
-| Water Volume | Bleach (5.25%) | Bleach (8.25%) | Wait Time |
+| Water Volume | Bleach (5.25–6%) | Bleach (8.25%) | Wait Time |
 |---|---|---|---|
 | 1 quart (1 L) | 2 drops | 2 drops | 30 min |
 | 1 gallon (3.8 L) | 8 drops (1/8 tsp) | 6 drops | 30 min |
-| 5 gallons (19 L) | 40 drops (1/2 tsp) | 30 drops (3/8 tsp) | 30 min |
-| 55 gallons (208 L) | 1 tablespoon | 2.5 teaspoons | 30 min |
+| 5 gallons (19 L) | 40 drops (5/8 tsp) | 30 drops (1/2 tsp) | 30 min |
+| 55 gallons (208 L) | 2 1/4 tablespoons | 1 3/4 tablespoons | 30 min |
+
+All rows scale from 8 drops per gallon at 5.25–6%, or 6 drops at 8.25%, using the
+standard equivalence of 8 drops to 1/8 teaspoon. This table matches the canonical one in
+[Water Purification](purification.md#household-bleach-sodium-hypochlorite) — if the two
+ever disagree, that one is correct.
 
 After 30 minutes, the water should have a faint chlorine smell. If not, repeat the dose and wait another 30 minutes.
 
@@ -192,7 +197,13 @@ For extended survival or planned routes, cache water at strategic points.
 In cold climates, frozen water is abundant but requires energy to convert to liquid.
 
 - Pack clean snow into containers and melt near (not over) a fire. Direct heat scorches the container bottom before the snow melts, producing a burnt taste.
-- Collect ice from frozen lakes or streams. Ice yields more water per volume than snow — roughly 3:1 advantage. One gallon of ice yields about 0.9 gallons (3.4 liters) of water. One gallon of snow yields about 0.3 gallons (1.1 liters).
+- Collect ice from frozen lakes or streams in preference to scooping snow. Fresh snow is
+  mostly air — a **10:1 snow-to-water ratio** is the working figure, so a gallon of snow
+  yields roughly 0.1 gallons (0.4 L). Ice is nearly solid water: a gallon yields about
+  0.9 gallons (3.4 L). Ice therefore returns close to **9x** more water for the same
+  volume of container, fuel, and time.
+- Dense, settled, or wind-packed snow does better than fresh powder — closer to 4:1 or
+  5:1 — but never approaches ice. If both are available, chip ice.
 - Store snowmelt as liquid, not as snow. Snow insulates itself and does not melt efficiently in bulk.
 
 !!! warning "CAUTION"
@@ -228,15 +239,18 @@ Water loss through evaporation is significant in arid and hot environments.
 
 ## See Also
 
-- [Finding Water in the Wild](finding-water.md)
-- [Water Purification](purification.md)
-- [Improvised Filters](improvised-filters.md)
+- [Finding Water in the Wild](finding-water.md) — locating and collecting water to store.
+- [Water Purification](purification.md) — the canonical bleach table and what chemical treatment cannot kill.
+- [Improvised Filters](improvised-filters.md) — clearing turbidity before treating and storing.
 - [Containers and Vessels](../tools-and-craft/containers-and-vessels.md) — crafting storage vessels from natural materials.
 - [Home Preparedness](../preparedness/home-preparedness.md) — long-term household water storage planning.
 
 ## Sources
 
-- U.S. Army, *FM 21-76 Survival Manual*, Department of the Army, 2002
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
+- U.S. Environmental Protection Agency, "Emergency Disinfection of Drinking Water" (epa.gov).
+- Centers for Disease Control and Prevention, "How to Make Water Safe in an Emergency" (cdc.gov).
+- Federal Emergency Management Agency. *Are You Ready? An In-Depth Guide to Citizen Preparedness.* FEMA, 2004.
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - World Health Organization, *Guidelines for Drinking-water Quality*, 4th ed., 2011
 - Centers for Disease Control and Prevention, "Making Water Safe in an Emergency," 2021

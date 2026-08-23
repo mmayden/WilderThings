@@ -282,6 +282,11 @@ RECURRING_CLAIMS = {
     # exactly like a content disagreement until the matches were printed.
     "bleach drops per gallon at 6%":    r"(\d+)\s*drops?[^%.\n|]{0,30}?6%",
     "bleach drops per gallon at 8.25%": r"(\d+)\s*drops?[^%.\n|]{0,30}?8\.25%",
+    # The 5-gallon row disagreed between purification.md and water-storage.md on the
+    # teaspoon equivalent, and water-storage's 55-gallon row did not scale from its own
+    # 5-gallon row. Table rows are the easiest place for arithmetic to rot unnoticed.
+    "bleach 5 gallon, 6%":        r"5 gallons[^|\n]*\|\s*(\d+) drops \(([\d/]+) tsp\)",
+    "bleach 5 gallon, 8.25%":     r"5 gallons[^|\n]*\|[^|\n]*\|\s*(\d+) drops \(([\d/]+) tsp\)",
 }
 
 # A pattern that matches nothing is worse than no pattern: it reports PASS and
