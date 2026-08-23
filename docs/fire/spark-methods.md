@@ -234,7 +234,7 @@ A convex lens concentrates parallel rays of sunlight into a small focal point. A
 
 ### How It Works
 
-Rapid compression of air in a sealed cylinder generates extreme heat — the same principle as a diesel engine. A small piece of char cloth or tinder fungus placed in a recess at the tip of the piston ignites from the heat of compression. The air in the cylinder reaches approximately 500 F (260 C) in the fraction of a second during the compression stroke.
+Rapid compression of air in a sealed cylinder generates extreme heat — the same principle as a diesel engine. A small piece of char cloth or tinder fungus placed in a recess at the tip of the piston ignites from the heat of compression. The air in the cylinder reaches approximately 500°F (260°C) in the fraction of a second during the compression stroke.
 
 ### Construction
 

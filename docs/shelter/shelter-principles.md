@@ -42,7 +42,10 @@ Dead air space trapped in fibrous material is the primary insulator. The ground,
 
 ### 3. Wind Protection
 
-Wind strips heat from your body through convection. Even mild wind at 10 mph (16 km/h) at 40 F (4 C) creates an effective temperature of 28 F (-2 C). Orient the shelter opening away from prevailing wind. Use natural windbreaks (fallen trees, rock walls, dense vegetation).
+Wind strips heat from your body through convection. A 10 mph (16 km/h) wind makes 40°F
+(4°C) feel like 34°F (1°C) — and the effect grows sharply as the air gets colder: the
+same wind at 20°F (-7°C) feels like 9°F (-13°C). Orient the shelter opening away from
+prevailing wind. Use natural windbreaks (fallen trees, rock walls, dense vegetation).
 
 ### 4. Waterproofing
 
@@ -158,7 +161,10 @@ Your body is the primary heat source inside a shelter. All shelter design revolv
 
 ### Practical Measures
 
-- **Wear a hat** — 10–15% of body heat is lost through the head.
+- **Wear a hat** — the head is only about 10% of your body surface and loses heat
+  roughly in proportion to that, not the 40–45% older manuals claim. Cover it anyway:
+  it is usually the one part left bare, and the body defends the scalp's blood supply
+  rather than shutting it down the way it does the hands and feet.
 - **Insulate extremities** — stuff dry grass or leaves into boots and gloves.
 - **Stay dry** — remove wet clothing before entering the shelter. Hang wet items to dry if possible.
 - **Eat before sleeping** — digestion generates heat. Fats and proteins produce more sustained warmth than carbohydrates.
@@ -208,7 +214,7 @@ In hot environments, shelter serves the opposite function: blocking heat and pro
 ### Principles
 
 - **Shade is shelter.** Block direct solar radiation as the first priority.
-- **Elevate your shelter** — the ground surface in desert sun can exceed 150 F (65 C). Raise your sleeping/resting surface at least 12–18 inches (30–45 cm) off the ground.
+- **Elevate your shelter** — the ground surface in desert sun can exceed 150°F (65°C). Raise your sleeping/resting surface at least 12–18 inches (30–45 cm) off the ground.
 - **Ventilate** — allow air to flow through. Open-sided shelters work better than enclosed ones in heat.
 - **Double-layer roof** — two layers of material with an air gap between them reduce heat transfer significantly compared to a single layer.
 - **Avoid activity during midday** — rest in shade from 10 AM to 4 PM. Work and travel during cooler hours.
@@ -227,7 +233,10 @@ In hot environments, shelter serves the opposite function: blocking heat and pro
 - Keep the entrance small and consider a door plug of stuffed debris.
 - Build a fire reflector wall from green logs or stacked rocks to redirect radiant heat toward the shelter opening.
 - If using fire near a shelter, maintain adequate clearance — at least 6 feet (1.8 m) from combustible materials.
-- In snow, a quinzhee or snow cave offers excellent insulation (snow is 90% trapped air).
+- In snow, a quinzhee or snow cave offers excellent insulation — settled snow is mostly
+  trapped air. Build either one only after reading [Snow Shelters](./snow-shelters.md):
+  they need ventilation holes maintained at all times, and an unsettled quinzhee
+  collapses while you are inside hollowing it.
 
 !!! danger "WARNING"
     Fire near a debris shelter is extremely dangerous. Dry leaves and grass ignite instantly. Maintain strict fire discipline and keep flames well clear of shelter materials.
@@ -238,7 +247,7 @@ Not every situation calls for shelter construction. Conserve energy when:
 
 - **Rescue is imminent** — stay visible, stay put, signal instead.
 - **You have existing shelter** — a vehicle, aircraft wreckage, or standing structure provides better shelter than anything you can build. Improve it rather than starting from scratch.
-- **Conditions are mild** — if the night temperature stays above 60 F (15 C) with no rain or wind, your energy may be better spent on other priorities.
+- **Conditions are mild** — if the night temperature stays above 60°F (15°C) with no rain or wind, your energy may be better spent on other priorities.
 - **You lack daylight** — building in darkness is inefficient and dangerous. In that case, make an emergency leaf pile or use what is immediately available rather than attempting a full build.
 - **You are injured** — a complex shelter build with a broken limb or sprained joint may worsen your injury. Choose the simplest adequate option.
 
@@ -277,6 +286,9 @@ Not every situation calls for shelter construction. Conserve energy when:
 - [Fire Principles](../fire/fire-principles.md) — fire placement and reflectors relative to shelter.
 - [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md) — the medical consequences of inadequate shelter.
 - [Clothing and Insulation](../tools-and-craft/clothing-and-insulation.md) — personal insulation that complements shelter.
+- [Snow Shelters](./snow-shelters.md) — quinzhees, snow caves, and the ventilation they require.
+- [Desert Shelter](./desert-shelter.md) — applying these principles where the problem is heat, not cold.
+- [Tarp and Poncho Shelters](./tarp-and-poncho.md) — the fastest builds when you have a sheet of material.
 
 ## Sources
 
@@ -287,3 +299,7 @@ Not every situation calls for shelter construction. Conserve energy when:
 - Mears, Raymond. *Essential Bushcraft*. Hodder & Stoughton, 2002.
 - Olsen, Larry Dean. *Outdoor Survival Skills*. Chicago Review Press, 1997.
 - National Outdoor Leadership School (NOLS). *NOLS Wilderness Medicine*. Stackpole Books, 2017.
+- National Weather Service, Wind Chill Temperature Index (2001 revision) — the formula
+  behind the figures above.
+- Pretorius T et al. "Thermal effects of whole head submersion in cold water."
+  *J Appl Physiol* 2006;101(2):669-75 — head heat loss in proportion to surface area.

@@ -40,7 +40,7 @@ Cross-reference with [foraging-basics.md](foraging-basics.md) for the Universal 
 **Preparation:**
 - Leaves: eat raw in spring (mild). Summer leaves turn bitter; boil in two changes of water.
 - Flowers: eat raw, batter and fry, or dry for tea.
-- Roots: roast at 350 F (175 C) until dark brown, grind for coffee substitute. Or boil as a root vegetable.
+- Roots: roast at 350°F (175°C) until dark brown, grind for coffee substitute. Or boil as a root vegetable.
 
 **Calories:** ~25 per cup (55 g) of raw greens. Roots: ~75 per cup.
 

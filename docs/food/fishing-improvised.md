@@ -14,13 +14,23 @@ tags:
 ## At a Glance
 
 - Fish provide dense, complete protein with less caloric expenditure than hunting land animals
+- Oily fish are the best fat source in most survival diets — lean fish are no better than rabbit
 - Improvise hooks from thorns, bone, wire, safety pins, or carved wood (gorge hooks)
 - Paracord inner strands, dental floss, and plant fibers serve as fishing line
 - Passive methods (traps, weirs, set lines) produce food while you do other tasks
 - Cook all freshwater fish thoroughly — parasites are common and dangerous
 
 !!! danger "WARNING"
-    All freshwater fish should be assumed to carry parasites (tapeworms, flukes, roundworms). Cook to an internal temperature of 145 F (63 C) or until flesh is opaque and flakes easily. Do not eat raw freshwater fish in a survival situation.
+    All freshwater fish should be assumed to carry parasites (tapeworms, flukes, roundworms). Cook to an internal temperature of 145°F (63°C) or until flesh is opaque and flakes easily. Do not eat raw freshwater fish in a survival situation.
+
+!!! note "Not all fish solve the fat problem"
+    A diet of lean meat alone is actively harmful, not merely inadequate — see
+    [Lean Meat Alone Will Not Sustain You](hunting-basics.md#lean-meat-alone-will-not-sustain-you).
+    Oily fish are one of the few wild foods that fix it: salmon, trout, mackerel, eel,
+    herring and sardines carry 5-15 g of fat per 100 g. Lean whitefish do not — pike,
+    perch, walleye and bass run under 1 g, leaner than rabbit. If you are catching only
+    lean fish, you still need fat or starch from somewhere else. Eat the skin, and keep
+    the oil that renders out when you cook.
 
 ## Improvised Hooks
 
@@ -142,6 +152,14 @@ Reaching into underwater holes, cavities, and undercut banks to grab fish by han
 !!! danger "WARNING"
     Noodling carries serious risks. Underwater cavities may contain snapping turtles, water moccasins (cottonmouths), or other hazards. Risk of drowning from entanglement is real. Never noodle alone. Not recommended unless other methods are unavailable.
 
+!!! warning "CAUTION: catfish are venomous"
+    Catfish carry a sharp spine in the dorsal fin and in each pectoral fin, sheathed in
+    venomous tissue. A puncture causes immediate, severe, throbbing pain out of
+    proportion to the wound, and it can swell for hours. Grip a catfish from behind with
+    the pectoral spines held down between your fingers, never around the front. Treat a
+    puncture by immersing it in water as hot as you can tolerate without scalding — up
+    to 113°F (45°C) — for 30 to 90 minutes, and watch it for infection, which is common.
+
 ### Where It Works
 
 - Muddy rivers and lakes with catfish populations
@@ -227,7 +245,7 @@ A gill net hangs vertically in water. Fish swim into it and are caught by their 
 6. Attach weights (rocks tied with cordage) to the bottom line.
 7. Set across a stream or along a shoreline.
 
-!!! danger "WARNING"
+!!! warning "CAUTION"
     Gill nets are indiscriminate. They catch everything that swims into them. In regulated waters, gill nets are typically illegal for recreational use. Use only in genuine survival situations.
 
 ### Setting a Gill Net
@@ -258,7 +276,7 @@ A gill net hangs vertically in water. Fish swim into it and are caught by their 
 
 ## Fish Stunning
 
-!!! danger "WARNING"
+!!! warning "CAUTION"
     Fish stunning (using rocks to strike the water or natural plant-based piscicides) is illegal in most jurisdictions and causes ecological damage. Include here for completeness in genuine survival contexts only.
 
 **Rock stunning:** In shallow pools, drop or throw heavy rocks into small, enclosed pools to stun fish. Collect stunned fish immediately before they recover.
@@ -314,7 +332,91 @@ A gill net hangs vertically in water. Fish swim into it and are caught by their 
 | Anisakis (roundworm) | Saltwater fish | Severe GI pain |
 | Diphyllobothrium | Salmon, trout | Tapeworm infection |
 
-**Prevention:** Cook thoroughly. Freezing at 0 F (-18 C) for 7 days also kills parasites, but this is rarely achievable in the field. Do not eat raw freshwater fish.
+**Prevention:** Cook thoroughly. Freezing kills parasites only at **-4°F (-20°C) or
+below for 7 full days** — a domestic freezer set to 0°F (-18°C) does not qualify, and
+neither does anything achievable in the field. Do not eat raw freshwater fish.
+
+## Fish That Poison You
+
+Cooking is the answer to parasites. It is **not** the answer to any of the three
+hazards below — all are heat-stable, and all survive smoking, drying, salting, and
+freezing. This is the one place where the guide's usual food-safety rule does not
+protect you, so the defence has to be knowing which fish not to eat at all.
+
+### Ciguatera — Tropical and Subtropical Reef Fish
+
+!!! danger "DANGER: no cooking, test, or preparation makes a ciguatoxic fish safe"
+    Ciguatoxin comes from a dinoflagellate that grows on coral reefs and concentrates up
+    the food chain. It has no taste, no smell, and does not change the flesh. It is not
+    destroyed by cooking, canning, freezing, drying, salting, smoking, or stomach acid.
+    There is no antidote and no field test.
+
+**Fish that carry it:** Barracuda, grouper, snapper, amberjack, moray eel, sea bass,
+parrotfish, surgeonfish, triggerfish, and king mackerel — over 400 reef species in
+total. Risk is essentially confined to tropical and subtropical reef waters, roughly
+35°N to 35°S.
+
+**Rules that actually reduce risk:**
+
+- Do not eat barracuda or moray eel from reef waters at all, at any size.
+- Avoid large reef predators. Toxin accumulates with age, so a 20 lb (9 kg) grouper is
+  far riskier than a 2 lb (1 kg) one. Under about 5 lb (2.3 kg) is the usual guidance.
+- Never eat the liver, roe, head, or viscera of a reef fish — toxin concentrates there.
+- Open-ocean fish (tuna, mahi-mahi, wahoo) and cold-water fish do not carry it.
+- Ask locally. Reefs are known to be toxic or clean, and residents know which.
+
+**Symptoms:** Begin 2 to 24 hours after eating, usually 6 to 8. Vomiting, diarrhoea and
+abdominal pain first, then the neurological signs that identify it: numbness and
+tingling around the mouth and in the hands and feet, a metallic taste, a sensation that
+the teeth are loose, and **cold objects feeling like they burn**.
+
+!!! note "The classic description is wrong in a way worth knowing"
+    Ciguatera is widely taught as "hot-cold reversal." What patients actually report is
+    cold allodynia — cold things burn, hot things feel normal. If you are waiting to feel
+    hot water as cold before you believe it is ciguatera, you will not recognise it. The
+    burning-on-cold can persist for months after everything else resolves.
+
+**Treatment:** Supportive only. Keep the person hydrated; evacuate. Avoid alcohol, nuts,
+and fish for months afterwards — they can trigger a relapse.
+
+### Scombroid — Any Fish Left Warm
+
+Scombroid is not the fish being toxic; it is bacteria converting the histidine in the
+flesh into histamine while the fish sits in the heat. Once the histamine is there,
+cooking will not remove it.
+
+- **Fish affected:** Dark-fleshed species — tuna, mackerel, mahi-mahi, bonito,
+  bluefish, amberjack, sardines, anchovies.
+- **Cause:** Time at warm temperature after the catch. A few hours in tropical heat is
+  enough. This is a direct risk of the smoking and open-air storage described above.
+- **Warning sign:** A peppery, sharp, or metallic taste. Stop eating. But it often
+  tastes completely normal.
+- **Symptoms:** Fast — minutes to an hour. Facial flushing, rash on the face and upper
+  body, headache, palpitations, sweating, diarrhoea. It looks like an allergic reaction
+  because it is a histamine reaction.
+- **Treatment:** Antihistamines, which do work here — unlike in anaphylaxis. Usually
+  resolves within 12 hours. Watch for breathing difficulty or collapse and treat that as
+  [anaphylaxis](../medical/bites-and-stings.md#anaphylaxis).
+- **Prevention:** Gut and cool the fish immediately, keep it out of the sun, and start
+  smoking or drying it the hour you catch it — not the next morning.
+
+### Pufferfish and Relatives — Never
+
+!!! danger "DANGER: tetrodotoxin has no antidote and cooking does not touch it"
+    Pufferfish, porcupinefish, ocean sunfish, and triggerfish relatives in the order
+    Tetraodontiformes concentrate tetrodotoxin in the liver, ovaries, intestines, and
+    skin. It causes numbness spreading from the lips outward, then ascending paralysis,
+    then respiratory arrest while the victim stays fully conscious. There is no antidote.
+    The only field treatment is rescue breathing, continued for hours, until help
+    arrives. Do not eat any fish that inflates, has a beak-like fused set of teeth, or
+    has rough or spiny skin instead of scales.
+
+### The Folk Tests Do Not Work
+
+A silver coin turning black, ants or flies refusing the flesh, feeding a scrap to an
+animal and waiting, rubbing the fish on the lips — none of these detects ciguatoxin,
+histamine, or tetrodotoxin. They appear in older survival manuals and they are worthless.
+Species identification and reef knowledge are the only defence.
 
 ## Common Mistakes
 
@@ -326,6 +428,11 @@ A gill net hangs vertically in water. Fish swim into it and are caught by their 
 - **Neglecting passive methods** — set lines, traps, and nets catch fish while you do other things. Set them first, then actively fish.
 - **Discarding fish guts** — use them as bait for the next catch or for traps
 - **Eating raw freshwater fish** — parasites are ubiquitous and some cause serious illness
+- **Assuming cooking makes any fish safe** — ciguatera, scombroid, and tetrodotoxin all survive it. Identify the fish instead.
+- **Eating large reef predators** — barracuda, big grouper, and moray eel are the classic ciguatera fish. Small is safer.
+- **Leaving the catch in the sun before smoking it** — that is how scombroid happens. Gut, cool, and start drying immediately.
+- **Grabbing a catfish around the front** — the pectoral and dorsal spines are venomous. Grip from behind.
+- **Relying on a lean-fish diet for fat** — pike and perch are leaner than rabbit.
 
 ## Quick Reference
 
@@ -340,12 +447,22 @@ A gill net hangs vertically in water. Fish swim into it and are caught by their 
 | Noodling | Low | Catfish | No |
 | Tidal trap | High (build) | Coastal areas | Yes |
 
+| Hazard | Defeated by cooking? | Defence |
+|--------|---------------------|---------|
+| Parasites (freshwater) | Yes — 145°F (63°C) | Cook until opaque and flaking |
+| Ciguatera (reef fish) | No | Avoid barracuda, moray, and large reef predators |
+| Scombroid (histamine) | No | Cool and process the catch immediately |
+| Tetrodotoxin (pufferfish) | No | Never eat pufferfish or relatives |
+| Catfish spines | n/a | Grip from behind; hot water for punctures |
+
 ## See Also
 
-- [trapping-and-snares.md](trapping-and-snares.md) — Land-based trapping and fish trap details
-- [hunting-basics.md](hunting-basics.md) — Active hunting when fishing is insufficient
-- [foraging-basics.md](foraging-basics.md) — Supplement protein with plant-based nutrition
-- [edible-plants-temperate.md](edible-plants-temperate.md) — Identify plants for bait and nutrition
+- [Trapping and Snares](trapping-and-snares.md) — land-based trapping and fish trap details.
+- [Hunting Basics](hunting-basics.md) — active hunting, and why protein alone will not keep you alive.
+- [Foraging Basics](foraging-basics.md) — plant calories to pair with a lean catch.
+- [Edible Plants: Temperate](edible-plants-temperate.md) — plants for bait and for nutrition.
+- [Marine Dangers](../wildlife/marine-dangers.md) — what can injure you in the water you are fishing.
+- [Field Butchering](field-butchering.md) — cleaning fish and saving the fat.
 - [Cordage](../tools-and-craft/cordage.md) — fishing line from plant fibers and sinew.
 - [Knots and Lashing](../tools-and-craft/knots-and-lashing.md) — knots for hooks, leaders, and trotlines.
 
@@ -357,3 +474,9 @@ A gill net hangs vertically in water. Fish swim into it and are caught by their 
 - Primitive Technology: A Book of Earth Skills (David Wescott, ed.)
 - The Complete Guide to Freshwater Fishing (Creative Publishing International)
 - CDC — Parasites and Foodborne Illness guidelines
+- CDC Yellow Book (2026), "Food Poisoning from Marine Toxins" — ciguatera, scombroid,
+  and tetrodotoxin
+- FDA Food Code 3-402.11, Freezing for parasite destruction
+- Friedman MA et al. "An Updated Review of Ciguatera Fish Poisoning."
+  *Marine Drugs* 2017;15(3):72
+- Auerbach's Wilderness Medicine, 7th ed., ch. on hazardous marine life ingestions

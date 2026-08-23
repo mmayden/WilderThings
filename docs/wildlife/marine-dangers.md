@@ -195,6 +195,13 @@ Water conducts heat away from the body 25 times faster than air.
 | Rip current | Swim parallel to shore, then angle in |
 | Cold water immersion | HELP position, huddle, do not swim unless rescue is close |
 
+## Fish That Poison You When Eaten
+
+Ciguatera, scombroid, and pufferfish tetrodotoxin are hazards of *eating* marine fish
+rather than being injured by them, and none of the three is destroyed by cooking. They
+are covered where the reader is deciding whether to eat a catch:
+[Fish That Poison You](../food/fishing-improvised.md#fish-that-poison-you).
+
 ## See Also
 
 - [Venomous Snakes](../wildlife/venomous-snakes.md)
