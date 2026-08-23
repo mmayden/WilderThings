@@ -153,7 +153,7 @@ Desert temperatures can swing 50-60°F (28-33°C) between day and night. A 110°
 ## Signaling in Open Terrain
 
 - Flat, open terrain makes ground-to-air signals visible from extreme distances.
-- Build signal fires with added rubber, oil, or green vegetation for black smoke (visible against light sand).
+- Build signal fires with added rubber, oil, or green vegetation for black smoke (visible against light sand). Rubber and plastic give off genuinely toxic fumes — dioxins and hydrogen chloride among them. Light it, then get upwind and stay out of the plume; do not stand over it feeding the fire.
 - Lay out contrasting materials in geometric patterns: **V** (require assistance) or **X** (require medical assistance). See [Signaling for Rescue](../navigation/signaling-for-rescue.md) for the full ICAO set.
 - A signal mirror is effective to roughly 10 miles (16 km) in ordinary conditions, and considerably further — 50 miles (80 km) or more — with a proper aimed mirror in clear air. Desert air is unusually clear, so expect the upper end. Aim at aircraft or distant high points.
 - Three of anything (fires, rock piles, whistle blasts) is the universal distress signal.

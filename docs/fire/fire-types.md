@@ -35,6 +35,13 @@ The long fire burns parallel to your body and radiates heat evenly along your fu
 
 Lie parallel to the fire, 2-3 feet (0.6-1 m) away. Place a reflector wall or your shelter on the opposite side to trap heat. The long fire radiates warmth along your entire body instead of heating one spot.
 
+!!! warning "CAUTION"
+    You are sleeping beside an open fire, so treat sparks as certain rather than
+    possible. Sleep **upwind** of it, clear anything loose and flammable — dry grass
+    bedding, a poncho edge, a pack strap — out of the spark zone, and expect synthetic
+    insulation and shell fabric to melt rather than smoulder, which means a hole before
+    you smell anything. Check your bedding when you turn over.
+
 !!! tip
     Angle the two side logs so one end is slightly closer together. Light the narrow end. The fire burns slowly toward the wide end over several hours, extending burn time without tending.
 
@@ -133,7 +140,7 @@ A signal fire alerts rescuers to your location. Build it before you need it, in 
 
 ### Daytime Signaling
 
-Light the fires and add green or wet material to produce thick, white smoke. Smoke is visible for miles against a clear sky. Dark smoke (from rubber, oil, or plastic if available) stands out against overcast skies.
+Light the fires and add green or wet material to produce thick, white smoke. Smoke is visible for miles against a clear sky. Dark smoke (from rubber, oil, or plastic if available) stands out against overcast skies. Rubber and plastic give off genuinely toxic fumes — dioxins and hydrogen chloride among them. Light it, then get upwind and stay out of the plume; do not stand over it feeding the fire.
 
 ### Nighttime Signaling
 
