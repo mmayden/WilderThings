@@ -230,6 +230,7 @@ RECURRING_CLAIMS = {
     "tourniquet above wound":     r"tourniquet[^.]{0,60}?(\d+)-(\d+)\s*inches",
     # Added after each was found disagreeing across guides during the audit.
     "signal mirror range (mi)":   r"signal mirror[^.]{0,80}?(\d+)\s*miles",
+    "snow-to-water ratio":        r"(\d+):1\s*snow-to-water|snow-to-water ratio: approximately (\d+):1",
 }
 
 # A pattern that matches nothing is worse than no pattern: it reports PASS and
@@ -329,7 +330,12 @@ def check_recurring_claims(root):
                 if excl and re.search(excl, line, re.I):
                     continue
                 for m in re.finditer(pat, line, re.I):
-                    seen[m.groups()].add(os.path.relpath(path, root))
+                    # Patterns with alternation yield None for the branch that did
+                    # not match, so the same value can produce different tuples.
+                    # Normalise before comparing, or the checker reports a
+                    # disagreement between a guide and itself.
+                    key = tuple(g for g in m.groups() if g is not None)
+                    seen[key].add(os.path.relpath(path, root))
         if len(seen) > 1:
             disagreements.append(f"{name}: " + " vs ".join(
                 f"{k} in {sorted(v)[:2]}" for k, v in seen.items()))

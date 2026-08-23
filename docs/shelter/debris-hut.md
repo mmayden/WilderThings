@@ -139,7 +139,10 @@ This is far more material than most people initially estimate. When you think yo
 ## Step 6: Build the Ground Insulation Layer
 
 !!! danger "WARNING"
-    Skipping ground insulation negates the entire purpose of the shelter. The ground steals heat 50 times faster than still air. This layer is not optional.
+    Skipping ground insulation negates the entire purpose of the shelter. Still air is
+    a good insulator; the ground is not. Lying directly on it conducts heat out of you
+    far faster than the air around you does, and body heat melts a damp patch underneath
+    that makes it worse through the night. This layer is not optional.
 
 1. Before climbing in the first time, fill the entire interior floor with insulating material.
 2. Use dry leaves, pine needles, dried grass, or evergreen boughs.

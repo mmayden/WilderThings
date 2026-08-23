@@ -222,7 +222,7 @@ Water loss through evaporation is significant in arid and hot environments.
 - **Bleach dose:** 8 drops per gallon (5.25% bleach), wait 30 minutes
 - **Re-treat schedule:** Every 48–72 hours (warm), every 5–7 days (cool)
 - **Container priority:** Sealed plastic > clay pot > bamboo > birch bark > animal organ
-- **Ice vs. snow yield:** Ice produces 3x more water per volume than snow
+- **Ice vs. snow yield:** Ice produces roughly **9x** more water per volume than snow (1 L of ice yields about 0.9 L of water; 1 L of snow yields about 0.1 L). Chip ice in preference to scooping snow whenever both are available — it is also far cheaper in fuel and body heat
 - **Cache depth:** 6–12 inches (15–30 cm), below frost line in winter
 - **Water weight:** 8.3 lb per gallon (1 kg per liter)
 
