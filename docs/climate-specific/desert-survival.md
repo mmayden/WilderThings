@@ -96,6 +96,13 @@ Direct sun exposure in desert environments can produce ground temperatures of 15
 - Watch where you step and reach. Use a stick to probe ahead.
 - Shake out boots, clothing, and sleeping bags before use.
 
+!!! warning "CAUTION"
+    Bee, wasp, and scorpion stings can trigger anaphylaxis in a sensitized person,
+    which kills faster than the venom itself and is not related to how much venom was
+    injected. Watch for spreading hives, throat or facial swelling, wheezing, or
+    collapse. Epinephrine is the only first-line treatment — see
+    [Bites and Stings](../medical/bites-and-stings.md#anaphylaxis).
+
 ### Scorpions
 
 - All scorpions sting. Most are painful but not lethal. The bark scorpion (Centruroides sculpturatus) of the southwestern US can be fatal to children and the elderly.

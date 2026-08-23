@@ -54,6 +54,18 @@ Unprovoked shark attacks average 70–80 per year worldwide, with 5–10 fatalit
 - Do not enter the water with open wounds.
 - Stay out of the water if sharks have been sighted recently.
 
+!!! danger "Any sting can cause anaphylaxis — that kills faster than the venom"
+    Everything on this page describes what a venom does. A severe *allergic* reaction
+    to it is a separate danger, it is not dose-dependent, and it can kill within
+    minutes — far faster than any sting here.
+
+    After any sting, watch for: hives spreading beyond the sting site, swelling of the
+    lips, tongue or throat, wheezing, or sudden dizziness and collapse. **Two or more
+    body systems involved means anaphylaxis.**
+
+    Epinephrine is the only first-line treatment; antihistamines do not stop it. Full
+    protocol in [Bites and Stings](../medical/bites-and-stings.md#anaphylaxis).
+
 ## Jellyfish
 
 ### Box Jellyfish
