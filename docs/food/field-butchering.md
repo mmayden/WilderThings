@@ -112,6 +112,28 @@ Hang quarters in shade with airflow. Protect from flies with cloth or a mesh bag
 !!! tip
     Small fish (under 6 inches / 15 cm) can be eaten whole after gutting — bones soften when thoroughly cooked and provide calcium.
 
+## Saving the Fat
+
+On a lean wild animal the fat is a larger share of the survival value than the meat is,
+and it is the part most often discarded. Muscle meat alone cannot sustain you — see
+[Lean Meat Alone Will Not Sustain You](hunting-basics.md#lean-meat-alone-will-not-sustain-you)
+for why.
+
+1. **Marrow.** Crack the long bones — femur, humerus, tibia — with a rock or the back of
+   an axe. Eat the marrow raw or add it to a broth. Boiling the cracked bones for an hour
+   pulls out fat that cracking alone leaves behind.
+2. **Cavity fat.** Peel the fat off the kidneys, the gut lining, and around the heart
+   while gutting. Do not let it go out with the viscera.
+3. **Subcutaneous fat.** On birds and on animals in good autumn condition there is a
+   layer under the skin. Pluck birds instead of skinning them to keep it.
+4. **Render and store.** Chop the fat small, heat it gently in a container with a little
+   water until it liquefies, and pour off the clear fat. It keeps for weeks and travels
+   better than meat.
+
+!!! note
+    Late-winter and early-spring animals may have almost no fat at all — their reserves
+    are gone. Plan on plant calories to make up the difference in those seasons.
+
 ## Disease and Hygiene
 
 | Disease | Source | Signs | Prevention |

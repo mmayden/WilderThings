@@ -16,6 +16,7 @@ import argparse
 import collections
 import datetime
 import glob
+import io
 import os
 import re
 import sys
@@ -71,6 +72,72 @@ def check_no_external_requests(paths, label):
         ok(f"{label} self-contained", "0 external resource loads")
 
 
+def collect_refs(html_files):
+    """Map each page to its refs and its anchor ids, in one pass."""
+    pages = {}
+    for path in html_files:
+        c = RefCollector()
+        with io.open(path, encoding="utf-8", errors="replace") as f:
+            c.feed(f.read())
+        pages[path] = c
+    return pages
+
+
+def check_refs(root, html_files, label):
+    """Resolve every local href/src, including its #fragment.
+
+    Fragments used to be stripped and thrown away here, so a link into another
+    guide's section kept passing after that heading was renamed. Cross-guide
+    fragment links are how the corpus points at a canonical procedure instead of
+    duplicating it, so an unchecked one is exactly the link that matters.
+    """
+    pages = collect_refs(html_files)
+    ids = {path: set(c.ids) for path, c in pages.items()}
+    broken, dangling = [], []
+    total = frags = 0
+
+    for path, c in pages.items():
+        for ref in c.refs:
+            if re.match(r'^(https?:|mailto:|data:|javascript:)', ref):
+                continue
+            head, _, frag = ref.partition("#")
+            target = urllib.parse.unquote(head.split("?")[0])
+            frag = urllib.parse.unquote(frag)
+
+            if target:
+                total += 1
+                resolved = os.path.normpath(os.path.join(os.path.dirname(path), target))
+                if not os.path.exists(resolved):
+                    broken.append("%s -> %s" % (os.path.relpath(path, root), ref))
+                    continue
+                if os.path.isdir(resolved):
+                    resolved = os.path.join(resolved, "index.html")
+            else:
+                resolved = path  # same-page fragment
+
+            if not frag:
+                continue
+            frags += 1
+            known = ids.get(resolved)
+            if known is None:
+                continue  # target outside the scanned set (asset, 404 page)
+            if frag not in known:
+                dangling.append("%s -> %s" % (os.path.relpath(path, root), ref))
+
+    if broken:
+        fail("%s has broken references" % label,
+             "%d of %d; first: %s" % (len(broken), total, broken[0]))
+    else:
+        ok("%s references resolve" % label,
+           "%d local refs across %d pages" % (total, len(html_files)))
+
+    if dangling:
+        fail("%s has links to headings that do not exist" % label,
+             "%d of %d; first: %s" % (len(dangling), frags, dangling[0]))
+    else:
+        ok("%s anchors resolve" % label, "%d fragment links" % frags)
+
+
 def check_offline_dir(root):
     html_files = [os.path.join(dp, fn)
                   for dp, _, fns in os.walk(root)
@@ -83,26 +150,7 @@ def check_offline_dir(root):
 
     # Every local reference must resolve to a real file, or the copy is broken
     # for someone with no network to fall back on.
-    broken = []
-    total = 0
-    for path in html_files:
-        p = RefCollector()
-        with open(path, encoding="utf-8", errors="replace") as f:
-            p.feed(f.read())
-        for ref in p.refs:
-            if re.match(r'^(https?:|mailto:|data:|#|javascript:)', ref):
-                continue
-            target = urllib.parse.unquote(ref.split("#")[0].split("?")[0])
-            if not target:
-                continue
-            total += 1
-            if not os.path.exists(os.path.normpath(os.path.join(os.path.dirname(path), target))):
-                broken.append(f"{os.path.relpath(path, root)} -> {ref}")
-    if broken:
-        fail("offline build has broken references",
-             f"{len(broken)} of {total}; first: {broken[0]}")
-    else:
-        ok("offline references resolve", f"{total} local refs across {len(html_files)} pages")
+    check_refs(root, html_files, "offline build")
 
     # Search is inlined for file:// use; without it search silently does nothing.
     index = os.path.join(root, "search", "search_index.js")
@@ -174,24 +222,7 @@ def check_site(root):
     html_files = [os.path.join(dp, fn)
                   for dp, _, fns in os.walk(root)
                   for fn in fns if fn.endswith(".html") and fn != "404.html"]
-    broken, total = [], 0
-    for path in html_files:
-        p = RefCollector()
-        with open(path, encoding="utf-8", errors="replace") as f:
-            p.feed(f.read())
-        for ref in p.refs:
-            if re.match(r'^(https?:|mailto:|data:|#|javascript:)', ref):
-                continue
-            target = urllib.parse.unquote(ref.split("#")[0].split("?")[0])
-            if not target:
-                continue
-            total += 1
-            if not os.path.exists(os.path.normpath(os.path.join(os.path.dirname(path), target))):
-                broken.append(f"{os.path.relpath(path, root)} -> {ref}")
-    if broken:
-        fail("site has broken references", f"{len(broken)} of {total}; first: {broken[0]}")
-    else:
-        ok("site references resolve", f"{total} local refs across {len(html_files)} pages")
+    check_refs(root, html_files, "site")
 
 
 

@@ -18,8 +18,9 @@ tags:
 - Wind direction and noise discipline determine whether you get close enough for a shot or strike
 - Improvised weapons are limited in range and lethality — ambush and close-range encounters are your advantage
 - Process kills quickly to prevent spoilage; field dress within 30 minutes in warm weather
+- Save every scrap of fat and marrow — lean meat alone will not sustain you, and small game is almost all lean meat
 
-!!! danger "WARNING"
+!!! warning "DISCLAIMER"
     Hunting is regulated by law in every jurisdiction. Seasons, species, methods, and licensing requirements apply. In a non-emergency context, obtain all required permits and follow applicable regulations. In a genuine survival emergency, sustaining your life takes precedence — report any takes to authorities after rescue.
 
 ## Tracking Fundamentals
@@ -135,7 +136,7 @@ Effective shots or strikes must hit vital areas. With improvised weapons, range 
 
 ## Improvised Weapons
 
-!!! danger "WARNING"
+!!! warning "CAUTION"
     Improvised weapons are far less effective than purpose-built hunting tools. Expect a high miss rate. Supplement with passive trapping and fishing methods.
 
 ### Throwing Stick (Rabbit Stick)
@@ -202,14 +203,24 @@ A lever arm that extends the length of the throwing arm, increasing spear veloci
 
 ## Field Processing
 
-Detailed butchering procedures are covered in field-butchering.md. The essentials:
+Detailed butchering procedures are covered in
+[Field Butchering](field-butchering.md). The essentials:
 
 1. **Field dress immediately** — within 30 minutes, especially in warm weather. Gut bacteria multiply rapidly and taint meat.
 2. **Open the body cavity** from sternum to pelvis. Remove all internal organs.
-3. **Save the heart and liver** — the most nutrient-dense organs.
+3. **Save the heart, liver, fat, and marrow** — the organs are the most nutrient-dense
+   parts, and the fat and marrow are the only meaningful fat on a lean animal. See
+   [Lean Meat Alone Will Not Sustain You](#lean-meat-alone-will-not-sustain-you).
 4. **Drain blood** — hang or prop the carcass to drain. Blood attracts predators and accelerates spoilage.
 5. **Cool the meat** — get air circulating inside the body cavity. In warm weather, shade the carcass and consider quartering for faster cooling.
 6. **Protect from flies** — flies lay eggs within minutes. Cover the meat with cloth or place in a game bag. Smoke deters insects.
+
+!!! warning "CAUTION: game carries disease that enters through your hands"
+    Tularemia from rabbits and rodents, brucellosis from boar and elk, and CWD in deer
+    and elk all transmit during handling, not only through eating. Glove your hands or
+    cover cuts before field dressing, and discard a rabbit whose liver is covered in
+    white spots. Full detail, including which animals not to harvest at all, is in
+    [Field Butchering](field-butchering.md#disease-and-hygiene).
 
 ## Energy Expenditure vs. Caloric Return
 
@@ -226,6 +237,59 @@ This is the critical calculation in a survival situation. Hunting burns enormous
 | Setting snares (labor) | 150-250 (one-time) | Moderate (20-40% per trap line/night) | Moderate: 500-800 cal per rabbit |
 | Fishing (active, improvised) | 100-200 | Moderate-High (30-60%) | Variable: 200-1,000+ cal per session |
 | Fishing (passive, traps/nets) | 200-400 (one-time build) | Moderate-High (40-70% ongoing) | Ongoing: hundreds of calories daily |
+
+### Lean Meat Alone Will Not Sustain You
+
+The calorie counts above assume the calories are usable. Protein alone is not.
+
+The liver disposes of the nitrogen left over from protein by converting it to urea,
+and that conversion has a ceiling. Push past it and ammonia and amino acids build up
+in the blood faster than they can be cleared. The result is a form of malnutrition
+that happens *while you are eating*: diarrhoea, headache, weakness, low blood
+pressure, and a hunger that eating more meat does not touch. Discomfort begins within
+about a week of an all-lean-meat diet. Death follows in weeks.
+
+This is called **rabbit starvation**, or *mal de caribou* — named for the animals that
+cause it most often. It is not a curiosity. It killed Arctic explorers and voyageurs
+who had plenty of meat.
+
+**Why small game is the worst offender:**
+
+| Food | Fat per 100 g | Calories from protein |
+|------|--------------|----------------------|
+| Wild rabbit | 2.3 g | ~78% |
+| Squirrel, most small game | 2-4 g | 70-80% |
+| Venison (lean cuts) | 1-3 g | 70-80% |
+| Beef, moderately fatty | 15-20 g | ~35% |
+
+Keep protein under roughly **35% of your calories**. Every animal in the table above
+is far past that on muscle meat alone. A rabbit-only diet is not a thin diet — it is
+an actively toxic one.
+
+!!! danger "DANGER: a diet of lean meat and nothing else kills faster than eating nothing"
+    You can lose weight steadily on fasting alone and stay clear-headed. A body running
+    on nothing but lean protein deteriorates faster than one running on its own fat
+    stores, because it must spend energy and water clearing the nitrogen. Given the
+    choice between rabbit alone and rabbit plus anything fatty or starchy, the second
+    is not an improvement — it is the difference between surviving and not.
+
+**Fixing it — in order of what is usually available:**
+
+1. **Bone marrow.** Crack long bones and eat the marrow. This is the densest fat on a
+   lean animal and it is routinely thrown away.
+2. **Body-cavity and organ fat.** Kidney fat, the fat lining the gut, fat around the
+   heart. Render it and drink it or cook with it.
+3. **Fat under the skin.** Pluck birds rather than skinning them — skinning takes the
+   fat layer with it.
+4. **Fish**, particularly oily species, and any fatty part of a larger animal.
+5. **Carbohydrate:** acorns, nuts, tubers, cattail rhizome, inner bark. Starch spares
+   protein just as fat does.
+
+!!! warning "CAUTION"
+    Wild animals are leanest in late winter and early spring, having burned their
+    reserves through the cold. That is exactly when you are most likely to be
+    depending on them. Assume the lean-season animal has almost no fat on it and plan
+    to combine it with plant calories.
 
 ### When Hunting Is Worth It
 
@@ -281,6 +345,10 @@ In a genuine survival emergency, preserving your life is the priority. Most lega
 - **Not scouting first** — spend time observing before hunting. Learn the animals' patterns, routes, and timing.
 - **Hunting in bedding areas** — you push animals out and they relocate. Hunt travel routes instead.
 - **Failing to field dress quickly** — meat spoils within hours in warm weather. Process immediately.
+- **Eating nothing but lean meat** — a rabbit-only diet is toxic, not merely
+  insufficient. Save the marrow and fat, and pair meat with plant calories.
+- **Field dressing bare-handed** — tularemia and brucellosis enter through cuts and
+  abrasions on your hands, not through the meat you cook.
 - **Underestimating the difficulty of the kill shot** — animals are fast, vital areas are small, and adrenaline ruins accuracy. Practice with your weapon before you depend on it.
 
 ## Quick Reference
@@ -296,14 +364,17 @@ In a genuine survival emergency, preserving your life is the priority. Most lega
 | Best improvised weapon | Throwing stick (simplest, most versatile) |
 | Field dress | Within 30 minutes |
 | Energy rule | Passive methods (traps/fishing) before active hunting |
+| Protein ceiling | Keep protein under ~35% of calories — save marrow and fat |
+| Handling | Glove up or cover cuts before field dressing |
 
 ## See Also
 
-- [trapping-and-snares.md](trapping-and-snares.md) — Passive trapping methods (higher efficiency than active hunting)
-- [fishing-improvised.md](fishing-improvised.md) — Fish are often the highest-probability protein source
-- [foraging-basics.md](foraging-basics.md) — Supplement protein with plant calories and vitamins
-- [edible-plants-temperate.md](edible-plants-temperate.md) — Specific plant identification for combined diet
-- [mushroom-identification.md](mushroom-identification.md) — Additional foraged food sources
+- [Trapping and Snares](trapping-and-snares.md) — passive trapping methods, higher return per calorie than active hunting.
+- [Improvised Fishing](fishing-improvised.md) — fish are often the highest-probability protein, and the fattiest.
+- [Foraging Basics](foraging-basics.md) — plant calories, which are what keep a meat diet from poisoning you.
+- [Edible Plants: Temperate](edible-plants-temperate.md) — specific plant identification for a combined diet.
+- [Mushroom Identification](mushroom-identification.md) — additional foraged food sources.
+- [Field Butchering](field-butchering.md) — processing the kill, and the diseases that transmit while you do it.
 - [Knife Use and Care](../tools-and-craft/knife-use-and-care.md) — field processing game and maintaining your blade.
 - [Improvised Tools](../tools-and-craft/improvised-tools.md) — spears, clubs, and throwing sticks for hunting.
 
@@ -316,3 +387,12 @@ In a genuine survival emergency, preserving your life is the priority. Most lega
 - Bushcraft 101 (Dave Canterbury)
 - Primitive Technology: A Book of Earth Skills (David Wescott, ed.)
 - Peterson Field Guide to Animal Tracks (Olaus Murie & Mark Elbroch)
+- Bilsborough S, Mann N. "A Review of Issues of Dietary Protein Intake in Humans."
+  *Int J Sport Nutr Exerc Metab* 2006;16(2):129-52 — hepatic urea-cycle ceiling and
+  suggested maximum protein intake
+- Speth JD, Spielmann KA. "Energy source, protein metabolism, and hunter-gatherer
+  subsistence strategies." *J Anthropol Archaeol* 1983;2:1-31 — fat scarcity as the
+  binding constraint on lean-game diets
+- Stefansson V. *The Fat of the Land* (1956) — the original clinical description of
+  rabbit starvation
+- USDA FoodData Central — composition of wild game meats

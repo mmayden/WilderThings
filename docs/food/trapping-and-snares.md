@@ -311,10 +311,11 @@ Use whatever methods keep you alive. Survival overrides game regulations. After 
 
 ## See Also
 
-- [fishing-improvised.md](fishing-improvised.md) — Detailed fishing techniques and improvised gear
-- [hunting-basics.md](hunting-basics.md) — Active hunting methods, tracking, and stalking
-- [foraging-basics.md](foraging-basics.md) — Supplement trapped protein with plant-based nutrition
-- [edible-plants-temperate.md](edible-plants-temperate.md) — Identify plants for bait and for your own nutrition
+- [Improvised Fishing](fishing-improvised.md) — fishing techniques and improvised gear.
+- [Hunting Basics](hunting-basics.md) — active hunting methods, and why a snare line of rabbits alone will not keep you alive.
+- [Foraging Basics](foraging-basics.md) — plant calories, which trapped small game cannot supply on its own.
+- [Edible Plants: Temperate](edible-plants-temperate.md) — plants for bait and for your own nutrition.
+- [Field Butchering](field-butchering.md) — processing trapped game, saving the fat, and the diseases rabbits carry.
 - [Cordage](../tools-and-craft/cordage.md) — snare wire and trigger cord from natural fibers.
 - [Knife Use and Care](../tools-and-craft/knife-use-and-care.md) — carving triggers, stakes, and toggle systems.
 
