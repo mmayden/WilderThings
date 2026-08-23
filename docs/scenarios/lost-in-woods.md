@@ -64,7 +64,12 @@ Answer these questions in order:
 
 ### 1. Assess Resources on Your Person
 Empty every pocket. Check your pack thoroughly. Common overlooked items:
-- Cell phone (try emergency calls even with no signal — 911 can route through any carrier tower)
+- **Cell phone — try to call emergency services even with no bars.** Two separate things
+  can save you here: an emergency call routes through *any* carrier's tower, not just
+  yours, and on a recent iPhone, Pixel, or Galaxy the phone falls back to **satellite**
+  automatically when no tower answers at all. Most people carrying that capability do not
+  know they have it. See
+  [Satellite SOS Built Into Your Phone](../navigation/gps-and-electronics.md#satellite-sos-built-into-your-phone).
 - Lighter, matches, or ferrocerium rod
 - Knife or multitool (see [Knife Use and Care](../tools-and-craft/knife-use-and-care.md))
 - Cordage or paracord (see [Cordage](../tools-and-craft/cordage.md))
@@ -140,8 +145,14 @@ You can survive roughly 3 days without water, but your cognitive function degrad
 - Hang brightly colored clothing in tree canopies near clearings.
 
 ### Electronic Signals
-- Cell phone: turn off to preserve battery. Power on periodically at high points.
+- Cell phone: airplane mode or off to preserve battery. Power up periodically at high points.
 - If you have signal, send a text with GPS coordinates rather than calling — texts require less bandwidth and may get through when calls cannot.
+- **Satellite SOS needs open sky.** If your phone supports it, a dense canopy will defeat
+  it — which is the usual situation for someone lost in woods. Move to the most open
+  ground you can safely reach (clearing, ridgeline, gravel bar, lake edge), mark your
+  route, hold still, and follow the on-screen prompt. Give it minutes, not seconds.
+- Send the message while you still have battery. Do not save it for a last resort.
+- Keep the phone warm and against your body — cold destroys battery capacity.
 
 ---
 
@@ -224,8 +235,13 @@ Fear and panic kill faster than cold or thirst. Manage your mental state deliber
 - SAR does not stop looking after a fixed period. Searches continue based on probability of detection and survivability estimates.
 
 ### How to Be Found
-- Stay in the open when you hear aircraft. Lie flat with arms and legs spread on contrasting ground.
-- Wave with both arms crossed overhead (not one arm — one arm can look like a casual wave).
+- Get into the open when you hear aircraft, and **move** — motion is what catches a
+  searcher's eye far more than shape or colour does.
+- Wave with both arms crossed overhead repeatedly (not one arm — one arm reads as a
+  casual wave from a hiker who is fine).
+- Only if you cannot stand or move: lie flat with arms and legs spread on contrasting
+  ground, to present the largest possible outline. This is the fallback for an injured
+  person, not the default.
 - Keep your signal fire fueled and ready to ignite at the sound of aircraft or voices.
 - Respond to shouts with three whistle blasts or three yells.
 - At night, keep your fire burning. Fire is visible from the air for miles.
@@ -273,6 +289,8 @@ Fear and panic kill faster than cold or thirst. Manage your mental state deliber
 - [Shelter Principles](../shelter/shelter-principles.md) — building emergency shelter when stranded.
 - [Survival Mindset](../psychology/survival-mindset.md) — maintaining psychological resilience when lost.
 - [Fire Principles](../fire/fire-principles.md) — fire for warmth, signaling, and morale.
+- [GPS and Electronics](../navigation/gps-and-electronics.md) — satellite SOS on the phone in your pocket, and making the battery last.
+- [Water Purification](../water/purification.md) — bleach doses by concentration, and what chemical treatment cannot kill.
 
 ---
 

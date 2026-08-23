@@ -84,6 +84,55 @@ Portable solar panels weigh 6–12 oz (170–340 g) and produce 5–15 watts in 
 - Expect 50–70% of rated output in real conditions (angle, clouds, altitude).
 - Solar chargers are unreliable under heavy canopy or in overcast conditions. Do not depend on them as your sole power source.
 
+## Satellite SOS Built Into Your Phone
+
+Most people carrying a recent smartphone have a satellite emergency link and do not know
+it. This is the single biggest change in wilderness emergency communication in recent
+years, and unlike everything else in this section it costs nothing and requires no
+planning.
+
+**Try to call emergency services even with no bars.** On a supported phone the satellite
+connection engages by itself when the call fails — there is no separate app or procedure
+to remember.
+
+| Phones | What you get | Cost |
+|--------|-------------|------|
+| iPhone 14 and later | Emergency SOS via satellite, satellite texts, Find My location | Emergency SOS free for the life of the phone |
+| Pixel 9 (not 9a) and Pixel 10 | Satellite SOS | Free for 2 years from purchase |
+| Galaxy S25 and later, plus 60+ models on some carriers | Satellite texting via carrier networks | Varies by carrier |
+
+Support is changing fast. Check what your own phone does **before** a trip, not during one.
+
+### Making It Actually Work
+
+!!! warning "CAUTION: it will not connect under a canopy"
+    This is the part that matters most to anyone lost in forest. The link needs a clear,
+    unobstructed view of the sky. Dense tree cover, a narrow canyon, a cave, or a steep
+    north slope will all defeat it, and those are exactly the places people get lost.
+
+    If the connection fails, move — safely, and marking your route — to the most open
+    ground you can reach: a clearing, a ridgeline, a gravel bar, a burn scar, the edge of
+    a lake. Then try again. A failed attempt under trees does not mean the phone cannot
+    do it.
+
+- **Hold still and follow the on-screen prompt.** The phone tells you where to point.
+  Turning to face the satellite is part of the process, not a sign something is wrong.
+- **Expect it to be slow.** A message can take a minute or several. Do not give up at
+  thirty seconds, and do not walk while it is sending.
+- **Answer the questionnaire honestly.** The phone asks a few short questions so
+  emergency services know what happened, how many people are involved, and whether anyone
+  is injured. That determines what they send.
+- **It uses battery hard.** Get the message out early, while you still have charge, rather
+  than saving it as a last resort. See Battery Conservation above.
+- **Keep the phone warm.** Cold collapses battery capacity — inside a jacket, against your
+  body, not in an outside pocket.
+
+!!! note "This does not replace a PLB"
+    A PLB has no subscription, no operating system, no screen, and no dependence on which
+    phone you bought. It transmits for 24-48 hours on its own battery and works anywhere
+    on Earth. Phone satellite SOS is the backstop everyone happens to be carrying, not a
+    reason to leave a beacon behind on a serious trip.
+
 ## Satellite Communicators and PLBs
 
 ### Satellite Communicators (InReach, SPOT)
@@ -149,6 +198,8 @@ Electronics fail from water, impact, cold, dead batteries, and software crashes.
 - **Ignoring coordinate system mismatch.** Lat/long on your device and UTM on your map means your plotted position is wrong.
 - **Carrying electronics without a backup.** One drop in a creek and your only navigation tool is gone.
 - **Waiting until the battery is dead to conserve power.** Start conservation immediately.
+- **Assuming no bars means no way to call.** Recent iPhones, Pixels, and Galaxy phones reach emergency services by satellite when there is no tower. Try the call.
+- **Giving up on satellite SOS after one attempt under trees.** It needs open sky. Move to a clearing and try again.
 
 ## Quick Reference
 
@@ -156,6 +207,8 @@ Electronics fail from water, impact, cold, dead batteries, and software crashes.
 |---|---|
 | GPS accuracy (open sky) | 10–16 ft (3–5 m) |
 | Smartphone GPS battery life | 4–8 hrs active, 3–5 days airplane mode |
+| No cell signal | Still dial emergency services — satellite SOS engages automatically |
+| Satellite SOS requirement | Clear view of sky; move to open ground if it fails |
 | PLB signal duration | 24–48 hrs continuous |
 | InReach/SPOT | Two-way messaging, SOS, subscription required |
 | PLB | One-way SOS, no subscription, register with NOAA |
@@ -177,3 +230,6 @@ Electronics fail from water, impact, cold, dead batteries, and software crashes.
 - NOAA SARSAT PLB registration and specifications
 - USGS topographic map standards and UTM reference
 - Wilderness Medical Society practice guidelines on field communication
+- Apple, "Use Emergency SOS via satellite on your iPhone" (support.apple.com)
+- Google, "Satellite SOS on Pixel" (support.google.com/pixelphone)
+- Device support and carrier coverage current as of August 2026 and changing quickly

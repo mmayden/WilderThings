@@ -263,7 +263,9 @@ RECURRING_CLAIMS = {
     "epinephrine adult dose":     r"(?:epinephrine|EpiPen)[^.]{0,60}?(0\.\d+)\s*mg",
     "tourniquet above wound":     r"tourniquet[^.]{0,60}?(\d+)-(\d+)\s*inches",
     # Added after each was found disagreeing across guides during the audit.
-    "signal mirror range (mi)":   r"signal mirror[^.]{0,80}?(\d+)\s*miles",
+    # "mi" as well as "miles": signaling-for-rescue writes "100 mi / 160 km" and was
+    # therefore never compared against the four guides saying roughly 10.
+    "signal mirror range (mi)":   r"[Ss]ignal mirror[^.]{0,110}?(\d+)\s*(?:miles|mi)\b",
     "snow-to-water ratio":        r"(\d+):1\s*snow-to-water|snow-to-water ratio: approximately (\d+):1",
     # Both guides state the general range, but phrase it differently.
     "knot strength loss (range)": r"(?:reduces rope strength by|across knots generally the loss is)\s*(\d+)-(\d+)\s*%",

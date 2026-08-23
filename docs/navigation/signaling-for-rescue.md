@@ -14,7 +14,7 @@ tags:
 ## At a Glance
 
 - **Three of anything means distress.** Three fires, three whistle blasts, three gunshots, three flashes. This is the universal pattern.
-- **Signal mirrors are the single most effective non-electronic signaling device**, visible up to 100 mi / 160 km in clear conditions.
+- **Signal mirrors are the single most effective non-electronic signaling device**, reaching roughly 10 mi / 16 km in ordinary conditions and up to 50 mi / 80 km in exceptionally clear air.
 - **Electronic beacons (PLB/EPIRB) provide the highest probability of rescue.** Carry one and know how to activate it.
 - **Contrast is everything.** Use colors, shapes, and movement that do not exist naturally in your environment.
 - **Signal continuously and on schedule.** Rescuers search in patterns and time windows — your signal must be active when they pass overhead.
@@ -61,7 +61,7 @@ Arrange panel signals in geometric shapes (triangle, cross, straight line) rathe
 
 ## Signal Mirrors
 
-A signal mirror is the most underrated survival signaling tool. On a clear day, the flash from a 3 x 5 in / 7.5 x 12.5 cm glass mirror is visible at distances exceeding 100 mi / 160 km. Even a improvised reflector — a CD, phone screen, belt buckle, or aluminum wrapper — produces a visible flash at several miles.
+A signal mirror is the most underrated survival signaling tool. On a clear day, the flash from a 3 x 5 in / 7.5 x 12.5 cm glass mirror carries roughly 10 mi / 16 km, and up to 50 mi / 80 km when the air is exceptionally clear. Even a improvised reflector — a CD, phone screen, belt buckle, or aluminum wrapper — produces a visible flash at several miles.
 
 ### Aiming Technique (Sighting Method)
 
@@ -174,9 +174,16 @@ Cell phones are unreliable in the backcountry but may work in some situations:
 - **Conserve battery.** Switch to airplane mode when not actively attempting to signal. Disable Bluetooth, Wi-Fi, and background apps. Reduce screen brightness to minimum.
 - **Dial emergency services (911 / 112).** Emergency calls can connect through any available carrier network, not just your own.
 - **Leave a voicemail.** If the call connects briefly and drops, the voicemail may still record your message and location.
+- **Try the emergency call even with zero bars.** On a recent iPhone, Pixel, or Galaxy the
+  phone falls back to satellite by itself when no tower answers. It needs a clear view of
+  the sky, so step into the open first — see
+  [Satellite SOS Built Into Your Phone](gps-and-electronics.md#satellite-sos-built-into-your-phone).
 
-!!! danger "WARNING"
-    Do not rely on a cell phone as your primary signaling device. Carry a PLB or satellite messenger as your primary electronic signal.
+!!! warning "CAUTION"
+    Do not plan around a cell phone as your primary signaling device. Satellite SOS has
+    made phones far more useful than they were, but it depends on your model, your
+    battery, and a clear sky. A PLB or satellite messenger has none of those dependencies
+    and remains the right primary electronic signal on a serious trip.
 
 ## Improvised Reflectors and Flags
 
@@ -285,7 +292,7 @@ Do not assume the aircraft has seen you on the first pass. Continue signaling th
 
 | Method | Range | Day/Night | Notes |
 |---|---|---|---|
-| Signal mirror | Up to 100 mi / 160 km | Day | Most effective daytime visual signal |
+| Signal mirror | ~10 mi typical, up to 50 mi / 160 km | Day | Most effective daytime visual signal |
 | Signal fire (smoke) | 10-50 mi / 16-80 km | Day | White smoke on dark background, black on light |
 | Signal fire (flame) | Up to 20 mi / 32 km | Night | Three fires in a triangle = distress |
 | Whistle | 1 mi / 1.6 km | Both | Three blasts = distress; minimal energy cost |
