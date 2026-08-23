@@ -56,7 +56,8 @@ Choose the best available method based on your equipment and situation:
 - [ ] Follow the manufacturer's dosage instructions exactly
 - [ ] **Iodine tablets:** Add tablets per instructions (typically 1-2 tablets per quart/liter). Wait 30 minutes. In cold or cloudy water, double the wait time or dosage
 - [ ] **Chlorine dioxide (Aquamira, Katadyn Micropur).** Mix components per instructions. Add to water. Wait 15-30 minutes (4 hours for Cryptosporidium)
-- [ ] **Household bleach (sodium hypochlorite 5-8%).** Add 2 drops per quart (liter) of clear water, or 4 drops if water is cloudy. Wait 30 minutes. Water should have a slight chlorine smell; if not, repeat the dose and wait another 30 minutes
+- [ ] **Household bleach.** Check the label for the concentration: **8 drops per gallon at 6%, 6 drops at 8.25%**. That is 2 drops for a single quart or litre. Double the dose *and* the wait if the water is cloudy or very cold. Wait 30 minutes. Water should have a slight chlorine smell; if not, repeat the dose and wait another 30 minutes
+- [ ] **Bleach and iodine do not kill Cryptosporidium.** If crypto is a concern — and it is in any water animals have access to — boil or filter. Chemical treatment alone is not enough
 
 #### Filtration
 

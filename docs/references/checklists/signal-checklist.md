@@ -66,7 +66,7 @@ tags:
 
 - [ ] **PLB (Personal Locator Beacon).** Activate in a clear area with an open view of the sky. Deploy the antenna fully. Leave it on continuously once activated; do not turn it off and on
 - [ ] **Satellite communicator (inReach, SPOT).** Send an SOS message with your GPS coordinates. Follow up with text details if the device allows
-- [ ] **Cell phone.** Move to the highest available ground. Try calling 911 (or local emergency number) even without signal bars; emergency calls can use any available network. Send a text with GPS coordinates (texts require less signal than voice calls). Conserve battery: turn off Wi-Fi, Bluetooth, and reduce screen brightness
+- [ ] **Cell phone.** Move to the highest available ground with the most open sky. Try calling 911 (or local emergency number) even without signal bars — emergency calls use any available network, and a recent iPhone, Pixel, or Galaxy falls back to **satellite** on its own when no tower answers. Satellite needs a clear view of the sky, so a tree canopy will defeat it; move into the open and try again rather than assuming the phone cannot do it. Send a text with GPS coordinates (texts require less signal than voice calls). Conserve battery: turn off Wi-Fi, Bluetooth, and reduce screen brightness
 - [ ] **Radio.** Transmit on channel 16 (marine VHF) or 156.8 MHz. Use the standard distress call: "Mayday, Mayday, Mayday" followed by your location, number of people, and nature of the emergency
 - [ ] **Flashlight/headlamp.** At night, flash SOS (three short, three long, three short) toward any visible lights, aircraft, or known trails
 

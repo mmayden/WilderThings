@@ -13,11 +13,13 @@ tags:
 ### Site Selection
 
 - [ ] Choose a location sheltered from wind (use terrain, rocks, or trees as a natural windbreak)
-- [ ] Ensure the ground is dry, or create a platform of green logs or flat rocks to insulate the fire from wet or snowy ground
+- [ ] Ensure the ground is dry, or create a platform of green logs or **dry** flat rocks. **Never use wet or river-smoothed rock** — trapped moisture flashes to steam and bursts the rock, throwing fragments at face height. In rain, assume every rock is wet and use bark or green logs instead
 - [ ] Clear a circle at least 10 feet (3 m) in diameter of dry leaves, grass, and other combustible debris
 - [ ] Check overhead for low branches, dead snags, or dry canopy that could catch fire
 - [ ] Position the fire site where heat reflects toward your shelter (a rock wall or log behind the fire works as a reflector)
 - [ ] Consider proximity to your water source and firewood supply
+- [ ] **Check what you are about to burn.** Never burn poison ivy, oak, or sumac — urushiol in the smoke causes severe airway inflammation. Never burn rubber, plastic, or treated wood for anything other than a brief signal, and stand upwind if you do
+- [ ] **Never light a fire inside a tent, vehicle, or snow shelter, and never bring coals inside.** Carbon monoxide is odourless and kills silently
 
 ### Material Gathering
 

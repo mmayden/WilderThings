@@ -28,7 +28,7 @@ tags:
 - [ ] **Ridgepole.** Find a sturdy, straight pole at least 3 feet (1 m) longer than your body. It must bear the weight of the roof materials
 - [ ] **Ribbing.** Gather thick branches (wrist-thickness) to lean against the ridgepole at 45-degree angles, spaced 6-8 inches (15-20 cm) apart
 - [ ] **Lattice.** Collect thinner branches and sticks to weave horizontally across the ribs, creating a grid that holds insulation in place
-- [ ] **Insulation/debris.** Gather a large volume of leaves, grass, pine needles, ferns, or other forest debris. You need enough to create a layer at least 2-3 feet (60-90 cm) thick over the entire shelter
+- [ ] **Insulation/debris.** Gather a large volume of leaves, grass, pine needles, ferns, or other forest debris. You need enough for a layer **at least 3 feet (1 m)** thick over the entire shelter. This is the number people cut short when tired, and a thin shelter keeps rain off while you get cold at nearly the same rate
 - [ ] **Ground insulation.** Collect a separate pile of dry leaves, grass, boughs, or bark for a sleeping pad at least 4 inches (10 cm) thick
 - [ ] **Cordage (optional).** If available, gather natural cordage materials (inner bark, roots, vines) or use paracord. See [Cordage](../../tools-and-craft/cordage.md)
 - [ ] Gather at least twice the material you estimate you need; shelters consume enormous amounts of debris
@@ -46,9 +46,11 @@ tags:
 ### Insulation
 
 - [ ] Layer insulation over the entire shelter frame, starting from the ground and working up (like shingles, so water runs off)
-- [ ] Build the insulation layer to at least 2-3 feet (60-90 cm) thick on all sides and over the top
+- [ ] Build the insulation layer to at least **3 feet (1 m)** thick on all sides and over the top
 - [ ] Test by looking from inside: if you can see daylight through the walls, add more material
 - [ ] Lay branches or sticks over the outermost insulation layer to prevent wind from stripping it away
+- [ ] **Keep fire at least 6 ft (1.8 m) away, and never at the entrance.** A debris shelter is a body-sized tinder bundle with you inside it and one way out. It is designed to heat from body warmth — if you are cold in a finished shelter, add debris, not flame
+- [ ] **Do not sweat while building.** Strip layers before you start and put them back on when you stop. Wet clothing in a cold shelter causes the hypothermia the shelter was built to prevent
 - [ ] Fill the interior floor with 4-6 inches (10-15 cm) of dry, compressible insulation (leaves, grass, pine needles)
 - [ ] Compress the ground insulation by lying on it; if you can feel the ground, add more
 - [ ] Insulate the entrance: prepare a plug of packed debris, a stuff sack filled with leaves, or a log to block the opening while sleeping
