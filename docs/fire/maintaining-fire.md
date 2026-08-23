@@ -217,6 +217,12 @@ Not every fire needs to last all night. Weigh the cost of maintaining against th
 - Keep fires small. Large fires waste scarce fuel and add unwanted heat during the day.
 - Fire risk is highest in arid environments. Clear a wide perimeter and never leave fire unattended.
 
+!!! danger "DANGER"
+    Never burn poison ivy, oak, or sumac. Urushiol carries in the smoke and inflames
+    the airway and lungs — a medical emergency with no field treatment. Check gathered
+    brush and vine-covered deadwood before it goes on the fire. See
+    [Fire Principles](fire-principles.md).
+
 ## Common Mistakes
 
 - **Not gathering enough fuel before dark.** Searching for wood at night produces poor fuel and wastes energy. Stockpile during daylight.

@@ -175,6 +175,14 @@ Hafting attaches a stone, bone, or shell head to a wooden handle. A hafted tool 
 - Resharpen bone tools by grinding on rough stone.
 - Re-lash hafted tools at the first sign of loosening. A flying tool head is dangerous.
 - Store cutting tools in bark sheaths to protect edges and prevent injury.
+
+!!! warning "CAUTION"
+    A fresh stone flake is as sharp as a scalpel and has no handle, no guard, and no
+    predictable edge. Cut **away** from your body and never into your palm, keep your
+    other hand behind the blade, and expect the edge to shear unexpectedly — stone
+    fails without warning where steel bends. A deep cut in the field is an infection
+    risk before it is anything else. See
+    [Knife Use and Care](knife-use-and-care.md) for cutting technique.
 - Keep bone tools dry when not in use. Prolonged moisture weakens bone.
 
 ---

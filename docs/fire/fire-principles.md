@@ -138,6 +138,21 @@ Dig two holes roughly 12 in (30 cm) apart. The fire hole is 12 in (30 cm) diamet
 
 Clear a circle at least 10 ft (3 m) in diameter down to bare mineral soil if possible. Remove dry leaves, pine needles, grass, and duff. Scrape with a stick, boot, or improvised tool. If you cannot reach mineral soil, build the fire on a platform of green logs or rocks.
 
+!!! danger "DANGER: never burn poison ivy, oak, or sumac"
+    Burning these releases **urushiol in the smoke**. Inhaling it inflames the airway
+    and lung lining, and unlike a skin rash there is nothing you can do about it in the
+    field. It is a medical emergency and it has killed people.
+
+    You are most exposed exactly when you are least likely to be thinking about it —
+    clearing brush for a fire site, or grabbing an armful of dead vine-covered wood.
+    **Learn to recognize these plants without leaves**, since bare winter vines are
+    the usual culprit: poison ivy vines are hairy and cling to trunks like rope.
+
+    Also avoid burning oleander (toxic smoke), and any painted, treated, or salvaged
+    lumber — pressure-treated wood releases arsenic and chromium compounds.
+
+    See [Plant Poisoning](../medical/plant-poisoning.md) for identification.
+
 !!! danger "WARNING"
     Never build fire on wet or river-smoothed rocks. Trapped moisture expands when heated and can cause rocks to explode, sending fragments at lethal velocity.
 
@@ -248,6 +263,7 @@ Most predators avoid fire. Maintain a fire through the night in areas with large
 - Using only one size of kindling — the progression must be gradual.
 - Leaving fire unattended — wind shifts cause spread.
 - Placing wet rocks around the fire ring — explosion hazard.
+- Burning brush without checking it for poison ivy, oak, or sumac. Urushiol in smoke causes severe airway injury and is a medical emergency.
 - Not having a backup ignition method — always carry two.
 
 ## Fire Safety and Extinguishing
@@ -298,6 +314,7 @@ In non-emergency situations, practice leave-no-trace fire principles:
 - [Shelter Principles](../shelter/shelter-principles.md) — fire and shelter site selection and reflector placement.
 - [Signaling for Rescue](../navigation/signaling-for-rescue.md) — signal fires for attracting rescuers.
 - [Water Purification](../water/purification.md) — boiling water over fire for purification.
+- [Plant Poisoning](../medical/plant-poisoning.md) — identifying poison ivy, oak, and sumac before you burn them.
 
 ## Sources
 
