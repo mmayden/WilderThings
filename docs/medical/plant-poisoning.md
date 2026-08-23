@@ -41,7 +41,7 @@ Toxins affect the central or peripheral nervous system.
 
 **Caused by:** Water hemlock, poison hemlock, jimsonweed (Datura), nightshade (*Atropa belladonna*), yew (*Taxus*).
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     Water hemlock (*Cicuta*) is the most violently toxic plant in North America. Seizures begin within 15-60 minutes of ingestion and can be fatal. Evacuate immediately.
 
 ### Cardiac Toxicity
@@ -88,7 +88,7 @@ Activated charcoal binds many plant toxins in the GI tract and prevents absorpti
 
 ### Vomiting
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     Do NOT induce vomiting unless specifically instructed by poison control or a physician. Most plant toxins cause additional damage to the esophagus on the way back up. Seizure-causing plants (water hemlock, poison hemlock) create aspiration risk if the patient vomits and then seizes.
 
 If vomiting occurs spontaneously:
@@ -172,7 +172,7 @@ These plants cause phytophotodermatitis — sap on skin combined with sunlight p
 
 The full protocol lives in one place — **[Foraging Basics](../food/foraging-basics.md#the-universal-edibility-test)** — so there is only ever one version to follow. Read the warnings there before using it.
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     The Universal Edibility Test does NOT detect all toxins, including several that kill.
 
     - **Water hemlock, poison hemlock, death camas, foxglove, oleander, monkshood, and yew** can pass the tasting stages. Some taste mild or pleasant.

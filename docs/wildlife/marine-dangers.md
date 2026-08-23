@@ -89,7 +89,7 @@ Unprovoked shark attacks average 70–80 per year worldwide, with 5–10 fatalit
 - Treatment: remove tentacles with a stick or gloved hand (not bare skin). Rinse with seawater. Do not use vinegar — it may worsen man-of-war stings.
 - Immerse the affected area in hot water at 113°F (45°C) for 20–45 minutes.
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     Do not urinate on jellyfish stings. This is a myth and can worsen the sting. Use vinegar for box jellyfish or hot water for most other species.
 
 ## Sea Snakes
@@ -109,7 +109,7 @@ Unprovoked shark attacks average 70–80 per year worldwide, with 5–10 fatalit
 - Stings cause intense, immediate pain. The barbed spine may remain in the wound.
 - Treatment: immerse in hot water at 113°F (45°C) for 30–90 minutes. Remove the spine only if it comes out easily. Seek medical care for deep punctures or spines in the chest or abdomen.
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     A stingray spine to the chest or abdomen can be fatal. Do not remove the spine — stabilize it in place and evacuate immediately.
 
 ## Cone Snails
@@ -126,7 +126,7 @@ Unprovoked shark attacks average 70–80 per year worldwide, with 5–10 fatalit
 - Venom (tetrodotoxin) causes paralysis and respiratory failure. No antivenom exists.
 - Treatment: call emergency services immediately. Apply pressure immobilization bandage. Be prepared to perform rescue breathing for hours — the victim may be paralyzed but conscious. Full recovery is possible with respiratory support.
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     Never pick up a blue-ringed octopus. A single bite can kill within minutes if breathing support is not provided.
 
 ## Coral Cuts

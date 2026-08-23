@@ -139,7 +139,7 @@ The jungle provides the highest caloric density of any wilderness environment. K
 - **Palm hearts:** Cut the growing tip of young palms. The pale inner core is edible raw. Killing a palm for its heart is a survival measure — it destroys the tree.
 - **Fish and crustaceans:** Jungle streams contain fish, crayfish, and freshwater shrimp. Improvise traps or spear fish in shallow water.
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     Never eat brightly colored frogs. Tropical poison dart frogs secrete toxins through their skin that are lethal in microgram quantities.
 
 ## Movement Through Dense Vegetation

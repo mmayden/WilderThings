@@ -366,8 +366,24 @@ def check_signal_words(root):
     if bad:
         fail("signal word severity (ANSI Z535)",
              f"{len(bad)} mismatched; first: {bad[0]}")
+        return
+
+    # Severity has to be earned. DANGER means "will kill or maim" and is reserved
+    # for a short list — amatoxins, botulism, water hemlock, PSP, carbon monoxide,
+    # seawater, the handful of marine neurotoxins. If everything becomes DANGER the
+    # genuinely lethal warnings stop registering, which is the failure this tier
+    # exists to prevent.
+    total = sum(counts.values())
+    n_danger = counts.get("DANGER", 0)
+    share = n_danger / total if total else 0
+    if share > DANGER_SHARE_CEILING:
+        fail("DANGER label inflation",
+             f"{n_danger} of {total} labelled admonitions ({share:.0%}) are DANGER, "
+             f"above the {DANGER_SHARE_CEILING:.0%} ceiling. Warnings compete for "
+             f"attention — demote any that are 'could kill' rather than 'will kill'")
     else:
-        ok("signal word severity", f"{sum(counts.values())} labelled admonitions consistent")
+        ok("signal word severity",
+           f"{total} labelled admonitions consistent; DANGER reserved to {n_danger} ({share:.0%})")
 
 
 def check_content(root):
@@ -414,6 +430,7 @@ CLINICAL_ELSEWHERE = [
 ]
 
 STALE_AFTER_DAYS = 400  # annual cadence, with grace
+DANGER_SHARE_CEILING = 0.15  # DANGER must stay a clear minority to keep its force
 
 
 def _cites_clinical_body(text):

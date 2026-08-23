@@ -374,7 +374,7 @@ Cross-reference with [foraging-basics.md](foraging-basics.md) for the Universal 
 
 **Preparation:** Eat raw if water source is clean. Cook (boil 5 minutes) if there is any risk of contamination — watercress from streams grazed by livestock can carry liver flukes.
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     Water hemlock (*Cicuta*) grows in the same habitat. Water hemlock has compound leaves with sharply toothed, lance-shaped leaflets and a chambered root — it is one of the most toxic plants in North America. Learn the differences thoroughly before harvesting any waterside plant.
 
 **Calories:** ~5 per cup. Value is in vitamins and minerals (iron, calcium, vitamins A, C, K).

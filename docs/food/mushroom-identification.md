@@ -11,10 +11,10 @@ tags:
 
 > Mushroom foraging can feed you or kill you — there is no middle ground and no universal safety test.
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     Mushroom misidentification kills experienced foragers every year. There is NO universal edibility test for mushrooms — the protocol in [foraging-basics.md](foraging-basics.md) does NOT work for fungi. Some of the deadliest mushrooms taste pleasant, show no immediate symptoms, and kill you 3-7 days later through irreversible liver failure. If you have any doubt, do not eat it.
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     A single death cap (*Amanita phalloides*) mushroom contains enough toxin to kill an adult. Cooking, drying, freezing, or any other preparation does NOT neutralize the toxin. There is no field antidote.
 
 ## At a Glance
@@ -89,7 +89,7 @@ These species have distinctive features and no deadly look-alikes when properly 
 - Firm and solid (no soft spots, no discoloration)
 - No outline of a developing mushroom visible inside
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     Young *Amanita* (including death cap and destroying angel) start as white, egg-shaped buttons that can resemble small puffballs. When sliced open, a developing *Amanita* shows the outline of a mushroom (cap, gills, stem) inside. A true puffball is uniformly white with no internal structure. ALWAYS SLICE AND CHECK. If you see any internal structure, any yellow, brown, green, or purple discoloration — discard it.
 
 **Preparation:** Slice into 1/2 in (1 cm) slabs. Fry, bread and fry, or add to soups. Mild flavor absorbs seasonings well.

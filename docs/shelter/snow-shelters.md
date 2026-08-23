@@ -145,7 +145,7 @@ An experienced two-person team completes an igloo in 1.5-2 hours. A first-time b
 
 ### Ventilation
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     Carbon monoxide from stoves, candles, or body metabolism accumulates in sealed snow shelters. Maintain at least two ventilation holes at all times. If you feel drowsy, headachy, or nauseous, open the entrance immediately and get fresh air.
 
 Poke ventilation holes at a 45-degree upward angle to prevent rain or meltwater from dripping in. Check holes every few hours — snowfall and frost can seal them. Keep a stick inside the shelter to re-open blocked holes.

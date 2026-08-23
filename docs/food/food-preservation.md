@@ -162,7 +162,7 @@ Store fruits, roots, and meat in cool underground caches.
 
 Controlled fermentation preserves food through acid production by beneficial bacteria.
 
-!!! danger "WARNING: do not ferment fish or meat in a sealed container"
+!!! danger "DANGER: do not ferment fish or meat in a sealed container"
 
     Nearly half of all foodborne botulism cases in the United States occur in
     Alaska, almost entirely from traditionally fermented fish and marine mammal

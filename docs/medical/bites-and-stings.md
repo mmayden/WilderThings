@@ -222,7 +222,7 @@ Two or more body systems involved after a known exposure = anaphylaxis. Act imme
 
     #### Jellyfish and Portuguese Man-of-War
 
-    !!! danger "WARNING: vinegar is not for every species"
+    !!! danger "DANGER: vinegar is not for every species"
         **Vinegar helps for tropical box jellyfish. It makes Portuguese man-of-war / bluebottle (*Physalia*) stings WORSE** — it triggers unfired nematocysts to discharge. Identify the species, or default to hot water.
 
     !!! warning "CAUTION"

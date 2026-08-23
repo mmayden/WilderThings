@@ -76,7 +76,7 @@ See [Water Storage](../water/water-storage.md) for detailed guidance.
 - Rocket stove (uses small sticks, burns efficiently).
 - Solar oven in sunny climates.
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     Never use charcoal grills, propane heaters, or camp stoves indoors. Carbon monoxide is odorless and lethal.
 
 ## Power Alternatives
@@ -118,7 +118,7 @@ See [Water Storage](../water/water-storage.md) for detailed guidance.
     - Layer clothing: base layer, insulation, wind layer.
     - Body heat from 4 people warms a small room significantly.
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     Carbon monoxide kills silently. Any combustion heat source requires ventilation and a working CO detector with battery backup.
 
 ## Cooling Without Grid

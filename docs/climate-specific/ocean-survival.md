@@ -53,7 +53,7 @@ Execute these in order:
 
 ## Water Procurement at Sea
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     Seawater contains approximately 3.5% salt. Drinking it forces your kidneys to expel more water than the seawater provides. Seawater accelerates dehydration and causes organ failure. Never drink it.
 
 ### Rain Collection
@@ -186,7 +186,7 @@ Once ashore:
 - **Tidal pools:** Contain small fish, crabs, sea urchins, and snails. All are edible when cooked.
 - **Coconuts:** Available on tropical coasts. Green coconuts contain the most liquid. Mature coconuts provide calorie-dense meat.
 
-!!! danger "WARNING: cooking does NOT prevent paralytic shellfish poisoning"
+!!! danger "DANGER: cooking does NOT prevent paralytic shellfish poisoning"
 
     Saxitoxin, the toxin behind PSP, is **heat and acid stable**. Boiling,
     frying, steaming, canning, and freezing all leave it intact. Acid plus heat

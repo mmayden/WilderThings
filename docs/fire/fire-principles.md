@@ -35,7 +35,7 @@ Fuel is any combustible material. In survival fire-making, fuel progresses throu
 
 Air contains roughly 21% oxygen. Fire consumes oxygen rapidly. A smothered fire dies. Ensure airflow reaches the base of the fire at all times. Blow gently on coals to increase oxygen supply. Pack fuel loosely enough for air to circulate between pieces.
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     In enclosed spaces (caves, snow shelters, vehicles), fire depletes oxygen and produces carbon monoxide. Ensure ventilation or risk asphyxiation.
 
 ## Fuel Stages: Tinder, Kindling, Fuel Wood

@@ -21,7 +21,7 @@ tags:
 
 ## The Universal Edibility Test
 
-!!! danger "WARNING: this test does not detect the plants most likely to kill you"
+!!! danger "DANGER: this test does not detect the plants most likely to kill you"
 
     The Universal Edibility Test comes from the U.S. Army survival manual and is
     widely reproduced, but it is a **last resort with real limits**, not a safety

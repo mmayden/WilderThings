@@ -154,7 +154,7 @@ Ground insulation remains the top priority. For long-term use, improve beyond th
 
 ## Ventilation and Smoke Management
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     Carbon monoxide from an interior fire is odorless and lethal. Never seal a shelter completely. Always maintain at least two ventilation openings.
 
 ### Smoke Hole Design

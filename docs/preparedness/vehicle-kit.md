@@ -90,7 +90,7 @@ Every vehicle should carry these items year-round, regardless of climate or vehi
     - Candle and metal can (emergency heat source inside vehicle — crack window for ventilation).
     - Sleeping bag rated to 0 degF (-18 degC) or lower.
 
-    !!! danger "WARNING"
+    !!! danger "DANGER"
         Never run the engine for heat with snow blocking the exhaust pipe. Carbon monoxide enters the cabin within minutes. Clear the tailpipe before idling and crack a downwind window.
 
 === "Desert / Summer Kit"

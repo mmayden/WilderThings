@@ -183,7 +183,7 @@ Dew forms even in deserts when nighttime temperatures drop below the dew point. 
 
 ## Seawater Desalination
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     Never drink seawater. Seawater contains approximately 3.5% salt. Your kidneys require more water to flush the salt than the seawater provides, creating a net water loss that accelerates death.
 
 ### Improvised Distillation

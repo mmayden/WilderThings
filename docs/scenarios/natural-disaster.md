@@ -90,7 +90,7 @@ tags:
 
 ### After the Storm
 
-!!! danger "WARNING: carbon monoxide kills people who survived the storm"
+!!! danger "DANGER: carbon monoxide kills people who survived the storm"
 
     Generators, pressure washers, charcoal grills, and camp stoves running
     indoors are a leading cause of death **after** hurricanes and winter storms

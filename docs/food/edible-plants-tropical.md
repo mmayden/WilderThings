@@ -125,7 +125,7 @@ Each entry covers identification, habitat, edible parts, preparation, and danger
 
 **Habitat:** Tropical lowlands worldwide. Staple food across Africa, South America, SE Asia.
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     Improperly prepared cassava causes cyanide poisoning — symptoms include dizziness, headache, vomiting, convulsions, and death. If you cannot identify the variety, treat all cassava as bitter and process fully.
 
 **Preparation (bitter cassava — safest default):**

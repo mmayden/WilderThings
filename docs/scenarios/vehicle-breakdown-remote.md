@@ -69,7 +69,7 @@ If you leave, write a note on the vehicle dashboard: your name, the date, the ti
     - Build a fire 10-15 feet (3-4.5 m) from the vehicle (not under trees, not near fuel leaks).
     - Use the vehicle as a reflective wall — fire heat bounces off the vehicle body back toward you.
 
-!!! danger "WARNING"
+!!! danger "DANGER"
     Never run a vehicle engine for heat in an enclosed space without ventilation. Carbon monoxide is odorless and fatal within minutes.
 
 ---

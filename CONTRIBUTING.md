@@ -298,8 +298,13 @@ project's warnings already do this — keep it.
 **Warnings compete with each other for attention.** If every block is red, the
 reader stops distinguishing them and the genuinely lethal ones lose their force.
 Reserve DANGER for the small number of things that actually belong there:
-amatoxins, botulism, water hemlock, PSP, carbon monoxide, hypothermic
-handling, arterial bleeding.
+amatoxins, botulism, water hemlock, paralytic shellfish poisoning, carbon
+monoxide, drinking seawater, cassava cyanide, and the marine neurotoxins
+(box jellyfish, cone snail, blue-ringed octopus).
+
+`scripts/verify.py --content docs` fails if DANGER exceeds 15% of labelled
+admonitions. It currently sits at 8% across 26 blocks. That ceiling is not a
+target to fill — it is a tripwire against inflation.
 
 ---
 
