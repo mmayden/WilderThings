@@ -70,8 +70,22 @@ See [Water Storage](../water/water-storage.md) for detailed guidance.
 | Dried pasta, rice, beans | 1-2 years (8-30 years if sealed with O2 absorbers) | Require water and heat to prepare |
 | Freeze-dried meals | 25-30 years | Expensive but lightweight |
 | Peanut butter | 1-2 years | Calorie-dense, no prep needed |
-| Honey | Indefinite | Energy source, wound care |
+| Honey | Indefinite | Energy source, wound care — **never for infants under 1** |
 | Hardtack, pilot bread | 5+ years | Dense calories, long shelf life |
+
+!!! danger "DANGER: never give honey to a child under one year old"
+    Honey routinely contains *Clostridium botulinum* spores. An adult gut handles them
+    without trouble; an infant's does not, and the spores germinate and produce toxin
+    inside the bowel. Infant botulism causes weakness, a feeble cry, poor feeding,
+    constipation, and a floppy head, progressing to paralysis of the muscles used to
+    breathe.
+
+    This applies to raw and pasteurised honey alike — pasteurisation does not kill the
+    spores — and to anything containing honey. Nothing you can do at home makes it safe.
+    Cooking does not, because the danger is the spore, not a toxin already present.
+
+    Honey earns its place in a food store for everyone over one year old. Label it, and
+    keep it away from anything you would prepare for a baby.
 
 ### Cooking Without Power
 
@@ -180,12 +194,32 @@ Store copies of these documents in a fireproof safe and in a separate off-site l
 
 ## Shelter-in-Place Supplies
 
-For chemical, biological, or radiological events:
+For events where the outside air is the hazard — smoke, ash, dust, or an airborne release:
 
 - Plastic sheeting, 4-6 mil thickness, pre-cut to window and door sizes.
 - Duct tape.
 - N95 or P100 respirators (2 per person).
 - NOAA weather radio for alerts.
+
+!!! warning "CAUTION: an N95 stops particles, not gases"
+    N95 and P100 filters trap particulates — smoke, ash, dust, and the droplets that
+    carry most biological agents. They do **nothing** against gases and vapours, which
+    pass straight through. Protection from a chemical release needs a cartridge
+    respirator matched to that chemical, and knowing which chemical it is.
+
+    For a chemical release the realistic protection is distance and a sealed room, not a
+    mask. Follow the instructions from local authorities, who will know what was
+    released.
+
+!!! danger "DANGER: a sealed room is measured in hours, not days"
+    Taping plastic over the windows and doors of a room also seals in the people. Carbon
+    dioxide from your own breathing accumulates, and the smaller the room and the more
+    people in it, the faster.
+
+    A sealed room is a short-term measure — a few hours, until the plume passes or
+    authorities give the all-clear. **Break the seal and ventilate once the outside
+    hazard has passed.** Do not treat sealing a room as a way to wait out a multi-day
+    event, and never seal a room and go to sleep in it.
 
 ## Neighborhood Coordination
 
@@ -202,6 +236,9 @@ For chemical, biological, or radiological events:
 - **Medications not rotated.** Expired medications lose potency. Rotate your emergency supply with your regular prescriptions.
 - **Plan exists only in one person's head.** Every household member must know the plan. Write it down. Practice it.
 - **Ignoring sanitation.** Waterborne illness from poor sanitation kills more people in prolonged emergencies than the disaster itself.
+- **Giving stored honey to a baby.** Honey carries botulism spores that an infant gut cannot handle. Over one year old only.
+- **Treating an N95 as chemical protection.** It filters particles. Gases pass through it.
+- **Sealing a room and staying in it.** Sealed rooms are for hours. Your own exhaled CO2 is the limit.
 
 ## Quick Reference
 
@@ -232,6 +269,8 @@ For chemical, biological, or radiological events:
 - Federal Emergency Management Agency. *Are You Ready? An In-Depth Guide to Citizen Preparedness.* FEMA, 2004.
 - American Red Cross. *Home Emergency Preparedness Kit.* redcross.org, 2024.
 - Centers for Disease Control and Prevention (CDC). *Emergency Water Supply Preparation.* 2024.
+- Centers for Disease Control and Prevention (CDC). *Infant Botulism* — honey as a source of spores.
+- Ready.gov, "Build a Kit" and shelter-in-place guidance.
 - U.S. Department of Energy. *Home Generator Safety.* energy.gov, 2023.
 - Rawles, James Wesley. *How to Survive the End of the World as We Know It.* Plume, 2009.
 - Stein, Matthew. *When Technology Fails.* Chelsea Green Publishing, 2008.
