@@ -12,11 +12,23 @@ tags:
 
 ## At a Glance
 
-- A debris hut traps body heat like a sleeping bag made of forest litter — effective to below 0 F / -18 C with sufficient insulation.
+- A debris hut traps body heat like a sleeping bag made of forest litter. A well-built one
+  handles hard freezing conditions; a thin one at those temperatures is worse than useless
+  because it feels like shelter.
 - Total build time: 3–6 hours for a one-person hut with adequate materials nearby.
 - Minimum debris depth on the roof: 3 feet (1 meter) of loose material, measured from the ribbing outward.
 - Ground insulation is the single most important layer — build it thick.
 - The shelter must be small — barely larger than your body — to retain warmth effectively.
+
+!!! warning "CAUTION: what the temperature rating depends on"
+    Debris huts are often described as good to 0°F (-18°C) and below. That is achievable
+    and it is entirely a function of build quality — specifically the **debris depth**
+    and the **ground insulation**, which are the two things people cut short when tired.
+
+    A hut with 1 ft (30 cm) of debris instead of 3 ft (1 m) is not "less warm". It is a
+    structure that keeps rain off while you get cold at almost the same rate, and it
+    removes the urgency that would have made you keep working. Treat the depth figures in
+    this guide as the specification, not as a target to approach.
 
 ## Tools and Materials Needed
 
@@ -107,6 +119,15 @@ The shelter now looks like a skeletal tent covered in a mesh of sticks.
 
 This is the insulation step — the most labor-intensive and the most critical. The debris layer IS the shelter. Everything before this was just scaffolding.
 
+!!! warning "CAUTION: do not sweat while building this"
+    Collecting 30-40 armloads of debris is hours of hard physical work, usually in the
+    cold and often in a hurry. Sweat soaks the clothing you are about to sleep in, and
+    wet insulation does not insulate — you can finish a good shelter and still become
+    hypothermic in it.
+
+    Strip layers before you start, work at a pace you can sustain, and put the layers
+    back on the moment you stop. Being slightly cold while working is correct.
+
 ### Collecting Debris
 
 - **Ideal materials:** dry dead leaves, pine needles, dried grass, bracken fern fronds, forest duff.
@@ -154,6 +175,30 @@ This is far more material than most people initially estimate. When you think yo
 
 Lie on the ground insulation layer for 5 minutes. If you feel cold from below, add more material. You must feel separated from the earth.
 
+## Fire and the Debris Hut
+
+!!! danger "DANGER: a debris hut is a body-sized pile of dry tinder, and you sleep inside it"
+    Everything that makes this shelter warm — dry leaves, dead grass, loose fluffy
+    material with air through it — is what you would choose if you were trying to build
+    the best possible tinder bundle. It will take a spark and go up in seconds.
+
+    You are inside a space barely larger than your body, with a debris plug in the only
+    opening, and that opening is the obvious place to put a fire. **Do not.**
+
+    - Keep any fire at least **6 ft (1.8 m)** from the debris, as with any shelter — see
+      [Shelter Principles](shelter-principles.md).
+    - Never light a fire at the entrance, inside, or upwind where sparks carry onto it.
+    - Never bring a candle, stove, or lit tinder bundle inside.
+
+!!! tip "You do not need a fire for this shelter to work"
+    That is the point of the design. A debris hut heats itself from your body, the way a
+    sleeping bag does — which is why depth and ground insulation matter so much and why
+    the interior is coffin-sized. If you are cold in a finished debris hut, the answer is
+    more debris, not fire.
+
+    If you want radiant heat from a fire while you sleep, that is a different shelter: a
+    lean-to with a reflector wall, built to face the fire at a safe distance.
+
 ## Step 7: Construct the Door Plug
 
 An open entrance hemorrhages heat. Seal it.
@@ -195,7 +240,13 @@ In dry conditions, the deep debris layer sheds light rain on its own. In heavy r
 | Door plug | 10–15 minutes | Simple but critical |
 | **Total** | **3–6 hours** | Faster with experience, tools, or help |
 
-Start building **no later than 4 hours before dark**. Building in darkness is extremely difficult and the results are poor.
+Work back from darkness, not forward from now. The build takes **3-6 hours**, so start
+with at least that much daylight left — 6 hours if you have not done this before, are
+working alone, or the material is scattered. Add site selection on top.
+
+If you have less time than that, do not start a full debris hut. Build a leaf pile or
+use a natural hollow tonight and improve it tomorrow. A finished rough shelter beats a
+half-built good one, and building in darkness produces neither.
 
 ## One-Person vs Two-Person Sizing
 
@@ -216,7 +267,7 @@ Start building **no later than 4 hours before dark**. Building in darkness is ex
 - Total debris needed: 50–70 armloads. Nearly double the one-person hut.
 - Build time: 5–8 hours.
 
-!!! danger "WARNING"
+!!! warning "CAUTION"
     A two-person hut requires dramatically more material and time. The larger interior volume is harder to heat with body warmth alone. Two smaller one-person huts may be more thermally efficient if time and materials allow.
 
 ### Trade-Off
@@ -310,6 +361,9 @@ If staying more than one night:
 - **Building too late in the day** — start by early afternoon at the latest. A half-finished hut at nightfall provides half the protection.
 - **Packing debris too tightly** — loose, fluffy material insulates. Compressed material does not. Pile it on loosely.
 - **Ignoring overhead hazards** — checking for widow makers takes 30 seconds and may save your life.
+- **Lighting a fire near the hut** — it is a tinder bundle you sleep inside. Keep fire 6 ft (1.8 m) clear, and never at the entrance.
+- **Sweating during the build** — wet clothes in a cold shelter cause the thing the shelter was built to prevent.
+- **Starting with only 4 hours of daylight** — the build takes 3-6. Make a leaf pile instead and improve it tomorrow.
 - **Entering head-first** — enter feet-first so your head stays near the entrance for air and quick exit.
 - **Forgetting to test** — lie inside the frame before adding debris to verify fit. Lie on the ground insulation before sleeping to verify warmth. Use the arm test to verify debris depth.
 
@@ -334,6 +388,8 @@ If staying more than one night:
 - [Water Purification](../water/purification.md) — treat water at your shelter camp.
 - [Cordage](../tools-and-craft/cordage.md) — lashing material for structural reinforcement.
 - [Knife Use and Care](../tools-and-craft/knife-use-and-care.md) — cutting and shaping shelter materials.
+- [Fire Principles](../fire/fire-principles.md) — safe fire placement, and reflector walls for a lean-to instead.
+- [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md) — what a thin shelter or wet clothing leads to.
 
 ## Sources
 
