@@ -51,8 +51,20 @@ Not all stone works for tool-making. Seek fine-grained, glassy, or crypto-crysta
 4. A sharp flake detaches from the opposite side. This flake is your cutting tool.
 5. Use the flake as-is for cutting hide, plant fibers, or meat. The edge is sharper than steel when freshly struck.
 
-!!! danger "WARNING"
-    Fresh stone flakes are razor-sharp. Handle edges with extreme care. Wrap the non-cutting end with bark or leather before use.
+!!! danger "DANGER: protect your eyes before you strike the first flake"
+    Percussion flaking throws razor-sharp fragments at speed, and they travel toward your
+    face. Eye injury is the characteristic knapping injury, and losing an eye in the field
+    is not survivable in any practical sense — you lose depth perception for every task
+    left, and there is no treatment you can improvise.
+
+    Wear whatever eye protection you have: sunglasses, prescription glasses, goggles from
+    a kit. If you have none, angle the core so flakes detach away from you, turn your face
+    aside at the moment of impact, and work at arm's length rather than in your lap.
+
+    Also: fresh flakes are sharper than a scalpel and you will not feel the cut
+    immediately. Wrap the non-cutting end with bark or leather before use, keep the
+    working area clear of flakes you are kneeling on, and gather the debris rather than
+    leaving it where you walk barefoot or set down a hand.
 
 ### Pressure Flaking (Refining Edges)
 
@@ -188,6 +200,8 @@ Hafting attaches a stone, bone, or shell head to a wooden handle. A hafted tool 
 ---
 
 ## Common Mistakes
+
+- **Knapping without eye protection.** Flakes travel toward the face at speed. This is the injury that ends the trip.
 - Striking tool stone with another piece of the same material (use a harder hammer stone or softer antler for control).
 - Using softwood for digging sticks and clubs (softwood breaks under load).
 - Fire-hardening by placing wood directly in flame (this chars and weakens the wood — hold near coals, not in fire).

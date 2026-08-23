@@ -195,8 +195,8 @@ Follow this sequence without skipping steps:
 9. **Graduate to fuel wood.** Once kindling is fully engaged, add wrist-thickness fuel wood. Wait for full combustion before adding arm-thickness logs.
 10. **Maintain.** Feed the fire on a schedule. Do not let it burn down to bare coals until you have added enough fuel to sustain it.
 
-!!! danger "WARNING"
-    The most dangerous moment is between steps 7 and 8. Adding too much kindling too fast smothers the flame. Add one or two sticks at a time and wait for each to catch.
+!!! tip
+    The moment most fires fail is between steps 7 and 8. Adding too much kindling too fast smothers the flame. Add one or two sticks at a time and wait for each to catch.
 
 ## Why Fire Fails
 
