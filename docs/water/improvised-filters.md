@@ -36,6 +36,9 @@ Quality charcoal is the backbone of every improvised filter. Use hardwood — oa
 1. Build a hot fire and let it burn down to glowing coals.
 2. Remove coals with a stick or makeshift tongs and place them in a metal container or pit.
 3. Smother the coals immediately — cover with a lid, sand, or dirt. Cut off all oxygen.
+   **Do this outdoors.** Starving coals of oxygen is exactly the condition that produces
+   carbon monoxide, which is odourless and kills without warning. Never smother coals
+   inside a shelter, tent, vehicle, or snow cave.
 4. Let the container cool completely, at least 3–4 hours.
 5. Crush the charcoal into pea-sized pieces, roughly 1/4 inch (6 mm). Do not grind to powder — powder clogs filters and passes through.
 
@@ -157,7 +160,20 @@ Clay-rich soil can be formed into a crude ceramic filter if you have the ability
 3. Form into a pot or disk shape, 1/2 inch (1.3 cm) thick.
 4. Let air-dry for 24–48 hours.
 5. Fire in a hot campfire for 3–4 hours. The organic material burns out, leaving microscopic pores in the clay.
-6. The resulting ceramic filters water slowly — roughly 1 quart (1 liter) per 2–3 hours — but removes particles down to 1–5 microns, including most bacteria and protozoa.
+6. The resulting ceramic filters water slowly — roughly 1 quart (1 liter) per 2–3 hours —
+   down to roughly 1–5 microns.
+
+!!! warning "CAUTION: this catches protozoa, not bacteria"
+    At 1–5 microns an improvised ceramic will hold back *Giardia* (8–12 µm) and
+    *Cryptosporidium* (4–6 µm), which is genuinely useful — those are the two that
+    chlorine and iodine struggle with. It does **not** hold back bacteria, which run
+    0.1–10 microns and mostly pass straight through, and it does nothing at all to
+    viruses at 0.005–0.1 microns. See the pathogen size table in
+    [Water Purification](purification.md#understanding-the-threats).
+
+    A commercial ceramic element is rated 0.2–0.5 microns — roughly ten times finer than
+    anything a campfire firing will produce, and the reason commercial ones can claim
+    bacteria removal while this cannot.
 
 !!! note
     Improvised ceramics are fragile and inconsistent. Cracks and uneven firing create passages that bypass filtration. Inspect carefully before relying on this method. Always purify the output.
@@ -187,6 +203,8 @@ Clay-rich soil can be formed into a crude ceramic filter if you have the ability
 - **Pouring water too fast.** Flooding the filter pushes unfiltered water through channels in the media. Pour slowly and steadily.
 - **Never replacing filter media.** All filter media has a finite capacity. Sand and charcoal saturate with contaminants. Rebuild on schedule.
 - **Skipping the pre-filter step.** Running muddy water directly through a fine filter clogs it within minutes. Always use gravel or cloth as a first stage.
+- **Trusting an improvised ceramic against bacteria.** At 1–5 microns it catches protozoa and passes bacteria. Purify the output regardless.
+- **Smothering charcoal coals under cover.** Oxygen-starved coals produce carbon monoxide. Make charcoal outdoors, never in a shelter.
 
 ## Quick Reference
 
@@ -206,15 +224,15 @@ Clay-rich soil can be formed into a crude ceramic filter if you have the ability
 
 ## See Also
 
-- [Water Purification](purification.md)
-- [Finding Water in the Wild](finding-water.md)
-- [Water Storage](water-storage.md)
+- [Water Purification](purification.md) — the step that has to follow filtering, and what each method does not kill.
+- [Finding Water in the Wild](finding-water.md) — sourcing water worth filtering, and what it costs to get.
+- [Water Storage](water-storage.md) — keeping treated water clean once you have it.
 - [Containers and Vessels](../tools-and-craft/containers-and-vessels.md) — improvised containers for filter construction.
 - [Cordage](../tools-and-craft/cordage.md) — binding material for filter assemblies.
 
 ## Sources
 
-- U.S. Army, *FM 21-76 Survival Manual*, Department of the Army, 2002
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - World Health Organization, *Guidelines for Drinking-water Quality*, 4th ed., 2011
 - Centers for Disease Control and Prevention, "Household Water Treatment: Filtration," CDC Global Water, Sanitation & Hygiene, 2020
