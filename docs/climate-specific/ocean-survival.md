@@ -140,7 +140,7 @@ Commercial solar stills (inflatable, cone-shaped) produce 1-3 pints (0.5-1.5 lit
     EPIRB (Emergency Position Indicating Radio Beacon) transmits your position to search-and-rescue satellites. Activate immediately after abandoning the vessel. VHF radio channel 16 is the international distress frequency.
 
 === "Visual"
-    Flares: fire parachute flares at night for maximum visibility. Handheld flares for close-range signaling when rescue is in sight. Signal mirror: effective up to 50 miles (80 km) in clear conditions. Aim at aircraft or ships. Sea dye marker: turns surrounding water bright green/orange, visible from aircraft.
+    Flares: fire parachute flares at night for maximum visibility. Handheld flares for close-range signaling when rescue is in sight. Signal mirror: roughly 10 miles (16 km) in ordinary conditions, up to 50 miles (80 km) in clear air with a proper aimed mirror. Aim at aircraft or ships. Sea dye marker: turns surrounding water bright green/orange, visible from aircraft.
 
 === "Improvised"
     Whistle: carries farther than shouting. Metal objects: flash reflected sunlight. Dark objects waved against sky: visible against the horizon. Fire in a metal container on the raft: visible at night (use extreme caution with fire on inflatable rafts).

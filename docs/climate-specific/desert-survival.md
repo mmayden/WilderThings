@@ -15,7 +15,7 @@ tags:
 
 - Dehydration kills in 2-3 days without water. In desert heat, you may have less than 24 hours.
 - Stay in shade during daylight. Move at night, dawn, or dusk when temperatures drop 30-50°F (17-28°C).
-- Keep clothing on. Full coverage reduces sweat evaporation rate and extends hydration.
+- Keep clothing on. Loose, light-covering clothing blocks solar radiation and holds sweat against the skin where it actually cools you instead of dripping away. You sweat less for the same cooling, so your water lasts longer.
 - Stay with your vehicle if stranded. A vehicle is visible from the air, provides shade, and contains salvageable materials.
 - Flash floods kill more people in deserts than dehydration. Never camp in dry washes.
 
@@ -54,7 +54,7 @@ Direct sun exposure in desert environments can produce ground temperatures of 15
 - Vegetation lines: green vegetation in a dry landscape indicates subsurface water. Dig nearby.
 - Animal trails converging on a single point often lead to water.
 - Collect dew at dawn using a cloth dragged across vegetation. Wring into a container.
-- Solar still: dig a pit 3 ft (1 m) wide, 2 ft (60 cm) deep. Place a container in the center. Cover with clear plastic, seal edges with soil, place a small stone over the container. Yields 1-3 cups (240-710 ml) per day.
+- Solar still: dig a pit 3 ft (1 m) wide, 2 ft (60 cm) deep. Place a container in the center. Cover with clear plastic, seal edges with soil, place a small stone over the container. Yields 0.5-1 quart (0.5-1 L) per day in moist soil with full sun, and close to nothing in dry sand without added vegetation.
 
 !!! note
     Solar stills produce minimal water relative to the energy spent building them. Use them as a supplement, not a primary source.
@@ -147,14 +147,14 @@ Desert temperatures can swing 50-60°F (28-33°C) between day and night. A 110°
 
 - Flat, open terrain makes ground-to-air signals visible from extreme distances.
 - Build signal fires with added rubber, oil, or green vegetation for black smoke (visible against light sand).
-- Lay out contrasting materials in geometric patterns: X for "need help," V for "need assistance."
-- Mirror flashes are visible up to 50 miles (80 km) in clear desert air. Aim at aircraft or distant high points.
+- Lay out contrasting materials in geometric patterns: **V** (require assistance) or **X** (require medical assistance). See [Signaling for Rescue](../navigation/signaling-for-rescue.md) for the full ICAO set.
+- A signal mirror is effective to roughly 10 miles (16 km) in ordinary conditions, and considerably further — 50 miles (80 km) or more — with a proper aimed mirror in clear air. Desert air is unusually clear, so expect the upper end. Aim at aircraft or distant high points.
 - Three of anything (fires, rock piles, whistle blasts) is the universal distress signal.
 
 ## Common Mistakes
 
 - **Rationing water.** Drink when thirsty. Your body cannot store water by drinking less — you just dehydrate faster.
-- **Removing clothing in heat.** Full clothing coverage reduces direct solar radiation and slows sweat evaporation, keeping you cooler longer.
+- **Removing clothing in heat.** Bare skin absorbs far more solar radiation, and sweat runs off rather than evaporating where it cools you. Loose full coverage keeps you cooler and costs less water.
 - **Walking during peak heat.** Rest in shade from 10 AM to 4 PM. Movement in peak heat doubles water consumption.
 - **Camping in dry washes.** Flash floods arrive without warning and carry lethal force.
 - **Leaving a broken-down vehicle.** The vehicle is your best shelter, signal, and supply cache. Stay with it.

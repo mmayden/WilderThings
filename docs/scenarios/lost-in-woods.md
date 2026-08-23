@@ -81,7 +81,7 @@ Select a location that is:
 - Away from dead standing trees (widowmakers)
 
 ### 3. Build or Improvise Shelter
-Your body loses heat 25 times faster on wet ground than in still air. Insulate from below first.
+Cold, wet ground pulls heat out of you far faster than cold air does — the 25x figure often quoted belongs to full water immersion, but wet ground is the same mechanism at lower intensity. Insulate from below first.
 - **Leaf litter bed:** Pile dry leaves, pine needles, or grass at least 6 in (15 cm) deep.
 - **Debris hut:** Ridgepole at 45 degrees, ribs of branches on both sides, piled with leaves and brush. Body-width only — smaller is warmer.
 - **Trash bag shelter:** Cut open a bag for a lean-to or wrap yourself in it as a vapor barrier.

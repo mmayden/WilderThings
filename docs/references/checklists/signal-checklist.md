@@ -51,7 +51,7 @@ tags:
 - [ ] Extend your other hand toward the target (aircraft, distant person) and form a V or peace sign with your fingers
 - [ ] Tilt the mirror until the reflected sunlight hits your extended fingers
 - [ ] Sweep the light slowly across the target; do not hold it steady (the flash of movement catches attention)
-- [ ] A signal mirror is effective beyond 10 miles (16 km) in clear conditions
+- [ ] A signal mirror reaches roughly 10 miles (16 km) in ordinary conditions and 50 miles (80 km) or more in clear air — one of the longest-range signals you can carry
 - [ ] Practice the technique before you need it
 
 ### Whistle Signals

@@ -17,7 +17,7 @@ tags:
 - Tactical breathing (box breathing, 4-7-8) is the fastest way to regain cognitive control
 - The STOP protocol (Stop, Think, Observe, Plan) prevents panic-driven mistakes
 - Breaking tasks into small steps prevents overwhelm and builds momentum
-- Sleep deprivation kills faster than hunger — prioritize rest even in 20-minute micro-naps
+- Sleep deprivation wrecks your judgment far faster than hunger does — prioritize rest even in 20-minute micro-naps
 
 ## The Acute Stress Response
 
@@ -34,7 +34,26 @@ This is the fight/flight/freeze response. It evolved for immediate physical thre
 | 145-175 | Cognitive processing deteriorates, tunnel vision begins |
 | 175+ | Gross motor skills only, irrational behavior, freezing, panic |
 
-The goal is not to eliminate stress. The goal is to keep heart rate and arousal in the 115-145 range where you retain enough cognitive function to make decisions.
+!!! warning "CAUTION: this table is about fear, not effort"
+    These bands come from the Siddle and Grossman model used in tactical training.
+    They describe heart rate driven by **fear and adrenaline** — not by exertion.
+    Grossman states this himself, and it matters enormously here: hauling firewood
+    up a slope at 150 bpm does not mean your cognition is deteriorating. A fit person
+    can work at 170 bpm and think perfectly well.
+
+    Treat it as a useful training model rather than established physiology, and do
+    not try to manage a number you cannot measure.
+
+**What to actually watch for.** You will not know your heart rate in the field, so
+judge arousal by what you can observe in yourself:
+
+- Hands shaking; fumbling zips, knots, or a lighter
+- Tunnel vision — you have stopped noticing things at the edges
+- Racing, looping thoughts, or the sense that time has sped up or stalled
+- You have re-read or re-checked the same thing several times without taking it in
+
+Any of those means slow down and breathe before continuing. The aim is not a target
+heart rate. It is keeping enough of yourself online to make the next decision.
 
 !!! danger "WARNING"
     The freeze response is the most dangerous in survival. A person who freezes stops problem-solving entirely. If you recognize you have stopped moving, stopped thinking, or are staring blankly — force yourself through the STOP protocol below.
@@ -128,7 +147,12 @@ Rhythmic counting — steps, breaths, repetitive motions — engages a different
 
 ## Sleep Management
 
-Sleep deprivation degrades judgment faster than hunger, dehydration, or moderate cold. After 24 hours without sleep, cognitive performance drops by 25%. After 48 hours, it drops by 40% and hallucinations begin.
+Sleep deprivation degrades judgment faster than hunger, dehydration, or moderate cold. This is the practical point: you will make a fatal decision long before you starve.
+
+After roughly 24 hours awake, judgment and reaction time are impaired to an extent often compared to being legally drunk. Past 48 hours, perceptual distortions and eventually hallucinations set in, and they get worse the longer it runs.
+
+!!! note "How certain is this?"
+    The judgment effects are well established. The stronger claim — that sleep loss kills *faster* than starvation — comes from animal studies (rats, and dogs in 1890s experiments), and **no human death from sleep deprivation alone has been documented.** The longest recorded case, 11 days, was survived. Treat sleep as a decision-making resource, not as something that will kill you before hunger does.
 
 ### Micro-Naps
 
@@ -154,7 +178,7 @@ In a group, rotate watch shifts to maximize total sleep.
 ### Sleep Hygiene in the Field
 
 - Warm your core before attempting sleep. Shivering prevents sleep onset.
-- Insulate from the ground — ground contact drains heat 25 times faster than air.
+- Insulate from the ground. Lying directly on cold ground pulls heat out of you far faster than cold air does, and it melts a wet patch under you that makes it worse. Put something — boughs, pack, spare clothing — between you and the ground.
 - Establish a consistent sleep location and routine. The brain associates familiar environments with sleep.
 - Empty your bladder. A full bladder disrupts sleep onset and quality.
 
