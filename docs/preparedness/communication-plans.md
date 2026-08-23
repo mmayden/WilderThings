@@ -79,7 +79,16 @@ When cell towers, internet, and landlines are down, radio becomes your primary c
 
 - FRS radios are inexpensive ($20-50 per pair) and legal to use without a license.
 - GMRS radios offer more power (up to 50 watts) and repeater access. One license covers the entire household.
-- Pre-program channel and privacy code for your family. Write them on the communication card.
+- Pre-program channel and tone code for your family. Write them on the communication card.
+
+!!! warning "CAUTION: a \"privacy code\" provides no privacy"
+    The privacy codes on FRS and GMRS radios are CTCSS or DCS squelch tones. They stop
+    *your* radio playing traffic from other groups on the same channel. They do not
+    encrypt anything and they do not stop anyone hearing you — a scanner, or any radio
+    with the tone squelch off, receives every word.
+
+    Choose a code so you are not listening to strangers. Never choose one believing it
+    makes the conversation private.
 
 !!! tip
     FRS Channel 1 with no privacy code is the most commonly monitored family channel. Use it if you need to reach strangers for help.
@@ -119,9 +128,15 @@ Traditional copper landlines (POTS — Plain Old Telephone Service) have indepen
 | Garmin inReach Mini 2 | $12-65 | Yes | Global (Iridium) |
 | SPOT Gen4 | $12-50 | Yes | Global (Globalstar) |
 | Zoleo | $20-50 | Yes | Global (Iridium) |
-| Apple iPhone 14+ (Emergency SOS) | Included | Yes | Limited (satellite) |
+| Phone satellite SOS (iPhone 14+, Pixel 9/10, Galaxy S25+) | Included on iPhone; 2 yr free on Pixel | Yes | Needs clear sky — a canopy blocks it |
 
-Satellite communicators work anywhere on Earth with a clear view of the sky. They are the most reliable emergency communication tool available.
+Satellite communicators work anywhere on Earth with a clear view of the sky. They are the
+most reliable emergency communication tool available.
+
+The phone in your pocket may already do a limited version of this at no cost — see
+[Satellite SOS Built Into Your Phone](../navigation/gps-and-electronics.md#satellite-sos-built-into-your-phone).
+It is a backstop rather than a replacement: a dedicated beacon has no subscription, no
+operating system, and a battery that outlasts a phone.
 
 !!! note
     Satellite communicators require a subscription plan. Activate and test before you need them. An untested device in a crisis is an expensive paperweight.
@@ -162,7 +177,14 @@ Establish a schedule for radio check-ins:
 4. If no contact after 3 missed check-ins, the group initiates the search plan.
 
 !!! warning "CAUTION"
-    Do not transmit sensitive information (exact home address, security details, supply inventory) over open radio frequencies. Anyone can listen.
+    Do not transmit sensitive information (exact home address, security details, supply inventory) over open radio frequencies. Anyone can listen, including on channels with a tone code set.
+
+!!! note "Licences and genuine emergencies"
+    GMRS and amateur frequencies require a licence for ordinary use. FCC rules make an
+    explicit exception when there is immediate danger to life or property — you may
+    transmit on any frequency by any means to get help. Do not treat that as a reason to
+    skip the licence, since a radio you have never operated is not much use at the moment
+    you need it, but do not hesitate to transmit if someone is dying.
 
 ## Emergency Frequencies
 
@@ -176,7 +198,7 @@ Establish a schedule for radio check-ins:
 | 446.000 MHz | Ham (UHF) | National calling frequency |
 | 156.800 MHz (Ch 16) | Marine VHF | Maritime distress |
 | 121.500 MHz | Aviation | Aircraft emergency |
-| 462.5625 MHz | GMRS Ch 20 | GMRS emergency/travel |
+| 462.6750 MHz | GMRS/FRS Ch 20 | GMRS calling and travel channel |
 
 ## Common Mistakes
 
