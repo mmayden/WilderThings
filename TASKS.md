@@ -38,6 +38,32 @@ Result: 12 MB folder / 2.8 MB zip.
 - [x] Bundle licenses into the offline zip and the single file so recipients know their rights
 - [x] Footer notice on the hosted site
 
+### Content accuracy review — DONE (highest-risk guides)
+
+Reviewed the 14 guides where an error is lethal (medical, mushroom/plant ID,
+water, snakes, bears, food preservation) against current clinical and
+wilderness-medicine standards, plus mechanical checks across all 89.
+
+- [x] **Bleeding control** — removed elevation and pressure points from the ladder (dropped from ATLS/TCCC/Red Cross; they delay packing and tourniquet on a 3-5 minute bleed)
+- [x] **Fermented fish** — was presented as safe; it is the leading cause of foodborne botulism in North America, and the guide's smell test cannot detect an odorless toxin
+- [x] **Universal Edibility Test** — existed as two contradictory protocols; consolidated to one, with the plants that defeat it named explicitly
+- [x] Pulse-to-BP correlation removed (discredited, dropped from ATLS)
+- [x] Flail chest taping removed (restricts ventilation, contraindicated)
+- [x] Third-degree burn cooling corrected (risk is burn size, not depth)
+- [x] CPR no longer requires a pulse check before compressions
+- [x] Smoking temperatures corrected; cold smoking tied to its required salt cure
+- [x] Consistency: dry-bite rate, bear-hang dimensions, bleach dosing, pine bark calories
+- [x] "Cold water closes pores" myth removed; garbled briquette warning restored
+- [x] 4 medical disclaimers converted from blockquotes to admonitions so they render as warning boxes
+- [x] Verified 689 dual measurements convert correctly across all 89 guides — no errors found
+
+**Still open — not a substitute for expert review:**
+
+- [ ] Independent review of medical guides by a licensed clinician
+- [ ] Independent review of plant/mushroom ID by a regional botanist/mycologist
+- [ ] Line-by-line accuracy pass on the remaining 75 lower-risk guides (fire, shelter, navigation, tools, psychology, scenarios)
+- [ ] Verify cited sources actually say what guides attribute to them (spot-check TCCC 2023, WMS 2019, PHTLS 10th)
+
 ### Engineering standards — DONE
 
 - [x] `scripts/verify.py` — test suite (no external requests, link integrity, id uniqueness, render correctness); negative-tested to confirm it actually catches regressions
@@ -45,8 +71,6 @@ Result: 12 MB folder / 2.8 MB zip.
 - [x] Declare direct dependencies (`Markdown`, `PyYAML`, `pymdown-extensions`) instead of relying on transitive installs
 - [x] `CODE_OF_CONDUCT.md`, content-accuracy issue template, PR template
 - [x] Remove the "field-tested" claim — the content is well-sourced, which is a different claim
-
-### Hosted site (secondary)
 
 ### Documentation and Security
 
@@ -80,11 +104,10 @@ Result: 12 MB folder / 2.8 MB zip.
 >
 > Since the offline copy now fully covers the no-signal use case, this is
 > optional convenience rather than a gap in the product.
+
 - [x] Push to GitHub remote (live at https://mmayden.github.io/WilderThings/)
 - [x] Set GitHub Pages Source to "GitHub Actions" (Settings → Pages)
 - [x] Verify GitHub Actions deploy.yml runs clean
-- [ ] Test "Add to Home Screen" on iOS Safari
-- [ ] Test "Add to Home Screen" on Android Chrome
 
 ---
 

@@ -57,6 +57,29 @@ build as a defect; `scripts/build-offline.sh` fails the build if one appears.
 | CI | `lint.yml` (codespell + build check on PRs), `deploy.yml` (build + deploy on push to main) |
 | Dependabot | Weekly PRs for pip and GitHub Actions updates |
 
+## Content Accuracy — Read First
+
+The highest-risk guides (medical, plant/mushroom ID, water, wildlife, food
+preservation) were reviewed in Aug 2026 against current clinical and
+wilderness-medicine standards. Corrections applied are recorded in TASKS.md.
+
+Three lessons from that review, which apply to any future content work:
+
+1. **Outdated guidance survives in survival writing.** Elevation and pressure
+   points for bleeding, chest taping for flail segments, and pulse-to-BP
+   correlation were all standard teaching and are all now wrong. Check the
+   current guideline, not what the technique "has always been."
+2. **A safety check that cannot detect the hazard is worse than none.** The
+   fermented-fish entry told readers to smell for spoilage; botulinum toxin is
+   odorless. State plainly when a check does not work.
+3. **Never let one procedure exist in two places.** The Universal Edibility
+   Test had two contradictory versions in two guides. Cross-link to one
+   canonical copy instead of duplicating.
+
+**Still outstanding:** no licensed clinician or regional botanist has reviewed
+this content, and cited sources have not been verified against the originals.
+Do not describe the content as expert-reviewed.
+
 ## Security — Read First
 
 **Content accuracy is a life-safety matter.** This project contains medical, foraging, and emergency guidance. Treat inaccurate content as a defect, not an inconvenience.
@@ -77,6 +100,7 @@ WilderThings/
 ├── mkdocs.offline.yml      # Offline build — INHERITs mkdocs.yml, no network
 ├── scripts/
 │   ├── build-offline.sh    # Build + verify-no-network + zip the offline copy
+│   ├── verify.py           # Test suite — run by CI on every push
 │   └── generate-icons.py   # Regenerates the icon set (compass rose, deep orange)
 ├── requirements.txt        # Pinned: mkdocs-material==9.7.7, mkdocs-minify-plugin==0.8.0
 ├── .codespellrc            # Spell-check exceptions (sting, HACE, trough, etc.)
@@ -91,6 +115,8 @@ WilderThings/
 │   │   ├── deploy.yml      # Build (contents:read) + Deploy (pages:write, OIDC)
 │   │   └── lint.yml        # Codespell + build --strict on every push/PR
 │   └── dependabot.yml      # Weekly pip + Actions updates
+├── LICENSE                 # CC BY-SA 4.0 (guides) + MIT (tooling)
+├── build_single_file.py    # Single-file HTML build
 ├── SECURITY.md             # Content accuracy policy + infrastructure security
 ├── CONTRIBUTING.md         # Content standards, review criteria, security guidelines
 ├── STYLE_GUIDE.md          # Formatting rules, mobile standards
