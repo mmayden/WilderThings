@@ -18,6 +18,24 @@ tags:
 - Birch bark and fatwood ignite even when wet — learn to identify both.
 - Build a platform and overhead shelter for the fire before attempting ignition.
 - Feather sticks are the single most important wet-weather fire skill.
+- If you are already shivering hard and fumbling, get insulated before you try to light anything.
+
+!!! danger "DANGER: cold takes the skills this guide requires, in the order it needs them"
+    Everything below — batoning, feather sticks thin enough to be translucent, striking a
+    ferro rod — is fine motor work. Mild hypothermia destroys fine motor coordination
+    early: the standard field sign is that a person can no longer work a zipper or tie a
+    knot. Someone at that point cannot make a feather stick, and each failed attempt
+    costs more heat.
+
+    **If you are shivering hard and fumbling, stop and get insulated first.** Dry
+    layers, out of the wind, off the ground, into shelter or a debris pile. Shelter is
+    the faster and more certain answer, and it needs no dexterity. Build the fire once
+    you have stopped losing ground — not as a race against how cold you are getting.
+
+    This is a sequencing point, not an argument against fire. Fire in the wet is worth
+    the effort. It is just the second thing, not the first. See
+    [Stages of Hypothermia](../medical/hypothermia-and-heatstroke.md#stages-of-hypothermia)
+    and [Shelter Principles](../shelter/shelter-principles.md).
 
 ## Finding Dry Materials in Wet Weather
 
@@ -36,7 +54,9 @@ Standing dead trees and dead branches still attached to living trees are the mos
 
 Even wood that feels damp on the surface is often dry inside. Split every piece of fuel before use.
 
-1. Baton a knife or sharp rock through rounds of dead wood to split them in half.
+1. Baton a knife or sharp rock through rounds of dead wood to split them in half. Keep
+   both hands clear of the blade path and the split line — see
+   [Knife Use and Care](../tools-and-craft/knife-use-and-care.md#batoning-technique).
 2. Split halves into quarters. Expose maximum dry interior surface.
 3. Use the split face as the ignition surface. Shave tinder and kindling from the dry inner grain.
 4. A piece of wrist-thick wood that feels wet on the outside produces bone-dry shavings from the center.
@@ -83,7 +103,8 @@ Feather sticks are the most important wet-weather fire-building technique. They 
 1. Select a straight piece of split dry wood, thumb-thickness or larger, 8-12 inches (20-30 cm) long.
 2. Brace the stick upright against a stable surface or hold it in your non-dominant hand.
 3. Place your knife blade near the top of the stick at a shallow angle (15-20 degrees).
-4. Push the blade downward in a controlled shaving motion. Curl thin shavings that remain attached to the stick.
+4. Push the blade downward in a controlled shaving motion, away from your body and away
+   from the hand holding the stick. Curl thin shavings that remain attached to the stick.
 5. Rotate the stick and repeat. Build up layers of curled shavings along the length.
 6. A good feather stick has 20-30 thin curls hanging from it, creating a mass of fine, dry surface area.
 7. Make 3-5 feather sticks. Use the finest-curled one as the ignition point. Stack the others around it as kindling.
@@ -109,7 +130,15 @@ Before anything else, create overhead protection for the spot where you will bui
 Never build a fire directly on wet ground. Moisture wicks upward and kills the fire from below.
 
 1. Lay a platform of green or wet logs side by side, 2-3 inches (5-7.5 cm) in diameter, covering an area at least 18 inches (45 cm) square.
-2. Place a layer of dry bark or flat stones on top of the log platform.
+2. Place a layer of dry bark on top of the log platform.
+
+!!! danger "DANGER: do not use wet or river rocks for the platform"
+    Stones are an option for a fire base only if they are genuinely dry. In rain, most
+    are not. Water trapped in porous or river-smoothed rock turns to steam when heated
+    and bursts the rock, throwing fragments at face height and lethal speed. Dry bark or
+    split green logs are the safer platform in wet weather, and always available where
+    dry rock is not. See
+    [Fire Principles](fire-principles.md) for the full rule.
 3. Build your fire on top of this raised, insulated surface.
 
 ### Step 3: Use the Upside-Down Method
@@ -167,6 +196,8 @@ Once the fire is burning, keep it alive with active management.
 - **Making feather sticks too thick.** Thick shavings resist ignition. Shave curls thin enough to be translucent.
 - **Skipping overhead shelter.** Rain falling directly on tinder during ignition wastes matches and attempts.
 - **Impatience.** Wet-weather fire takes three times longer to establish than dry-weather fire. Accept this and work methodically.
+- **Pushing on while hypothermic.** If your hands have stopped working, more attempts will not fix that. Insulate first, then build the fire.
+- **Grabbing whatever rock is handy for the platform.** Wet rock explodes. In rain, assume every rock is wet.
 - **Using only tinder and no kindling bridge.** Tinder flame alone cannot ignite damp fuel wood. The feather stick and kindling stage is critical.
 - **Neglecting to pre-dry fuel.** Stack your next fuel load near the fire. Feeding cold, damp wood kills a struggling fire.
 
@@ -182,13 +213,16 @@ Once the fire is burning, keep it alive with active management.
 | Overhead clearance | Minimum 4 ft / 1.2 m above fire |
 | Pre-dry fuel distance | 12-18 in / 30-45 cm from fire |
 | Coal bed to resist rain | 12 in / 30 cm across minimum |
+| Platform material | Dry bark or green logs — never wet or river rock |
+| Shivering and fumbling | Insulate and shelter first, fire second |
 
 ## See Also
 
-- [Fire Principles](fire-principles.md)
-- [Fire Types](fire-types.md)
-- [Maintaining Fire](maintaining-fire.md)
-- [Shelter Principles](../shelter/shelter-principles.md)
+- [Fire Principles](fire-principles.md) — fire physics, site safety, and the rule on heating rock.
+- [Fire Types](fire-types.md) — choosing a lay once the fire will actually light.
+- [Maintaining Fire](maintaining-fire.md) — banking and carrying fire between wet days.
+- [Shelter Principles](../shelter/shelter-principles.md) — the thing to do first if you are losing heat faster than you can make it.
+- [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md) — recognising the point where fire-making stops being possible.
 - [Knife Use and Care](../tools-and-craft/knife-use-and-care.md) — feather sticks and processing wet wood to reach dry interior.
 
 ## Sources
