@@ -99,6 +99,37 @@ wilderness-medicine standards, plus mechanical checks across all 89.
 - [x] `CODE_OF_CONDUCT.md`, content-accuracy issue template, PR template
 - [x] Remove the "field-tested" claim — the content is well-sourced, which is a different claim
 
+### "Things You Would Not Think to Look Up" — STARTED, decisions pinned
+
+`docs/critical-knowledge.md`. Started with one entry (phone satellite SOS) to see the
+shape. Two decisions deliberately deferred until it can be looked at:
+
+- [ ] **Entry bar.** Currently the strictest option: only facts where the belief most
+      people hold makes the situation *worse*. The alternative was a broader
+      ~30-item "critical must-knows" grouped by category. The strict bar keeps it
+      readable in one sitting; the broad one is more complete but easier to skim past.
+      Length is the thing that makes this page work, so whatever the bar is, it needs
+      to be written down and enforced — otherwise every future review adds its
+      favourite fact and it becomes a second index.
+
+- [ ] **Placement.** Currently second in the nav, after Home. The stronger option is
+      making it the landing page of the offline copy, so someone who opens the folder
+      hits it before anything else. That best serves the problem it exists for and is
+      the more disruptive choice for people who know what they want.
+
+- [ ] **Candidates already found and not yet written up:** rabies treatment has no
+      deadline; lean meat alone is worse than eating nothing; cooking does not defeat
+      ciguatera; antihistamines do not stop anaphylaxis; bleach does not kill
+      cryptosporidium; bat contact counts as rabies exposure with no visible bite; the
+      NWS withdrew the lightning crouch; botulinum toxin is odourless; saxitoxin is
+      heat-stable; solar retinopathy is painless while it happens; ground insulation
+      matters more than the roof; do not eat snow.
+
+- [ ] Consider a `verify.py` check that every claim on the page still exists in the
+      guide it links to, so the page cannot drift from its sources — and a hard cap on
+      the number of entries, since selectivity is the whole value and cannot be
+      enforced by judgement alone across many sessions.
+
 ### Cross-linking polish — OPEN
 
 - [ ] **124 See Also entries have no description.** `CLAUDE.md` requires an em-dash
