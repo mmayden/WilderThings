@@ -89,7 +89,7 @@ Your body loses heat 25 times faster on wet ground than in still air. Insulate f
 ### 4. Start a Fire
 Fire provides warmth, water purification, signaling, and morale. Build it near your shelter but not so close that sparks threaten your debris hut.
 - Gather tinder, kindling, and fuel before striking your first spark.
-- Three fires in a triangle (spaced 25 ft / 8 m apart) is a recognized distress signal.
+- Three fires in a triangle (spaced about 100 ft / 30 m apart) is a recognized distress signal. Spacing matters — set too close together they read as one fire from the air.
 - Add green branches or damp leaves to a hot fire to produce signal smoke.
 
 ---

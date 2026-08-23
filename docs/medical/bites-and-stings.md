@@ -197,7 +197,7 @@ Two or more body systems involved after a known exposure = anaphylaxis. Act imme
 
     ### Tick Bites
 
-    Ticks transmit Lyme disease, Rocky Mountain spotted fever, anaplasmosis, ehrlichiosis, babesiosis, and other infections. Disease transmission risk increases with attachment duration — most require 24-48 hours of attachment.
+    Ticks transmit Lyme disease, Rocky Mountain spotted fever, anaplasmosis, ehrlichiosis, babesiosis, and other infections. Disease transmission risk increases with attachment duration — Lyme generally requires 36-48 hours or more of attachment, though other tick-borne infections can transmit faster.
 
     #### Removal
 

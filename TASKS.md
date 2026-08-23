@@ -69,11 +69,26 @@ wilderness-medicine standards, plus mechanical checks across all 89.
 - [x] Butane lighter failure temperature; mountain lion fatality rate stated three ways
 - [x] Verified corpus-wide: 689 dual measurements and 91 °F/°C pairs all convert correctly
 
+**Rounds 4-6 (36 of 89 guides now read in full):**
+
+- [x] **Lightning crouch** — taught as protective; NWS withdrew it in 2008 and warns it delays people seeking real shelter
+- [x] **Paralytic shellfish poisoning** — "cook before eating to avoid PSP" was false; saxitoxin survives boiling, frying, canning and freezing
+- [x] **Post-disaster carbon monoxide** — generators/grills indoors kill after storms; absent from the disaster guide
+- [x] Reference checklists had drifted from their parent guides (first-aid still had the removed elevation step)
+- [x] Ground-to-air code corrected to the current ICAO five (V/X/N/Y/arrow); "I — need supplies" was wrong in every code
+- [x] Signal fire spacing 25 ft vs 100 ft — at 25 ft three fires read as one from the air
+- [x] Lyme attachment time corrected to CDC's 36-48 hours, with the caveat that RMSF transmits faster
+- [x] Bleach re-dose wait harmonized (one guide said 15 min, three said 30)
+- [x] Cold-water survival times at 70°F disagreed 3x between two guides
+- [x] "Animals use clean water" removed — animals are the source of Giardia and Crypto
+- [x] Moose run/zigzag advice reconciled; jungle rainwater exception vs "purify without exception"
+- [x] Removed a freediving book cited as a source in the jungle guide
+
 **Still open — not a substitute for expert review:**
 
 - [ ] Independent review of medical guides by a licensed clinician
 - [ ] Independent review of plant/mushroom ID by a regional botanist/mycologist
-- [ ] Line-by-line pass on the remaining 64 lower-risk guides (fire, shelter, navigation, tools, psychology, most scenarios, preparedness, references) — these had automated checks only
+- [ ] Line-by-line pass on the remaining 53 guides (most fire technique, shelter construction, navigation, tools, psychology, preparedness, references) — these have had automated checks and targeted scans, but not a full read
 - [ ] Verify cited sources actually say what guides attribute to them (only a handful spot-checked against the literature so far)
 
 ### Engineering standards — DONE

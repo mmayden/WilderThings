@@ -49,7 +49,7 @@ Recognize these warnings and back away immediately:
 2. If a moose notices you and its body language is calm (ears up, watching), detour widely around it.
 3. If a moose shows signs of agitation, back away immediately. Talk calmly but move away with purpose.
 4. **If a moose charges — run.** This is the opposite of bear advice. Moose rarely pursue a sustained chase.
-5. Get behind a large tree, boulder, car, or building. Moose have difficulty changing direction around solid objects.
+5. **Run toward cover, not just away.** Put a large tree, boulder, car, or building between you and the moose. Moose struggle to change direction around solid objects, so weaving among trees breaks their pursuit far better than sprinting across open ground.
 6. If knocked down, curl into a ball, protect your head and neck with your arms, and stay down until the moose moves away. Getting up too soon often triggers a second attack.
 
 !!! note
@@ -141,7 +141,7 @@ Ungulate-vehicle collisions cause over 200 deaths and 26,000 injuries annually i
 - **Approaching "cute" bison or elk for photos.** These animals injure more park visitors than any predator.
 - **Getting between a cow and her calf.** Any ungulate species. Always scan for calves before approaching.
 - **Assuming slow movement means the animal is docile.** Bison and moose go from standing still to full charge in seconds.
-- **Running in a straight line from a moose.** Zigzag between trees and obstacles to break the moose's pursuit line.
+- **Running across open ground from a moose.** You cannot outrun one at 35 mph. Run *to cover* — weave among trees and obstacles so it cannot follow your line. (Note this is the opposite of crocodilian advice, where zigzagging is a myth and a straight line is correct.)
 - **Ignoring the dog factor.** Dogs trigger aggressive responses from moose and elk far more often than humans alone.
 
 ## Quick Reference

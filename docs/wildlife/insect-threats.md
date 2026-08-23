@@ -99,7 +99,7 @@ Use fine-tipped (pointed) tweezers. Blunt tweezers crush the tick body and may f
 
 ### Tick Check Protocol
 
-Perform a full-body tick check within 2 hours of leaving tick habitat. Ticks generally take 24–36 hours of attachment to transmit Lyme disease. Earlier removal dramatically reduces transmission risk.
+Perform a full-body tick check within 2 hours of leaving tick habitat. In most cases a tick must be attached for **36-48 hours or more** to transmit Lyme disease, so same-day removal prevents the great majority of infections. Other tick-borne diseases — Rocky Mountain spotted fever in particular — can transmit considerably faster, so do not treat a short attachment as automatically safe.
 
 Check these areas carefully:
 

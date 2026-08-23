@@ -14,7 +14,7 @@ tags:
 ## At a Glance
 
 - Everything rots in the jungle. Inspect and dry gear daily or lose it to mold, mildew, and bacterial decay.
-- Water is abundant but almost always contaminated. Purify all water without exception.
+- Water is abundant but almost always contaminated. Treat every surface source — streams, rivers, puddles. Rain caught directly in a clean container is the one reasonable exception.
 - Navigation under triple canopy is extremely difficult. No GPS signal, no visible sun, no distant landmarks. Use a compass and dead reckoning.
 - Trench foot develops in 24-48 hours of continuous moisture. Dry your feet at every opportunity.
 - The jungle provides more food than any other biome — but most of it requires identification skills to eat safely.
@@ -42,14 +42,14 @@ Jungle water sources — streams, rivers, puddles, and rainfall — are plentifu
     Bring water to a rolling boil for 1 minute. At elevations above 6,500 ft (2,000 m), boil for 3 minutes. This kills all pathogens.
 
 === "Chemical Treatment"
-    Add 2 drops of unscented household bleach per quart (liter). Wait 30 minutes. Water should have a faint chlorine smell. If not, add 2 more drops and wait 15 minutes.
+    Add 2 drops of unscented household bleach per quart (liter) — 4 drops if the water is cloudy or cold. Wait 30 minutes. Water should have a faint chlorine smell. If not, repeat the dose and wait another 30 minutes.
 
 === "Filtration"
     Pump or gravity filters with 0.2 micron rating remove bacteria and protozoa. They do not remove viruses — combine with chemical treatment if viral contamination is suspected.
 
 ### Collection
 
-- **Rainfall:** Collect rain using any broad surface — a tarp, large leaves, or an open container. Rainwater is safe to drink without treatment if collected cleanly.
+- **Rainfall:** Collect rain using any broad surface — a tarp, large leaves, or an open container. Rain caught *directly* in a clean container is generally safe untreated. Rain that has run off a roof, leaves, or a dirty tarp is not — treat that like any surface water.
 - **Vines:** Some tropical vines yield drinkable water when cut. Cut the vine high first, then low. If the liquid is clear and not milky or bitter, it is generally safe.
 - **Bamboo:** Green bamboo sections contain water between nodes. Bend a green stalk, cut the tip, and let water drip into a container overnight.
 
@@ -173,7 +173,7 @@ Rivers are the highways of the jungle. When available, river travel is faster an
 
 ## Common Mistakes
 
-- **Drinking untreated water.** Every jungle water source harbors pathogens. Purify without exception.
+- **Drinking untreated surface water.** Every jungle stream, river, and puddle harbors pathogens. Treat all of it. Only rain caught directly in a clean container is exempt.
 - **Sleeping on the ground.** Insects, snakes, fungi, and standing water make ground sleeping dangerous. Build a platform or hang a hammock.
 - **Neglecting feet.** Trench foot disables you within days. Dry feet at every opportunity.
 - **Walking without watching the trail.** Snakes, thorns, and unstable ground demand constant attention.
@@ -209,5 +209,5 @@ Rivers are the highways of the jungle. When available, river travel is faster an
 - Wiseman, John "Lofty." *SAS Survival Handbook.* William Collins, 3rd ed., 2014.
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
-- Nestor, James. *Deep: Freediving, Renegade Science, and What the Ocean Tells Us about Ourselves.* Houghton Mifflin Harcourt, 2014.
+- Souman, J. L., et al. "Walking Straight into Circles." *Current Biology*, vol. 19, no. 18, 2009, pp. 1538-1542. (Basis for the walking-in-circles figure.)
 - World Health Organization. "Malaria Fact Sheet." who.int. Accessed 2025.
