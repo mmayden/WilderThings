@@ -308,9 +308,9 @@ Spore print alone never confirms safety. Use it as one of several identification
 
 ## See Also
 
-- [foraging-basics.md](foraging-basics.md) — General foraging principles (the Universal Edibility Test does NOT apply to mushrooms)
-- [edible-plants-temperate.md](edible-plants-temperate.md) — Plant-based food sources (safer starting point)
-- [hunting-basics.md](hunting-basics.md) — Calorie-dense alternative to foraging
+- [Foraging Basics](foraging-basics.md) — general foraging principles (the Universal Edibility Test does NOT apply to mushrooms).
+- [Edible Plants: Temperate](edible-plants-temperate.md) — plant-based food sources (safer starting point).
+- [Hunting Basics](hunting-basics.md) — calorie-dense alternative to foraging.
 - [Plant Poisoning](../medical/plant-poisoning.md) — emergency treatment for toxic mushroom ingestion.
 - [Cooking Without Gear](cooking-without-gear.md) — proper cooking methods to neutralize mild mushroom toxins.
 

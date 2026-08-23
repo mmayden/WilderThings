@@ -91,7 +91,7 @@ Choose the best available method based on your equipment and situation:
 
 ## See Also
 
-- [Purification](../../water/purification.md)
-- [Finding Water](../../water/finding-water.md)
+- [Water Purification](../../water/purification.md)
+- [Finding Water in the Wild](../../water/finding-water.md)
 - [Fire Principles](../../fire/fire-principles.md)
 - [Hypothermia and Heatstroke](../../medical/hypothermia-and-heatstroke.md)

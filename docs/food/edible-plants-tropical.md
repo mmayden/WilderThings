@@ -250,10 +250,10 @@ The standard protocol applies — approximately **24 hours per plant part**, wit
 
 ## See Also
 
-- [foraging-basics.md](foraging-basics.md) — Universal Edibility Test and general foraging principles
-- [edible-plants-temperate.md](edible-plants-temperate.md) — Temperate region edible plants
-- [mushroom-identification.md](mushroom-identification.md) — Fungal foraging (separate identification rules)
-- [../medical/plant-poisoning.md](../medical/plant-poisoning.md) — Treatment for plant poisoning
+- [Foraging Basics](foraging-basics.md) — universal Edibility Test and general foraging principles.
+- [Edible Plants: Temperate](edible-plants-temperate.md) — temperate region edible plants.
+- [Mushroom Identification](mushroom-identification.md) — fungal foraging (separate identification rules).
+- [Plant Poisoning](../medical/plant-poisoning.md) — treatment for plant poisoning.
 - [Jungle Survival](../climate-specific/jungle-survival.md) — tropical environment survival context for foraging.
 - [Cooking Without Gear](cooking-without-gear.md) — preparing tropical foods safely.
 

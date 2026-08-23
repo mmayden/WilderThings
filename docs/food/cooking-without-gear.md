@@ -204,10 +204,10 @@ In tropical and subtropical regions, green bamboo serves as a natural cooking po
 
 ## See Also
 
-- [foraging-basics.md](foraging-basics.md) — What to cook: plant identification and harvest
-- [fishing-improvised.md](fishing-improvised.md) — Catching fish to cook
-- [../fire/fire-types.md](../fire/fire-types.md) — Fire configurations for cooking
-- [../fire/fire-principles.md](../fire/fire-principles.md) — Building and maintaining a cooking fire
+- [Foraging Basics](foraging-basics.md) — what to cook: plant identification and harvest.
+- [Improvised Fishing](fishing-improvised.md) — catching fish to cook.
+- [Fire Types](../fire/fire-types.md) — fire configurations for cooking.
+- [Fire Principles](../fire/fire-principles.md) — building and maintaining a cooking fire.
 - [Containers and Vessels](../tools-and-craft/containers-and-vessels.md) — improvised pots, bowls, and cooking vessels.
 - [Knife Use and Care](../tools-and-craft/knife-use-and-care.md) — food preparation and skewer carving.
 

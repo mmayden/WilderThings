@@ -152,7 +152,7 @@ Crocodilians are ambush predators. They wait motionless at the water's edge, par
 
 - [Venomous Snakes](../wildlife/venomous-snakes.md)
 - [Bites and Stings](../medical/bites-and-stings.md)
-- [Animal Attack Scenarios](../scenarios/animal-attack.md)
+- [Animal Attack](../scenarios/animal-attack.md)
 - [Water Crossing](../scenarios/water-crossing.md) — assessing crocodilian risk at river crossings.
 - [First Aid Basics](../medical/first-aid-basics.md) — treating bite and crush injuries.
 

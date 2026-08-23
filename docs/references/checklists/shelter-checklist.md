@@ -77,8 +77,8 @@ tags:
 ## See Also
 
 - [Shelter Principles](../../shelter/shelter-principles.md)
-- [Debris Hut](../../shelter/debris-hut.md)
+- [Debris Hut Construction](../../shelter/debris-hut.md)
 - [Fire Principles](../../fire/fire-principles.md)
 - [Knots and Lashing](../../tools-and-craft/knots-and-lashing.md)
 - [Hypothermia and Heatstroke](../../medical/hypothermia-and-heatstroke.md)
-- [Lost in Woods Scenario](../../scenarios/lost-in-woods.md)
+- [Lost in the Woods](../../scenarios/lost-in-woods.md)

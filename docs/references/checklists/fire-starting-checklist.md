@@ -74,6 +74,6 @@ tags:
 ## See Also
 
 - [Fire Principles](../../fire/fire-principles.md)
-- [Friction Methods](../../fire/friction-methods.md)
-- [Spark Methods](../../fire/spark-methods.md)
+- [Friction Fire Methods](../../fire/friction-methods.md)
+- [Spark and Lens Methods](../../fire/spark-methods.md)
 - [Shelter Principles](../../shelter/shelter-principles.md)

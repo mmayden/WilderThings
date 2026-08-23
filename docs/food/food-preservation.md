@@ -228,10 +228,10 @@ Controlled fermentation preserves food through acid production by beneficial bac
 
 ## See Also
 
-- [field-butchering.md](field-butchering.md) — Processing game before preservation
-- [hunting-basics.md](hunting-basics.md) — Acquiring game to preserve
-- [fishing-improvised.md](fishing-improvised.md) — Fish as a preservation staple
-- [../fire/fire-types.md](../fire/fire-types.md) — Fire configurations for smoking and drying
+- [Field Butchering](field-butchering.md) — processing game before preservation.
+- [Hunting Basics](hunting-basics.md) — acquiring game to preserve.
+- [Improvised Fishing](fishing-improvised.md) — fish as a preservation staple.
+- [Fire Types](../fire/fire-types.md) — fire configurations for smoking and drying.
 - [Knife Use and Care](../tools-and-craft/knife-use-and-care.md) — slicing meat thin for drying and smoking.
 - [Containers and Vessels](../tools-and-craft/containers-and-vessels.md) — storage vessels for preserved food.
 

@@ -314,7 +314,7 @@ Each inner strand can itself be unbraided into two thinner fibers. This gives yo
 - [Lost in the Woods](../scenarios/lost-in-woods.md) — shelter and snare applications when stranded
 - [Injured and Alone](../scenarios/injured-and-alone.md) — improvised tourniquet and splint-lashing cordage
 - [Trapping and Snares](../food/trapping-and-snares.md) — snare lines and trigger cords from natural cordage.
-- [Fishing — Improvised](../food/fishing-improvised.md) — fishing line from plant fibers and sinew.
+- [Improvised Fishing](../food/fishing-improvised.md) — fishing line from plant fibers and sinew.
 
 ---
 

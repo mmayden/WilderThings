@@ -415,10 +415,10 @@ Cross-reference with [foraging-basics.md](foraging-basics.md) for the Universal 
 
 ## See Also
 
-- [foraging-basics.md](foraging-basics.md) — Universal Edibility Test and general principles
-- [mushroom-identification.md](mushroom-identification.md) — Fungal foraging (entirely separate identification system)
-- [fishing-improvised.md](fishing-improvised.md) — Combine plant foraging with fishing for balanced nutrition
-- [trapping-and-snares.md](trapping-and-snares.md) — Passive protein acquisition
+- [Foraging Basics](foraging-basics.md) — universal Edibility Test and general principles.
+- [Mushroom Identification](mushroom-identification.md) — fungal foraging (entirely separate identification system).
+- [Improvised Fishing](fishing-improvised.md) — combine plant foraging with fishing for balanced nutrition.
+- [Trapping and Snares](trapping-and-snares.md) — passive protein acquisition.
 - [Plant Poisoning](../medical/plant-poisoning.md) — treating accidental ingestion of toxic look-alikes.
 - [Cooking Without Gear](cooking-without-gear.md) — preparing roots, tubers, and greens in the field.
 

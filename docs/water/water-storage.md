@@ -228,7 +228,7 @@ Water loss through evaporation is significant in arid and hot environments.
 
 ## See Also
 
-- [Finding Water](finding-water.md)
+- [Finding Water in the Wild](finding-water.md)
 - [Water Purification](purification.md)
 - [Improvised Filters](improvised-filters.md)
 - [Containers and Vessels](../tools-and-craft/containers-and-vessels.md) — crafting storage vessels from natural materials.

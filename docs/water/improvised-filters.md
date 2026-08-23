@@ -207,7 +207,7 @@ Clay-rich soil can be formed into a crude ceramic filter if you have the ability
 ## See Also
 
 - [Water Purification](purification.md)
-- [Finding Water](finding-water.md)
+- [Finding Water in the Wild](finding-water.md)
 - [Water Storage](water-storage.md)
 - [Containers and Vessels](../tools-and-craft/containers-and-vessels.md) — improvised containers for filter construction.
 - [Cordage](../tools-and-craft/cordage.md) — binding material for filter assemblies.

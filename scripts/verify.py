@@ -433,6 +433,45 @@ def check_signal_words(root):
            f"{total} labelled admonitions consistent; DANGER reserved to {n_danger} ({share:.0%})")
 
 
+def check_link_labels(root):
+    """One guide, one name — and never a bare filename as the link text.
+
+    The single-file build has no sidebar and no search box: Ctrl+F is the whole
+    navigation system. A reader looking for "Water Purification" there will not find
+    the two entries that called it "Purification", and "fishing-improvised.md" as
+    visible link text tells them nothing at all about whether to follow it.
+    """
+    import collections
+    labels = collections.defaultdict(collections.Counter)
+    bare = []
+    for path in _md_files(root):
+        with io.open(path, encoding="utf-8") as f:
+            for ln, line in enumerate(f, 1):
+                m = re.match(r"- \[([^\]]+)\]\(([^)]+\.md)(?:#[^)]*)?\)", line)
+                if not m:
+                    continue
+                text, href = m.group(1), m.group(2)
+                if text.endswith(".md"):
+                    bare.append("%s:%d %s" % (os.path.relpath(path, root), ln, text))
+                    continue
+                target = os.path.normpath(os.path.join(os.path.dirname(path), href))
+                labels[target][text] += 1
+
+    if bare:
+        fail("link text is a bare filename",
+             "%d; first: %s" % (len(bare), bare[0]))
+    else:
+        ok("link text", "no bare filenames used as link text")
+
+    clashes = ["%s: %s" % (os.path.relpath(t, root), " vs ".join(sorted(c)))
+               for t, c in sorted(labels.items()) if len(c) > 1]
+    if clashes:
+        fail("guides referred to by more than one name",
+             "%d; first: %s" % (len(clashes), clashes[0]))
+    else:
+        ok("link labels consistent", "%d guides, one name each" % len(labels))
+
+
 def check_content(root):
     check_clinical_sources(root)
     check_source_currency()
@@ -440,6 +479,7 @@ def check_content(root):
     check_temperature_conversions(root)
     check_recurring_claims(root)
     check_signal_words(root)
+    check_link_labels(root)
 
 
 

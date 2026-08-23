@@ -199,7 +199,7 @@ Carry everything for a full month. Remove what you never use. Replace what fails
 
 - [Bug-Out Bag](../preparedness/bug-out-bag.md) — the next tier of preparedness beyond EDC.
 - [Knife Use and Care](../tools-and-craft/knife-use-and-care.md) — selecting, maintaining, and using your primary cutting tool.
-- [Spark-Based Fire Methods](../fire/spark-methods.md) — ferro rod and other spark-based ignition techniques.
+- [Spark and Lens Methods](../fire/spark-methods.md) — ferro rod and other spark-based ignition techniques.
 - [First Aid Basics](../medical/first-aid-basics.md) — compact medical items for daily carry.
 - [Signaling for Rescue](../navigation/signaling-for-rescue.md) — whistle and signal mirror as EDC items.
 

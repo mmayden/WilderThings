@@ -214,11 +214,11 @@ Includes clovers, vetches, wild peas. Identified by butterfly-shaped flowers and
 
 ## See Also
 
-- [edible-plants-temperate.md](edible-plants-temperate.md) — Specific plant identification and preparation
-- [mushroom-identification.md](mushroom-identification.md) — Fungi foraging (separate skill set, higher risk)
-- [fishing-improvised.md](fishing-improvised.md) — Supplement foraging with protein
-- [trapping-and-snares.md](trapping-and-snares.md) — Passive protein acquisition
-- [hunting-basics.md](hunting-basics.md) — Active protein acquisition
+- [Edible Plants: Temperate](edible-plants-temperate.md) — specific plant identification and preparation.
+- [Mushroom Identification](mushroom-identification.md) — fungi foraging (separate skill set, higher risk).
+- [Improvised Fishing](fishing-improvised.md) — supplement foraging with protein.
+- [Trapping and Snares](trapping-and-snares.md) — passive protein acquisition.
+- [Hunting Basics](hunting-basics.md) — active protein acquisition.
 - [Plant Poisoning](../medical/plant-poisoning.md) — treatment for accidental ingestion of toxic plants.
 - [Cooking Without Gear](cooking-without-gear.md) — preparing foraged food safely.
 

@@ -191,9 +191,9 @@ Psychological aversion to eating insects is cultural, not biological. In a survi
 
 ## See Also
 
-- [foraging-basics.md](foraging-basics.md) — Universal Edibility Test and general foraging principles
-- [cooking-without-gear.md](cooking-without-gear.md) — Improvised cooking methods for preparing insects
-- [../wildlife/insect-threats.md](../wildlife/insect-threats.md) — Dangerous insects to avoid entirely
+- [Foraging Basics](foraging-basics.md) — universal Edibility Test and general foraging principles.
+- [Cooking Without Gear](cooking-without-gear.md) — improvised cooking methods for preparing insects.
+- [Insect Threats](../wildlife/insect-threats.md) — dangerous insects to avoid entirely.
 - [Food Preservation](food-preservation.md) — drying and storing insects for later use.
 
 ## Sources

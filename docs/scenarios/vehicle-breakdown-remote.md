@@ -193,7 +193,7 @@ If you make the decision to leave the vehicle:
 - [Desert Shelter](../shelter/desert-shelter.md) — shade construction when the vehicle is insufficient
 - [Survival Mindset](../psychology/survival-mindset.md) — maintaining psychological resilience during extended waits
 - [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md) — temperature emergencies during extended waits.
-- [Finding Water](../water/finding-water.md) — locating water if stranded for multiple days.
+- [Finding Water in the Wild](../water/finding-water.md) — locating water if stranded for multiple days.
 
 ---
 

@@ -204,7 +204,7 @@ what the animal was and where, and go.
 ## See Also
 
 - [Bear Safety](bear-safety.md) — the opposite protocol: play dead for a defensive grizzly, never for a canid.
-- [Animal Attack Scenarios](../scenarios/animal-attack.md) — fighting back, and injuries after an attack.
+- [Animal Attack](../scenarios/animal-attack.md) — fighting back, and injuries after an attack.
 - [First Aid Basics](../medical/first-aid-basics.md) — bleeding control and wound care after a bite.
 - [Bites and Stings](../medical/bites-and-stings.md) — snake, insect, and arachnid envenomation.
 

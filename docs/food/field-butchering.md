@@ -186,10 +186,10 @@ See [Knife Use and Care](../tools-and-craft/knife-use-and-care.md) for sharpenin
 
 ## See Also
 
-- [hunting-basics.md](hunting-basics.md) — Hunting methods and strategies
-- [trapping-and-snares.md](trapping-and-snares.md) — Passive game acquisition
-- [food-preservation.md](food-preservation.md) — Smoking, drying, and curing meat
-- [../tools-and-craft/knife-use-and-care.md](../tools-and-craft/knife-use-and-care.md) — Knife selection and field sharpening
+- [Hunting Basics](hunting-basics.md) — hunting methods and strategies.
+- [Trapping and Snares](trapping-and-snares.md) — passive game acquisition.
+- [Food Preservation](food-preservation.md) — smoking, drying, and curing meat.
+- [Knife Use and Care](../tools-and-craft/knife-use-and-care.md) — knife selection and field sharpening.
 - [Cooking Without Gear](cooking-without-gear.md) — preparing butchered meat without cookware.
 - [Fire Principles](../fire/fire-principles.md) — building a fire for cooking and smoking meat.
 

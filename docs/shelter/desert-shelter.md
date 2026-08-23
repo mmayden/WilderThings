@@ -205,7 +205,7 @@ Evaluate potential shelter sites against these factors:
 
 - [Shelter Principles](shelter-principles.md)
 - [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md)
-- [Finding Water](../water/finding-water.md)
+- [Finding Water in the Wild](../water/finding-water.md)
 - [Desert Survival](../climate-specific/desert-survival.md) — complete desert environment survival guide.
 - [Desert and Sea Water](../water/desert-and-sea-water.md) — water procurement to pair with shade shelter.
 

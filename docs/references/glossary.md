@@ -226,7 +226,7 @@ tags:
 - [First Aid Basics](../medical/first-aid-basics.md)
 - [Fire Principles](../fire/fire-principles.md)
 - [Shelter Principles](../shelter/shelter-principles.md)
-- [Purification](../water/purification.md)
+- [Water Purification](../water/purification.md)
 - [Foraging Basics](../food/foraging-basics.md)
 - [Signaling for Rescue](../navigation/signaling-for-rescue.md)
 - [Survival Mindset](../psychology/survival-mindset.md)

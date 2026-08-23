@@ -214,7 +214,7 @@ Do not let summit goals override survival judgment. Most mountain fatalities occ
 - [Terrain Association](../navigation/terrain-association.md)
 - [Signaling for Rescue](../navigation/signaling-for-rescue.md)
 - [Snow Shelters](../shelter/snow-shelters.md) — emergency shelter at high elevation.
-- [Map and Compass](../navigation/map-and-compass.md) — navigation in mountainous terrain.
+- [Map and Compass Navigation](../navigation/map-and-compass.md) — navigation in mountainous terrain.
 
 ## Sources
 

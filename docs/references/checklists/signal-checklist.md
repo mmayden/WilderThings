@@ -91,4 +91,4 @@ tags:
 - [Signaling for Rescue](../../navigation/signaling-for-rescue.md)
 - [Fire Principles](../../fire/fire-principles.md)
 - [Survival Mindset](../../psychology/survival-mindset.md)
-- [Lost in Woods Scenario](../../scenarios/lost-in-woods.md)
+- [Lost in the Woods](../../scenarios/lost-in-woods.md)

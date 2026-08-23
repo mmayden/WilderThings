@@ -189,7 +189,7 @@ Desert temperatures can swing 50-60°F (28-33°C) between day and night. A 110°
 - [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md)
 - [Venomous Snakes](../wildlife/venomous-snakes.md)
 - [Signaling for Rescue](../navigation/signaling-for-rescue.md) — visibility and signaling in open desert.
-- [Vehicle Breakdown — Remote](../scenarios/vehicle-breakdown-remote.md) — desert stranding scenario.
+- [Vehicle Breakdown in Remote Areas](../scenarios/vehicle-breakdown-remote.md) — desert stranding scenario.
 
 ## Sources
 
