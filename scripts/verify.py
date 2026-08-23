@@ -343,13 +343,16 @@ def check_temperature_conversions(root):
     # The corpus writes temperatures both as "95°F (35°C)" and "95 degF (35 degC)".
     # An earlier version of this check only matched the degree symbol and silently
     # skipped every "degF" pair — found by negative-testing the check itself.
+    # Both "95\u00b0F (35\u00b0C)" and "95\u00b0F / 35\u00b0C" are used; the slash form was
+    # unmatched, leaving 5 more pairs unchecked in four guides.
     # The degree marker is optional: 11 pairs written as bare "145 F (63 C)" were
     # silently skipped, so the corpus had unchecked conversions in four guides. Those
     # are normalized now, but leaving the marker required would let the next one
     # through unnoticed.
     pat = re.compile(
         r"(-?\d+(?:\.\d+)?)\s*(?:\u00b0\s*|deg\s*)?F\b"
-        r"[^()]{0,12}\(\s*~?\s*(-?\d+(?:\.\d+)?)\s*(?:\u00b0\s*|deg\s*)?C\b")
+        r"(?:[^()]{0,12}\(\s*~?\s*|\s*/\s*)"
+        r"(-?\d+(?:\.\d+)?)\s*(?:\u00b0\s*|deg\s*)?C\b")
     bad, checked = [], 0
     for path in _md_files(root):
         for ln, line in enumerate(open(path, encoding="utf-8"), 1):
