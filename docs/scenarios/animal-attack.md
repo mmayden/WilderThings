@@ -234,6 +234,10 @@ Domestic and feral dogs account for far more attacks than all wild animals combi
 !!! danger "WARNING"
     All mammal bites carry rabies risk. Any bite from a bat, raccoon, skunk, fox, or feral dog requires post-exposure prophylaxis as soon as possible. Rabies is 100% fatal once symptoms appear.
 
+    Being late is not a reason to skip it — there is no cutoff after which the treatment
+    stops being given. Full detail in
+    [Rabies Risk](../wildlife/wolves-and-canids.md#rabies-risk).
+
 ### Evacuation Decision
 Evacuate immediately if:
 - Bleeding cannot be controlled.

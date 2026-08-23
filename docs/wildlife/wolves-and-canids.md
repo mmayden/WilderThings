@@ -117,12 +117,55 @@ Coyotes are bolder than wolves around humans, especially in suburban areas where
 
 ## Rabies Risk
 
-Rabies is the most serious danger from any wild canid encounter.
+Rabies is the most serious danger from any wild canid encounter, and the rules below
+apply to any mammal bite, not only canids.
 
-- Rabies is nearly 100% fatal once symptoms appear. Post-exposure prophylaxis (PEP) is nearly 100% effective if administered promptly.
-- Any bite, scratch, or saliva contact with mucous membranes from a wild canid requires immediate medical evaluation.
-- Wash the wound with soap and running water for at least 15 minutes. This alone significantly reduces rabies transmission risk.
-- Seek medical care within 24 hours. Do not wait for symptoms.
+Rabies is effectively 100% fatal once symptoms appear, and post-exposure prophylaxis
+(PEP) is close to 100% effective given before they do. Those two facts together are the
+whole of the decision: there is an enormous amount to gain by going and nothing at all
+to gain by waiting.
+
+**What to do, in order:**
+
+1. **Wash the wound with soap and running water for a full 15 minutes.** This is not
+   token first aid — mechanical washing alone measurably reduces transmission, and it is
+   the one part of treatment you can do yourself. Follow with povidone-iodine or alcohol
+   if you have either.
+2. **Do not close the wound.** Leave it open. Suturing or taping a bite shut traps both
+   virus and bacteria.
+3. **Start moving toward medical care.** Treat this as the reason to end the trip.
+
+!!! danger "DANGER: being late is not a reason to skip treatment"
+    Guidance to seek care "within 24 hours" is about urgency, not a deadline, and reading
+    it as a deadline is the dangerous mistake. **There is no cutoff after which PEP stops
+    being given.** It is administered regardless of how much time has passed, as long as
+    symptoms have not started.
+
+    This matters more in the backcountry than anywhere else, because a reader four days
+    from a trailhead may otherwise conclude the window has closed and not bother. Go.
+    Delays of weeks are poorly studied and may reduce the response, which is a reason to
+    hurry — not a reason to stay home.
+
+**What counts as an exposure:**
+
+- Any bite or scratch that breaks the skin.
+- Saliva contact with eyes, nose, mouth, or an open wound.
+- **Any contact with a bat, including contact you are not sure about.** Bats are the
+  leading source of human rabies deaths in the United States, and a bat bite can be too
+  small to see or feel. Waking to find a bat in the room, or finding one near a sleeping
+  child, is treated as an exposure even with no visible wound.
+
+!!! note "The animal that actually kills people is a dog"
+    Wild canids dominate this guide, but worldwide, domestic and feral dogs cause up to
+    99% of human rabies deaths. If you are travelling in Asia, Africa, or Latin America,
+    the realistic exposure is a street dog, not a wolf. In North America and Western
+    Europe, dog rabies is largely controlled and the reservoir is bats, raccoons, skunks,
+    and foxes.
+
+**If the animal can be identified:** a healthy domestic dog or cat can sometimes be
+observed for 10 days instead of starting PEP immediately, and a wild animal that is
+killed can be tested. Both are decisions for a clinician, not for you in the field. Note
+what the animal was and where, and go.
 
 ## Myths vs. Reality
 
@@ -141,6 +184,8 @@ Rabies is the most serious danger from any wild canid encounter.
 - **Leaving food or garbage accessible in camp.** Attracts wolves, coyotes, and every other predator and scavenger.
 - **Letting dogs off-leash in wolf territory.** Wolves kill domestic dogs. It is one of the most common wolf-human conflicts.
 - **Ignoring a bite from any wild animal.** Rabies is fatal without treatment. Every bite requires medical evaluation.
+- **Deciding you missed the window.** There is no window. PEP is given whenever you arrive, provided symptoms have not begun.
+- **Dismissing a bat because you cannot find a bite.** Bat bites are frequently invisible. Contact is enough.
 - **Assuming all canid encounters are the same.** A habituated suburban coyote and a wild wolf in the backcountry require different responses.
 
 ## Quick Reference
@@ -151,15 +196,17 @@ Rabies is the most serious danger from any wild canid encounter.
 | Wolf approaching | Stand tall, shout, throw objects, back away |
 | Wolf attacking | Fight back, target eyes and nose, protect neck |
 | Coyote in suburban area | Haze aggressively — yell, throw objects |
-| Any canid bite | Wash 15 min with soap and water, seek medical care within 24 hrs |
+| Any canid bite | Wash 15 min with soap and water, leave the wound open, go now |
+| Bite and you are days out | Still go. PEP has no cutoff before symptoms start |
+| Bat contact, no visible bite | Counts as exposure — seek PEP |
 | Camp in wolf country | Store food securely, leash dogs, cook away from tent |
 
 ## See Also
 
-- [Bear Safety](../wildlife/bear-safety.md)
-- [Animal Attack Scenarios](../scenarios/animal-attack.md)
-- [First Aid Basics](../medical/first-aid-basics.md) — treating bite wounds and preventing infection.
-- [Bites and Stings](../medical/bites-and-stings.md) — rabies risk assessment and wound management.
+- [Bear Safety](bear-safety.md) — the opposite protocol: play dead for a defensive grizzly, never for a canid.
+- [Animal Attack Scenarios](../scenarios/animal-attack.md) — fighting back, and injuries after an attack.
+- [First Aid Basics](../medical/first-aid-basics.md) — bleeding control and wound care after a bite.
+- [Bites and Stings](../medical/bites-and-stings.md) — snake, insect, and arachnid envenomation.
 
 ## Sources
 
@@ -168,3 +215,6 @@ Rabies is the most serious danger from any wild canid encounter.
 - Alaska Department of Fish and Game, "Living with Wolves"
 - Linnell et al., "The Fear of Wolves: A Review of Wolf Attacks on Humans," NINA/NIKU, 2002
 - The Humane Society of the United States, coyote hazing guidelines
+- CDC, "Rabies Post-exposure Prophylaxis Guidance" (cdc.gov/rabies/hcp)
+- WHO, Rabies Fact Sheet — global burden and the share attributable to dogs
+- CDC Yellow Book (2026), Rabies chapter
