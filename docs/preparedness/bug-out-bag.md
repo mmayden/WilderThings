@@ -49,7 +49,11 @@ Choose a pack with padded hip belt, sternum strap, and compression straps. The h
 
 ### Water
 
-- 1 liter (32 oz) minimum carried, plus purification for 3 days.
+- 1 liter (32 oz) minimum carried, plus the means to purify more.
+- **An active adult needs 2-3 litres a day**, so the litre in your bag is roughly a third
+  of one day. The purification is not a backup to the bottle — it is the actual water
+  plan, and the bottle is what gets you to the next source. Know where water is along
+  your evacuation routes.
 - Carry a water bottle and a collapsible reservoir.
 - Include purification tablets or a squeeze filter.
 - See [Water Purification](../water/purification.md) for methods.
@@ -75,6 +79,9 @@ Choose a pack with padded hip belt, sternum strap, and compression straps. The h
 ### Medical
 
 - Compact first aid kit: adhesive bandages, gauze, medical tape, tourniquet, nitrile gloves, pain relievers, personal medications.
+- A tourniquet you have never applied is decoration. Practise on a leg before you need it
+  on an arm, and read
+  [How Long a Tourniquet Can Stay On](../medical/first-aid-basics.md#how-long-a-tourniquet-can-stay-on).
 - See [First Aid Basics](../medical/first-aid-basics.md) for kit details.
 
 ### Tools
@@ -83,6 +90,26 @@ Choose a pack with padded hip belt, sternum strap, and compression straps. The h
 - Multi-tool with pliers.
 - Headlamp with spare batteries.
 - Duct tape wrapped around a pencil (saves space).
+
+### Clothing and Footwear
+
+The weight budget below allocates 10-15% to clothing and the packing list had no entry
+for it. Two things matter more than the rest combined.
+
+- **Boots or sturdy shoes you have already walked in.** Evacuations happen at night, from
+  bed, onto broken ground and broken glass. New boots produce blisters within a mile and
+  a blister is a mobility injury. If your bag lives by the door, keep the footwear with
+  it.
+- **Socks — three pairs, wool or synthetic, never cotton.** Wet feet are the fastest way
+  to lose the ability to walk, and walking is the entire point of the bag.
+- One change of base layer, a warm mid layer, and a waterproof shell.
+- Hat and gloves. They cost almost nothing in weight and cover the parts you cannot
+  otherwise protect.
+- A brimmed hat and sunglasses in hot seasons.
+
+!!! tip
+    Pack clothing in a sealed bag inside the pack. Wet spare clothing is dead weight, and
+    the pack liner listed under Wet Season is what keeps it dry.
 
 ### Documents
 
@@ -203,6 +230,9 @@ Everything else. Pack with heaviest items closest to your back and centered betw
 - **No physical fitness.** The best gear cannot compensate for the inability to carry it. Train with your bag regularly.
 - **All gear, no plan.** A bag without evacuation routes, rally points, and a communication plan is a heavy backpack, not a survival system.
 - **Ignoring climate.** A summer bag in January is dangerous. Adjust seasonally.
+- **No footwear plan.** Evacuating in whatever was by the bed ends in blisters or cut feet. Keep broken-in boots with the bag.
+- **Cotton socks.** They hold water, stop insulating, and blister you. Wool or synthetic only.
+- **Treating the water bottle as three days of water.** It is about a third of one day. The filter is the plan.
 
 ## Quick Reference
 
@@ -215,6 +245,7 @@ Everything else. Pack with heaviest items closest to your back and centered betw
 | Medical | FAK + meds | 1-2 lbs (0.5-0.9 kg) |
 | Tools | Knife + headlamp + multi-tool | 2-3 lbs (0.9-1.4 kg) |
 | Documents | IDs + cash + contacts | 0.5 lb (0.2 kg) |
+| Clothing | Boots, 3 pairs socks, layers, hat | 3-5 lbs (1.4-2.3 kg) |
 | Comms | Radio + battery bank + whistle | 1-2 lbs (0.5-0.9 kg) |
 
 ---
