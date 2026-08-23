@@ -119,7 +119,7 @@ Commercial solar stills (inflatable, cone-shaped) produce 1-3 pints (0.5-1.5 lit
 | 40°F (4°C) | 30-90 min |
 | 50°F (10°C) | 1-3 hours |
 | 60°F (16°C) | 2-7 hours |
-| 70°F (21°C) | 12-40 hours |
+| 70°F (21°C) | 3-40 hours |
 
 ### If in the Water
 
@@ -181,13 +181,33 @@ Commercial solar stills (inflatable, cone-shaped) produce 1-3 pints (0.5-1.5 lit
 
 Once ashore:
 
-- **Shellfish:** Mussels, clams, oysters, and limpets are found in tidal zones. Cook before eating to avoid paralytic shellfish poisoning.
+- **Shellfish:** Mussels, clams, oysters, and limpets are found in tidal zones. Cook them — this kills bacteria and parasites — but understand that **cooking does not make toxic shellfish safe** (see the warning below).
 - **Seaweed:** Edible varieties (kelp, dulse, sea lettuce) grow in intertidal areas. Rinse and eat raw or cooked.
 - **Tidal pools:** Contain small fish, crabs, sea urchins, and snails. All are edible when cooked.
 - **Coconuts:** Available on tropical coasts. Green coconuts contain the most liquid. Mature coconuts provide calorie-dense meat.
 
-!!! warning "CAUTION"
-    Do not eat shellfish from red-tide areas (water appears reddish or brown from algal blooms). Paralytic shellfish poisoning causes respiratory failure.
+!!! danger "WARNING: cooking does NOT prevent paralytic shellfish poisoning"
+
+    Saxitoxin, the toxin behind PSP, is **heat and acid stable**. Boiling,
+    frying, steaming, canning, and freezing all leave it intact. Acid plus heat
+    can even convert some forms into *more* toxic ones. The toxin is tasteless
+    and odorless, and the shellfish look and smell completely normal.
+
+    PSP causes tingling of the lips and face, then progressive paralysis and
+    respiratory failure. There is no antidote — treatment is breathing support
+    until the toxin clears. In the field that is usually not survivable.
+
+    **The only defense is not eating contaminated shellfish:**
+
+    - Avoid any area with an algal bloom — water discolored red, brown, or with
+      unusual foam. Blooms are not always visible, so absence of discoloration
+      is not proof of safety.
+    - Avoid filter feeders (mussels, clams, oysters, scallops) where blooms are
+      possible. Toxin concentrates in them.
+    - Where local closure information exists, follow it. Coastal PSP closures
+      are seasonal and exist precisely because you cannot judge this yourself.
+    - If someone develops facial tingling or numbness after eating shellfish,
+      treat it as an emergency and evacuate. Be ready to support breathing.
 
 ## Common Mistakes
 

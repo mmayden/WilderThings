@@ -155,7 +155,7 @@ Water conducts heat away from the body 25 times faster than air.
 | 40°F (4°C) | 30–90 minutes |
 | 50°F (10°C) | 1–3 hours |
 | 60°F (15°C) | 2–7 hours |
-| 70°F (21°C) | 3–12 hours |
+| 70°F (21°C) | 3–40 hours |
 
 - Adopt the HELP position (Heat Escape Lessening Posture): draw knees to chest, cross arms, keep head above water.
 - In a group, huddle together.

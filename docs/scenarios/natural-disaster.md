@@ -90,6 +90,26 @@ tags:
 
 ### After the Storm
 
+!!! danger "WARNING: carbon monoxide kills people who survived the storm"
+
+    Generators, pressure washers, charcoal grills, and camp stoves running
+    indoors are a leading cause of death **after** hurricanes and winter storms
+    — often killing whole households days after the weather has passed.
+
+    Carbon monoxide is **odorless and colorless**. You will not smell it, and
+    the early symptoms (headache, dizziness, nausea, drowsiness) are easy to
+    mistake for exhaustion. People fall asleep and do not wake up.
+
+    - Run generators **outdoors only**, at least 20 ft (6 m) from any window,
+      door, or vent — never in a garage, basement, or breezeway, even with the
+      door open.
+    - Never burn charcoal or run a camp stove indoors or in a tent, for heat or
+      for cooking.
+    - If anyone develops headache, dizziness, or nausea, get everyone into
+      fresh air immediately and do not go back in.
+
+    See [Home Preparedness](../preparedness/home-preparedness.md) for generator setup.
+
 - Assume all standing water is contaminated (sewage, chemicals, debris).
 - Do not touch downed power lines or anything they contact.
 - Boil all drinking water until municipal supply is confirmed safe.
@@ -214,6 +234,7 @@ If trapped and unable to evacuate:
 - Ignoring landslide warning signs (cracks, tilting trees, unusual sounds).
 - Going outside during the eye of a hurricane (the back half of the storm arrives suddenly).
 - Treating volcanic ash as harmless dust (it is abrasive glass that damages lungs, eyes, and engines).
+- **Running a generator, grill, or camp stove indoors after the storm.** Carbon monoxide kills more people after hurricanes and winter storms than the storms themselves in some seasons. Outdoors only, 20 ft (6 m) from any opening.
 
 ---
 
@@ -223,7 +244,7 @@ If trapped and unable to evacuate:
 |----------|-----------------|--------|
 | Earthquake | Drop, Cover, Hold On | Run outside |
 | Tornado | Lowest floor, interior room, cover head | Shelter under overpass |
-| Hurricane | Interior room, lowest floor, away from windows | Go outside during the eye |
+| Hurricane | Interior room, lowest floor, away from windows | Go outside during the eye; run a generator indoors |
 | Flash flood | Move to high ground immediately | Walk or drive through water |
 | Wildfire | Evacuate early | Wait to see flames |
 | Tsunami | High ground, 100+ ft (30 m) elevation | Return after first wave |
