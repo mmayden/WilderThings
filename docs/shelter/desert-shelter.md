@@ -67,7 +67,9 @@ For longer stays, dig deeper.
 5. Line the floor with a ground cloth, vegetation, or clothing to insulate from ground contact.
 
 !!! tip
-    Combine a below-grade trench with a solar still. Dig the still pit adjacent to the trench and route the condensation collector into a container. See [Finding Water](../water/finding-water.md) for solar still construction.
+    If you are digging anyway and conditions justify a still, put its pit next to the
+    trench so the two share one excavation effort. Read the yield warning below first —
+    a still is rarely worth digging for on its own.
 
 ## Above-Grade Shade Structures
 
@@ -161,9 +163,26 @@ A below-grade trench shelter and a solar still share the same construction princ
 3. Place a collection container at the center bottom of the still pit.
 4. Cover the still pit with clear plastic sheeting. Seal edges with sand.
 5. Place a small rock at the center of the plastic so it sags into a cone shape directly over the container.
-6. Condensation forms on the underside of the plastic and drips into the container. Yield: 0.5-1 quart (0.5-1 liter) per day depending on soil moisture and sun intensity.
+6. Condensation forms on the underside of the plastic and drips into the container.
 
-Adding green vegetation or urine to the still pit increases moisture output. See [Finding Water](../water/finding-water.md) for full solar still instructions.
+Adding green vegetation or urine to the still pit increases output substantially — it is
+the moisture in the pit, not the sand, that the still is distilling.
+
+!!! danger "DANGER: the still can easily cost more water than it produces"
+    A ground still yields **0.5-1 quart (0.5-1 L) per day in genuinely moist soil**, and
+    close to nothing in dry sand with nothing added. Compare that against the table in
+    this guide: digging in the sun costs **1-2 quarts (1-2 L) per hour**. An hour of
+    excavation can cost several times what the still returns in a day.
+
+    Build one only when all three hold: the soil is damp or you have vegetation to add,
+    you can dig during cool hours, and you have already set up rain and dew collection.
+    **A single tarp in one inch of rain yields more than a week of solar stills.**
+
+    Never drink urine directly — it is a moisture source for the still, nothing else. As
+    dehydration progresses urine concentrates and accelerates kidney failure.
+
+See [Finding Water in the Wild](../water/finding-water.md) for full construction, and
+[Desert and Sea Water](../water/desert-and-sea-water.md) for how the methods compare.
 
 ## Site Selection Criteria
 
@@ -184,6 +203,7 @@ Evaluate potential shelter sites against these factors:
 - **Ignoring night cold.** Planning only for daytime heat. Desert nights are cold enough for hypothermia, especially with dehydration and fatigue.
 - **Sleeping on bare ground.** Sand and rock conduct heat away from the body at night and burn during the day. Always insulate the floor.
 - **Using a dark-colored tarp shiny-side down.** Orient reflective surfaces outward during the day to reject solar radiation.
+- **Digging a solar still in dry sand.** It returns almost nothing, and the digging costs 1-2 quarts (1-2 L) of sweat per hour. Set up rain and dew collection first.
 
 ## Quick Reference
 
@@ -203,9 +223,9 @@ Evaluate potential shelter sites against these factors:
 
 ## See Also
 
-- [Shelter Principles](shelter-principles.md)
-- [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md)
-- [Finding Water in the Wild](../water/finding-water.md)
+- [Shelter Principles](shelter-principles.md) — site selection and insulation theory that applies in any climate.
+- [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md) — recognising heat illness, and the cold desert nights nobody plans for.
+- [Finding Water in the Wild](../water/finding-water.md) — what each water method actually yields for the effort.
 - [Desert Survival](../climate-specific/desert-survival.md) — complete desert environment survival guide.
 - [Desert and Sea Water](../water/desert-and-sea-water.md) — water procurement to pair with shade shelter.
 

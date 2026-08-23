@@ -289,6 +289,15 @@ RECURRING_CLAIMS = {
 # the figure sits several lines below its heading, so a line-based matcher
 # cannot tie the two together.
 #
+# Retried later with a pattern that does match, and dropped again for a better
+# reason worth recording so nobody attempts it a third time: the corpus states
+# three different still yields and all three are correct. A single ground still
+# gives 0.5-1 qt/day, an inflatable gives 1-2.5, and three to five ground stills
+# together give 1.5-5. A checker comparing those numbers reports a contradiction
+# that is not one. Some claims are only comparable with the context a human reads
+# and a regex does not, and forcing them produces false alarms — which cost more
+# trust than the missing check does.
+#
 # A pattern matching only ONE place is nearly as weak: with a single instance
 # there is nothing to compare it against, so it can never report a disagreement.
 # Crocodilian land speed was tried and dropped for that reason — it appears in
