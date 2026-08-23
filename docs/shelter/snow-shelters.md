@@ -150,6 +150,37 @@ An experienced two-person team completes an igloo in 1.5-2 hours. A first-time b
 
 Poke ventilation holes at a 45-degree upward angle to prevent rain or meltwater from dripping in. Check holes every few hours — snowfall and frost can seal them. Keep a stick inside the shelter to re-open blocked holes.
 
+### Keep the Shovel Inside With You
+
+!!! danger "DANGER: you cannot dig out of a snow shelter from the inside without a tool"
+    Two things seal people in. A wall or roof collapses onto the occupant, or a storm
+    drifts the entrance shut overnight while they sleep. Both happen, and both leave
+    someone in the dark, in a confined space, with snow that has set around them.
+
+    Collapsed snow is not loose powder. It packs and locks, and a buried person often
+    cannot move their arms enough to dig, let alone push a roof off. Digging out
+    barehanded through a drifted entrance takes a long time you may not have if the
+    ventilation is also blocked.
+
+    - **Bring the shovel inside every night.** Not left at the entrance, not outside —
+      inside, within reach of where you sleep.
+    - Keep the stick for clearing vent holes inside too, and check the holes before
+      sleeping and whenever you wake.
+    - **Do not dig a cave or hollow a quinzhee alone if anyone else is available.**
+      Someone outside who can dig is the difference between a collapse being an
+      inconvenience and being fatal.
+    - If you must work alone, dig with your feet toward the entrance so a collapse leaves
+      you facing the way out, and stop to clear the tunnel as you go.
+
+!!! warning "CAUTION: glazing the walls stops them breathing"
+    Snow is porous, and an unglazed shelter exchanges a small amount of air through the
+    walls themselves. Glazing the interior with a candle — which this guide recommends,
+    because it strengthens the structure and stops dripping — seals that path. It makes
+    the ventilation holes the only air exchange you have.
+
+    Glaze the ceiling if you want, then treat the vent holes as the thing keeping you
+    alive rather than a comfort measure.
+
 ### Floor Insulation
 
 Never sleep directly on snow. Body heat melts the contact surface, soaking clothing and accelerating heat loss. Layer the floor in this order:
@@ -178,6 +209,15 @@ Mark the shelter exterior with a bright-colored item — a stuff sack, flagging 
 
 ### Wet Clothing Management
 
+!!! warning "CAUTION: you will get wet building this"
+    Digging snow is hard work in contact with snow, and it soaks you from both sides —
+    sweat inside, melt outside. Finishing a good shelter in wet clothing produces the
+    hypothermia the shelter was built to prevent.
+
+    Strip to a light layer plus a shell before you start, accept being cold while
+    working, and put dry layers on the moment you stop. If you have a spare dry base
+    layer, keep it dry for sleeping and change into it inside.
+
 Remove wet outer layers before entering the shelter. Brush off all snow from clothing and boots at the entrance — snow tracked inside melts and soaks gear. Hang damp items from sticks pushed into the walls near the ceiling where warm air collects. Do not sleep in wet clothing; strip to dry base layers inside the sleeping bag and use body heat to dry damp socks and gloves overnight.
 
 ## Common Mistakes
@@ -189,6 +229,9 @@ Remove wet outer layers before entering the shelter. Brush off all snow from clo
 - **Building on an avalanche-prone slope.** Check slope angle and recent snow conditions before digging into any hillside.
 - **Flat ceiling surfaces.** Flat spots collect meltwater and drip. Dome the ceiling so meltwater runs down the walls.
 - **Entrance at the same level as the sleeping platform.** Eliminates the cold sink effect. Dig the entrance lower.
+- **Leaving the shovel outside.** A collapse or an overnight drift seals you in, and packed snow cannot be dug barehanded. Sleep with it.
+- **Hollowing a quinzhee or cave alone when someone could be spotting.** A collapse with nobody outside is how snow shelter deaths happen.
+- **Sweating through the build.** Wet clothing in a snow shelter defeats the entire point of building it.
 
 ## Quick Reference
 
@@ -205,11 +248,13 @@ Remove wet outer layers before entering the shelter. Brush off all snow from clo
 | Snow cave build time | 2-4 hours |
 | Igloo build time | 1.5-5 hours (skill dependent) |
 | Igloo block size | 24 x 16 x 8 in (60 x 40 x 20 cm) |
+| Shovel at night | Inside, within reach of the sleeping platform |
+| Digging | With a spotter outside wherever possible |
 
 ## See Also
 
-- [Shelter Principles](shelter-principles.md)
-- [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md)
+- [Shelter Principles](shelter-principles.md) — site selection and the insulation theory these shelters apply.
+- [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md) — what wet clothing or a thin floor leads to, and how to recognise it.
 - [Arctic Survival](../climate-specific/arctic-survival.md) — comprehensive cold-environment strategies.
 - [Fire in Wet Conditions](../fire/fire-in-wet-conditions.md) — starting fire inside or near snow shelters.
 - [Clothing and Insulation](../tools-and-craft/clothing-and-insulation.md) — layering for cold-weather shelter use.
