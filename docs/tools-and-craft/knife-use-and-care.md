@@ -58,9 +58,19 @@ The steel of the blade extends the full length and width of the handle. This is 
 **Recommendation:** A Scandi grind is the most practical survival grind because you can sharpen it on a flat stone with zero experience. Lay the bevel flat on the stone and stroke — no angle guessing required.
 
 ### Steel Selection
-- **Carbon steel (1095, 1084, O1):** Easy to sharpen in the field, throws sparks off a ferrocerium rod, prone to rust without maintenance.
-- **Stainless steel (440C, S30V, 154CM):** Rust resistant, harder to sharpen, does not spark off a ferro rod.
-- For survival: carbon steel is preferred. The ability to sharpen quickly and start fires outweighs rust concerns.
+- **Carbon steel (1095, 1084, O1):** Easy to sharpen in the field, prone to rust without maintenance. Also works for traditional flint-and-steel, which stainless does not.
+- **Stainless steel (440C, S30V, 154CM):** Rust resistant, harder to sharpen.
+- For survival: carbon steel is generally preferred, mainly because it is far easier to bring back to an edge with whatever stone you find.
+
+!!! note "Stainless knives strike a ferro rod perfectly well"
+    A ferrocerium rod is *scraped*, not struck — sparks come from shaving off the rod
+    itself, so what matters is a hard, square-cornered 90-degree spine, not the steel
+    the knife is made from. A stainless blade with a sharp spine works fine; a carbon
+    blade with a rounded spine does not.
+
+    The distinction that does depend on steel type is **traditional flint and steel**,
+    where the sparks are shaved from the *steel*. That needs high-carbon steel and will
+    not work with stainless. Do not reject a stainless knife on fire-starting grounds.
 
 ---
 
@@ -99,7 +109,7 @@ A feather stick is a piece of dry wood shaved with thin, curling strips still at
 
 ### Technique
 1. Split a dry piece of softwood (pine, cedar, poplar) using batoning.
-2. Hold the stick at roughly 45 degrees, braced against a log or your thigh (protect your thigh with a folded cloth or bark).
+2. Hold the stick at roughly 45 degrees, braced against a log — or against your thigh with folded cloth or bark between. Cut **downward and away**, past the outside of your knee. Never draw the blade back toward your inner thigh.
 3. Start each cut 2-3 in (5-8 cm) from the end.
 4. Angle the blade at approximately 30 degrees to the wood surface.
 5. Push the blade along the wood in a slow, controlled stroke. Do not dig deep — thin curls catch fire faster.
@@ -212,7 +222,7 @@ No other single tool offers the range of capabilities a knife provides:
 - **Water:** Carve a container, cut a spigot for a birch tree, make a bark funnel.
 - **Food:** Clean game, fillet fish, carve trap triggers and deadfalls, make fishing hooks from bone or thorns.
 - **Signaling:** Carve ground-to-air symbols in snow or dirt, cut reflective material to shape.
-- **Medical:** Cut bandages, shave splint materials, lance a blister (sterilize first).
+- **Medical:** Cut bandages, shave splint materials, remove splinters (sterilize the blade first). Do **not** lance blisters — every medical guide here says to leave them intact, because the roof is a sterile dressing. See [First Aid Basics](../medical/first-aid-basics.md).
 - **Self-defense:** Last resort against animals (see [Animal Attack](../scenarios/animal-attack.md)).
 - **Tool making:** Carve a bow drill for fire, fashion a spear, make a digging stick.
 
