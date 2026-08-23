@@ -140,7 +140,19 @@ Wattle-and-daub creates solid, windproof, insulating walls for any frame structu
 
 - **Overlap from bottom to top.** Each layer overlaps the one below by at least one-third. Water runs down, never under.
 - **Minimum roof pitch:** 45 degrees. Steeper is better for shedding rain and snow.
-- **Bark roofing:** Harvest bark in spring when the sap runs. Flatten sheets under heavy rocks for 2–3 days before installing. Weight them down with cross-poles.
+- **Bark roofing:** Bark separates cleanly in spring when the sap is running. Flatten
+  sheets under heavy rocks for 2–3 days before installing, and weight them down with
+  cross-poles.
+
+    !!! warning "CAUTION: this comes off living trees, and a full ring kills them"
+        Bark peels in spring precisely because the tree is alive. Removing a complete
+        band around a trunk girdles it — the tree dies, usually over the following year.
+
+        Take bark from trees you are already felling for the frame, from recently
+        downed trees, or as partial strips that leave a continuous band of bark
+        connecting root to crown. In a camp you intend to hold for months, the stand
+        around you is your roof, your fuel, and your tool stock. Do not spend it in the
+        first week.
 - **Thatch:** Bundle grass into tight handfuls. Tie bundles to roof poles with cordage. Layer 8–12 inches (20–30 cm) thick.
 
 ## Insulation for Extended Stays
@@ -156,6 +168,30 @@ Ground insulation remains the top priority. For long-term use, improve beyond th
 
 !!! danger "DANGER"
     Carbon monoxide from an interior fire is odorless and lethal. Never seal a shelter completely. Always maintain at least two ventilation openings.
+
+!!! danger "DANGER: the smoke hole is a spark path into your roof"
+    An open fire throws sparks straight up, and the smoke hole sits directly above it —
+    with thatch or bark, the most flammable part of the structure, all around the
+    opening. A roof fire in a shelter you spent weeks building, at night, with one small
+    doorway, is the worst outcome in this guide.
+
+    - Keep the fire **small**. An interior fire is for warmth and cooking, not a bonfire.
+    - Line the pit with stone and keep a **3 ft (1 m) minimum** from any wall. Centre it
+      if the floor plan allows.
+    - Avoid resinous conifer wood indoors — it pops and throws embers. Use seasoned
+      hardwood.
+    - Build the smoke-hole collar from **stone, sod, or daub**, not bare wood or thatch.
+    - Keep water or loose soil inside, within reach of the sleeping area.
+    - Never leave a fire burning unattended while you sleep unless it has burned down to
+      contained coals.
+
+!!! note "Why this clearance differs from the 6 ft rule"
+    [Shelter Principles](shelter-principles.md) says to keep fire 6 ft (1.8 m) from a
+    shelter, and [Debris Hut Construction](debris-hut.md) repeats it. That rule is for
+    shelters whose entire structure is loose dry debris — effectively a tinder bundle.
+    A log or wattle-and-daub structure with a stone-lined pit and a proper smoke hole is
+    built to contain a fire, which is why an interior hearth is possible at all. Neither
+    figure is wrong; they describe different structures.
 
 ### Smoke Hole Design
 
@@ -192,7 +228,9 @@ Organize the interior for efficiency and safety.
 - **Sealing the shelter airtight.** Ventilation is not optional. Two openings minimum when burning any fire.
 - **Using green logs for the frame.** Green wood warps, shrinks, and opens gaps as it dries. Use standing dead hardwood.
 - **Skipping ground insulation.** Even in a well-built cabin, sleeping directly on the ground drains body heat rapidly.
-- **Placing the fire pit against a wall.** Minimum clearance: 12 inches (30 cm) from any wall surface. Wattle-and-daub walls are fire-resistant but not fireproof.
+- **Placing the fire pit too close to a wall.** Minimum clearance: 3 ft (1 m) from any wall surface, in a stone-lined pit. Wattle-and-daub is fire-resistant; log walls and thatch are not.
+- **Building the fire up at night.** A large interior fire throws sparks into the roof through the smoke hole. Keep it small, and burn it down to coals before sleeping.
+- **Girdling the trees you depend on.** Stripping a full ring of bark kills the tree. In a camp you plan to occupy for months, that removes your own future material.
 - **Neglecting roof maintenance.** Inspect roofing weekly. Patch gaps immediately. Small leaks become big problems fast.
 
 ## Quick Reference
@@ -221,7 +259,7 @@ Organize the interior for efficiency and safety.
 ## Sources
 
 - Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
-- Canterbury, Dave. *Bushcraft 101: A Field Guide to the Art of Wilderness Survival.* Adams Media, 2014.
+- Canterbury, Dave. *Bushcraft 101.* Adams Media, 2014.
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - Olsen, Larry Dean. *Outdoor Survival Skills.* Chicago Review Press, 1997.

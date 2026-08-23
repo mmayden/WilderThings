@@ -536,7 +536,18 @@ def check_citation_consistency(root):
             titles = re.findall(r"\*([^*]{6,})\*", cite)
             if not titles:
                 continue
-            key = re.sub(r"[^a-z0-9]", "", max(titles, key=len).lower())
+            # Key on author plus main title, ignoring any subtitle. A subtitle is the
+            # same work — "Bushcraft 101" and "Bushcraft 101: A Field Guide to the Art
+            # of Wilderness Survival" were counted separately, so one book cited two
+            # ways passed silently. The author has to stay in the key: two different
+            # works share a main title here (FEMA and FDIC both wrote "Financial
+            # Preparedness"; Auerbach's "Wilderness Medicine" is not Forgey's
+            # "Wilderness Medicine: Beyond First Aid"), and folding on title alone
+            # reports those as contradictions.
+            title = max(titles, key=len).split(":")[0]
+            author = cite.split("*")[0]
+            key = (re.sub(r"[^a-z0-9]", "", author.lower())[:24]
+                   + "|" + re.sub(r"[^a-z0-9]", "", title.lower()))
             works[key][cite] = os.path.relpath(path, root)
 
     clashes = []

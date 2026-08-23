@@ -246,4 +246,4 @@ Children respond to the emotional state of adults more than to the actual danger
 - Sherif, Muzafer. *The Robbers Cave Experiment.* Wesleyan University Press, 1988.
 - Janis, Irving. *Groupthink: Psychological Studies of Policy Decisions and Fiascoes.* Houghton Mifflin, 1982.
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
-- Grossman, Dave. *On Combat.* Warrior Science Publications, 2004.
+- Grossman, Dave. *On Combat: The Psychology and Physiology of Deadly Conflict in War and Peace.* Warrior Science Publications, 2004.
