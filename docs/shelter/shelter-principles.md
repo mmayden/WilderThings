@@ -14,7 +14,7 @@ tags:
 
 - Shelter is typically the first survival priority — exposure kills faster than dehydration or starvation.
 - The five shelter priorities in order: location, insulation, wind protection, waterproofing, signaling visibility.
-- Ground insulation matters more than walls or a roof — the ground steals heat 50 times faster than still air.
+- Ground insulation matters more than walls or a roof. Still air is a good insulator; cold ground is not, and lying on it conducts heat out of you continuously all night.
 - Smaller shelters retain more body heat. Build only as large as necessary.
 - Know when NOT to build — if rescue is imminent, conserve energy and stay visible.
 
@@ -114,7 +114,12 @@ Insulation works by trapping pockets of still air. Moving air (convection) carri
 
 ### Ground Insulation Is Priority One
 
-The ground conducts heat away from your body **50 times faster** than still air at the same temperature. Without ground insulation, your shelter's roof and walls are nearly worthless.
+Still air is one of the better insulators available to you — it is why loft matters in
+clothing and debris. Cold ground is the opposite: it is in direct contact, it conducts
+continuously, and it never warms up the way a pocket of trapped air does. Body heat also
+melts a damp patch underneath you, which makes the conduction worse as the night goes on.
+
+Without ground insulation, your shelter's roof and walls are close to worthless.
 
 **Minimum ground insulation:** 4–6 inches (10–15 cm) of compressed material between your body and the earth.
 

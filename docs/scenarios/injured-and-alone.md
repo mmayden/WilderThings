@@ -33,7 +33,8 @@ Adrenaline masks pain. You may not realize the extent of your injuries immediate
 **B — Breathing**
 - Take a deep breath. Is it painful? Pain on one side may indicate broken ribs or a pneumothorax (collapsed lung).
 - Count your breaths for 15 seconds and multiply by four. Normal: 12-20 per minute. Above 24 suggests shock, pain, or chest injury.
-- If you hear a sucking sound from a chest wound, seal it immediately with any airtight material (plastic wrapper, duct tape, a gloved hand) taped on three sides to create a flutter valve.
+- If you hear a sucking sound from a chest wound, seal it immediately with any airtight material (plastic wrapper, duct tape, a gloved hand). Tape three sides so trapped air can escape, or all four if you have a vented commercial seal.
+- **If breathing gets worse after sealing it, lift one corner of the seal to let air out, then reseal.** Air can build up in the chest and crush the lung — this "burping" is the only thing you can do about it alone, and improvised tape seals fail often enough that you should expect to need it.
 
 **C — Circulation**
 - Check for bleeding. Run your hands over your entire body — head, neck, armpits, chest, abdomen, groin, thighs, back. Look at your hands after each area.
@@ -85,8 +86,18 @@ If you are bleeding heavily from a limb and your other arm is functional:
 3. Tie a half knot. Place a stick, pen, or sturdy twig on the knot. Tie a full knot over the stick.
 4. Twist the stick until bleeding stops. Secure the stick against the limb by tying or taping it in place.
 
-!!! danger "WARNING"
-    A tourniquet causes severe pain. This is expected. Do not loosen it. A properly applied tourniquet can remain in place for up to 2 hours without causing limb loss. Losing the limb is preferable to losing your life.
+!!! danger "DANGER: never loosen a tourniquet that has been on for hours"
+    A tourniquet causes severe pain. That is expected and is not a reason to release it.
+
+    Releasing a tourniquet that has been on for hours dumps the breakdown products of
+    dying muscle into your circulation at once. That reperfusion injury can stop your
+    heart — people die that way *after* surviving the bleed. Past roughly six hours,
+    releasing it is more dangerous than leaving it on. Timing detail in
+    [First Aid Basics](../medical/first-aid-basics.md#how-long-a-tourniquet-can-stay-on).
+
+    Alone, you cannot manage any of that safely. **Write the time on your skin, leave
+    it alone, and tell whoever reaches you exactly when it went on.** Losing a limb is
+    survivable; bleeding out and reperfusion arrest are not.
 
 ---
 
@@ -162,7 +173,7 @@ If you are bleeding heavily from a limb and your other arm is functional:
 - **Slow exhale:** Inhale for 4 seconds, exhale for 8 seconds. The extended exhale triggers a relaxation response.
 
 ### Cold Application
-- Apply cold water, snow wrapped in cloth, or a cool mud pack to injuries with swelling. Apply for 15 minutes, remove for 15 minutes.
+- Apply cold water, snow wrapped in cloth, or a cool mud pack to injuries with swelling. Apply for 15-20 minutes, then leave it off for at least 40 minutes before repeating.
 - Do not apply ice or snow directly to skin — frostbite compounds the injury.
 
 ### Positioning
@@ -282,7 +293,7 @@ If your injuries limit you to only a few actions, prioritize in this order:
 |-------------------------|-----------------------------------------|---------------------------------------|
 | Arterial bleeding       | Tourniquet or direct pressure           | Tourniquet pain is expected; do not release |
 | Broken limb             | Splint in place, immobilize two joints  | Check circulation below the splint    |
-| Chest wound (sucking)   | Seal on three sides                     | One open side = flutter valve         |
+| Chest wound (sucking)   | Seal it; leave one side open            | If breathing worsens, burp the seal    |
 | Snake bite              | Immobilize, below heart level           | Do not cut, suck, or tourniquet       |
 | Spinal injury suspected | Minimize movement, signal for rescue    | Do not move unless immediate danger   |
 | Burn                    | Cool water 10 min, do not pop blisters  | Cover with non-adhesive dressing      |

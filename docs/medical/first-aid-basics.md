@@ -98,6 +98,27 @@ Apply a tourniquet when:
 !!! danger "WARNING"
     A tourniquet that is too loose increases bleeding by occluding venous return without stopping arterial flow. Tighten until the bleeding stops and the distal pulse is absent.
 
+### How Long a Tourniquet Can Stay On
+
+Record the time it went on. That single number changes how the patient is treated at
+every level of care afterwards.
+
+| Time on | What it means |
+|---|---|
+| Under 2 hours | Essentially no risk of losing the limb |
+| 2-6 hours | Risk rises with time, but limbs are still routinely saved. **Leave it on** |
+| Beyond 6 hours | **Do not release it in the field.** Releasing is now more dangerous than leaving it |
+
+!!! danger "DANGER: releasing a long-applied tourniquet can kill the patient"
+    Blood returning from a limb that has been without circulation for hours carries
+    potassium and the breakdown products of dying muscle straight to the heart. That
+    reperfusion injury causes cardiac arrest, and it kills people who had already
+    survived the bleeding.
+
+    This is why "leave it on" is the rule rather than a compromise. Do not loosen a
+    tourniquet to "let some blood through" — that is the worst of both worlds, and it
+    is a persistent and dangerous myth. Leave it, note the time, and evacuate.
+
 **Improvised tourniquet:** Use a strip of material at least 1.5 inches (4 cm) wide. Never use wire, paracord, or narrow material — these cause tissue necrosis without effectively stopping blood flow. A triangular bandage folded into a cravat with a stick windlass is the most effective improvised option.
 
 ### What Changed From the Older Four-Step Method
