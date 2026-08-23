@@ -100,14 +100,22 @@ Apply a tourniquet when:
 
 **Improvised tourniquet:** Use a strip of material at least 1.5 inches (4 cm) wide. Never use wire, paracord, or narrow material — these cause tissue necrosis without effectively stopping blood flow. A triangular bandage folded into a cravat with a stick windlass is the most effective improvised option.
 
-### Two Steps That Used to Be Taught — and Are Not Anymore
+### What Changed From the Older Four-Step Method
 
-If you learned bleeding control before roughly 2010, you were probably taught to try **elevation** and **pressure points** between direct pressure and a tourniquet. Both have been removed from current trauma guidelines (ATLS, TCCC, and the American Red Cross).
+If you learned bleeding control before roughly 2010, you were taught to work through **elevation** and **pressure points** before reaching a tourniquet. Current guidance treats them differently:
 
-- **Elevation** — no evidence it meaningfully reduces bleeding, and it delays effective treatment.
-- **Pressure points** — difficult to locate correctly under stress, rarely effective, and impossible to maintain while doing anything else.
+**Elevation — no longer recommended.** ANZCOR states plainly that "there is no evidence that elevating a bleeding part will help control bleeding and there is the potential to cause more pain or injury." Do not spend time on it.
 
-Neither is dangerous in itself. The danger is the time they cost. On an arterial bleed you have minutes, so go directly from pressure to packing to tourniquet.
+**Pressure points — no longer a step in the sequence, but still a useful stopgap.** Do not work through them on the way to a tourniquet. However, if you have **no tourniquet and nothing to improvise one from**, hard manual pressure on the artery proximal to (above) the wound is a legitimate way to slow catastrophic bleeding while someone else finds or builds one. STOP THE BLEED teaches exactly this. It is hard to sustain, so treat it as buying minutes, not as a solution.
+
+| Site | Where to press |
+|---|---|
+| Arm | Brachial artery — inner upper arm, between bicep and tricep |
+| Leg | Femoral artery — groin crease, midpoint between hip bone and pubic bone |
+
+Press with a thumb, fist, or knee, using your body weight. Never compress both carotid arteries, and never use the neck as a pressure point.
+
+The principle: an arterial bleed gives you minutes. Go directly from pressure to packing to tourniquet, and use proximal pressure only to fill a gap while a tourniquet is being readied.
 
 ---
 

@@ -164,12 +164,15 @@ Controlled fermentation preserves food through acid production by beneficial bac
 
 !!! danger "WARNING: do not ferment fish or meat in a sealed container"
 
-    Fermented fish is the single largest cause of foodborne botulism in North
-    America. Alaska has the highest rate in the United States, almost entirely
-    from traditionally fermented fish and marine mammal products — and cases
-    **increased** when people moved from porous, grass-lined ground pits to
-    sealed plastic buckets, jars, and bags. Sealing the container is what
-    creates the oxygen-free environment *Clostridium botulinum* needs.
+    Nearly half of all foodborne botulism cases in the United States occur in
+    Alaska, almost entirely from traditionally fermented fish and marine mammal
+    products. Between 2000 and 2007 the rate there ran hundreds of times the
+    national average.
+
+    The risk rose specifically when people moved from porous, grass-lined ground
+    pits to sealed plastic buckets, jars, and bags. Sealing the container is
+    what creates the oxygen-free environment *Clostridium botulinum* needs —
+    and roughly a third of preparers now use plastic containers.
 
     You cannot detect this by smell, taste, or appearance. **Botulinum toxin is
     odorless and tasteless**, and correctly fermented fish is supposed to smell
@@ -240,3 +243,6 @@ Controlled fermentation preserves food through acid production by beneficial bac
 - Pemmican: A History (Forts.ca / Parks Canada)
 - Smoking and Curing Fish and Meat (FAO Fisheries Technical Paper)
 - Drying Foods (University of Georgia Cooperative Extension)
+- Centers for Disease Control and Prevention, MMWR: "Botulism Outbreak Associated With Eating Fermented Food — Alaska, 2001."
+- Alaska Division of Public Health, Section of Epidemiology, botulism bulletins.
+- USDA Food Safety and Inspection Service, guidance on smoking and curing temperatures.

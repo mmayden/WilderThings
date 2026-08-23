@@ -116,7 +116,7 @@ Expose the chest and assess breathing:
   3. The real danger is the underlying pulmonary contusion. Monitor for worsening respiratory distress.
 
 !!! danger "WARNING"
-    Do **not** strap, tape, or bind the chest circumferentially to immobilize a flail segment. It was standard teaching for decades and is now contraindicated — it restricts chest expansion, worsens ventilation, and accelerates respiratory failure in a patient whose lung is already injured.
+    Do **not** strap, tape, sandbag, or bind the chest to immobilize a flail segment. PHTLS states that efforts to stabilize the flail segment by such means are **contraindicated** — they restrict chest wall motion, impair ventilation, and accelerate respiratory failure in a patient whose lung is already injured. Management is pain relief, ventilatory support, and monitoring for deterioration.
 
 ### C — Circulation (Shock)
 
@@ -154,7 +154,11 @@ The civilian primary survey uses the ABCDE framework. Complete it in 60-90 secon
 - Assess skin: color, temperature, moisture. Cool, pale, clammy skin indicates shock.
 
 !!! warning "CAUTION"
-    You may have been taught that a radial pulse means a systolic BP of at least 80 mmHg, femoral 70, and carotid 60. **These numbers are unreliable and were removed from ATLS.** Studies found they substantially overestimate actual blood pressure, which can make a patient in serious shock look stable. Judge perfusion by the overall picture — pulse quality, skin, and mental status — not by a number inferred from which pulses you can feel.
+    You may have been taught the "80/70/60 rule" — radial pulse means systolic BP of at least 80 mmHg, femoral 70, carotid 60. **It is unreliable and has been dropped from ATLS since the 8th edition.**
+
+    When it was tested against measured pressures in hypovolemic trauma patients, it predicted correctly in only 25% of cases and **overestimated** blood pressure in half of them, by an average of 34 mmHg. Overestimation is the dangerous direction: it makes a patient in serious shock look stable.
+
+    What does hold true is the **order** in which pulses disappear — radial first, then femoral, then carotid. Use that as a rough perfusion trend, not a blood pressure number. Judge shock by the whole picture: pulse quality, skin, and mental status.
 - Capillary refill: press a fingernail and release. Normal refill is under 2 seconds.
 - Control any remaining hemorrhage not addressed in the M step.
 
@@ -488,4 +492,5 @@ Follows commands? ──No──> RED
 - American Red Cross First Aid/CPR/AED Participant's Manual, 2021.
 - Emergency War Surgery (NATO Handbook), Borden Institute, 5th US Revision.
 - Tintinalli's Emergency Medicine: A Comprehensive Study Guide, 9th Edition.
+- Deakin, C. D., and Low, J. L. "Accuracy of the advanced trauma life support guidelines for predicting systolic blood pressure using carotid, femoral, and radial pulses." *BMJ*, vol. 321, 2000, pp. 673-674. (Basis for removing the 80/70/60 rule.)
 - Wilderness First Responder: How to Recognize, Treat, and Prevent Emergencies in the Backcountry, Buck Tilton, 4th Edition.
