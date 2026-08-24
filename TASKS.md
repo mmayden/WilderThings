@@ -336,16 +336,31 @@ edition. Re-check each against its publisher annually and update the date below.
 
 <!-- source-currency -->
 
-| Source | Last verified | Revises |
-|---|---|---|
-| TCCC / Joint Trauma System | 2026-08-23 | ~annually |
-| Wilderness Medical Society practice guidelines | 2026-08-23 | ~5 yr per topic (water treatment updated 2024) |
-| AHA / ILCOR / Red Cross first aid | 2026-08-23 | ~5 yr + focused updates |
-| ATLS (American College of Surgeons) | 2026-08-23 | by edition |
-| PHTLS (NAEMT) | 2026-08-23 | by edition |
-| ANZCOR guidelines | 2026-08-23 | rolling |
-| CDC (tick-borne, waterborne, botulism) | 2026-08-23 | without announcement |
-| NWS / NOAA (lightning, wind chill, rip currents) | 2026-08-23 | without announcement |
+The table records **which edition the corpus cites**, not merely when someone last
+glanced at it. The previous version tracked only a date, which is how eight guides came
+to cite TCCC 2023 and five to cite the 2021 Red Cross manual while the table read
+"verified" — the tracker was measuring my attention, not the corpus.
+
+| Source | Edition cited | Confirmed current | Revises |
+|---|---|---|---|
+| TCCC / Joint Trauma System | 1 May 2026 | 2026-08-24 | frequently; check jts.health.mil |
+| AHA / Red Cross CPR & ECC | 2025 Guidelines | 2026-08-24 | ~5 yr (2015, 2020, 2025) |
+| American Red Cross manual | Revision 2025 (r.25) | 2026-08-24 | with the guideline cycle |
+| European Resuscitation Council | Guidelines 2025 | 2026-08-24 | ~5 yr, with ILCOR |
+| ILCOR CoSTR | 2025 | 2026-08-24 | annual reviews, 5-yr consensus |
+| WMS — water treatment | 2024 update | 2026-08-24 | ~5 yr per topic |
+| WMS — frostbite, hypothermia, heat, tick-borne, spine | **2019 — unchecked** | — | ~5 yr per topic |
+| Auerbach *Wilderness Medicine* | 7th ed., 2017 | 2026-08-24 (8th due 2028) | by edition |
+| Tintinalli's | 9th ed., 2020 | 2026-08-24 | by edition |
+| Sanford Guide | **2024 — unchecked** | — | annual |
+| Surviving Sepsis Campaign | **2021 — unchecked** | — | ~3 yr |
+| ATLS / PHTLS | 10th eds | — | by edition |
+| ANZCOR | rolling | 2026-08-23 | rolling |
+| CDC / EPA / NOAA / NWS | web resources | 2026-08-23 | without announcement |
+
+- [ ] The rows marked **unchecked** are the next currency pass. WMS revises per topic on
+      roughly a five-year cycle, so the 2019 guidelines are due or overdue, and Sanford is
+      annual.
 
 <!-- /source-currency -->
 

@@ -309,7 +309,7 @@ Two or more body systems involved after a known exposure = anaphylaxis. Act imme
 - Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, Joint Trauma System,
   1 May 2026. Revised frequently — check jts.health.mil for the current version before
   relying on any specific figure here.
-- American Heart Association / American Red Cross First Aid Guidelines, 2020.
+- American Heart Association and American Red Cross. *2025 Guidelines for First Aid.* 2025.
 - UpToDate: "Anaphylaxis: Emergency Treatment," 2024.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
 - Centers for Disease Control and Prevention (CDC): "Tick Removal and Testing," 2023.

@@ -525,7 +525,7 @@ Follows commands? ──No──> RED
 - Advanced Trauma Life Support (ATLS), American College of Surgeons, 10th Edition.
 - START Triage Algorithm, Newport Beach Fire Department / Hoag Hospital, original 1983 (with subsequent revisions).
 - Wilderness Medical Society Practice Guidelines for Spine Immobilization in the Austere Environment, 2019.
-- American Red Cross First Aid/CPR/AED Participant's Manual, 2021.
+- American Red Cross. *First Aid/CPR/AED Participant's Manual*, Revision 2025 (r.25).
 - Emergency War Surgery (NATO Handbook), Borden Institute, 5th US Revision.
 - Tintinalli's Emergency Medicine: A Comprehensive Study Guide, 9th Edition.
 - Deakin, C. D., and Low, J. L. "Accuracy of the advanced trauma life support guidelines for predicting systolic blood pressure using carotid, femoral, and radial pulses." *BMJ*, vol. 321, 2000, pp. 673-674. (Basis for removing the 80/70/60 rule.)

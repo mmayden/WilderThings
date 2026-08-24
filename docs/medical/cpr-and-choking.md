@@ -16,7 +16,7 @@ tags:
 
 ## At a Glance
 
-- Push hard, push fast — compress the chest at least 2 inches (5 cm) deep at 100-120 compressions per minute for adults.
+- Push hard, push fast — compress the chest 2 to 2.4 inches (5-6 cm) deep at 100-120 compressions per minute for adults. Too shallow is the common error; too deep causes injury.
 - Hands-only CPR (compressions without breaths) is effective and recommended for untrained bystanders.
 - Begin CPR immediately if someone is unresponsive and not breathing normally — every minute without CPR reduces survival by 7-10%.
 - Abdominal thrusts (Heimlich maneuver) clear most choking obstructions in conscious adults and children.
@@ -288,7 +288,7 @@ If a choking victim becomes unconscious:
 
 ## Common Mistakes
 
-- Compressing too shallow — this is the most common CPR error. Push hard enough to compress the chest at least 2 inches (5 cm) in adults.
+- Compressing too shallow — this is the most common CPR error. Push hard enough to compress the chest 2 inches (5 cm) in adults, and no more than 2.4 inches (6 cm).
 - Compressing too fast — exceeding 120/min reduces refill time and decreases cardiac output.
 - Leaning on the chest between compressions — this prevents full recoil and reduces blood flow by up to 25%.
 - Interrupting compressions too long for breaths or pulse checks — keep pauses under 10 seconds.
@@ -340,11 +340,11 @@ If a choking victim becomes unconscious:
 
 **Primary — authoritative, revised, and publicly checkable:**
 
-- American Heart Association Guidelines for CPR and Emergency Cardiovascular Care, 2020 (with 2022 Focused Update).
-- American Red Cross First Aid/CPR/AED Participant's Manual, 2021.
-- European Resuscitation Council Guidelines, 2021.
+- American Heart Association and American Red Cross. *2025 Guidelines for CPR and Emergency Cardiovascular Care.* *Circulation*, 2025.
+- American Red Cross. *First Aid/CPR/AED Participant's Manual*, Revision 2025 (r.25).
+- European Resuscitation Council. *Guidelines 2025.* *Resuscitation*, 2025.
 - Wilderness Medical Society Practice Guidelines for CPR in Austere Environments.
 - Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, Joint Trauma System,
   1 May 2026. Revised frequently — check jts.health.mil for the current version before
   relying on any specific figure here.
-- International Liaison Committee on Resuscitation (ILCOR) Consensus on Science, 2020.
+- International Liaison Committee on Resuscitation (ILCOR). *2025 Consensus on Science with Treatment Recommendations.* 2025.

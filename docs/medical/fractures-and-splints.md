@@ -363,7 +363,7 @@ Attempt field reduction only when evacuation is delayed more than several hours 
 - Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, Joint Trauma System,
   1 May 2026. Revised frequently — check jts.health.mil for the current version before
   relying on any specific figure here.
-- American Red Cross First Aid/CPR/AED Participant's Manual, 2021.
+- American Red Cross. *First Aid/CPR/AED Participant's Manual*, Revision 2025 (r.25).
 - NAEMSP Position Paper on Prehospital Spinal Immobilization, 2018.
 - Tintinalli's Emergency Medicine: A Comprehensive Study Guide, 9th Edition.
 - Emergency War Surgery (NATO Handbook), Borden Institute, 5th US Revision.
