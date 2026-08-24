@@ -88,8 +88,28 @@ wilderness-medicine standards, plus mechanical checks across all 89.
 
 - [ ] Independent review of medical guides by a licensed clinician
 - [ ] Independent review of plant/mushroom ID by a regional botanist/mycologist
-- [ ] Line-by-line pass on the remaining 53 guides (most fire technique, shelter construction, navigation, tools, psychology, preparedness, references) — these have had automated checks and targeted scans, but not a full read
-- [ ] Verify cited sources actually say what guides attribute to them (only a handful spot-checked against the literature so far)
+- [ ] Line-by-line pass on the **12 guides never given a full read**. Everything
+      hazard-bearing has now been read; what remains is the lower-consequence tail:
+
+      | Guide | Why it was deprioritised |
+      |---|---|
+      | `references/glossary.md` | Definitions, no procedures |
+      | `references/book-list.md` | Bibliography — but see the citation finding below |
+      | `references/sources.md` | Same |
+      | `psychology/group-dynamics.md` | No physical procedure to get wrong |
+      | `psychology/solo-survival.md` | Same |
+      | `navigation/map-and-compass.md` | Errors cost time, not life, and are self-correcting |
+      | `navigation/natural-navigation.md` | Same |
+      | `navigation/terrain-association.md` | Same |
+      | `preparedness/financial-preparedness.md` | Financial loss, not injury |
+      | `tools-and-craft/containers-and-vessels.md` | Scanned; food-contact and heating are the risks |
+      | `food/cooking-without-gear.md` | Reviewed in the earlier audit; not re-read |
+      | `food/insect-foraging.md` | Reviewed in the earlier audit; not re-read |
+
+      Two of these deserve a second look despite the ranking. `book-list.md` and
+      `sources.md` are pure bibliography, and three fabricated citations have now been
+      found elsewhere — they are the most likely place for more.
+- [ ] Verify cited sources actually say what guides attribute to them. See the citation-verification section below — three fabricated citations found so far, and the checker cannot detect this class.
 
 ### Engineering standards — DONE
 
