@@ -118,6 +118,31 @@ Insects are the most abundant animal food source on Earth. They require no weapo
 !!! note
     Earthworms are technically not insects, but they are collected using the same methods and serve the same nutritional role in survival foraging.
 
+### Snails and Slugs
+
+Abundant, slow, and easy to gather in wet weather — and the one item on this page that
+regularly kills people who get it wrong.
+
+!!! danger "DANGER: never eat a snail or slug raw, and never eat one you have not purged"
+    Snails and slugs carry **rat lungworm** (*Angiostrongylus cantonensis*), a parasite
+    that migrates to the brain and causes eosinophilic meningitis. It has killed healthy
+    adults and left others permanently disabled, from a single raw slug. Freshwater prawns
+    and crabs carry it too.
+
+    It is destroyed by thorough cooking. Nothing else destroys it — not salt, not
+    vinegar, not purging.
+
+    - **Purge for 24-48 hours** in a container with clean leaves or damp grass, changing
+      them, until the droppings run clear. Snails eat plants that may be toxic to you, and
+      the gut contents are what you are removing.
+    - **Boil for at least 10 minutes**, then discard the water.
+    - Anything that touched them raw — hands, container, blade — gets washed before it
+      touches anything else.
+    - Do not eat brightly coloured land snails or any sea slug.
+
+**Where to find:** After rain, on vegetation, under logs and rocks, in damp leaf litter.
+**Calories:** ~80-90 per 100 g, mostly protein.
+
 ## Insects to Avoid
 
 Follow this rule: **if it warns you, avoid it.**
@@ -188,10 +213,11 @@ Psychological aversion to eating insects is cultural, not biological. In a survi
 | Ants | Trails, nests, logs | 5 min boil | Boil to neutralize formic acid |
 | Termites | Mounds, dead wood | Roast or boil | Lowest-risk if raw is unavoidable |
 | Earthworms | Soil, under logs | Purge + boil | Purge gut before cooking |
+| Snails, slugs | Damp ground after rain | Purge 24-48 h, boil 10 min | **Rat lungworm — never raw** |
 
 ## See Also
 
-- [Foraging Basics](foraging-basics.md) — universal Edibility Test and general foraging principles.
+- [Foraging Basics](foraging-basics.md) — why plant foraging is a poor bet, and the food-priority reality that makes insects the better target.
 - [Insect Threats](../wildlife/insect-threats.md) — dangerous insects to avoid entirely.
 
 ## Sources

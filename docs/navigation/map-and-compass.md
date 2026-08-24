@@ -69,7 +69,7 @@ The angle between true north and magnetic north at your location is **magnetic d
     Fifteen degrees uncorrected over a twenty-mile walk lands you five miles from where
     you intended — far enough to miss a valley entirely.
 
-!!! danger "DANGER: getting the direction backwards doubles your error"
+!!! danger "WARNING: getting the direction backwards doubles your error"
     West and east declination take opposite corrections, so reversing them does not leave
     you uncorrected — it puts you **twice as far off as doing nothing**. In Washington
     state, at about 14 degrees east, the correct move is to subtract 14. Add it instead and
@@ -93,7 +93,7 @@ If your compass has a declination adjustment screw, set it once and all readings
 
 ## Check the Compass Itself First
 
-!!! danger "DANGER: a compass can be reversed and still look perfectly normal"
+!!! danger "WARNING: a compass can be reversed and still look perfectly normal"
     A compass needle can be **re-magnetised backwards** by storing it near a strong
     magnet. The red end then points *south*. Nothing about the compass looks wrong — the
     needle swings freely, settles confidently, and is wrong by 180 degrees.

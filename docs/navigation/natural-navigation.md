@@ -21,7 +21,7 @@ tags:
 
 ## Why You Need Any of This
 
-!!! danger "DANGER: you cannot walk in a straight line without something to aim at"
+!!! danger "WARNING: you cannot walk in a straight line without something to aim at"
     This is the fact the rest of the guide exists to solve. Deprived of a visible external
     reference — sun, a distant peak, a star — people do not walk straight. They walk in
     circles, sometimes as tight as **65 ft (20 m) across**, and they do it while feeling
