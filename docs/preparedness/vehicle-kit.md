@@ -246,10 +246,16 @@ sequence is fatal.
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - American Automobile Association (AAA). *Emergency Car Kit Checklist.* 2024.
 - Federal Emergency Management Agency (FEMA). *Vehicle Emergency Supply Kit.* Ready.gov, 2024.
 - National Highway Traffic Safety Administration (NHTSA). *Winter Driving Tips.* 2024.
-- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - American Red Cross. *Car Emergency Kit.* redcross.org, 2024.
 - AAA Foundation, "Vehicle Escape Tools" testing programme (2019) — tempered versus laminated side glass.
 - Giesbrecht, G. G., et al. Research on submerged-vehicle escape and the "seatbelts, window, out, children first" sequence.
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.

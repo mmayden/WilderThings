@@ -230,11 +230,16 @@ Clay-rich soil can be formed into a crude ceramic filter if you have the ability
 
 ## Sources
 
-- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
-- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
+**Primary — authoritative, revised, and publicly checkable:**
+
+- U.S. Army. *ATP 3-50.21: Survival.* Department of the Army, 2018. Current doctrine; successor to FM 21-76 via FM 3-05.70.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992. The predecessor, and what most reprinted "Army Survival Manual" editions actually contain.
 - World Health Organization, *Guidelines for Drinking-water Quality*, 4th ed., 2011
 - Centers for Disease Control and Prevention, "Household Water Treatment: Filtration," CDC Global Water, Sanitation & Hygiene, 2020
 - Forgey, William W., ed. *Wilderness Medical Society Practice Guidelines for Wilderness
-  Emergency Care.* 5th ed., Falcon Guides, 2006. Superseded in practice by the per-topic
-  WMS clinical practice guidelines published in *Wilderness & Environmental Medicine*.
 - UNHCR, *Water Manual for Refugees*, 1992
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.

@@ -212,6 +212,8 @@ are covered where the reader is deciding whether to eat a catch:
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - International Shark Attack File (ISAF), Florida Museum of Natural History
 - Australian Resuscitation Council, guideline on jellyfish stings
 - Divers Alert Network (DAN), marine life injuries reference

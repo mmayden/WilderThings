@@ -196,9 +196,14 @@ Psychological aversion to eating insects is cultural, not biological. In a survi
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - Edible Insects: Future Prospects for Food and Feed Security (FAO, 2013)
-- The Eat-a-Bug Cookbook (David George Gordon)
-- Man Eating Bugs: The Art and Science of Eating Insects (Menzel & D'Aluisio)
-- US Army Survival Manual FM 21-76
 - Journal of Insects as Food and Feed (Wageningen Academic Publishers)
 - Nutritional Value of Insects for Human Consumption (Rumpold & Schluter, 2013)
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
+- The Eat-a-Bug Cookbook (David George Gordon)
+- Man Eating Bugs: The Art and Science of Eating Insects (Menzel & D'Aluisio)

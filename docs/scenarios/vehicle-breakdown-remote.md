@@ -200,8 +200,16 @@ If you make the decision to leave the vehicle:
 ---
 
 ## Sources
-- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
-- Lundin, Cody. *98.6 Degrees: The Art of Keeping Your Ass Alive.* Gibbs Smith, 2003.
-- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
+
+**Primary — authoritative, revised, and publicly checkable:**
+
+- U.S. Army. *ATP 3-50.21: Survival.* Department of the Army, 2018. Current doctrine; successor to FM 21-76 via FM 3-05.70.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992. The predecessor, and what most reprinted "Army Survival Manual" editions actually contain.
 - National Park Service. "Desert Safety." *NPS Visitor Safety*, 2022.
 - American Automobile Association (AAA). "What to Do If Your Car Breaks Down." *AAA Exchange*, 2023.
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
+- Lundin, Cody. *98.6 Degrees: The Art of Keeping Your Ass Alive.* Gibbs Smith, 2003.

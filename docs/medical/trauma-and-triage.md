@@ -516,6 +516,8 @@ Follows commands? ──No──> RED
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, 2023.
 - PHTLS: Prehospital Trauma Life Support, 10th Edition, National Association of EMTs (NAEMT).
 - Advanced Trauma Life Support (ATLS), American College of Surgeons, 10th Edition.
@@ -525,4 +527,8 @@ Follows commands? ──No──> RED
 - Emergency War Surgery (NATO Handbook), Borden Institute, 5th US Revision.
 - Tintinalli's Emergency Medicine: A Comprehensive Study Guide, 9th Edition.
 - Deakin, C. D., and Low, J. L. "Accuracy of the advanced trauma life support guidelines for predicting systolic blood pressure using carotid, femoral, and radial pulses." *BMJ*, vol. 321, 2000, pp. 673-674. (Basis for removing the 80/70/60 rule.)
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
 - Wilderness First Responder: How to Recognize, Treat, and Prevent Emergencies in the Backcountry, Buck Tilton, 4th Edition.

@@ -393,7 +393,14 @@ If staying more than one night:
 
 ## Sources
 
-- U.S. Army Field Manual FM 21-76, *Survival* (Department of the Army).
+**Primary — authoritative, revised, and publicly checkable:**
+
+- U.S. Army. *ATP 3-50.21: Survival.* Department of the Army, 2018. Current doctrine; successor to FM 21-76 via FM 3-05.70.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992. The predecessor, and what most reprinted "Army Survival Manual" editions actually contain.
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
 - Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
 - Brown, Tom Jr. *Tom Brown's Field Guide to Wilderness Survival.* Berkley Books, 1983.
 - Canterbury, Dave. *Bushcraft 101.* Adams Media, 2014.

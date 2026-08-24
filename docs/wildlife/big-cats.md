@@ -200,8 +200,14 @@ The leopard (*Panthera pardus*) ranges across sub-Saharan Africa and parts of As
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - Beier, P. "Cougar Attacks on Humans in the United States and Canada." *Wildlife Society Bulletin*, vol. 19, no. 4, 1991, pp. 403–412.
 - Mattson, D., et al. "Contexts of Mountain Lion Predatory Behavior toward Humans." *Wildlife Society Bulletin*, vol. 35, no. 2, 2011, pp. 62–73.
 - California Department of Fish and Wildlife. "Living with Mountain Lions." wildlife.ca.gov. Accessed 2025.
 - Colorado Parks and Wildlife. "Mountain Lion Safety." cpw.state.co.us. Accessed 2025.
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
 - Quigley, H., and Herrero, S. "Characterization and Prevention of Attacks on Humans by Mountain Lions." *Proc. of the 5th Mountain Lion Workshop*, 1996.

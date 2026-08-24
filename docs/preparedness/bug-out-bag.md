@@ -260,8 +260,14 @@ Everything else. Pack with heaviest items closest to your back and centered betw
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - Federal Emergency Management Agency (FEMA). *Build A Kit.* Ready.gov, 2024.
 - American Red Cross. *Survival Kit Supplies.* redcross.org, 2024.
 - U.S. Department of Homeland Security. *72-Hour Emergency Kit Recommendations.* 2023.
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
 - Lundin, Cody. *When All Hell Breaks Loose.* Gibbs Smith, 2007.
 - Rawles, James Wesley. *How to Survive the End of the World as We Know It.* Plume, 2009.

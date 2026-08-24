@@ -328,8 +328,7 @@ Use whatever methods keep you alive. Survival overrides game regulations. After 
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992, ch. 8 (Food Procurement).
-- SAS Survival Handbook (John "Lofty" Wiseman)
-- Bushcraft 101 (Dave Canterbury), Chapters on Trapping
-- Primitive Technology: A Book of Earth Skills (David Wescott, ed.)
 - International Trapper Education Association materials

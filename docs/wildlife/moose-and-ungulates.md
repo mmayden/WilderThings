@@ -162,6 +162,8 @@ Ungulate-vehicle collisions cause over 200 deaths and 26,000 injuries annually i
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - Alaska Department of Fish and Game, "Living with Moose"
 - National Park Service, wildlife safety guidelines for Yellowstone, Grand Teton, and Rocky Mountain National Parks
 - Insurance Institute for Highway Safety (IIHS), animal-vehicle collision statistics

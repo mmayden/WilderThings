@@ -205,8 +205,15 @@ Rivers are the highways of the jungle. When available, river travel is faster an
 
 ## Sources
 
-- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
-- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
+**Primary — authoritative, revised, and publicly checkable:**
+
+- U.S. Army. *ATP 3-50.21: Survival.* Department of the Army, 2018. Current doctrine; successor to FM 21-76 via FM 3-05.70.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992. The predecessor, and what most reprinted "Army Survival Manual" editions actually contain.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
 - Souman, J. L., et al. "Walking Straight into Circles." *Current Biology*, vol. 19, no. 18, 2009, pp. 1538-1542. (Basis for the walking-in-circles figure.)
 - World Health Organization. "Malaria Fact Sheet." who.int. Accessed 2025.
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.

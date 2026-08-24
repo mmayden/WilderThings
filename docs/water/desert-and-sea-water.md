@@ -281,11 +281,18 @@ On a life raft or boat without fuel, use passive methods.
 
 ## Sources
 
-- U.S. Army Field Manual FM 21-76, *Survival* (Department of the Army).
+**Primary — authoritative, revised, and publicly checkable:**
+
+- U.S. Army. *ATP 3-50.21: Survival.* Department of the Army, 2018. Current doctrine; successor to FM 21-76 via FM 3-05.70.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992. The predecessor, and what most reprinted "Army Survival Manual" editions actually contain.
 - U.S. Navy SERE Manual, *Water Procurement at Sea* (Department of the Navy).
-- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
-- Alloway, David. *Desert Survival Skills.* University of Texas Press, 2000.
-- Davenport, Gregory. *Surviving Coastal and Open Water.* Stackpole Books, 2003.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
 - NASA Technical Report, *Solar Distillation for Survival Water* (1965).
 - International Maritime Organization, *Life-Saving Appliances Code* (IMO, 2017).
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
+- Alloway, David. *Desert Survival Skills.* University of Texas Press, 2000.
+- Davenport, Gregory. *Surviving Coastal and Open Water.* Stackpole Books, 2003.

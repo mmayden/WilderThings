@@ -265,6 +265,15 @@ If you can carry only one piece of gear into the wilderness, carry a quality fix
 ---
 
 ## Sources
+
+**Primary — authoritative, revised, and publicly checkable:**
+
+- U.S. Army. *ATP 3-50.21: Survival.* Department of the Army, 2018. Current doctrine; successor to FM 21-76 via FM 3-05.70.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992, ch. 12 (Field-Expedient Weapons, Tools, and Equipment).
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
 - Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
 - Kephart, Horace. *Camping and Woodcraft.* Macmillan, 1906.
 - Canterbury, Dave. *Bushcraft 101.* Adams Media, 2014.

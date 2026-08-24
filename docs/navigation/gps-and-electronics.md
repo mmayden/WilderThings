@@ -224,11 +224,11 @@ Electronics fail from water, impact, cold, dead batteries, and software crashes.
 
 ## Sources
 
-- US Air Force Survival Manual (AF 64-4)
+**Primary — authoritative, revised, and publicly checkable:**
+
 - Garmin InReach and SPOT product documentation
 - NOAA SARSAT PLB registration and specifications
 - USGS topographic map standards and UTM reference
 - Wilderness Medical Society practice guidelines on field communication
 - Apple, "Use Emergency SOS via satellite on your iPhone" (support.apple.com)
 - Google, "Satellite SOS on Pixel" (support.google.com/pixelphone)
-- Device support and carrier coverage current as of August 2026 and changing quickly

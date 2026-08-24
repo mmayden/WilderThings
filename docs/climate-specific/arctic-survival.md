@@ -238,10 +238,16 @@ At -20°F with a 30 mph wind, exposed skin freezes in about five minutes. Reduce
 
 ## Sources
 
-- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
+**Primary — authoritative, revised, and publicly checkable:**
+
 - U.S. Army. *FM 31-70: Basic Cold Weather Manual.* Department of the Army, 1968.
-- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
 - Wilderness Medical Society Practice Guidelines for the Out-of-Hospital Evaluation and Treatment of Accidental Hypothermia, 2019.
 - Wilderness Medical Society Practice Guidelines for the Prevention and Treatment of Frostbite, 2019.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
 - National Weather Service. "Wind Chill Chart." weather.gov. Accessed 2025.
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
+- Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.

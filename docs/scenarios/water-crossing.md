@@ -241,9 +241,17 @@ If the downstream assessment is unfavorable, walk upstream until you find a cros
 ---
 
 ## Sources
+
+**Primary — authoritative, revised, and publicly checkable:**
+
+- U.S. Army. *ATP 3-50.21: Survival.* Department of the Army, 2018. Current doctrine; successor to FM 21-76 via FM 3-05.70.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992. The predecessor, and what most reprinted "Army Survival Manual" editions actually contain.
+- American Canoe Association. *River Safety Anthology.* Menasha Ridge Press, 2003.
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
 - Bechdel, Les, and Slim Ray. *River Rescue.* Appalachian Mountain Club Books, 1997.
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
 - Golden, Frank, and Michael Tipton. *Essentials of Sea Survival.* Human Kinetics, 2002.
-- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
-- American Canoe Association. *River Safety Anthology.* Menasha Ridge Press, 2003.

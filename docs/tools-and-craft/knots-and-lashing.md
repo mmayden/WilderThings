@@ -378,10 +378,17 @@ Before any load-bearing use:
 ---
 
 ## Sources
-- Ashley, Clifford W. *The Ashley Book of Knots.* Doubleday, 1944.
-- Pawson, Des. *The Handbook of Knots.* DK Publishing, 2004.
-- Boy Scouts of America. *Pioneering Merit Badge Pamphlet.* BSA, 2016.
+
+**Primary — authoritative, revised, and publicly checkable:**
+
 - UK Health and Safety Executive, RR708, "Evidence-based review of the current guidance on first aid measures for suspension trauma" (2009).
 - ANZCOR Guideline 9.1.5, "First Aid Management of Harness Suspension Trauma".
 - International Guild of Knot Tyers, knot strength reference tables.
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
+- Ashley, Clifford W. *The Ashley Book of Knots.* Doubleday, 1944.
+- Pawson, Des. *The Handbook of Knots.* DK Publishing, 2004.
+- Boy Scouts of America. *Pioneering Merit Badge Pamphlet.* BSA, 2016.
 - Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.

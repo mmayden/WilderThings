@@ -210,6 +210,8 @@ what the animal was and where, and go.
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - International Wolf Center, wolf biology and behavior resources
 - Centers for Disease Control and Prevention (CDC), rabies prevention guidelines
 - Alaska Department of Fish and Game, "Living with Wolves"

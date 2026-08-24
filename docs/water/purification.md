@@ -360,12 +360,16 @@ This layered approach addresses the full spectrum of threats.
 
 ## Sources
 
-- U.S. Army Field Manual FM 21-76, *Survival* (Department of the Army).
+**Primary — authoritative, revised, and publicly checkable:**
+
+- U.S. Army. *ATP 3-50.21: Survival.* Department of the Army, 2018. Current doctrine; successor to FM 21-76 via FM 3-05.70.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992. The predecessor, and what most reprinted "Army Survival Manual" editions actually contain.
 - Centers for Disease Control and Prevention (CDC). *A Guide to Drinking Water Treatment Technologies for Household Use.* 2024.
 - World Health Organization. *SODIS Method Technical Notes.* WHO, 2023.
 - Backer, Howard D. "Water Disinfection for International and Wilderness Travelers." *Clinical Infectious Diseases*, 2002.
-Backer, H. D., Derlet, R. W., Hill, V. R. "Wilderness Medical Society Clinical Practice
-  Guidelines on Water Treatment for Wilderness, International Travel, and Austere
-  Situations: 2024 Update." *Wilderness Environ Med* 2024.
-- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - Environmental Protection Agency. *Emergency Disinfection of Drinking Water.* EPA, 2024.
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.

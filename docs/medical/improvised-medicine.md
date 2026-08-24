@@ -272,6 +272,8 @@ Some conditions exceed the capability of improvised medicine. Attempting treatme
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - Molan, Peter C. "The Evidence and the Rationale for the Use of Honey as a Wound Dressing." *Wound Practice & Research*, 2011.
 - Shilling, Malcolm et al. "Antimicrobial Effects of Virgin Coconut Oil and its Medium-Chain Fatty Acids." *Journal of Medicinal Food*, 2013.
 - Vlachojannis, Julia et al. "A Systematic Review on the Effectiveness of Willow Bark for Musculoskeletal Pain." *Phytotherapy Research*, 2009.

@@ -291,14 +291,19 @@ Not every situation calls for shelter construction. Conserve energy when:
 
 ## Sources
 
-- U.S. Army Field Manual FM 21-76, *Survival* (Department of the Army).
+**Primary — authoritative, revised, and publicly checkable:**
+
+- U.S. Army. *ATP 3-50.21: Survival.* Department of the Army, 2018. Current doctrine; successor to FM 21-76 via FM 3-05.70.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992. The predecessor, and what most reprinted "Army Survival Manual" editions actually contain.
+- National Weather Service, Wind Chill Temperature Index (2001 revision) — the formula
+- Pretorius T et al. "Thermal effects of whole head submersion in cold water."
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
 - Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - Canterbury, Dave. *Bushcraft 101.* Adams Media, 2014.
 - Mears, Raymond. *Essential Bushcraft.* Hodder & Stoughton, 2002.
 - Olsen, Larry Dean. *Outdoor Survival Skills.* Chicago Review Press, 1997.
 - National Outdoor Leadership School (NOLS). *NOLS Wilderness Medicine.* Stackpole Books, 2017.
-- National Weather Service, Wind Chill Temperature Index (2001 revision) — the formula
-  behind the figures above.
-- Pretorius T et al. "Thermal effects of whole head submersion in cold water."
-  *J Appl Physiol* 2006;101(2):669-75 — head heat loss in proportion to surface area.

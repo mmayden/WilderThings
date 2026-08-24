@@ -266,6 +266,8 @@ False on every count. "Daddy longlegs" refers to harvestmen (not spiders, no ven
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - Vetter, R. S. "Spiders of the Genus Loxosceles (Araneae, Sicariidae): A Review of Biological, Medical, and Psychological Aspects Regarding Envenomations." *Journal of Arachnology*, vol. 36, no. 2, 2008, pp. 209–219.
 - Isbister, G. K., and Fan, H. W. "Spider Bite." *The Lancet*, vol. 378, no. 9808, 2011, pp. 2039–2047.
 - Swanson, D. L., and Vetter, R. S. "Bites of Brown Recluse Spiders and Suspected Necrotic Arachnidism." *New England Journal of Medicine*, vol. 352, no. 7, 2005, pp. 700–707.
@@ -273,8 +275,4 @@ False on every count. "Daddy longlegs" refers to harvestmen (not spiders, no ven
 - Australian Museum. "Funnel-web Spiders." australian.museum. Accessed 2025.
 - Vetter, R. S. *The Brown Recluse Spider.* Cornell University Press, 2015.
 - Dart, R. C., et al. "Treatments for Latrodectism — A Systematic Review on Their
-  Clinical Effectiveness." *Toxins* 2017;9(4):148 — the review that retired calcium
-  gluconate and methocarbamol.
 - Bolzern, A., Burckhardt, D., Hänggi, A. "Phylogeny and taxonomy of European funnel-web
-  spiders." *Zool J Linn Soc* 2013;168:723-848 — the reclassification of the hobo spider
-  to *Eratigena*.

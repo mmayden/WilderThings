@@ -196,6 +196,8 @@ A "dry bite" occurs when a venomous snake strikes but injects no venom or only a
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - Juckett, G., and Hancox, J. G. "Venomous Snakebites in the United States: Management Review and Update." *American Family Physician*, vol. 65, no. 7, 2002, pp. 1367–1375.
 - Seifert, S. A., et al. "AAPCC Database Characterization of Native US Venomous Snake Exposures, 2001–2005." *Clinical Toxicology*, vol. 47, no. 4, 2009, pp. 327–335.
 - Norris, R. L., and Bush, S. P. "Bites by Venomous Reptiles in the Americas." *Wilderness Medicine*, 7th ed., Elsevier, 2017.

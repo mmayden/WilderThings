@@ -303,6 +303,8 @@ Two or more body systems involved after a known exposure = anaphylaxis. Act imme
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - Wilderness Medical Society Practice Guidelines for the Treatment of Pitviper Envenomation, 2011 (updated 2020).
 - Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, 2023.
 - American Heart Association / American Red Cross First Aid Guidelines, 2020.

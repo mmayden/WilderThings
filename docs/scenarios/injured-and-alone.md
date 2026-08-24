@@ -314,8 +314,15 @@ If your injuries limit you to only a few actions, prioritize in this order:
 ---
 
 ## Sources
+
+**Primary — authoritative, revised, and publicly checkable:**
+
 - Auerbach, Paul S. *Medicine for the Outdoors.* Elsevier, 2016.
-- Tilton, Buck. *Wilderness First Responder.* Falcon Guides, 2010.
 - Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, 2023.
 - Forgey, William W. *Wilderness Medicine: Beyond First Aid.* Falcon Guides, 2017.
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
+- Tilton, Buck. *Wilderness First Responder.* Falcon Guides, 2010.
 - Gonzales, Laurence. *Deep Survival: Who Lives, Who Dies, and Why.* W.W. Norton, 2003.

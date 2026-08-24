@@ -158,8 +158,14 @@ Crocodilians are ambush predators. They wait motionless at the water's edge, par
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - CrocBITE, worldwide crocodilian attack database (Charles Darwin University)
 - Florida Fish and Wildlife Conservation Commission, "Living with Alligators and Crocodiles"
 - Australian Government Department of Climate Change, "Be Crocwise" safety campaign
-- Webb and Manolis, *Crocodiles of the World*, 2010
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
+- Webb and Manolis, *Crocodiles of the World*, 2010

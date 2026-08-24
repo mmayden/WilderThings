@@ -374,9 +374,15 @@ Check every wound for these signs at least twice daily:
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, 2023.
 - American Red Cross First Aid/CPR/AED Participant's Manual, 2021.
 - Wilderness Medical Society Practice Guidelines for Wound Management, 2014.
-- Wilderness First Responder: How to Recognize, Treat, and Prevent Emergencies in the Backcountry, Buck Tilton, 4th Edition.
 - Emergency War Surgery (NATO Handbook), Borden Institute, 5th US Revision.
 - Tintinalli's Emergency Medicine: A Comprehensive Study Guide, 9th Edition.
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
+- Wilderness First Responder: How to Recognize, Treat, and Prevent Emergencies in the Backcountry, Buck Tilton, 4th Edition.

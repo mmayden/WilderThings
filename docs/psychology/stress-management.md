@@ -271,11 +271,16 @@ Use any available method: scratching bark, arranging stones, marking dirt, or wr
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
+- U.S. Air Force. *AFR 64-4: Survival Training.* Department of the Air Force, 1985.
+- *SERE (Survival, Evasion, Resistance, Escape) Training Manual* — US Joint Personnel Recovery Agency
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
 - Gonzales, Laurence. *Deep Survival: Who Lives, Who Dies, and Why.* W.W. Norton, 2003.
 - *Surviving Survival: The Art and Science of Resilience* — Laurence Gonzales, W.W. Norton, 2012
-- U.S. Air Force. *AFR 64-4: Survival Training.* Department of the Air Force, 1985.
 - Grossman, Dave. *On Combat: The Psychology and Physiology of Deadly Conflict in War and Peace.* Warrior Science Publications, 2004.
-- *SERE (Survival, Evasion, Resistance, Escape) Training Manual* — US Joint Personnel Recovery Agency
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
-- Grossman, Dave. "On the Psychology of Combat" — lectures on heart rate and performance zones

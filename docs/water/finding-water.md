@@ -324,11 +324,16 @@ Melting snow without fire costs significant body heat and calories. Calculate th
 
 ## Sources
 
-- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
+**Primary — authoritative, revised, and publicly checkable:**
+
+- U.S. Army. *ATP 3-50.21: Survival.* Department of the Army, 2018. Current doctrine; successor to FM 21-76 via FM 3-05.70.
+- U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992. The predecessor, and what most reprinted "Army Survival Manual" editions actually contain.
+- Backer, H. D., Derlet, R. W., Hill, V. R. "Wilderness Medical Society Clinical Practice
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
 - Mears, Raymond. *Essential Bushcraft.* Hodder & Stoughton, 2002.
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - Kochanski, Mors. *Bushcraft: Outdoor Skills and Wilderness Survival.* Lone Pine Publishing, 1987.
 - Canterbury, Dave. *Bushcraft 101.* Adams Media, 2014.
-- Backer, H. D., Derlet, R. W., Hill, V. R. "Wilderness Medical Society Clinical Practice
-  Guidelines on Water Treatment for Wilderness, International Travel, and Austere
-  Situations: 2024 Update." *Wilderness Environ Med* 2024.

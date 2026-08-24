@@ -338,6 +338,8 @@ If a choking victim becomes unconscious:
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - American Heart Association Guidelines for CPR and Emergency Cardiovascular Care, 2020 (with 2022 Focused Update).
 - American Red Cross First Aid/CPR/AED Participant's Manual, 2021.
 - European Resuscitation Council Guidelines, 2021.

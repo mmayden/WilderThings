@@ -121,6 +121,35 @@ unchecked citation is unverified, and if you are about to lean on one, open it f
 this content, and most cited sources have not been verified against the originals.
 Do not describe the content as expert-reviewed.
 
+## Sourcing Standard
+
+Every guide's `## Sources` is split into two tiers, and the split is the point.
+
+**Primary** — authoritative, revised, and publicly checkable. Eight families:
+
+| For | Cite |
+|---|---|
+| Field technique — shelter, fire, water, navigation, signaling | `ATP 3-50.21` (2018, current), `FM 21-76`, `AFH 10-644`, `AFR 64-4` |
+| Trauma and first aid | TCCC, PHTLS, ATLS, ILCOR / AHA / ANZCOR / Red Cross |
+| Wilderness medicine | WMS clinical practice guidelines (per topic, revised), Auerbach |
+| Disease, water, toxins | CDC (incl. Yellow Book), EPA, WHO |
+| Weather and rescue | NOAA / NWS, COSPAS-SARSAT |
+| Specific claims | Peer-reviewed journal articles |
+
+**Additional reading** — trade books and first-hand accounts. Kochanski, Wiseman,
+Canterbury, Mears, Gonzales and the rest. Useful, and not what a claim should rest on.
+
+**Do not cite a military survival manual for medical content.** FM 21-76 is 1992, and
+several errors corrected in this corpus came straight out of it — the lightning crouch,
+pressure points for bleeding, elevation for shock. It is excellent on building a shelter
+and dangerously stale on treating a casualty. Field technique from the manuals; medicine
+from WMS, TCCC, and the resuscitation councils.
+
+**A citation is a promise that someone can check it.** Twelve fabricated or wrong
+citations have been found in this corpus (TASKS.md has the table). `scripts/verify.py`
+checks that a work is cited the same way everywhere; it cannot check that the work
+exists. If you add a source, open it first.
+
 ## Security — Read First
 
 **Content accuracy is a life-safety matter.** This project contains medical, foraging, and emergency guidance. Treat inaccurate content as a defect, not an inconvenience.

@@ -253,8 +253,14 @@ Once ashore:
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
+- Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - Craighead, Frank C., and John J. Craighead. *How to Survive on Land and Sea.* Naval Institute Press, 4th ed., 1984.
-- Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
 - Callahan, Steven. *Adrift: Seventy-Six Days Lost at Sea.* Houghton Mifflin, 1986.
 - Robertson, Dougal. *Survive the Savage Sea.* Praeger, 1973.

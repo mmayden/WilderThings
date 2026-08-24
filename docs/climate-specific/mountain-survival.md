@@ -218,9 +218,15 @@ Do not let summit goals override survival judgment. Most mountain fatalities occ
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - Wilderness Medical Society Clinical Practice Guidelines for the Prevention, Diagnosis, and Treatment of Acute Altitude Illness: 2024 Update. *Wilderness & Environmental Medicine.* (Current guideline for the AMS/HACE/HAPE dosing above.)
 - Hackett, Peter H., and Roach, Robert C. "High-Altitude Illness." *New England Journal of Medicine*, vol. 345, no. 2, 2001, pp. 107-114. (Background; superseded for treatment by the WMS guideline above.)
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
-- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - National Lightning Safety Institute. "Personal Lightning Safety." lightningsafety.com. Accessed 2025.
 - American Alpine Club. *Accidents in North American Climbing.* Annual publication, 2024.
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
+- Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.

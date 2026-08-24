@@ -364,6 +364,8 @@ Dissolve completely. Sip frequently. This formula approximates the World Health 
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - Wilderness Medical Society Practice Guidelines for the Out-of-Hospital Evaluation and Treatment of Accidental Hypothermia, 2019.
 - Wilderness Medical Society Practice Guidelines for the Prevention and Treatment of Frostbite, 2019.
 - Wilderness Medical Society Practice Guidelines for the Prevention and Treatment of Heat Illness, 2019.

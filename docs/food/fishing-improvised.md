@@ -466,15 +466,16 @@ Species identification and reef knowledge are the only defence.
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992, ch. 8 (Food Procurement).
-- SAS Survival Handbook (John "Lofty" Wiseman)
-- Bushcraft 101 (Dave Canterbury)
-- Primitive Technology: A Book of Earth Skills (David Wescott, ed.)
-- The Complete Guide to Freshwater Fishing (Creative Publishing International)
 - CDC — Parasites and Foodborne Illness guidelines
 - CDC Yellow Book (2026), "Food Poisoning from Marine Toxins" — ciguatera, scombroid,
-  and tetrodotoxin
 - FDA Food Code 3-402.11, Freezing for parasite destruction
 - Friedman MA et al. "An Updated Review of Ciguatera Fish Poisoning."
-  *Marine Drugs* 2017;15(3):72
 - Auerbach's Wilderness Medicine, 7th ed., ch. on hazardous marine life ingestions
+
+**Additional reading — trade books and first-hand accounts.** Useful, but not
+revised, not peer-reviewed, and not what a claim should rest on alone:
+
+- The Complete Guide to Freshwater Fishing (Creative Publishing International)

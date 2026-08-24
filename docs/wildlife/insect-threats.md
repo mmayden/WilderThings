@@ -294,6 +294,8 @@ These provide limited, short-duration (20–60 minute) protection:
 
 ## Sources
 
+**Primary — authoritative, revised, and publicly checkable:**
+
 - World Health Organization. "Vector-Borne Diseases." who.int. Accessed 2025.
 - Centers for Disease Control and Prevention. "Mosquito-Borne Diseases," "Ticks," "Insect Repellents." cdc.gov. Accessed 2025.
 - Connally, N. P., et al. "Lyme Disease Surveillance in the United States." *MMWR Surveillance Summaries*, CDC, 2024.
