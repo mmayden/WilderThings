@@ -143,7 +143,7 @@ tags:
 
 **Pressure Dressing** — A bandage applied with firm pressure to a wound to control bleeding. Maintains direct pressure without requiring someone to hold it.
 
-**Primitive Fire** — Fire created without modern ignition tools, using methods such as bow drill, hand drill, fire plow, or fire saw. See [Friction Methods](../fire/friction-methods.md).
+**Primitive Fire** — Fire created without modern ignition tools, using methods such as bow drill, hand drill, fire plow, or fire saw. All need many hours of practice to work reliably and are not a realistic first resort when stranded. See [Spark and Lens Methods](../fire/spark-methods.md).
 
 **Prusik Knot** — A friction hitch that grips a rope when weighted and slides freely when unweighted. Used for ascending ropes, tensioning ridgelines, and self-rescue.
 

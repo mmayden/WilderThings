@@ -16,7 +16,17 @@ codespell docs/ --config .codespellrc --quiet-level=2  # spell check
 
 ## What This Project Is
 
-89 survival guides across 13 categories, shipped **three ways from one content source**:
+**Scope: someone stranded in the wilderness who needs to survive.** That is the whole
+test. If a guide would only matter to someone who is already safe, already settled, or
+somewhere other than the wilderness, it does not belong — 22 guides were archived on
+2026-08-24 for failing it, including all plant and fungus identification. See
+`archive/README.md` for the reasoning, and apply the same test before adding anything.
+
+The priority order is the corpus's own: **3 minutes without air, 3 hours without shelter,
+3 days without water, 3 weeks without food.** Coverage should reflect it. It did not
+before the cut — food had more than twice the coverage of water.
+
+60 survival guides across 12 categories, shipped **three ways from one content source**:
 
 | | Build | Output | Needs network |
 |---|---|---|---|
@@ -45,7 +55,7 @@ build as a defect; `scripts/build-offline.sh` fails the build if one appears.
 
 | Item | Status |
 |------|--------|
-| Guides | 89 across 13 categories, ~21,000 lines |
+| Guides | 60 across 12 categories (22 archived 2026-08-24 — see `archive/README.md`) |
 | Milestones 0–4 | Complete |
 | Milestone 5 | **In progress** — offline copy done and verified; hosted offline caching + device install testing remain |
 | Offline copy | **Working.** `./scripts/build-offline.sh` → 12 MB folder / 2.8 MB zip, 0 external requests, search index of 2,777 docs loads under `file://` |

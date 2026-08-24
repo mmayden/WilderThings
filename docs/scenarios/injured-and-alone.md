@@ -310,7 +310,6 @@ If your injuries limit you to only a few actions, prioritize in this order:
 - [First Aid Basics](../medical/first-aid-basics.md) — wound care, bleeding control, and burn treatment.
 - [Fractures and Splints](../medical/fractures-and-splints.md) — self-splinting techniques.
 - [Signaling for Rescue](../navigation/signaling-for-rescue.md) — attracting help when immobile.
-- [Solo Survival](../psychology/solo-survival.md) — psychological resilience during solo emergencies.
 
 ---
 

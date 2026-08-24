@@ -37,7 +37,7 @@ tags:
       act on the heart or nervous system hours after the test says "safe."
     - **Delayed-onset toxins pass unnoticed.** Oxalates and some alkaloids
       damage kidneys and liver over days with no immediate symptom.
-    - **Never use it on mushrooms.** See [mushroom-identification.md](mushroom-identification.md).
+    - **Never use it on mushrooms, ever.** Fungal toxins do not announce themselves. Amatoxins are tasteless, cause no symptoms for 6-24 hours, and destroy the liver by the time you feel ill. There is no field test for a mushroom.
 
     Weigh it against the payoff: 24 hours and considerable water for a plant
     part likely worth 15-30 calories per cup. **Positive identification of a few
@@ -149,6 +149,59 @@ Most wild greens provide 15-30 calories per cup (240 ml). Compare this to your d
 
 **Bottom line:** Prioritize roots, nuts, seeds, and starchy plants over leafy greens. Greens provide essential vitamins and minerals but not survival calories. Combine foraging with trapping ([trapping-and-snares.md](trapping-and-snares.md)) and fishing ([fishing-improvised.md](fishing-improvised.md)) for adequate caloric intake.
 
+## Lean Meat Alone Will Not Sustain You
+
+Wild animal protein is easy to over-value. Protein alone is not usable as fuel.
+
+The liver disposes of the nitrogen left over from protein by converting it to urea,
+and that conversion has a ceiling. Push past it and ammonia and amino acids build up
+in the blood faster than they can be cleared. The result is a form of malnutrition
+that happens *while you are eating*: diarrhoea, headache, weakness, low blood
+pressure, and a hunger that eating more meat does not touch. Discomfort begins within
+about a week of an all-lean-meat diet. Death follows in weeks.
+
+This is called **rabbit starvation**, or *mal de caribou* — named for the animals that
+cause it most often. It is not a curiosity. It killed Arctic explorers and voyageurs
+who had plenty of meat.
+
+**Why small game is the worst offender:**
+
+| Food | Fat per 100 g | Calories from protein |
+|------|--------------|----------------------|
+| Wild rabbit | 2.3 g | ~78% |
+| Squirrel, most small game | 2-4 g | 70-80% |
+| Venison (lean cuts) | 1-3 g | 70-80% |
+| Beef, moderately fatty | 15-20 g | ~35% |
+
+Keep protein under roughly **35% of your calories**. Every animal in the table above
+is far past that on muscle meat alone. A rabbit-only diet is not a thin diet — it is
+an actively toxic one.
+
+!!! danger "DANGER: a diet of lean meat and nothing else kills faster than eating nothing"
+    You can lose weight steadily on fasting alone and stay clear-headed. A body running
+    on nothing but lean protein deteriorates faster than one running on its own fat
+    stores, because it must spend energy and water clearing the nitrogen. Given the
+    choice between rabbit alone and rabbit plus anything fatty or starchy, the second
+    is not an improvement — it is the difference between surviving and not.
+
+**Fixing it — in order of what is usually available:**
+
+1. **Bone marrow.** Crack long bones and eat the marrow. This is the densest fat on a
+   lean animal and it is routinely thrown away.
+2. **Body-cavity and organ fat.** Kidney fat, the fat lining the gut, fat around the
+   heart. Render it and drink it or cook with it.
+3. **Fat under the skin.** Pluck birds rather than skinning them — skinning takes the
+   fat layer with it.
+4. **Fish**, particularly oily species, and any fatty part of a larger animal.
+5. **Carbohydrate:** acorns, nuts, tubers, cattail rhizome, inner bark. Starch spares
+   protein just as fat does.
+
+!!! warning "CAUTION"
+    Wild animals are leanest in late winter and early spring, having burned their
+    reserves through the cold. That is exactly when you are most likely to be
+    depending on them. Assume the lean-season animal has almost no fat on it and plan
+    to combine it with plant calories.
+
 ## Tools for Foraging
 
 Carry or improvise the following:
@@ -176,8 +229,6 @@ Carry or improvise the following:
 
 Includes wild roses (hips), blackberries, raspberries, strawberries, hawthorn, crabapples. Generally recognizable by five-petaled flowers, alternate leaves, and thorny stems. No deadly members, though some seeds contain trace cyanide (apple seeds, cherry pits — avoid eating seeds in quantity).
 
-See [edible-plants-temperate.md](edible-plants-temperate.md) for specific species.
-
 ### Mustard Family (Brassicaceae)
 
 Includes wild mustard, shepherd's purse, garlic mustard, watercress, pennycress. Identified by four-petaled flowers arranged in a cross pattern (cruciform), peppery or mustard taste. No deadly members in this family. Excellent source of vitamins A and C.
@@ -188,6 +239,20 @@ Includes clovers, vetches, wild peas. Identified by butterfly-shaped flowers and
 
 !!! danger "WARNING"
     Do not confuse legume-family plants with similar-looking toxic species. Wild lupines (also Fabaceae) contain toxic alkaloids. Stick to species you positively identify.
+
+!!! danger "DANGER: this guide will not identify a plant for you"
+    Species identification from written description is unreliable, and it is unreliable
+    in the direction that kills — poison hemlock passes for wild carrot, water hemlock
+    for parsnip, death camas for wild onion. Photographs do not fix it either.
+
+    **You have three weeks without food and three days without water.** Foraging is
+    almost never the thing that saves you, and a misidentification is one of the few
+    survival mistakes that kills you faster than doing nothing.
+
+    Eat only what you already knew on sight before you were stranded. Everything else —
+    insects, fish, and snared game — is lower risk and higher return. See
+    [Insect Foraging](insect-foraging.md), [Improvised Fishing](fishing-improvised.md),
+    and [Trapping and Snares](trapping-and-snares.md).
 
 ## Common Mistakes
 
@@ -214,13 +279,9 @@ Includes clovers, vetches, wild peas. Identified by butterfly-shaped flowers and
 
 ## See Also
 
-- [Edible Plants: Temperate](edible-plants-temperate.md) — specific plant identification and preparation.
-- [Mushroom Identification](mushroom-identification.md) — fungi foraging (separate skill set, higher risk).
 - [Improvised Fishing](fishing-improvised.md) — supplement foraging with protein.
 - [Trapping and Snares](trapping-and-snares.md) — passive protein acquisition.
-- [Hunting Basics](hunting-basics.md) — active protein acquisition.
 - [Plant Poisoning](../medical/plant-poisoning.md) — treatment for accidental ingestion of toxic plants.
-- [Cooking Without Gear](cooking-without-gear.md) — preparing foraged food safely.
 
 ## Sources
 

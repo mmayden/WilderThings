@@ -25,7 +25,7 @@ tags:
 
 !!! note "Not all fish solve the fat problem"
     A diet of lean meat alone is actively harmful, not merely inadequate — see
-    [Lean Meat Alone Will Not Sustain You](hunting-basics.md#lean-meat-alone-will-not-sustain-you).
+    [Lean Meat Alone Will Not Sustain You](foraging-basics.md#lean-meat-alone-will-not-sustain-you).
     Oily fish are one of the few wild foods that fix it: salmon, trout, mackerel, eel,
     herring and sardines carry 5-15 g of fat per 100 g. Lean whitefish do not — pike,
     perch, walleye and bass run under 1 g, leaner than rabbit. If you are catching only
@@ -264,7 +264,7 @@ A gill net hangs vertically in water. Fish swim into it and are caught by their 
 | Crayfish | Turn over rocks in streams | Bass, catfish, large trout |
 | Minnows | Trap in shallows with fabric/shirt | Bass, pike, walleye |
 | Fish entrails | From previously caught fish | Catfish, carp |
-| Berries | Forage near water ([edible-plants-temperate.md](edible-plants-temperate.md)) | Panfish, trout |
+| Berries | Forage near water — only species you know on sight | Panfish, trout |
 | Dough/bread | From supplies | Carp, panfish |
 | Bright cloth/feather (lure) | Clothing, birds | Trout, bass (aggressive species) |
 
@@ -458,11 +458,9 @@ Species identification and reef knowledge are the only defence.
 ## See Also
 
 - [Trapping and Snares](trapping-and-snares.md) — land-based trapping and fish trap details.
-- [Hunting Basics](hunting-basics.md) — active hunting, and why protein alone will not keep you alive.
+- [Foraging Basics](foraging-basics.md) — plant calories, and why protein alone will not keep you alive.
 - [Foraging Basics](foraging-basics.md) — plant calories to pair with a lean catch.
-- [Edible Plants: Temperate](edible-plants-temperate.md) — plants for bait and for nutrition.
 - [Marine Dangers](../wildlife/marine-dangers.md) — what can injure you in the water you are fishing.
-- [Field Butchering](field-butchering.md) — cleaning fish and saving the fat.
 - [Cordage](../tools-and-craft/cordage.md) — fishing line from plant fibers and sinew.
 - [Knots and Lashing](../tools-and-craft/knots-and-lashing.md) — knots for hooks, leaders, and trotlines.
 

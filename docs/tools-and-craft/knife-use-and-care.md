@@ -260,7 +260,6 @@ If you can carry only one piece of gear into the wilderness, carry a quality fix
 - [Knots and Lashing](knots-and-lashing.md) — securing shelter frames cut with your knife
 - [Lost in the Woods](../scenarios/lost-in-woods.md) — fire, shelter, and signaling tasks that depend on your knife
 - [Injured and Alone](../scenarios/injured-and-alone.md) — using a knife for medical improvisation
-- [Improvised Tools](improvised-tools.md) — when you need tools beyond what a knife provides.
 - [Everyday Carry](../preparedness/everyday-carry.md) — selecting and carrying a survival knife daily.
 
 ---

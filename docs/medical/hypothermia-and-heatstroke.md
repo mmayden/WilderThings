@@ -357,7 +357,6 @@ Dissolve completely. Sip frequently. This formula approximates the World Health 
 - [Fractures and Splints](fractures-and-splints.md) — immobilized patients are at high risk for hypothermia.
 - [Trauma and Triage](trauma-and-triage.md) — shock management and trauma patients who are also hypothermic.
 - [Snow Shelters](../shelter/snow-shelters.md) — shelter from cold that prevents hypothermia.
-- [Clothing and Insulation](../tools-and-craft/clothing-and-insulation.md) — layering and improvised insulation to regulate body temperature.
 - [Arctic Survival](../climate-specific/arctic-survival.md) — comprehensive cold-environment survival strategies.
 - [Desert Survival](../climate-specific/desert-survival.md) — heat management and heatstroke prevention in arid environments.
 

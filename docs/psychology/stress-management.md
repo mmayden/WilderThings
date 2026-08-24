@@ -267,8 +267,6 @@ Use any available method: scratching bark, arranging stones, marking dirt, or wr
 
 - [Survival Mindset](survival-mindset.md)
 - [Injured and Alone](../scenarios/injured-and-alone.md)
-- [Group Dynamics](group-dynamics.md) — managing group stress and interpersonal conflict.
-- [Solo Survival](solo-survival.md) — coping techniques specific to isolation.
 - [First Aid Basics](../medical/first-aid-basics.md) — staying calm while performing emergency medical care.
 
 ## Sources

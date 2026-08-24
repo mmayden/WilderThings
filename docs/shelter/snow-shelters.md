@@ -257,7 +257,6 @@ Remove wet outer layers before entering the shelter. Brush off all snow from clo
 - [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md) — what wet clothing or a thin floor leads to, and how to recognise it.
 - [Arctic Survival](../climate-specific/arctic-survival.md) — comprehensive cold-environment strategies.
 - [Fire in Wet Conditions](../fire/fire-in-wet-conditions.md) — starting fire inside or near snow shelters.
-- [Clothing and Insulation](../tools-and-craft/clothing-and-insulation.md) — layering for cold-weather shelter use.
 
 ## Sources
 

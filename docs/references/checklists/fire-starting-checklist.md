@@ -48,7 +48,7 @@ tags:
 - [ ] Ignite the tinder using your available method:
   - **Lighter/matches:** Apply flame directly to the base of the tinder bundle
   - **Ferro rod:** Strike sparks into the finest tinder material at the base
-  - **Bow drill/hand drill:** Transfer the ember into the tinder bundle, fold gently, and blow. See [Friction Methods](../../fire/friction-methods.md)
+  - **Bow drill/hand drill:** Transfer the ember into the tinder bundle, fold gently, and blow
   - **Spark methods:** See [Spark Methods](../../fire/spark-methods.md)
 - [ ] Blow gently and steadily at the base of the tinder to feed oxygen to the growing flame
 - [ ] Do not smother the fire; let the tinder catch fully before adding kindling
@@ -76,6 +76,5 @@ tags:
 ## See Also
 
 - [Fire Principles](../../fire/fire-principles.md)
-- [Friction Fire Methods](../../fire/friction-methods.md)
 - [Spark and Lens Methods](../../fire/spark-methods.md)
 - [Shelter Principles](../../shelter/shelter-principles.md)

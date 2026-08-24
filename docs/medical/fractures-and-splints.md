@@ -351,7 +351,6 @@ Attempt field reduction only when evacuation is delayed more than several hours 
 - [Hypothermia and Heatstroke](hypothermia-and-heatstroke.md) — cold injury prevention in immobilized patients.
 - [Trauma and Triage](trauma-and-triage.md) — primary survey, shock management, and evacuation decisions.
 - [Cordage](../tools-and-craft/cordage.md) — improvised lashing material for splints and slings.
-- [Improvised Tools](../tools-and-craft/improvised-tools.md) — crafting splint materials from wood and bone.
 - [Injured and Alone](../scenarios/injured-and-alone.md) — self-splinting and self-rescue when no help is available.
 
 ---

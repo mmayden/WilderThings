@@ -309,7 +309,6 @@ In non-emergency situations, practice leave-no-trace fire principles:
 
 ## See Also
 
-- [Friction Fire Methods](friction-methods.md) — bow drill, hand drill, fire plow, and fire saw techniques.
 - [Spark and Lens Methods](spark-methods.md) — ferro rod, flint and steel, battery, lens, and fire piston techniques.
 - [Shelter Principles](../shelter/shelter-principles.md) — fire and shelter site selection and reflector placement.
 - [Signaling for Rescue](../navigation/signaling-for-rescue.md) — signal fires for attracting rescuers.

@@ -220,10 +220,8 @@ Different goals require different fires. Building the wrong type wastes fuel and
 ## See Also
 
 - [Fire Principles](fire-principles.md)
-- [Maintaining Fire](maintaining-fire.md)
 - [Fire in Wet Conditions](fire-in-wet-conditions.md)
 - [Signaling for Rescue](../navigation/signaling-for-rescue.md)
-- [Cooking Without Gear](../food/cooking-without-gear.md) — fire configurations optimized for cooking.
 - [Shelter Principles](../shelter/shelter-principles.md) — positioning warming fires relative to shelter.
 
 ## Sources

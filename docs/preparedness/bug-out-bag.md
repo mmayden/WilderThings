@@ -256,7 +256,6 @@ Everything else. Pack with heaviest items closest to your back and centered betw
 - [Vehicle Kit](../preparedness/vehicle-kit.md) — extending your preparedness to your vehicle.
 - [First Aid Basics](../medical/first-aid-basics.md) — building and using your medical kit.
 - [Water Purification](../water/purification.md) — field water treatment methods.
-- [Communication Plans](communication-plans.md) — coordinating with family during evacuation.
 - [Fire Principles](../fire/fire-principles.md) — fire-starting tools to include in your kit.
 
 ## Sources

@@ -285,7 +285,6 @@ Not every situation calls for shelter construction. Conserve energy when:
 - [Water Purification](../water/purification.md) — treat water collected near your shelter.
 - [Fire Principles](../fire/fire-principles.md) — fire placement and reflectors relative to shelter.
 - [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md) — the medical consequences of inadequate shelter.
-- [Clothing and Insulation](../tools-and-craft/clothing-and-insulation.md) — personal insulation that complements shelter.
 - [Snow Shelters](./snow-shelters.md) — quinzhees, snow caves, and the ventilation they require.
 - [Desert Shelter](./desert-shelter.md) — applying these principles where the problem is heat, not cold.
 - [Tarp and Poncho Shelters](./tarp-and-poncho.md) — the fastest builds when you have a sheet of material.

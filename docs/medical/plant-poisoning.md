@@ -250,9 +250,6 @@ The full protocol lives in one place — **[Foraging Basics](../food/foraging-ba
 ## See Also
 
 - [Foraging Basics](../food/foraging-basics.md)
-- [Edible Plants: Temperate](../food/edible-plants-temperate.md)
-- [Edible Plants — Tropical](../food/edible-plants-tropical.md)
-- [Mushroom Identification](../food/mushroom-identification.md)
 - [First Aid Basics](first-aid-basics.md)
 
 ## Sources

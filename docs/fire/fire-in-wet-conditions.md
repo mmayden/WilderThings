@@ -220,7 +220,6 @@ Once the fire is burning, keep it alive with active management.
 
 - [Fire Principles](fire-principles.md) — fire physics, site safety, and the rule on heating rock.
 - [Fire Types](fire-types.md) — choosing a lay once the fire will actually light.
-- [Maintaining Fire](maintaining-fire.md) — banking and carrying fire between wet days.
 - [Shelter Principles](../shelter/shelter-principles.md) — the thing to do first if you are losing heat faster than you can make it.
 - [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md) — recognising the point where fire-making stops being possible.
 - [Knife Use and Care](../tools-and-craft/knife-use-and-care.md) — feather sticks and processing wet wood to reach dry interior.

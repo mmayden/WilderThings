@@ -309,13 +309,20 @@ Use whatever methods keep you alive. Survival overrides game regulations. After 
 | Funnel fish trap | Fish | Woven branches, cordage | High |
 | Weir | Fish | Rocks or stakes | High |
 
+!!! warning "CAUTION: rabbits carry disease that enters through your hands"
+    Tularemia — rabbit fever — transmits through skin contact with infected tissue while
+    skinning, not only through eating. Brucellosis and, in deer country, CWD behave the
+    same way. Cooking the meat does not protect the hands that prepared it.
+
+    Glove up or cover any cuts before handling a carcass, wash afterwards, and **discard
+    any rabbit whose liver is covered in small white spots** — that is the sign of
+    tularemia infection. Wash hands before eating regardless.
+
 ## See Also
 
 - [Improvised Fishing](fishing-improvised.md) — fishing techniques and improvised gear.
-- [Hunting Basics](hunting-basics.md) — active hunting methods, and why a snare line of rabbits alone will not keep you alive.
+- [Foraging Basics](foraging-basics.md) — plant calories, and why a snare line of rabbits alone will not keep you alive.
 - [Foraging Basics](foraging-basics.md) — plant calories, which trapped small game cannot supply on its own.
-- [Edible Plants: Temperate](edible-plants-temperate.md) — plants for bait and for your own nutrition.
-- [Field Butchering](field-butchering.md) — processing trapped game, saving the fat, and the diseases rabbits carry.
 - [Cordage](../tools-and-craft/cordage.md) — snare wire and trigger cord from natural fibers.
 - [Knife Use and Care](../tools-and-craft/knife-use-and-care.md) — carving triggers, stakes, and toggle systems.
 

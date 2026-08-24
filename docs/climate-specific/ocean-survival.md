@@ -249,7 +249,6 @@ Once ashore:
 - [Marine Dangers](../wildlife/marine-dangers.md)
 - [Signaling for Rescue](../navigation/signaling-for-rescue.md)
 - [Improvised Fishing](../food/fishing-improvised.md)
-- [Solo Survival](../psychology/solo-survival.md) — psychological endurance during long periods adrift.
 - [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md) — cold water immersion and sun exposure at sea.
 
 ## Sources

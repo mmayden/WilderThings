@@ -290,8 +290,6 @@ The sole survivor of LANSA Flight 508, Koepcke fell 10,000 ft / 3,048 m into the
 
 - [Signaling for Rescue](../navigation/signaling-for-rescue.md) — Practical techniques for making yourself findable once your mindset is right.
 - [Stress Management](stress-management.md) — breathing techniques, cognitive reframing, and emotional regulation.
-- [Solo Survival](solo-survival.md) — maintaining mental resilience when alone.
-- [Group Dynamics](group-dynamics.md) — leadership and morale in group survival situations.
 - [Lost in the Woods](../scenarios/lost-in-woods.md) — applying mindset principles when disoriented.
 
 ## Sources

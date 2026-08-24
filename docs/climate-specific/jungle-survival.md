@@ -197,7 +197,6 @@ Rivers are the highways of the jungle. When available, river travel is faster an
 
 ## See Also
 
-- [Edible Plants — Tropical](../food/edible-plants-tropical.md)
 - [Water Purification](../water/purification.md)
 - [Bites and Stings](../medical/bites-and-stings.md)
 - [Venomous Snakes](../wildlife/venomous-snakes.md)

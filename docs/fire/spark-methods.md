@@ -299,7 +299,7 @@ Rapid compression of air in a sealed cylinder generates extreme heat — the sam
 
 **Vehicle kit:** 9V battery + steel wool (sealed in waterproof bag), plus primary and secondary methods.
 
-**Knowledge backup:** Traditional flint and steel, friction methods. When all gear is lost, knowledge of [friction fire](friction-methods.md) and improvised spark methods is the last line of defense.
+**Knowledge backup:** Traditional flint and steel, and improvised spark methods. Friction fire is the theoretical last resort, but it takes 15-60 hours of practice to become reliable — a skill to learn before a trip, not during one. Carrying two ignition sources is worth more than knowing the theory of a third.
 
 ## Common Mistakes
 
@@ -332,7 +332,6 @@ Rapid compression of air in a sealed cylinder generates extreme heat — the sam
 ## See Also
 
 - [Fire Principles](fire-principles.md) — the fire triangle, tinder and kindling selection, fire lays, site preparation.
-- [Friction Fire Methods](friction-methods.md) — bow drill, hand drill, fire plow, and fire saw for when no modern tools are available.
 - [Knife Use and Care](../tools-and-craft/knife-use-and-care.md) — striking ferro rods and preparing tinder.
 - [Everyday Carry](../preparedness/everyday-carry.md) — ferro rods and lighters as EDC fire tools.
 

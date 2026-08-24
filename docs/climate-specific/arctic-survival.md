@@ -234,7 +234,6 @@ At -20°F with a 30 mph wind, exposed skin freezes in about five minutes. Reduce
 - [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md)
 - [Fire in Wet Conditions](../fire/fire-in-wet-conditions.md)
 - [Finding Water in the Wild](../water/finding-water.md)
-- [Clothing and Insulation](../tools-and-craft/clothing-and-insulation.md) — improvised cold-weather clothing.
 - [Survival Mindset](../psychology/survival-mindset.md) — mental endurance in extreme cold.
 
 ## Sources

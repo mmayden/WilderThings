@@ -220,7 +220,6 @@ Electronics fail from water, impact, cold, dead batteries, and software crashes.
 - [Map and Compass Navigation](../navigation/map-and-compass.md)
 - [Natural Navigation](../navigation/natural-navigation.md)
 - [Signaling for Rescue](../navigation/signaling-for-rescue.md)
-- [Communication Plans](../preparedness/communication-plans.md) — integrating electronic devices into family emergency plans.
 - [Terrain Association](terrain-association.md) — backup navigation when batteries die.
 
 ## Sources
