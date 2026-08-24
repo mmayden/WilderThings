@@ -271,8 +271,8 @@ No single natural method is precise enough for reliable navigation. Use this app
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992. The predecessor, and what most reprinted "Army Survival Manual" editions actually contain.
 - U.S. Air Force. *AFR 64-4: Survival Training.* Department of the Air Force, 1985.
 
-- Souman, J. L., et al. "Walking Straight into Circles." *Current Biology*, vol. 19, no. 18,
-  2009, pp. 1538-1542. The study behind the walking-in-circles figure.
+- Souman, J. L., et al. "Walking Straight into Circles." *Current Biology* 19, no. 18
+  (2009): 1538-1542. The study behind the walking-in-circles figure.
 
 **Additional reading — trade books and first-hand accounts.** Useful, but not
 revised, not peer-reviewed, and not what a claim should rest on alone:

@@ -231,7 +231,14 @@ check a catalogue rather than a search engine:
 | Stoffel, Robert C. *Emergency Signaling.* US National Park Service | signaling-for-rescue |
 | NASA Technical Report, *Solar Distillation for Survival Water* (1965) | desert-and-sea-water |
 | U.S. Navy SERE Manual, *Water Procurement at Sea* | desert-and-sea-water |
-| Hellweg, Paul. *Flintknapping: The Art of Making Stone Tools.* Canyon Publishing, 1984 | improvised-tools |
+| Hellweg, Paul. *Flintknapping: The Art of Making Stone Tools.* Canyon Publishing, 1984 | improvised-tools (now archived) |
+| NASA Technical Report, *Solar Distillation for Survival Water* (1965) | desert-and-sea-water |
+| U.S. Navy SERE Manual, *Water Procurement at Sea* | desert-and-sea-water |
+
+**Removed** after searching without result, where the claim did not need the citation:
+Baer, "Ferrocerium: History and Metallurgy," *Journal of Chemical Education* 72 (1995).
+No such article appears in that journal, and the ferrocerium history is well documented
+elsewhere — the citation was doing no work that a patent reference cannot do.
 
 Three military publications resolved rather than flagged, since the numbering systems
 are documented and checkable:

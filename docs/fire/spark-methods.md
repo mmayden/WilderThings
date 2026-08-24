@@ -341,7 +341,7 @@ Rapid compression of air in a sealed cylinder generates extreme heat — the sam
 
 - U.S. Army. *ATP 3-50.21: Survival.* Department of the Army, 2018. Current doctrine; successor to FM 21-76 via FM 3-05.70.
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992. The predecessor, and what most reprinted "Army Survival Manual" editions actually contain.
-- Baer, Daniel. "Ferrocerium: History and Metallurgy." *Journal of Chemical Education* 72, no. 12 (1995).
+- Auer von Welsbach, C. Austrian patent for ferrocerium (1903). The alloy and its history are documented in the Treibacher Industrie archives and standard rare-earth metallurgy references.
 
 **Additional reading — trade books and first-hand accounts.** Useful, but not
 revised, not peer-reviewed, and not what a claim should rest on alone:
