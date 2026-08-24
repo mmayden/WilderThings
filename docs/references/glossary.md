@@ -11,7 +11,11 @@ tags:
 
 ## A
 
-**ABCDE (Primary Survey)** — The standard trauma assessment sequence: Airway, Breathing, Circulation, Disability, Exposure. Used to identify and treat life-threatening conditions in priority order.
+**xABCDE (Primary Survey)** — The trauma assessment sequence: exsanguinating haemorrhage,
+Airway, Breathing, Circulation, Disability, Exposure. ATLS added the leading "x" in its
+11th edition (2025), formally putting catastrophic bleeding before airway — the priority
+the military MARCH protocol had already used for years. See
+[Trauma and Triage](../medical/trauma-and-triage.md).
 
 **Azimuth** — A compass bearing measured in degrees clockwise from true north (0-360 degrees). Used to navigate toward a target.
 
@@ -23,6 +27,12 @@ tags:
 
 **Batoning** — Striking the spine of a knife with a baton (a short, heavy stick) to split wood along its grain. Used to produce kindling and access dry inner wood.
 
+**Attack Point** — A distinct feature near your objective that you navigate to loosely,
+before making a short precise approach from it. Turns one long accurate leg into a long
+rough one plus a short careful one. See [Terrain Association](../navigation/terrain-association.md).
+
+**Backstop** — See Catching Feature.
+
 **Bearing** — The direction from one point to another, expressed in degrees from north. A compass bearing accounts for magnetic declination.
 
 **Bivouac (Bivy)** — A temporary, minimalist camp or shelter, often just a sleeping bag and a lightweight waterproof cover.
@@ -32,6 +42,10 @@ tags:
 **Bushcraft** — The skill set of thriving in a wilderness environment using knowledge and minimal tools. Encompasses fire craft, shelter building, foraging, tracking, and tool making.
 
 ## C
+
+**Catching Feature (Backstop)** — A large, unmistakable feature *beyond* your objective
+that tells you when you have overshot: a road, river, lakeshore, or ridgeline. Identify
+one before you start moving.
 
 **Cairn** — A man-made stack of stones used as a trail marker or navigational reference in open terrain.
 
@@ -57,7 +71,12 @@ tags:
 
 **EDC (Everyday Carry)** — The essential items a person carries daily for emergency preparedness: knife, lighter, flashlight, cordage, and similar tools.
 
-**Edibility Test (Universal Edibility Test)** — A multi-step protocol for testing unknown plants for toxicity. Involves skin contact, lip contact, tongue contact, chewing, and small ingestion with 8-hour waits between steps. See [Foraging Basics](../food/foraging-basics.md).
+**Edibility Test (Universal Edibility Test)** — A multi-step protocol for testing unknown
+plants, involving skin contact, lip contact, tongue contact, chewing, and small ingestion
+with 8-hour waits between steps. **It does not detect the plants most likely to kill
+you** — several deadly species taste mild and act hours later, and delayed-onset toxins
+pass the test entirely. It costs 24 hours and considerable water for a plant part worth
+perhaps 15-30 calories. See [Foraging Basics](../food/foraging-basics.md).
 
 **Ember** — A small, glowing piece of combustible material produced by friction fire methods or char cloth. Placed into a tinder bundle and blown into flame.
 
@@ -87,7 +106,10 @@ tags:
 
 ## H
 
-**Handrail (Navigation)** — A linear terrain feature (river, ridge, road, fence line) used as a navigation guide to follow toward a destination or catching feature.
+**Handrail (Navigation)** — A linear terrain feature (river, ridge, road, fence line)
+followed to maintain direction without constant compass work. Paired with an **attack
+point** near the objective and a **catching feature** beyond it. See
+[Terrain Association](../navigation/terrain-association.md).
 
 **Hardtack** — A simple, long-lasting survival biscuit made from flour, water, and salt. Historical emergency ration.
 
@@ -183,7 +205,11 @@ tags:
 
 **Tinder Bundle** — A bird's-nest-shaped collection of fine, dry tinder material into which an ember is placed and blown into flame.
 
-**Tourniquet** — A constricting device applied to a limb to cut off arterial blood flow and stop life-threatening hemorrhage. Applied 2-3 inches (5-7.5 cm) above the wound, tightened until bleeding stops. See [Trauma and Triage](../medical/trauma-and-triage.md).
+**Tourniquet** — A constricting device applied to a limb to cut off arterial blood flow
+and stop life-threatening haemorrhage. Applied 2-3 inches (5-7.5 cm) above the wound and
+tightened until bleeding stops. Note the time. Current guidance asks for reassessment at
+two hours; never slacken one periodically to restore circulation. See
+[First Aid Basics](../medical/first-aid-basics.md#how-long-a-tourniquet-can-stay-on).
 
 **Triage** — The process of sorting casualties by severity to allocate treatment resources. Categories: immediate, delayed, minimal, expectant. See [Trauma and Triage](../medical/trauma-and-triage.md).
 
