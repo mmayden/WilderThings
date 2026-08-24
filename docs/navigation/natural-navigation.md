@@ -19,6 +19,26 @@ tags:
 - No single natural method is accurate enough alone — combine at least two methods and cross-check
 - Terrain association (rivers flow downhill, drainages merge) is the most practical way to find civilization
 
+## Why You Need Any of This
+
+!!! danger "DANGER: you cannot walk in a straight line without something to aim at"
+    This is the fact the rest of the guide exists to solve. Deprived of a visible external
+    reference — sun, a distant peak, a star — people do not walk straight. They walk in
+    circles, sometimes as tight as **65 ft (20 m) across**, and they do it while feeling
+    entirely certain they are going straight.
+
+    It is not a skill problem and it cannot be corrected by concentrating. Under overcast
+    skies or in dense forest, where there is nothing to aim at, it happens to everyone.
+
+    The practical consequence: **every method below is only useful if you convert it into
+    something to look at.** Establish your direction, then pick the furthest visible
+    object on that line — a distinctive tree, a rock, a notch on a ridge — walk to it, and
+    pick the next one from there. Without that step you will curve back on yourself and
+    cross your own track without recognising it.
+
+    In terrain with no distant view, a second person walking ahead as a marker works. So
+    does looking back at your own tracks to check they are straight.
+
 ## Sun-Based Methods
 
 The sun rises roughly in the east and sets roughly in the west. At solar noon it is due south in the Northern Hemisphere and due north in the Southern Hemisphere. These facts power all sun-based navigation.
@@ -201,6 +221,16 @@ No single natural method is precise enough for reliable navigation. Use this app
 4. Favor the method with the strongest physical basis (shadow stick and stars over vegetation and animal behavior).
 5. Reassess periodically — conditions change as you travel.
 
+!!! warning "CAUTION: these methods give TRUE north, a compass gives MAGNETIC north"
+    Everything in this guide — shadow stick, Polaris, the Southern Cross — points to true
+    north. A compass needle points to magnetic north, and the two differ by anything from
+    zero to more than 20 degrees depending on where you are.
+
+    If you cross-check a shadow stick against a compass and they disagree, that is
+    expected and neither is broken. The difference is **declination**, and over ten miles
+    a 15-degree error puts you two and a half miles off. See
+    [Map and Compass Navigation](map-and-compass.md) for how to correct for it.
+
 ## Common Mistakes
 
 - **Relying on moss for direction.** Moss grows where moisture exists, regardless of compass bearing. It is not a reliable indicator.
@@ -209,6 +239,8 @@ No single natural method is precise enough for reliable navigation. Use this app
 - **Following rivers blindly into canyons.** Always assess downstream terrain before committing to drainage following. Climb to a vantage point first if possible.
 - **Trusting the watch method as precise navigation.** The watch method gives rough direction for orientation, not a bearing accurate enough to navigate to a specific point.
 - **Ignoring cultural indicators.** A power line or road is a faster route to help than any wilderness navigation technique.
+- **Trying to hold a bearing by feel.** Without something to aim at, you walk in circles while believing you are going straight. Always sight on a visible object and walk to it.
+- **Mixing true and magnetic north without correcting.** Natural methods give true north; your compass does not. Uncorrected, a 15-degree declination puts you 2.5 miles off over ten.
 
 ## Quick Reference
 
@@ -226,8 +258,8 @@ No single natural method is precise enough for reliable navigation. Use this app
 
 ## See Also
 
-- [Map and Compass Navigation](map-and-compass.md)
-- [Signaling for Rescue](signaling-for-rescue.md)
+- [Map and Compass Navigation](map-and-compass.md) — declination, bearings, and correcting between true and magnetic north.
+- [Signaling for Rescue](signaling-for-rescue.md) — being found is usually faster than navigating out.
 - [Terrain Association](terrain-association.md) — reading landforms and vegetation patterns for direction.
 - [Lost in the Woods](../scenarios/lost-in-woods.md) — natural methods when no tools are available.
 
@@ -238,6 +270,9 @@ No single natural method is precise enough for reliable navigation. Use this app
 - U.S. Army. *ATP 3-50.21: Survival.* Department of the Army, 2018. Current doctrine; successor to FM 21-76 via FM 3-05.70.
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992. The predecessor, and what most reprinted "Army Survival Manual" editions actually contain.
 - U.S. Air Force. *AFR 64-4: Survival Training.* Department of the Air Force, 1985.
+
+- Souman, J. L., et al. "Walking Straight into Circles." *Current Biology*, vol. 19, no. 18,
+  2009, pp. 1538-1542. The study behind the walking-in-circles figure.
 
 **Additional reading — trade books and first-hand accounts.** Useful, but not
 revised, not peer-reviewed, and not what a claim should rest on alone:
