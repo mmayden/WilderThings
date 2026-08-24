@@ -301,8 +301,8 @@ Not every situation calls for shelter construction. Conserve energy when:
 
 - U.S. Army. *ATP 3-50.21: Survival.* Department of the Army, 2018. Current doctrine; successor to FM 21-76 via FM 3-05.70.
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992. The predecessor, and what most reprinted "Army Survival Manual" editions actually contain.
-- National Weather Service, Wind Chill Temperature Index (2001 revision) — the formula
-- Pretorius T et al. "Thermal effects of whole head submersion in cold water."
+- National Weather Service, Wind Chill Temperature Index, 2001 revision — the formula behind the figures above (weather.gov).
+- Pretorius, T., et al. "Thermal effects of whole head submersion in cold water on nonshivering humans." *Journal of Applied Physiology* 101, no. 2 (2006): 669-675.
 
 **Additional reading — trade books and first-hand accounts.** Useful, but not
 revised, not peer-reviewed, and not what a claim should rest on alone:

@@ -275,7 +275,7 @@ Use any available method: scratching bark, arranging stones, marking dirt, or wr
 
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - U.S. Air Force. *AFR 64-4: Survival Training.* Department of the Air Force, 1985.
-- *SERE (Survival, Evasion, Resistance, Escape) Training Manual* — US Joint Personnel Recovery Agency
+- U.S. Joint Personnel Recovery Agency, SERE (Survival, Evasion, Resistance, Escape) training doctrine (jpra.mil). Accessed 2026-08-24.
 
 **Additional reading — trade books and first-hand accounts.** Useful, but not
 revised, not peer-reviewed, and not what a claim should rest on alone:

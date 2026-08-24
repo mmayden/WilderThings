@@ -643,6 +643,39 @@ def check_see_also(root):
         ok("See Also descriptions", "%d cross-links, all described" % total)
 
 
+def check_truncated_citations(root):
+    """No citation may end mid-sentence.
+
+    The script that split Sources into tiers rebuilt each block from lines starting
+    with "- " and silently dropped every continuation line, decapitating 14 wrapped
+    citations across 10 guides. Each still looked like a citation — author, title,
+    opening quote — and simply stopped. Nothing else caught it: the links resolved,
+    the consistency check compared what remained, and the build passed.
+    """
+    bad = []
+    for path in _md_files(root):
+        with io.open(path, encoding="utf-8") as f:
+            body = f.read()
+        m = re.search(r"^## Sources\s*$(.*)", body, re.M | re.S)
+        if not m:
+            continue
+        lines = m.group(1).splitlines()
+        for i, line in enumerate(lines):
+            st = line.rstrip()
+            if not st.startswith("- "):
+                continue
+            nxt = lines[i + 1].strip() if i + 1 < len(lines) else ""
+            if nxt and not nxt.startswith(("- ", "**", "#")):
+                continue                      # wrapped onto a continuation line
+            if not re.search(r"[.)\]]$|\d$", st):
+                bad.append("%s: %s" % (os.path.relpath(path, root), st.strip()[:70]))
+    if bad:
+        fail("citations cut off mid-sentence",
+             "%d; first: %s" % (len(bad), bad[0]))
+    else:
+        ok("citations complete", "none cut off mid-sentence")
+
+
 def check_content(root):
     check_clinical_sources(root)
     check_source_currency()
@@ -653,6 +686,7 @@ def check_content(root):
     check_link_labels(root)
     check_citation_consistency(root)
     check_article_consistency(root)
+    check_truncated_citations(root)
     check_see_also(root)
 
 

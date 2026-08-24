@@ -544,8 +544,8 @@ Follows commands? ──No──> RED
   Society Clinical Practice Guidelines for Spinal Cord Protection: 2024 Update."
   *Wilderness & Environmental Medicine*, 2024.
 - American Red Cross. *First Aid/CPR/AED Participant's Manual*, Revision 2025 (r.25).
-- Emergency War Surgery (NATO Handbook), Borden Institute, 5th US Revision.
-- Tintinalli's Emergency Medicine: A Comprehensive Study Guide, 9th Edition.
+- *Emergency War Surgery*, 5th US revision. Borden Institute, 2018.
+- Tintinalli, J. E., et al. *Tintinalli's Emergency Medicine: A Comprehensive Study Guide*, 9th ed. McGraw-Hill, 2020.
 - Deakin, C. D., and Low, J. L. "Accuracy of the advanced trauma life support guidelines for predicting systolic blood pressure using carotid, femoral, and radial pulses." *BMJ*, vol. 321, 2000, pp. 673-674. (Basis for removing the 80/70/60 rule.)
 
 **Additional reading — trade books and first-hand accounts.** Useful, but not

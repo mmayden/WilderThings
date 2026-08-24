@@ -214,8 +214,8 @@ are covered where the reader is deciding whether to eat a catch:
 
 **Primary — authoritative, revised, and publicly checkable:**
 
-- International Shark Attack File (ISAF), Florida Museum of Natural History
-- Australian Resuscitation Council, guideline on jellyfish stings
-- Divers Alert Network (DAN), marine life injuries reference
-- NOAA rip current safety resources
+- International Shark Attack File, Florida Museum of Natural History (floridamuseum.ufl.edu/shark-attacks). Accessed 2026-08-24.
+- Australian Resuscitation Council, Guideline 9.4.5, "Envenomation — Jellyfish Stings", 2021.
+- Divers Alert Network, hazardous marine life injury guidance (dan.org). Accessed 2026-08-24.
+- National Weather Service, "Rip Current Safety" (weather.gov/safety/ripcurrent). Accessed 2026-08-24.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.

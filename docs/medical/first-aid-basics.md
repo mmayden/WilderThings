@@ -409,8 +409,8 @@ Check every wound for these signs at least twice daily:
 - Quinn, R. H., Wedmore, I., Johnson, E. L., et al. "Wilderness Medical Society Practice
   Guidelines for Basic Wound Management in the Austere Environment: 2014 Update."
   *Wilderness & Environmental Medicine* 2014;25(3):295-310.
-- Emergency War Surgery (NATO Handbook), Borden Institute, 5th US Revision.
-- Tintinalli's Emergency Medicine: A Comprehensive Study Guide, 9th Edition.
+- *Emergency War Surgery*, 5th US revision. Borden Institute, 2018.
+- Tintinalli, J. E., et al. *Tintinalli's Emergency Medicine: A Comprehensive Study Guide*, 9th ed. McGraw-Hill, 2020.
 
 **Additional reading — trade books and first-hand accounts.** Useful, but not
 revised, not peer-reviewed, and not what a claim should rest on alone:

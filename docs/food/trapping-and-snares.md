@@ -359,4 +359,4 @@ through.
 **Primary — authoritative, revised, and publicly checkable:**
 
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992, ch. 8 (Food Procurement).
-- International Trapper Education Association materials
+- Association of Fish and Wildlife Agencies, *Trapper Education Manual* and Best Management Practices for trapping (fishwildlife.org). Accessed 2026-08-24.

@@ -225,7 +225,7 @@ Psychological aversion to eating insects is cultural, not biological. In a survi
 **Primary — authoritative, revised, and publicly checkable:**
 
 - Edible Insects: Future Prospects for Food and Feed Security (FAO, 2013)
-- Journal of Insects as Food and Feed (Wageningen Academic Publishers)
+- *Journal of Insects as Food and Feed.* Wageningen Academic Publishers, 2015-. Ongoing peer-reviewed journal.
 - Nutritional Value of Insects for Human Consumption (Rumpold & Schluter, 2013)
 
 **Additional reading — trade books and first-hand accounts.** Useful, but not

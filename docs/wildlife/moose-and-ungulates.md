@@ -164,8 +164,8 @@ Ungulate-vehicle collisions cause over 200 deaths and 26,000 injuries annually i
 
 **Primary — authoritative, revised, and publicly checkable:**
 
-- Alaska Department of Fish and Game, "Living with Moose"
-- National Park Service, wildlife safety guidelines for Yellowstone, Grand Teton, and Rocky Mountain National Parks
-- Insurance Institute for Highway Safety (IIHS), animal-vehicle collision statistics
-- Swedish University of Agricultural Sciences, moose behavior and human conflict research
-- Texas Parks and Wildlife, feral hog management and safety
+- Alaska Department of Fish and Game, "Living with Moose" (adfg.alaska.gov). Accessed 2026-08-24.
+- National Park Service, wildlife safety guidance for Yellowstone, Grand Teton, and Rocky Mountain National Parks (nps.gov). Accessed 2026-08-24.
+- Insurance Institute for Highway Safety, animal-vehicle collision statistics (iihs.org). Accessed 2026-08-24.
+- Swedish University of Agricultural Sciences (SLU), research on moose behaviour and human-wildlife conflict (slu.se). Accessed 2026-08-24.
+- Texas Parks and Wildlife Department, feral hog management and safety guidance (tpwd.texas.gov). Accessed 2026-08-24.

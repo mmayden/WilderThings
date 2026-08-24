@@ -274,5 +274,5 @@ False on every count. "Daddy longlegs" refers to harvestmen (not spiders, no ven
 - Centers for Disease Control and Prevention. "Venomous Spiders." cdc.gov. Accessed 2025.
 - Australian Museum. "Funnel-web Spiders." australian.museum. Accessed 2025.
 - Vetter, R. S. *The Brown Recluse Spider.* Cornell University Press, 2015.
-- Dart, R. C., et al. "Treatments for Latrodectism — A Systematic Review on Their
-- Bolzern, A., Burckhardt, D., Hänggi, A. "Phylogeny and taxonomy of European funnel-web
+- Dart, R. C., et al. "Treatments for Latrodectism — A Systematic Review on Their Clinical Effectiveness." *Toxins* 9, no. 4 (2017): 148.
+- Bolzern, A., Burckhardt, D., Hänggi, A. "Phylogeny and taxonomy of European funnel-web spiders." *Zoological Journal of the Linnean Society* 168 (2013): 723-848.

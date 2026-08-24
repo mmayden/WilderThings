@@ -212,11 +212,11 @@ what the animal was and where, and go.
 
 **Primary — authoritative, revised, and publicly checkable:**
 
-- International Wolf Center, wolf biology and behavior resources
-- Centers for Disease Control and Prevention (CDC), rabies prevention guidelines
-- Alaska Department of Fish and Game, "Living with Wolves"
+- International Wolf Center, wolf biology and behaviour resources (wolf.org). Accessed 2026-08-24.
+- Centers for Disease Control and Prevention, "Rabies" (cdc.gov/rabies). Accessed 2026-08-24.
+- Alaska Department of Fish and Game, "Living with Wolves" (adfg.alaska.gov). Accessed 2026-08-24.
 - Linnell et al., "The Fear of Wolves: A Review of Wolf Attacks on Humans," NINA/NIKU, 2002
-- The Humane Society of the United States, coyote hazing guidelines
-- CDC, "Rabies Post-exposure Prophylaxis Guidance" (cdc.gov/rabies/hcp)
-- WHO, Rabies Fact Sheet — global burden and the share attributable to dogs
-- CDC Yellow Book (2026), Rabies chapter
+- Humane Society of the United States, coyote hazing guidance (humanesociety.org). Accessed 2026-08-24.
+- Centers for Disease Control and Prevention, "Rabies Post-exposure Prophylaxis Guidance" (cdc.gov/rabies/hcp). Accessed 2026-08-24.
+- World Health Organization, "Rabies" fact sheet (who.int). Accessed 2026-08-24. Source for the share of human deaths attributable to dogs.
+- CDC Yellow Book (2026), Rabies chapter (wwwnc.cdc.gov/travel).

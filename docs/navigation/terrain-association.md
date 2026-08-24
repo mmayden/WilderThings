@@ -190,10 +190,10 @@ On moderate terrain, estimate 2 miles (3.2 km) per hour plus 30 minutes for ever
 **Primary — authoritative, revised, and publicly checkable:**
 
 - U.S. Army. *FM 3-25.26: Map Reading and Land Navigation.* Department of the Army, 2001.
-- Kjetil Kjernsmo, "Route Finding in the Wilderness," Norwegian Orienteering Federation
+- Kjernsmo, Kjetil. "Route Finding in the Wilderness." Norwegian Orienteering Federation. Accessed 2026-08-24.
 
 **Additional reading — trade books and first-hand accounts.** Useful, but not
 revised, not peer-reviewed, and not what a claim should rest on alone:
 
-- Lyle Brotherton, *The Ultimate Navigation Manual*
-- National Outdoor Leadership School (NOLS) wilderness navigation curriculum
+- Brotherton, Lyle. *The Ultimate Navigation Manual.* Collins, 2011.
+- National Outdoor Leadership School, wilderness navigation curriculum (nols.edu). Accessed 2026-08-24.

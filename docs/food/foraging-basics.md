@@ -293,5 +293,5 @@ Includes clovers, vetches, wild peas. Identified by butterfly-shaped flowers and
 revised, not peer-reviewed, and not what a claim should rest on alone:
 
 - Peterson Field Guide to Edible Wild Plants (Lee Allen Peterson)
-- Botany in a Day (Thomas J. Elpel) — plant family identification method
+- Elpel, Thomas J. *Botany in a Day: The Patterns Method of Plant Identification.* HOPS Press, 6th ed., 2013.
 - Edible Wild Plants: A North American Field Guide (Elias & Dykeman)

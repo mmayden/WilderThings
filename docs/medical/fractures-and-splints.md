@@ -401,8 +401,8 @@ Attempt field reduction only when evacuation is delayed more than several hours 
   relying on any specific figure here.
 - American Red Cross. *First Aid/CPR/AED Participant's Manual*, Revision 2025 (r.25).
 - NAEMSP Position Paper on Prehospital Spinal Immobilization, 2018.
-- Tintinalli's Emergency Medicine: A Comprehensive Study Guide, 9th Edition.
-- Emergency War Surgery (NATO Handbook), Borden Institute, 5th US Revision.
+- Tintinalli, J. E., et al. *Tintinalli's Emergency Medicine: A Comprehensive Study Guide*, 9th ed. McGraw-Hill, 2020.
+- *Emergency War Surgery*, 5th US revision. Borden Institute, 2018.
 
 **Additional reading — trade books and first-hand accounts.** Useful, but not
 revised, not peer-reviewed, and not what a claim should rest on alone:

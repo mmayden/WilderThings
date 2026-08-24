@@ -469,11 +469,11 @@ Species identification and reef knowledge are the only defence.
 **Primary — authoritative, revised, and publicly checkable:**
 
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992, ch. 8 (Food Procurement).
-- CDC — Parasites and Foodborne Illness guidelines
-- CDC Yellow Book (2026), "Food Poisoning from Marine Toxins" — ciguatera, scombroid,
-- FDA Food Code 3-402.11, Freezing for parasite destruction
-- Friedman MA et al. "An Updated Review of Ciguatera Fish Poisoning."
-- Auerbach's Wilderness Medicine, 7th ed., ch. on hazardous marine life ingestions
+- Centers for Disease Control and Prevention, "Parasites — Foodborne" (cdc.gov/parasites). Accessed 2026-08-24.
+- CDC Yellow Book (2026), "Food Poisoning from Marine Toxins" — ciguatera, scombroid, and tetrodotoxin.
+- U.S. Food and Drug Administration, *Food Code* 3-402.11, freezing for parasite destruction, 2022.
+- Friedman, M. A., et al. "An Updated Review of Ciguatera Fish Poisoning: Clinical, Epidemiological, Environmental, and Public Health Management." *Marine Drugs* 15, no. 3 (2017): 72.
+- Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
 
 **Additional reading — trade books and first-hand accounts.** Useful, but not
 revised, not peer-reviewed, and not what a claim should rest on alone:

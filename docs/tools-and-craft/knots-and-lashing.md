@@ -382,8 +382,8 @@ Before any load-bearing use:
 **Primary — authoritative, revised, and publicly checkable:**
 
 - UK Health and Safety Executive, RR708, "Evidence-based review of the current guidance on first aid measures for suspension trauma" (2009).
-- ANZCOR Guideline 9.1.5, "First Aid Management of Harness Suspension Trauma".
-- International Guild of Knot Tyers, knot strength reference tables.
+- Australian and New Zealand Committee on Resuscitation, Guideline 9.1.5, "First Aid Management of Harness Suspension Trauma", 2021.
+- International Guild of Knot Tyers, knot strength reference tables (igkt.net). Accessed 2026-08-24.
 
 **Additional reading — trade books and first-hand accounts.** Useful, but not
 revised, not peer-reviewed, and not what a claim should rest on alone:

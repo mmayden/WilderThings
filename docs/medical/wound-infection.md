@@ -275,4 +275,4 @@ Sepsis is infection that has entered the bloodstream and triggered a systemic in
 - *Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026.* Society of Critical Care Medicine, 2026.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
 - *The Sanford Guide to Antimicrobial Therapy*, 2026 ed. Revised annually — check the current year's edition before relying on any specific drug or dose.
-- U.S. Army Special Forces Medical Handbook (ST 31-91B).
+- U.S. Army. *ST 31-91B: Special Forces Medical Handbook.* John F. Kennedy Special Warfare Center, 2001.

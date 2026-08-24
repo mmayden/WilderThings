@@ -380,6 +380,6 @@ Dissolve completely. Sip frequently. This formula approximates the World Health 
   1 May 2026. Revised frequently — check jts.health.mil for the current version before
   relying on any specific figure here.
 - American Red Cross. *First Aid/CPR/AED Participant's Manual*, Revision 2025 (r.25).
-- U.S. Army Technical Bulletin, Prevention and Management of Cold-Weather Injuries (TB MED 508).
-- U.S. Army Technical Bulletin, Heat Stress Control and Heat Casualty Management (TB MED 507).
-- Tintinalli's Emergency Medicine: A Comprehensive Study Guide, 9th Edition.
+- U.S. Army. *TB MED 508: Prevention and Management of Cold-Weather Injuries.* Department of the Army, 2005.
+- U.S. Army. *TB MED 507: Heat Stress Control and Heat Casualty Management.* Department of the Army, 2003.
+- Tintinalli, J. E., et al. *Tintinalli's Emergency Medicine: A Comprehensive Study Guide*, 9th ed. McGraw-Hill, 2020.

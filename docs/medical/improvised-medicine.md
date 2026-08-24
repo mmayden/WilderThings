@@ -278,7 +278,7 @@ Some conditions exceed the capability of improvised medicine. Attempting treatme
 - Shilling, Malcolm et al. "Antimicrobial Effects of Virgin Coconut Oil and its Medium-Chain Fatty Acids." *Journal of Medicinal Food*, 2013.
 - Vlachojannis, Julia et al. "A Systematic Review on the Effectiveness of Willow Bark for Musculoskeletal Pain." *Phytotherapy Research*, 2009.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
-- U.S. Army Special Forces Medical Handbook (ST 31-91B).
+- U.S. Army. *ST 31-91B: Special Forces Medical Handbook.* John F. Kennedy Special Warfare Center, 2001.
 - Quinn, R. H., Wedmore, I., Johnson, E. L., et al. "Wilderness Medical Society Practice
   Guidelines for Basic Wound Management in the Austere Environment: 2014 Update."
   *Wilderness & Environmental Medicine* 2014;25(3):295-310.
