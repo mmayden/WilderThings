@@ -285,6 +285,26 @@ are documented and checkable:
 WorldCat, the Library of Congress catalogue, and the agencies' own publication indexes
 are the right tools for these — not a web search.
 
+#### The remaining risk surface
+
+49 primary-tier citations carry **no year**. Most are legitimate: CDC and NOAA web
+resources, manufacturer documentation, and organisation references that genuinely have no
+single date. But every fabricated citation found so far shared that trait, and two of them
+were caught precisely by it.
+
+**The tell: a real organisation, a plausible topic for it, and no authors or year.** Every
+genuine WMS clinical practice guideline has a named panel and a publication year. The
+absence of both is what exposed "practice guidelines on field communication" and "Practice
+Guidelines for CPR in Austere Environments," neither of which exists.
+
+- [ ] Work through the no-year list, making each one specific enough to look up — a named
+      document, a date, a URL — or moving it out of the Primary tier. Vague organisational
+      references are not checkable, and the Primary tier means checkable.
+
+A deliberate non-check: `verify.py` does not fail on a missing year, because it would fire
+on every CDC page and NOAA resource in the corpus. The signal is real and the rule is not
+mechanisable, which is worth stating plainly rather than encoding badly.
+
 - [ ] The master source list is **not covered by the citation check** at all.
       `scripts/verify.py` scans `## Sources` sections, and `references/sources.md` keeps
       its bibliography under `## Key Textbooks`. That is how it came to cite the SAS
