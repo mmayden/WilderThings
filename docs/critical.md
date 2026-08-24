@@ -44,7 +44,9 @@ no setup, nothing to remember. Free for the life of the phone on iPhone.
     the lightning crouch was withdrawn · ground insulation matters more than the roof ·
     a hammock is colder than the ground, not warmer · in a sinking car, get out in the
     first seconds — do not wait for the pressure to equalise · your window breaker may
-    not work on laminated glass.
+    not work on laminated glass · a compass stored near your phone can point south while
+    looking perfectly normal · you cannot walk in a straight line without something to
+    aim at.
 
 ## See Also
 

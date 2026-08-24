@@ -91,6 +91,30 @@ The angle between true north and magnetic north at your location is **magnetic d
 
 If your compass has a declination adjustment screw, set it once and all readings convert automatically.
 
+## Check the Compass Itself First
+
+!!! danger "DANGER: a compass can be reversed and still look perfectly normal"
+    A compass needle can be **re-magnetised backwards** by storing it near a strong
+    magnet. The red end then points *south*. Nothing about the compass looks wrong — the
+    needle swings freely, settles confidently, and is wrong by 180 degrees.
+
+    This has become common rather than rare. Phone speakers, magnetic phone mounts and
+    cases, tablet covers, earbud cases, and other compasses all contain rare-earth magnets
+    strong enough to do it, and it happens in a pack pocket without anyone noticing.
+
+    **Check before every trip and any time the compass has shared a pocket with
+    electronics:**
+
+    - Step outside and confirm the red end points at the sun around midday in the Northern
+      Hemisphere the needle should read roughly south toward the sun, i.e. the red north
+      end points away from it.
+    - Or check it at night against Polaris.
+    - Or compare it against a second compass held well apart from the first.
+
+    A partially reversed needle is worse again: it settles at an odd angle or swings
+    sluggishly. Any compass that hesitates, wanders, or disagrees with the sky is not to be
+    trusted. Do not store a compass against your phone.
+
 ## Taking a Bearing
 
 A bearing is the direction from your position to a target, measured in degrees from north.
@@ -198,15 +222,18 @@ Pace counting measures distance traveled by counting steps.
 
 Use ranger beads or knots in a cord to track groups of 100 meters.
 
-## Deliberate Offset
+## Deliberate Offset (Aiming Off)
 
-When navigating to a feature on a linear landmark (a bridge on a river, a cabin on a trail), do not aim straight at it. Aim deliberately 5-10 degrees to one side.
+When navigating to a point on a linear feature — a bridge on a river, a cabin on a trail,
+a gate in a fence line — **do not aim straight at it.** Aim deliberately 5-10 degrees to
+one side.
 
-When you hit the linear feature, you know which direction to turn to reach your target. Aiming straight risks hitting the linear feature and not knowing whether to go left or right.
+Aim straight and you arrive at the river having missed the bridge, with no way to know
+whether it is upstream or downstream of you. Aim deliberately left and you arrive knowing
+to turn right, every time.
 
-## Aiming Off
-
-Aiming off is the same concept applied to any target near a catching feature. Offset your bearing intentionally so that when you reach the catching feature, the direction to your target is unambiguous.
+This is the single most useful navigation habit on this page. Your bearing will have some
+error in it; deliberate offset converts an unknown error into a known direction.
 
 ## Handrail Navigation
 
@@ -241,6 +268,7 @@ Carry a compass and paper map as primary backup on every trip. Practice compass 
 - **Navigating without catching features.** Walking on a bearing with no backstop means overshooting the target with no way to know it.
 - **Holding the compass near metal.** Belt buckles, knives, firearms, vehicles, and power lines deflect the needle. Hold the compass away from your body and metal objects by at least 18 inches (45 cm).
 - **Aiming directly at a target on a linear feature.** Use deliberate offset instead.
+- **Trusting a compass you have not checked.** Phone magnets reverse needles, and a reversed compass looks completely normal. Check it against the sun or Polaris before you rely on it.
 
 ## Quick Reference
 
