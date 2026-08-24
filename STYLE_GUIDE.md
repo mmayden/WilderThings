@@ -63,7 +63,27 @@ tags:
 | Common Mistakes | What people get wrong | Yes |
 | Quick Reference | Condensed lookup | Yes |
 | See Also | Cross-category links | Yes (if related guides exist) |
-| Sources | Citations | Yes |
+| Sources | Citations, split into Primary and Additional reading | Yes |
+
+### Enforced by `scripts/verify.py`
+
+These are not style preferences — CI fails on them:
+
+- **Every See Also entry carries an em-dash description** saying why a reader would
+  follow it. A bare title makes the reader spend a page-load to find out whether the
+  link was worth it.
+- **Link text is never a bare filename**, and each guide is referred to by one name
+  everywhere. In the single-file build there is no sidebar and no search box, so Ctrl+F
+  is the whole navigation system.
+- **Sources are split into two tiers.** Primary is authoritative, revised and publicly
+  checkable — military field manuals for technique, WMS/TCCC/resuscitation councils for
+  medicine, CDC/EPA/NOAA for the rest. Additional reading is trade books, labelled as
+  not being what a claim should rest on.
+- **One work, one citation.** Two checks cover this: books keyed on author plus main
+  title, articles on author plus quoted title.
+- **DANGER stays under 15% of labelled admonitions.** DANGER means *will* kill or
+  seriously injure; WARNING means *could*. If every box is red the lethal ones stop
+  working.
 
 ## Tags Frontmatter
 
@@ -192,7 +212,7 @@ See [Shelter Principles](../shelter/shelter-principles.md) for site selection.
 For same-category links:
 
 ```markdown
-See [Friction Methods](friction-methods.md) for the bow drill technique.
+See [Spark and Lens Methods](spark-methods.md) for the ferro rod technique.
 ```
 
 ---
