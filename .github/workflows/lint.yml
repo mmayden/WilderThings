@@ -84,7 +84,7 @@ jobs:
       # Makes a current, verified copy downloadable from every CI run, so the
       # shareable file is never stale relative to the content.
       - name: Upload offline artifacts
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: wilderthings-offline
           path: |
