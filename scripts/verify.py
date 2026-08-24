@@ -568,6 +568,36 @@ def check_citation_consistency(root):
         ok("citations consistent", "%d works, one citation each" % len(works))
 
 
+def check_see_also(root):
+    """Every cross-link must say why a reader would follow it.
+
+    A bare title asks the reader to spend a page-load finding out whether the link was
+    worth following. In a document read offline under stress, that is a navigation cost
+    rather than a courtesy. All 124 that lacked one were written after the corpus had
+    been read — which is also why this check exists only now: enforcing it earlier would
+    have produced filler that satisfies the check and helps nobody.
+    """
+    bare, total = [], 0
+    for path in _md_files(root):
+        with io.open(path, encoding="utf-8") as f:
+            body = f.read()
+        m = re.search(r"^## See Also\s*$(.*?)(?=^## |\Z)", body, re.M | re.S)
+        if not m:
+            continue
+        for ln, line in enumerate(m.group(1).splitlines(), 1):
+            mm = re.match(r"- \[([^\]]+)\]\(([^)]+)\)(.*)$", line.strip())
+            if not mm:
+                continue
+            total += 1
+            if "\u2014" not in mm.group(3):
+                bare.append("%s -> %s" % (os.path.relpath(path, root), mm.group(1)))
+    if bare:
+        fail("See Also entries with no description",
+             "%d of %d; first: %s" % (len(bare), total, bare[0]))
+    else:
+        ok("See Also descriptions", "%d cross-links, all described" % total)
+
+
 def check_content(root):
     check_clinical_sources(root)
     check_source_currency()
@@ -577,6 +607,7 @@ def check_content(root):
     check_signal_words(root)
     check_link_labels(root)
     check_citation_consistency(root)
+    check_see_also(root)
 
 
 
