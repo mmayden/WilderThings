@@ -79,21 +79,31 @@ A handrail is any linear feature you follow to maintain direction: a stream, rid
 - Travel parallel to the handrail, not necessarily on it.
 - Handrails reduce the need for constant compass checks.
 
-### Backstops (Catching Features)
+### Catching Features (Backstops)
 
-A backstop is a large, unmistakable feature that tells you when you have gone too far: a road, river, lakeshore, cliff edge, or major ridgeline.
+These two words mean the same thing. A catching feature — also called a backstop — is a
+large, unmistakable feature **beyond** your objective that tells you when you have gone
+too far: a road, river, lakeshore, cliff edge, or major ridgeline.
 
-- Identify your backstop before you start moving.
-- If you hit your backstop, stop and reassess. You have overshot your objective.
+- Identify it before you start moving.
+- If you reach it, stop. You have overshot, and you now know by roughly how much.
 
-### Catching Features
+### Attack Points
 
-A catching feature is a recognizable landmark near your objective that confirms you are close: a trail junction, distinctive rock formation, stream confluence, or clearing.
+An attack point is a distinct feature **near** your objective, from which you make the
+final short, precise approach: a trail junction, stream confluence, a lone boulder, the
+corner of a clearing.
 
-- Choose catching features that are visible even in poor conditions.
+The point of one is that you navigate loosely and cheaply to the attack point, then
+carefully over the last short distance — where a small bearing error costs metres rather
+than miles.
+
+- Choose one that is visible in poor conditions.
+- The closer it is to your objective, the less precision the final leg needs.
 
 !!! note
-    Plan your route using all three: follow a handrail, watch for a catching feature near your objective, and know your backstop if you overshoot.
+    Plan a route with all three: a **handrail** to follow, an **attack point** to navigate
+    to, and a **catching feature** beyond the objective in case you miss it.
 
 ## Aiming Off and Deliberate Offset
 
@@ -161,8 +171,8 @@ On moderate terrain, estimate 2 miles (3.2 km) per hour plus 30 minutes for ever
 | Technique | Use Case |
 |---|---|
 | Handrail | Follow a linear feature to maintain direction |
-| Backstop | Large feature that signals you overshot |
-| Catching feature | Landmark confirming you are near your objective |
+| Catching feature (backstop) | Large feature beyond the objective that signals you overshot |
+| Attack point | Distinct feature near the objective; navigate loosely to it, precisely from it |
 | Aiming off | Deliberately offset toward a linear feature to eliminate left/right uncertainty |
 | Contouring | Traverse a slope without elevation change |
 | Pace counting | Track distance in low-visibility terrain |
@@ -170,8 +180,8 @@ On moderate terrain, estimate 2 miles (3.2 km) per hour plus 30 minutes for ever
 
 ## See Also
 
-- [Map and Compass Navigation](../navigation/map-and-compass.md)
-- [Natural Navigation](../navigation/natural-navigation.md)
+- [Map and Compass Navigation](../navigation/map-and-compass.md) — bearings, declination, and the compass checks that come before any of this.
+- [Natural Navigation](../navigation/natural-navigation.md) — direction without instruments, and why you cannot hold a bearing by feel.
 - [Lost in the Woods](../scenarios/lost-in-woods.md) — using terrain features to reorient when lost.
 - [Water Crossing](../scenarios/water-crossing.md) — reading terrain to find safe crossing points.
 

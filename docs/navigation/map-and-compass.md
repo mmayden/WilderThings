@@ -195,8 +195,11 @@ Before reading or plotting on a map, orient it so map-north faces real-world nor
 1. Orient the map.
 2. Mark your start and destination.
 3. Identify **handrails** — linear features (rivers, ridgelines, trails, power lines) that run roughly parallel to your direction of travel. Follow these instead of a raw bearing when possible.
-4. Identify **catching features** — large, unmissable features (roads, rivers, lakeshores) that tell you when you have gone too far.
-5. Identify **backstops** — features beyond your destination that confirm you overshot.
+4. Identify a **catching feature** (also called a backstop) — a large, unmissable feature
+   *beyond* your destination that tells you when you have gone too far.
+5. Identify an **attack point** — a distinct feature *near* your destination. Navigate
+   loosely to it, then precisely over the last short leg, where a bearing error costs
+   metres instead of miles.
 6. Break the route into legs. Take a bearing and estimate distance for each leg.
 7. Note the terrain for each leg: elevation gain, water crossings, thick vegetation, cliff bands.
 
