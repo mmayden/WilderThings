@@ -166,6 +166,12 @@ Your body is the primary heat source inside a shelter. All shelter design revolv
   it is usually the one part left bare, and the body defends the scalp's blood supply
   rather than shutting it down the way it does the hands and feet.
 - **Insulate extremities** — stuff dry grass or leaves into boots and gloves.
+- **Stuff your clothing.** This is the fastest warmth available to anyone and it costs
+  nothing. Pack dry leaves, grass, cattail fluff, pine needles, or shredded bark loosely
+  between your layers — around the torso first, then the limbs. Aim for 2-4 inches
+  (5-10 cm) of loft over the core. Close cuffs and collars with cordage or by tucking so
+  it does not fall out, and replace it when it compresses or dampens. Loose and fluffy
+  insulates; packed tight does not.
 - **Stay dry** — remove wet clothing before entering the shelter. Hang wet items to dry if possible.
 - **Eat before sleeping** — digestion generates heat. Fats and proteins produce more sustained warmth than carbohydrates.
 - **Exercise before entering shelter** — do light exercise (squats, push-ups) to generate heat, then enter the shelter immediately while warm. Do not exercise to the point of sweating.

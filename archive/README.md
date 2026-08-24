@@ -40,6 +40,27 @@ survive and carry the methods that actually work when stranded.
 **Marginal or redundant.** `group-dynamics` (expedition management), `solo-survival`
 (overlapped `survival-mindset`), `water-storage` (caching and 55-gallon drums).
 
+## Corrections to this cut
+
+Two judgements here were wrong and have been partly reversed, with the useful parts
+restored to surviving guides rather than by un-archiving anything.
+
+**`improvised-tools` was cut as "stone knapping, bone awls — days of work."** That is
+true of hafting, bone needles, and antler tools. It is not true of striking a usable
+cutting flake, which takes about a minute and is sharper than any carried blade. Someone
+stranded without a knife needs that minute, not the days. `knife-use-and-care` now has an
+"If You Have No Knife" section covering the flake, the eye-protection warning that goes
+with it, and the other expedients — glass, tin lids, shell.
+
+**`clothing-and-insulation` was cut for brain tanning and bark cloth**, which are weeks of
+work and correctly gone. It also contained debris stuffing: packing dry leaves or grass
+between clothing layers for 2-4 inches of loft. That is the fastest warmth available to
+anyone, costs nothing, needs no tools, and addresses the thing most likely to kill a
+stranded person. It is now in `shelter-principles` under personal heat retention.
+
+The pattern in both: a guide was judged by its most elaborate content, and a fast,
+high-value technique was sitting next to it.
+
 ## Content rescued before archiving
 
 Three pieces were verified against the literature and moved rather than lost:

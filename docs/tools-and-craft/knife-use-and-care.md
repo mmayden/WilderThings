@@ -230,6 +230,33 @@ If you can carry only one piece of gear into the wilderness, carry a quality fix
 
 ---
 
+## If You Have No Knife
+
+A struck stone flake takes about a minute and is sharper than any blade you own. It is
+fragile and it will not baton wood, but it cuts cordage, hide, and flesh better than a
+dull knife does.
+
+1. Find a **fine-grained, glassy stone** — flint, chert, obsidian, quartzite, or jasper.
+   It should ring rather than thud when two pieces are struck together.
+2. Hold the core in your non-dominant hand, **padded with folded cloth, bark, or leather**.
+3. Strike down onto the edge of the core at about 45 degrees with a dense round cobble.
+4. The flake that detaches is the tool. Use it directly, wrapping the blunt end.
+
+!!! danger "WARNING: turn your face away before you strike"
+    Flakes leave the core at speed and travel toward you. Eye injury is the
+    characteristic knapping injury, and losing an eye while stranded is not recoverable —
+    there is no treatment to improvise and you lose depth perception for every task left.
+
+    Wear glasses or goggles if you have any. If not, angle the core so flakes leave away
+    from you and turn your head at the moment of impact.
+
+    A fresh flake is sharper than a scalpel and you will not feel the cut immediately.
+    Gather the debris rather than kneeling in it.
+
+Other expedients, in rough order of usefulness: a snapped piece of glass or metal, the
+sharpened edge of a tin can lid, a split and abraded hardwood point for scraping rather
+than cutting, and a sharp shell on the coast.
+
 ## Common Mistakes
 - Buying a cheap knife with a partial tang and discovering it at the worst possible moment.
 - Batoning a folding knife.
