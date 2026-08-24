@@ -9,6 +9,30 @@ Active work backlog organized by milestone. Completed work is collapsed at the b
 > from `index.html` with no internet, no server, and no install. The hosted
 > GitHub Pages site is an online convenience mirror, not the product.
 
+## Where This Stands (2026-08-24)
+
+**Scope.** 60 guides, one test: *someone stranded in the wilderness who needs to survive.*
+22 guides archived for failing it (`archive/README.md`), including all plant and fungus
+identification.
+
+**Sourcing.** Every guide's Sources is split into Primary — authoritative, revised,
+publicly checkable — and Additional reading. Twelve fabricated or wrong citations found
+and fixed. Every medical source confirmed on its current edition.
+
+**Checks.** 23 in `scripts/verify.py`, each written after the defect it catches was found
+by hand, each negative-tested in both directions.
+
+**Deliverable.** Offline copy verified self-contained: 0 external requests, 8,407 local
+references and 4,769 anchors resolving across 70 pages. 1.2 MB single file, 2.4 MB zip.
+
+### Three clinical corrections found by asking what version, not whether it exists
+
+| Correction | Source that had moved |
+|---|---|
+| Tourniquet reassessment at 2 hours was missing | TCCC 2023 → 1 May 2026 |
+| Improvised backboards taught as good practice | WMS spine 2019 → 2024 |
+| MARCH and ABCDE framed as competing orders | ATLS 10th → 11th (xABCDE) |
+
 ## Up Next — Milestone 5 (Delivery)
 
 ### Offline copy — DONE
