@@ -272,7 +272,7 @@ Sepsis is infection that has entered the bloodstream and triggered a systemic in
   1 May 2026. Revised frequently — check jts.health.mil for the current version before
   relying on any specific figure here.
 - American College of Emergency Physicians (ACEP): "Clinical Policy on Wound Management," 2019.
-- Surviving Sepsis Campaign Guidelines, Society of Critical Care Medicine, 2021.
+- *Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026.* Society of Critical Care Medicine, 2026.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
 - Sanford Guide to Antimicrobial Therapy, 2024.
 - U.S. Army Special Forces Medical Handbook (ST 31-91B).

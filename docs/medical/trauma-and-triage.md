@@ -18,7 +18,7 @@ tags:
 
 - Stop massive hemorrhage first — it kills faster than airway or breathing problems in trauma.
 - Use the MARCH mnemonic for tactical trauma: Massive hemorrhage, Airway, Respiration, Circulation, Hypothermia/Head injury.
-- The primary survey (ABCDE) takes 60-90 seconds and identifies all immediately life-threatening conditions.
+- The primary survey takes 60-90 seconds. Catastrophic bleeding comes first — ATLS 11 (2025) revised ABCDE to xABCDE to say so explicitly, matching what MARCH already did.
 - START triage categorizes casualties by survivability in under 30 seconds per patient.
 - Treat shock aggressively — lay flat, control bleeding, keep warm, and evacuate.
 
@@ -48,7 +48,7 @@ Before touching any patient:
 
 ## MARCH Protocol (Tactical Trauma)
 
-The MARCH mnemonic reorders traditional ABCDE to prioritize the leading cause of preventable death in trauma: hemorrhage.
+The MARCH mnemonic reorders traditional ABCDE to prioritize the leading cause of preventable death in trauma: hemorrhage. ATLS adopted the same priority in its 11th edition (2025) as xABCDE, so this is no longer a tactical-only convention.
 
 ### M — Massive Hemorrhage
 
@@ -150,9 +150,25 @@ Assess and treat circulatory shock. See the Shock section below for details.
 
 ---
 
-## Primary Survey (ABCDE)
+## Primary Survey (xABCDE)
 
-The civilian primary survey uses the ABCDE framework. Complete it in 60-90 seconds.
+!!! note "Civilian and tactical practice have converged on this"
+    ATLS 11 (2025) revised the classic ABCDE sequence to **xABCDE**, formally placing
+    control of exsanguinating external haemorrhage before airway. That is the same
+    principle the military MARCH protocol has used for years, and the reason both
+    frameworks now agree is the same: haemorrhage kills faster than any airway problem
+    in trauma.
+
+    Read the two sections in this guide as one sequence, not two competing ones. Stop
+    the bleeding, then work through airway, breathing, circulation, disability, and
+    exposure.
+
+The primary survey takes 60-90 seconds.
+
+### x — Exsanguinating Haemorrhage
+
+Before anything else, find and stop catastrophic external bleeding — see the MARCH
+section above, which covers this in full.
 
 ### A — Airway (with cervical spine protection)
 
@@ -522,7 +538,7 @@ Follows commands? ──No──> RED
   1 May 2026. Revised frequently — check jts.health.mil for the current version before
   relying on any specific figure here.
 - PHTLS: Prehospital Trauma Life Support, 10th Edition, National Association of EMTs (NAEMT).
-- Advanced Trauma Life Support (ATLS), American College of Surgeons, 10th Edition.
+- *Advanced Trauma Life Support (ATLS)*, American College of Surgeons, 11th ed., 2025. Introduced xABCDE, placing exsanguinating haemorrhage control before airway.
 - START Triage Algorithm, Newport Beach Fire Department / Hoag Hospital, original 1983 (with subsequent revisions).
 - Hawkins, S. C., Williams, J., Bennett, B. L., Islas, A., Quinn, R. "Wilderness Medical
   Society Clinical Practice Guidelines for Spinal Cord Protection: 2024 Update."

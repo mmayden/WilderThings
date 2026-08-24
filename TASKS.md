@@ -356,9 +356,12 @@ to cite TCCC 2023 and five to cite the 2021 Red Cross manual while the table rea
 | WMS — accidental hypothermia | 2019 update | 2026-08-24 (still current) | ~5 yr per topic |
 | Auerbach *Wilderness Medicine* | 7th ed., 2017 | 2026-08-24 (8th due 2028) | by edition |
 | Tintinalli's | 9th ed., 2020 | 2026-08-24 | by edition |
-| Sanford Guide | **2024 — unchecked** | — | annual |
-| Surviving Sepsis Campaign | **2021 — unchecked** | — | ~3 yr |
-| ATLS / PHTLS | 10th eds | — | by edition |
+| WMS — acute altitude illness | 2024 update | 2026-08-24 | ~5 yr per topic |
+| WMS — pit viper envenomation | 2026 update | 2026-08-24 | ~5 yr per topic |
+| Surviving Sepsis Campaign | 2026 | 2026-08-24 | ~3-5 yr |
+| ATLS | 11th ed., 2025 | 2026-08-24 | by edition |
+| PHTLS | 10th ed. | **unchecked** | by edition |
+| Sanford Guide | 2024 | **unchecked — annual, so likely stale** | annual |
 | ANZCOR | rolling | 2026-08-23 | rolling |
 | CDC / EPA / NOAA / NWS | web resources | 2026-08-23 | without announcement |
 

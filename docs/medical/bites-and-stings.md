@@ -305,7 +305,9 @@ Two or more body systems involved after a known exposure = anaphylaxis. Act imme
 
 **Primary — authoritative, revised, and publicly checkable:**
 
-- Wilderness Medical Society Practice Guidelines for the Treatment of Pitviper Envenomation, 2011 (updated 2020).
+- "Wilderness Medical Society Clinical Practice Guidelines for the Treatment of Pit Viper
+  Envenomations in the United States and Canada: 2026 Update." *Wilderness & Environmental
+  Medicine*, 2026. Adds F(ab')2 antivenom (Anavip), which the earlier guidelines predate.
 - Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, Joint Trauma System,
   1 May 2026. Revised frequently — check jts.health.mil for the current version before
   relying on any specific figure here.
