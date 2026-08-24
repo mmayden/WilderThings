@@ -238,4 +238,4 @@ Carry a compass and paper map as primary backup on every trip. Practice compass 
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - *Be Expert with Map and Compass* — Bjorn Kjellstrom, revised edition, 2009
 - NOAA National Centers for Environmental Information — Magnetic Declination Calculator
-- *USAF Survival Training (AFPAM 36-2211)* — US Air Force, 2008
+- U.S. Air Force. *AFR 64-4: Survival Training.* Department of the Air Force, 1985.

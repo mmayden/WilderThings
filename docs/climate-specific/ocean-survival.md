@@ -255,7 +255,7 @@ Once ashore:
 ## Sources
 
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
-- U.S. Navy. *U.S. Navy Survival Manual (NAVPERS 16083).* Department of the Navy.
+- Craighead, Frank C., and John J. Craighead. *How to Survive on Land and Sea.* Naval Institute Press, 4th ed., 1984.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
 - Callahan, Steven. *Adrift: Seventy-Six Days Lost at Sea.* Houghton Mifflin, 1986.
 - Robertson, Dougal. *Survive the Savage Sea.* Praeger, 1973.

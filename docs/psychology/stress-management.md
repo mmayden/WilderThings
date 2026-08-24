@@ -276,7 +276,7 @@ Use any available method: scratching bark, arranging stones, marking dirt, or wr
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - Gonzales, Laurence. *Deep Survival: Who Lives, Who Dies, and Why.* W.W. Norton, 2003.
 - *Surviving Survival: The Art and Science of Resilience* — Laurence Gonzales, W.W. Norton, 2012
-- *USAF Survival Training (AFPAM 36-2211)* — US Air Force, 2008
+- U.S. Air Force. *AFR 64-4: Survival Training.* Department of the Air Force, 1985.
 - Grossman, Dave. *On Combat: The Psychology and Physiology of Deadly Conflict in War and Peace.* Warrior Science Publications, 2004.
 - *SERE (Survival, Evasion, Resistance, Escape) Training Manual* — US Joint Personnel Recovery Agency
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.

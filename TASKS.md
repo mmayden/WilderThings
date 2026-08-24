@@ -214,6 +214,15 @@ check a catalogue rather than a search engine:
 | U.S. Navy SERE Manual, *Water Procurement at Sea* | desert-and-sea-water |
 | Hellweg, Paul. *Flintknapping: The Art of Making Stone Tools.* Canyon Publishing, 1984 | improvised-tools |
 
+Three military publications resolved rather than flagged, since the numbering systems
+are documented and checkable:
+
+| Cited as | Corrected to | Why |
+|---|---|---|
+| FM 31-70, 2011 | FM 31-70, **1968** | No 2011 edition; 1968 supersedes a 1959 printing |
+| *USAF Survival Training* (AFPAM 36-2211), 2008 | **AFR 64-4** *Survival Training*, 1985 | The 36-22xx series is education and training, not survival. AFR 64-4 is the documented USAF survival manual, and the corpus already cites the current SERE publication (AFH 10-644) correctly |
+| *U.S. Navy Survival Manual* (NAVPERS 16083) | **Craighead & Craighead**, *How to Survive on Land and Sea*, Naval Institute Press | NAVPERS is the Naval Personnel series. The Navy's actual survival reference is the Craighead volume, prepared for the US Naval Institute Education Series |
+
 WorldCat, the Library of Congress catalogue, and the agencies' own publication indexes
 are the right tools for these — not a web search.
 

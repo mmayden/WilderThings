@@ -235,7 +235,7 @@ No single natural method is precise enough for reliable navigation. Use this app
 
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992.
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
-- *USAF Survival Training (AFPAM 36-2211)* — US Air Force, 2008
+- U.S. Air Force. *AFR 64-4: Survival Training.* Department of the Air Force, 1985.
 - *The Natural Navigator* — Tristan Gooley, 2010
 - *Celestial Navigation for Yachtsmen* — Mary Blewitt, 13th edition, 2017
 - Gonzales, Laurence. *Deep Survival: Who Lives, Who Dies, and Why.* W.W. Norton, 2003.
