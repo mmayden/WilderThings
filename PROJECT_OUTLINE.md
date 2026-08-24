@@ -13,7 +13,7 @@ The failure mode that matters is a survival guide that needs a connection at the
 ```
 ┌─────────────────────────────────────────────┐
 │  Content Layer (Markdown in docs/)          │
-│  ├── 13 category folders                   │
+│  ├── 12 category folders                   │
 │  ├── 60 guides (22 archived 2026-08-24)              │
 │  ├── YAML frontmatter tags on every guide  │
 │  └── Templates enforce structure            │
@@ -73,6 +73,10 @@ The failure mode that matters is a survival guide that needs a connection at the
 
 ## Guide Inventory
 
+All 60 guides are complete. Scope is **someone stranded in the wilderness who needs to
+survive** — if a guide would only matter to someone already safe, already settled, or
+somewhere other than the wilderness, it does not belong.
+
 All 60 guides are complete. A further 22 were archived on 2026-08-24 for falling outside the project's scope — see `archive/README.md`. Statuses are not repeated; this table serves as a reference index.
 
 ### Medical (10)
@@ -90,17 +94,16 @@ All 60 guides are complete. A further 22 were archived on 2026-08-24 for falling
 | plant-poisoning.md | P1 |
 | improvised-medicine.md | P2 |
 
-### Water (5)
+### Water (4)
 
 | Guide | Priority |
 |-------|----------|
 | finding-water.md | P0 |
 | purification.md | P0 |
 | improvised-filters.md | P1 |
-| water-storage.md | P1 |
 | desert-and-sea-water.md | P2 |
 
-### Shelter (6)
+### Shelter (5)
 
 | Guide | Priority |
 |-------|----------|
@@ -109,35 +112,24 @@ All 60 guides are complete. A further 22 were archived on 2026-08-24 for falling
 | snow-shelters.md | P1 |
 | desert-shelter.md | P1 |
 | tarp-and-poncho.md | P1 |
-| long-term-structures.md | P2 |
 
-### Fire (7)
+### Fire (4)
 
 | Guide | Priority |
 |-------|----------|
 | fire-principles.md | P0 |
-| friction-methods.md | P0 |
 | spark-methods.md | P0 |
-| fire-from-nothing.md | P1 |
 | fire-in-wet-conditions.md | P1 |
 | fire-types.md | P1 |
-| maintaining-fire.md | P1 |
 
-### Food (11)
+### Food (4)
 
 | Guide | Priority |
 |-------|----------|
 | foraging-basics.md | P1 |
-| edible-plants-temperate.md | P1 |
-| mushroom-identification.md | P1 |
-| hunting-basics.md | P1 |
 | trapping-and-snares.md | P1 |
 | fishing-improvised.md | P1 |
-| edible-plants-tropical.md | P2 |
 | insect-foraging.md | P2 |
-| field-butchering.md | P2 |
-| food-preservation.md | P2 |
-| cooking-without-gear.md | P2 |
 
 ### Navigation (5)
 
@@ -163,27 +155,22 @@ All 60 guides are complete. A further 22 were archived on 2026-08-24 for falling
 | moose-and-ungulates.md | P2 |
 | alligators-and-crocs.md | P2 |
 
-### Tools and Craft (6)
+### Tools and Craft (3)
 
 | Guide | Priority |
 |-------|----------|
 | knife-use-and-care.md | P1 |
 | knots-and-lashing.md | P1 |
 | cordage.md | P1 |
-| improvised-tools.md | P2 |
-| containers-and-vessels.md | P2 |
-| clothing-and-insulation.md | P2 |
 
-### Psychology (4)
+### Psychology (2)
 
 | Guide | Priority |
 |-------|----------|
 | survival-mindset.md | P0 |
 | stress-management.md | P1 |
-| group-dynamics.md | P2 |
-| solo-survival.md | P2 |
 
-### Scenarios (6)
+### Scenarios (5)
 
 | Guide | Priority |
 |-------|----------|
@@ -191,10 +178,9 @@ All 60 guides are complete. A further 22 were archived on 2026-08-24 for falling
 | animal-attack.md | P1 |
 | injured-and-alone.md | P1 |
 | vehicle-breakdown-remote.md | P2 |
-| natural-disaster.md | P2 |
 | water-crossing.md | P2 |
 
-### Climate-Specific (6)
+### Climate-Specific (5)
 
 | Guide | Priority |
 |-------|----------|
@@ -203,18 +189,14 @@ All 60 guides are complete. A further 22 were archived on 2026-08-24 for falling
 | jungle-survival.md | P2 |
 | mountain-survival.md | P2 |
 | ocean-survival.md | P2 |
-| urban-survival.md | P2 |
 
-### Preparedness (6)
+### Preparedness (3)
 
 | Guide | Priority |
 |-------|----------|
 | bug-out-bag.md | P2 |
 | everyday-carry.md | P2 |
 | vehicle-kit.md | P2 |
-| home-preparedness.md | P2 |
-| communication-plans.md | P2 |
-| financial-preparedness.md | P2 |
 
 ### References (8)
 

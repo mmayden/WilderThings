@@ -175,7 +175,7 @@ WilderThings/
 ├── requirements.txt        # Pinned: mkdocs-material==9.7.7, mkdocs-minify-plugin==0.8.0
 ├── .codespellrc            # Spell-check exceptions (sting, HACE, trough, etc.)
 ├── .gitignore
-├── docs/                   # Content root — 13 category folders + index + assets + references + tags.md
+├── docs/                   # Content root — 12 category folders + index + critical + assets + references + tags.md
 │   ├── manifest.webmanifest    # PWA manifest (icons, start_url, theme_color)
 │   └── assets/images/          # PWA icon set (favicons, apple-touch, 192/512, maskable)
 ├── overrides/              # Theme overrides — main.html adds manifest + apple-* install tags
@@ -204,18 +204,18 @@ Each guide is a standalone `.md` file with YAML frontmatter tags. Adding a guide
 | Category | Folder | Count |
 |----------|--------|-------|
 | Medical | `medical/` | 10 |
-| Water | `water/` | 5 |
-| Shelter | `shelter/` | 6 |
-| Fire | `fire/` | 7 |
-| Food | `food/` | 11 |
+| Water | `water/` | 4 |
+| Shelter | `shelter/` | 5 |
+| Fire | `fire/` | 4 |
+| Food | `food/` | 4 |
 | Navigation | `navigation/` | 5 |
 | Wildlife | `wildlife/` | 9 |
-| Tools & Craft | `tools-and-craft/` | 6 |
-| Psychology | `psychology/` | 4 |
-| Scenarios | `scenarios/` | 6 |
-| Climate-Specific | `climate-specific/` | 6 |
-| Preparedness | `preparedness/` | 6 |
-| References | `references/` | 8 |
+| Tools & Craft | `tools-and-craft/` | 3 |
+| Psychology | `psychology/` | 2 |
+| Scenarios | `scenarios/` | 5 |
+| Climate-Specific | `climate-specific/` | 5 |
+| Preparedness | `preparedness/` | 3 |
+| References | `references/` | 3 |
 
 ### Guide Structure
 
