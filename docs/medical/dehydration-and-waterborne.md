@@ -297,6 +297,6 @@ Fluids administered rectally are absorbed through the rectal mucosa. This techni
 - Centers for Disease Control and Prevention (CDC): "Parasites — Giardia," 2023.
 - Centers for Disease Control and Prevention (CDC): "Cholera — Vibrio cholerae Infection," 2023.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
-- Sanford Guide to Antimicrobial Therapy, 2024.
+- *The Sanford Guide to Antimicrobial Therapy*, 2026 ed. Revised annually — check the current year's edition before relying on any specific drug or dose.
 - U.S. Army Center for Health Promotion and Preventive Medicine: "Water Purification in the Field," Technical Guide 297.
 - Backer, Howard D. "Water Disinfection for International and Wilderness Travelers." *Clinical Infectious Diseases*, 2002.

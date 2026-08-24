@@ -537,7 +537,7 @@ Follows commands? ──No──> RED
 - Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, Joint Trauma System,
   1 May 2026. Revised frequently — check jts.health.mil for the current version before
   relying on any specific figure here.
-- PHTLS: Prehospital Trauma Life Support, 10th Edition, National Association of EMTs (NAEMT).
+- *PHTLS: Prehospital Trauma Life Support*, 10th ed., National Association of Emergency Medical Technicians (NAEMT). Current edition as of 2026-08-24.
 - *Advanced Trauma Life Support (ATLS)*, American College of Surgeons, 11th ed., 2025. Introduced xABCDE, placing exsanguinating haemorrhage control before airway.
 - START Triage Algorithm, Newport Beach Fire Department / Hoag Hospital, original 1983 (with subsequent revisions).
 - Hawkins, S. C., Williams, J., Bennett, B. L., Islas, A., Quinn, R. "Wilderness Medical

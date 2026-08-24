@@ -360,14 +360,24 @@ to cite TCCC 2023 and five to cite the 2021 Red Cross manual while the table rea
 | WMS — pit viper envenomation | 2026 update | 2026-08-24 | ~5 yr per topic |
 | Surviving Sepsis Campaign | 2026 | 2026-08-24 | ~3-5 yr |
 | ATLS | 11th ed., 2025 | 2026-08-24 | by edition |
-| PHTLS | 10th ed. | **unchecked** | by edition |
-| Sanford Guide | 2024 | **unchecked — annual, so likely stale** | annual |
+| PHTLS | 10th ed. | 2026-08-24 (still current) | by edition |
+| Sanford Guide | 2026 ed. | 2026-08-24 | annual |
 | ANZCOR | rolling | 2026-08-23 | rolling |
 | CDC / EPA / NOAA / NWS | web resources | 2026-08-23 | without announcement |
 
-- [ ] The rows marked **unchecked** are the next currency pass. WMS revises per topic on
-      roughly a five-year cycle, so the 2019 guidelines are due or overdue, and Sanford is
-      annual.
+**Every medical source in the corpus is now on its current edition** (checked
+2026-08-24). Three clinical corrections came out of the pass, all found by asking what
+version a source was on rather than whether it existed:
+
+| Found | Because |
+|---|---|
+| Tourniquet reassessment at 2 hours was missing | TCCC 2023 → 1 May 2026 |
+| Improvised backboards taught as good practice | WMS spine 2019 → 2024 |
+| MARCH and ABCDE framed as competing orders | ATLS 10th → 11th (xABCDE) |
+
+- [ ] Re-run this pass periodically. The tracker records the edition cited, so drift is
+      visible — but nothing checks it automatically, and TCCC alone revises several times
+      a year. A source cited to a fixed year will eventually be wrong again.
 
 <!-- /source-currency -->
 
