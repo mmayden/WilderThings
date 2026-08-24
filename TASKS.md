@@ -184,8 +184,8 @@ shape. Two decisions deliberately deferred until it can be looked at:
 
 ### Citation verification — OPEN, and now known to be needed
 
-**Eight wrong citations found so far**, across eight different guides. Five of the
-works do not appear to exist at all:
+**Fourteen wrong citations found**, across fourteen different guides. Seven of the works
+do not appear to exist at all:
 
 | Cited as | Actually | Where |
 |---|---|---|
@@ -197,6 +197,15 @@ works do not appear to exist at all:
 | Eiben, Patrick. *The Complete Guide to Everyday Carry*, 2021 | No evidence it exists | everyday-carry |
 | Hurd, Richard. *Primitive Fire Lighting Methods*, SPT Bulletin, 1998 | No evidence it exists | fire-from-nothing |
 | Knight, Michael Finkel. *The Stranger in the Woods* | Author is Michael Finkel; Christopher Knight is the subject | solo-survival |
+| Baer, "Ferrocerium: History and Metallurgy," *J. Chem. Educ.* 72 (1995) | No such article. Replaced with the 1903 Auer von Welsbach patent | spark-methods |
+| WMS "practice guidelines on field communication" | No such guideline. Nearest real one is Medical Direction of SAR Teams (2024) | gps-and-electronics |
+| WMS "Practice Guidelines for CPR in Austere Environments" | No guideline by that name. Wilderness resuscitation is in the 2024 drowning guideline | cpr-and-choking |
+| Langley, wrong article title | Right journal, volume, year and pages; invented title | animal-attack |
+| Halcon and "Milisa, Kelly" | Co-author is Kelly **Milkus** | improvised-medicine |
+| FM 31-70 dated 2011 | 1968 | arctic-survival |
+| "USAF Survival Training (AFPAM 36-2211)" | No such publication; AFR 64-4 is the USAF survival manual | 3 navigation guides |
+| "U.S. Navy Survival Manual (NAVPERS 16083)" | Craighead & Craighead, Naval Institute Press | ocean-survival |
+| WMS wilderness emergency care "5th ed., 2014" | Forgey, ed., Falcon Guides, **2006** | 2 water guides |
 
 Plus two factual errors about Army publications: FM 21-76's successor is ATP 3-50.21
 (via FM 3-05.70), not ATP 3-50.3, and ATP 3-50.21 is titled *Survival*, not *Survival,

@@ -229,6 +229,8 @@ Electronics fail from water, impact, cold, dead batteries, and software crashes.
 - Garmin InReach and SPOT product documentation
 - NOAA SARSAT PLB registration and specifications
 - USGS topographic map standards and UTM reference
-- Wilderness Medical Society practice guidelines on field communication
+- Davis, C. A., Lowry, C., Billin, A., et al. "Wilderness Medical Society Clinical
+  Practice Guidelines for Medical Direction of Search and Rescue Teams."
+  *Wilderness & Environmental Medicine*, 2024.
 - Apple, "Use Emergency SOS via satellite on your iPhone" (support.apple.com)
 - Google, "Satellite SOS on Pixel" (support.google.com/pixelphone)

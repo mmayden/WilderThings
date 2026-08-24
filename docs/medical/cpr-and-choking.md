@@ -343,7 +343,10 @@ If a choking victim becomes unconscious:
 - American Heart Association and American Red Cross. *2025 Guidelines for CPR and Emergency Cardiovascular Care.* *Circulation*, 2025.
 - American Red Cross. *First Aid/CPR/AED Participant's Manual*, Revision 2025 (r.25).
 - European Resuscitation Council. *Guidelines 2025.* *Resuscitation*, 2025.
-- Wilderness Medical Society Practice Guidelines for CPR in Austere Environments.
+- Davis, C. A., Schmidt, A. C., Sempsrott, J. R., et al. "Wilderness Medical Society
+  Clinical Practice Guidelines for the Treatment and Prevention of Drowning: 2024
+  Update." *Wilderness & Environmental Medicine*, 2024. Covers resuscitation in
+  austere settings and when to terminate.
 - Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, Joint Trauma System,
   1 May 2026. Revised frequently — check jts.health.mil for the current version before
   relying on any specific figure here.
