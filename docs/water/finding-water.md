@@ -290,6 +290,29 @@ Melting snow without fire costs significant body heat and calories. Calculate th
 - Reduced biological contamination in cold water — still purify.
 - Dehydration risk is underestimated in cold weather — cold air holds less moisture, and breathing dry cold air increases water loss.
 
+## Carrying Water With No Bottle
+
+Finding water and reaching water are different problems. If the source is a walk from
+camp you need to move it, and most people improvise this badly.
+
+**Carry it in you first.** Before leaving any source, drink until you are not thirsty and
+then drink more. A litre inside you weighs the same as a litre in a bag and cannot leak,
+spill, or be dropped. Then fill whatever you have.
+
+| Improvised carrier | Notes |
+|---|---|
+| Plastic bag inside a sock, sleeve, or stuff sack | The bag holds water, the fabric takes the strain. Alone, a bag tears on the first branch |
+| Waterproof jacket or dry bag | Tie off the sleeves and neck, or use it as a liner |
+| Condom inside a sock | Holds about a litre and is far tougher than it looks. A genuine kit item, not a joke |
+| Birch bark folded and pinned | Seal the seams with pine or spruce resin |
+| Bamboo section, node intact at the bottom | Plug the top with a leaf and cordage |
+
+!!! warning "CAUTION: mark which container is dirty"
+    Once you are carrying both treated and untreated water, one mistake contaminates your
+    supply. Keep one container for collecting from the source and another for treated
+    water, mark them so they cannot be confused in the dark, and never pour from dirty to
+    clean.
+
 ## Common Mistakes
 
 - **Waiting until thirsty** — by the time you feel thirst, you are already 1–2% dehydrated. Seek water immediately upon entering a survival situation.
