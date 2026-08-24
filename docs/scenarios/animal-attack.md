@@ -298,4 +298,4 @@ Evacuate immediately if:
 - Beier, Paul. "Cougar Attacks on Humans in the United States and Canada." *Wildlife Society Bulletin* 19 (1991): 403-412.
 - Gold, Barry S., et al. "Bites of Venomous Snakes." *New England Journal of Medicine* 347, no. 5 (2002): 347-356.
 - Centers for Disease Control and Prevention. "Rabies." cdc.gov.
-- Langley, Ricky L. "Alligator Attacks in the United States: 1928-2009." *Wilderness & Environmental Medicine* 21 (2010): 156-163.
+- Langley, Ricky L. "Adverse Encounters With Alligators in the United States: An Update." *Wilderness & Environmental Medicine* 21, no. 2 (2010): 156-163.

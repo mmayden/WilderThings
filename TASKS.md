@@ -199,6 +199,14 @@ So the next pass does not redo this work. Three states, kept separate on purpose
 | WMS *Practice Guidelines for Wilderness Emergency Care*, 5th ed., **2014** | Forgey, ed., Falcon Guides, **2006** — and superseded in practice by the per-topic WMS guidelines |
 | FM 31-70, **2011** | **1968** |
 | SAS Survival Handbook, William **Morrow** (in sources.md) | William **Collins**, matching the other 32 citations |
+| Halcon, Linda and **Milisa, Kelly** — tea tree oil review | Halcón, Linda, and Kelly **Milkus** |
+| Langley, "**Alligator Attacks in the United States: 1928-2009**" | "**Adverse Encounters With Alligators in the United States: An Update**" — journal, volume, year and pages were all correct |
+
+The Langley entry is the most instructive error found so far. Volume 21, issue 2, 2010,
+pages 156-163 are exactly right; only the title is invented, and it reads like a
+plausible summary of what the paper contains. Nothing about it looks wrong, and a reader
+following the page numbers lands on the real article. Only someone checking the title
+against the journal would notice.
 
 **Confirmed real** (checked against the literature or the publisher this session):
 Daniel Hume *Fire Making* · Ed Speer *Hammock Camping* · Backer, Derlet & Hill (WMS
