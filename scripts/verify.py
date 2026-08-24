@@ -512,6 +512,51 @@ JOURNAL_MARKERS = re.compile(
     r"|[\u201c\"][^\u201d\"]*\s\S+\s[^\u201d\"]*[\u201d\"]")
 
 
+def check_article_consistency(root):
+    """One article, one citation — the blind spot in the check above.
+
+    check_citation_consistency skips anything naming a specific article, because many
+    articles legitimately share a journal title and their page ranges read as years.
+    Two works were sitting in that exemption, each cited two ways. Keyed on author
+    surname plus the quoted title, which is specific enough to be safe.
+    """
+    import collections
+    arts = collections.defaultdict(dict)
+    for path in _md_files(root):
+        with io.open(path, encoding="utf-8") as f:
+            body = f.read()
+        m = re.search(r"^## Sources\s*$(.*)", body, re.M | re.S)
+        if not m:
+            continue
+        # Join wrapped continuation lines only. "\\s" matches newlines, so the obvious
+        # r"\\n\\s+" also swallows the blank lines between entries and merges separate
+        # citations onto one line — which silently emptied this check.
+        block = re.sub(r"\n[ \t]+", " ", m.group(1))
+        for line in block.splitlines():
+            line = line.strip()
+            if not line.startswith("- "):
+                continue
+            cite = line[2:].strip()
+            # The quoted span must be an article title, not a quoted phrase in a
+            # trailing note. Article titles sit early, right after the author; prose
+            # quotes sit at the end. Require it to start in the first 70 characters.
+            t = re.search(r"[\u201c\"]([^\u201d\"]{12,})[\u201d\"]", cite)
+            if not t or t.start() > 70:
+                continue
+            author = re.split(r"[\u201c\"]", cite)[0]
+            key = (re.sub(r"[^a-z]", "", author.lower())[:14]
+                   + "|" + re.sub(r"[^a-z0-9]", "", t.group(1).lower())[:44])
+            arts[key][cite] = os.path.relpath(path, root)
+
+    clashes = ["%s cited %d ways (%s)" % (k[:40], len(v), sorted(v.values())[0])
+               for k, v in sorted(arts.items()) if len(v) > 1]
+    if clashes:
+        fail("the same article cited more than one way",
+             "%d; first: %s" % (len(clashes), clashes[0]))
+    else:
+        ok("article citations consistent", "%d articles, one citation each" % len(arts))
+
+
 def check_citation_consistency(root):
     """One work, one citation.
 
@@ -607,6 +652,7 @@ def check_content(root):
     check_signal_words(root)
     check_link_labels(root)
     check_citation_consistency(root)
+    check_article_consistency(root)
     check_see_also(root)
 
 
