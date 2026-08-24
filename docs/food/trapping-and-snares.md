@@ -309,6 +309,34 @@ Use whatever methods keep you alive. Survival overrides game regulations. After 
 | Funnel fish trap | Fish | Woven branches, cordage | High |
 | Weir | Fish | Rocks or stakes | High |
 
+## Processing What You Catch
+
+Small game needs almost none of the technique large game does. Gut it, skin it, cook it
+through.
+
+1. **Gut it as soon as you can.** Lay the animal on its back. Pinch the belly skin up and
+   away from the guts, cut a small opening, then run the blade from vent to ribcage with
+   two fingers guiding it from inside so you do not puncture the intestines or bladder.
+   Pull the entrails out in one mass and keep them for bait.
+2. **Check the liver.** Smooth and dark red is normal. **Covered in small white spots
+   means tularemia — bury the animal and wash your hands.** Do not eat any part of it.
+3. **Save the heart, liver, and any fat.** These are the most nutrient-dense parts and
+   the fat matters more than the meat — see
+   [Lean Meat Alone Will Not Sustain You](foraging-basics.md#lean-meat-alone-will-not-sustain-you).
+4. **Skin it.** A rabbit skins almost without a knife: pinch the skin at the middle of the
+   back, cut a slit across, put fingers in both sides and pull in opposite directions. The
+   hide comes off in two pieces like removing a sweater. Cut off head and feet.
+5. **Cook it through — to 165°F (74°C), no pink at the bone.** This is not the usual
+   food-safety caution. Tularemia, brucellosis, and the parasites small mammals carry are
+   killed by thorough cooking and not by a rare steak. Boiling is the best option in the
+   field because it keeps the fat and juices you would otherwise lose to the fire.
+6. **Crack the long bones** and eat the marrow, or add them to the broth.
+
+!!! tip
+    If you have a container, boil rather than roast. You get the fat, the marrow, and the
+    water back, all of which roasting drips into the coals. A stranded person cannot
+    afford to lose any of the three.
+
 !!! warning "CAUTION: rabbits carry disease that enters through your hands"
     Tularemia — rabbit fever — transmits through skin contact with infected tissue while
     skinning, not only through eating. Brucellosis and, in deer country, CWD behave the
