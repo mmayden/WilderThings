@@ -240,7 +240,7 @@ Coals cook food more evenly than open flame. Allow a hot fire to burn down to a 
 
 ### Water Purification
 
-Bring water to a rolling boil for at least 1 minute at sea level. At elevations above 6,500 ft (2,000 m), boil for 3 minutes. Use a metal container, or heat rocks and drop them into a container of water (stone boiling). Fire is the most reliable purification method when no chemical treatment or filter is available.
+Bring water to a rolling boil for at least 1 minute at sea level. At elevations above 6,500 ft (2,000 m), boil for 3 minutes. Use a metal container, or heat dry rocks and drop them into water held in something that cannot go on a fire — see [If You Have Nothing to Boil In](../water/purification.md#if-you-have-nothing-to-boil-in). Fire is the most reliable purification method when no chemical treatment or filter is available.
 
 ### Signaling
 

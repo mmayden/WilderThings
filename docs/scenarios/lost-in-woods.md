@@ -112,7 +112,7 @@ You can survive roughly 3 days without water, but your cognitive function degrad
 
 ### Purifying Water
 - **Boiling:** Roll boil for 1 minute (3 minutes above 6,500 ft / 2,000 m). This is the most reliable field method.
-- **No container for boiling?** Use a rock with a natural depression, heat stones in a fire, and drop them into the water (hot rock boiling).
+- **No container for boiling?** Heat dry stones in the fire and drop them into water held in a rock depression, hollow log, bark trough, or even a folded tarp. Full method in [If You Have Nothing to Boil In](../water/purification.md#if-you-have-nothing-to-boil-in). Never use wet or river stones — they burst.
 - **Chemical treatment:** 2 drops of plain unscented household bleach per quart/liter
   (8 drops per gallon at 6%, 6 drops at 8.25%). Double the dose and the wait if the water
   is cloudy or very cold. Wait 30 minutes; the water should smell faintly of chlorine.

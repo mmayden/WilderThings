@@ -74,10 +74,38 @@ Boiling is the gold standard. Heat kills all waterborne pathogens — protozoa, 
 - Dissolved salts.
 - Taste and odor from organic matter.
 
+### If You Have Nothing to Boil In
+
+This is the common case and it does not stop you boiling. Heat can go to the water
+instead of the water going to the fire.
+
+**Stone boiling.** Works with any container that holds water but cannot go on a fire — a
+rock depression, a hollow log, a bark trough, a folded tarp or poncho, even a lined hole
+in the ground.
+
+1. Heat fist-sized stones in the fire for 20-30 minutes until they are properly hot.
+2. Lift them with two green sticks used as tongs and drop them straight into the water.
+3. The water hisses and boils around each stone. Add stones until you have a genuine
+   rolling boil, and keep swapping cooled stones for hot ones to hold it.
+4. Fish the spent stones out and reheat them.
+
+!!! danger "DANGER: never use wet or river-smoothed stones"
+    Trapped water flashes to steam and bursts the rock, throwing fragments at face
+    height. Use dry stones from well away from the water's edge. See
+    [Fire Principles](../fire/fire-principles.md).
+
+**A plastic bottle over coals.** Suspend it above coals rather than in flame and **keep
+it completely full** — water carries heat away from the plastic faster than the plastic
+can melt, but only where there is water against it. An air gap at the top will melt
+through.
+
+**Bark or a green bamboo section.** Both hold water directly over a low fire. The vessel
+chars from the outside in and the water inside keeps it below ignition temperature, which
+is the same principle as the bottle.
+
 ### Tips
 
 - If you cannot measure time, a vigorous rolling boil visible from several feet away is a reliable indicator — by the time water reaches a full boil, most pathogens are already dead.
-- A metal container is ideal. In an emergency, boil water in a plastic bottle by suspending it above coals (keep the bottle full — water absorbs heat before the plastic melts). A bamboo section or birch bark vessel also works over fire.
 - Boiled water tastes flat because dissolved oxygen escapes. Pour the water back and forth between two containers to re-aerate it.
 
 ## Chemical Treatment
