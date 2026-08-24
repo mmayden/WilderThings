@@ -8,7 +8,7 @@ There are two ways to carry this collection. **If you need it to work without si
 
 ### 1. Offline copy — works with no internet, no server, no install
 
-A self-contained folder holding all 89 guides. Copy it to a phone, a USB stick, an SD card, or a laptop, then open `index.html` in any browser. Full-text search works. Nothing is ever fetched from the network.
+A self-contained folder holding all 60 guides. Copy it to a phone, a USB stick, an SD card, or a laptop, then open `index.html` in any browser. Full-text search works. Nothing is ever fetched from the network.
 
 This is the version to carry into the field, and the version to share — it keeps working if you have no signal, no power grid, and no access to this website.
 

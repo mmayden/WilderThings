@@ -60,8 +60,8 @@ build as a defect; `scripts/build-offline.sh` fails the build if one appears.
 | Milestone 5 | **In progress** — offline copy done and verified; hosted offline caching + device install testing remain |
 | Offline copy | **Working.** `./scripts/build-offline.sh` → 12 MB folder / 2.8 MB zip, 0 external requests, search index of 2,777 docs loads under `file://` |
 | Hosted site | Live at https://mmayden.github.io/WilderThings/. Installable (manifest + icons + apple-* tags) but **no service worker — requires a connection** |
-| Cross-links | 496 links across all 89 guides |
-| Tags | YAML frontmatter tags on all 89 guides; tags index at `docs/tags.md` |
+| Cross-links | 347 cross-links, every one carrying a description of the relationship |
+| Tags | YAML frontmatter tags on all 60 guides; tags index at `docs/tags.md` |
 | Spell-check | Clean; `.codespellrc` suppresses valid domain words |
 | Tables | All ≤4 columns (mobile-compliant) |
 | CI | `lint.yml` (codespell + build check on PRs), `deploy.yml` (build + deploy on push to main) |

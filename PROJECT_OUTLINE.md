@@ -14,7 +14,7 @@ The failure mode that matters is a survival guide that needs a connection at the
 ┌─────────────────────────────────────────────┐
 │  Content Layer (Markdown in docs/)          │
 │  ├── 13 category folders                   │
-│  ├── 89 guides (all complete)              │
+│  ├── 60 guides (22 archived 2026-08-24)              │
 │  ├── YAML frontmatter tags on every guide  │
 │  └── Templates enforce structure            │
 ├─────────────────────────────────────────────┤
@@ -73,7 +73,7 @@ The failure mode that matters is a survival guide that needs a connection at the
 
 ## Guide Inventory
 
-All 89 guides are complete. Statuses are not repeated; this table serves as a reference index.
+All 60 guides are complete. A further 22 were archived on 2026-08-24 for falling outside the project's scope — see `archive/README.md`. Statuses are not repeated; this table serves as a reference index.
 
 ### Medical (10)
 
@@ -247,8 +247,8 @@ MkDocs Material configured, content in `docs/`, GitHub Actions deploying, CSS mo
 
 ### Milestone 4 — Polish (P3) ✓
 
-- Cross-linking: 496 links across all 89 guides
-- Search tags: YAML frontmatter tags on all 89 guides, tags index page
+- Cross-linking: 347 cross-links, every one carrying a description of the relationship
+- Search tags: YAML frontmatter tags on all 60 guides, tags index page
 - Review pass: no broken links, no blockquote warnings, all required sections present
 - Wide tables fixed: 16 files narrowed to ≤4 columns
 - Spell-check: clean with `.codespellrc` suppressing valid domain words

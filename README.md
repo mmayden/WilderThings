@@ -4,7 +4,7 @@ A comprehensive, mobile-first survival knowledge base — searchable, and genuin
 
 ## What Is This?
 
-89 survival guides across 13 categories covering medical emergencies, wilderness skills, wildlife encounters, climate-specific survival, disaster preparedness, and real-world scenarios.
+60 survival guides across 12 categories covering medical emergencies, wilderness skills, wildlife encounters, climate-specific survival, disaster preparedness, and real-world scenarios.
 
 The primary deliverable is a **self-contained offline copy** — a folder you can put on a phone, USB stick, or SD card and open in any browser with no internet, no server, and no install. A hosted site exists as an online convenience mirror.
 
@@ -18,7 +18,7 @@ Two formats, both fully self-contained. Pick whichever suits how you're sharing:
 
 | | What you get | Best for |
 |---|---|---|
-| **`wilderthings-offline.zip`** (2.8 MB) | Unzip, open `index.html`. Full sidebar navigation and instant full-text search across all 89 guides. | Putting on a phone, USB stick, or SD card to actually use in the field. |
+| **`wilderthings-offline.zip`** (2.8 MB) | Unzip, open `index.html`. Full sidebar navigation and instant full-text search across all 60 guides. | Putting on a phone, USB stick, or SD card to actually use in the field. |
 | **`wilderthings-mobile.html`** (1.45 MB) | One single file. Open it. Search with Ctrl+F. | Handing to someone — email it, message it, AirDrop it. Nothing to unzip. |
 
 Neither ever touches the network. Copy them anywhere; they keep working with no signal and no access to this repository.
@@ -122,7 +122,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for content standards, [STYLE_GUIDE.md](S
 |----------|-------|-------------|
 | [References](docs/references/) | 8 | Glossary, book list, sources, 5 field checklists |
 
-**89 guides total** | ~21,000 lines of content | 496 cross-category links | Tags on every guide
+**60 guides** | 347 cross-links, each describing the relationship | Tags on every guide | 22 guides archived 2026-08-24 as out of scope
 
 ## The Rule of Threes
 
