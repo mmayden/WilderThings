@@ -197,9 +197,9 @@ Rivers are the highways of the jungle. When available, river travel is faster an
 
 ## See Also
 
-- [Water Purification](../water/purification.md)
-- [Bites and Stings](../medical/bites-and-stings.md)
-- [Venomous Snakes](../wildlife/venomous-snakes.md)
+- [Water Purification](../water/purification.md) — boiling, chemical treatment, and what each method cannot kill.
+- [Bites and Stings](../medical/bites-and-stings.md) — envenomation and anaphylaxis, where minutes matter.
+- [Venomous Snakes](../wildlife/venomous-snakes.md) — identification, and why pressure immobilisation depends on the species.
 - [Insect Threats](../wildlife/insect-threats.md) — mosquitoes, leeches, and disease vectors in the jungle.
 - [Natural Navigation](../navigation/natural-navigation.md) — navigating without landmarks in dense canopy.
 

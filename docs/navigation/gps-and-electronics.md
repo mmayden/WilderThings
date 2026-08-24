@@ -217,9 +217,9 @@ Electronics fail from water, impact, cold, dead batteries, and software crashes.
 
 ## See Also
 
-- [Map and Compass Navigation](../navigation/map-and-compass.md)
-- [Natural Navigation](../navigation/natural-navigation.md)
-- [Signaling for Rescue](../navigation/signaling-for-rescue.md)
+- [Map and Compass Navigation](../navigation/map-and-compass.md) — bearings, declination, and checking the compass itself.
+- [Natural Navigation](../navigation/natural-navigation.md) — direction without instruments, and why you cannot hold a bearing by feel.
+- [Signaling for Rescue](../navigation/signaling-for-rescue.md) — being found is usually faster than walking out.
 - [Terrain Association](terrain-association.md) — backup navigation when batteries die.
 
 ## Sources

@@ -230,10 +230,10 @@ At -20°F with a 30 mph wind, exposed skin freezes in about five minutes. Reduce
 
 ## See Also
 
-- [Snow Shelters](../shelter/snow-shelters.md)
-- [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md)
-- [Fire in Wet Conditions](../fire/fire-in-wet-conditions.md)
-- [Finding Water in the Wild](../water/finding-water.md)
+- [Snow Shelters](../shelter/snow-shelters.md) — quinzhees and snow caves, and the ventilation they require.
+- [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md) — the two temperature emergencies, and recognising them early.
+- [Fire in Wet Conditions](../fire/fire-in-wet-conditions.md) — finding dry fuel inside wet wood, and when to stop trying.
+- [Finding Water in the Wild](../water/finding-water.md) — where water hides, and what each method costs to get.
 - [Survival Mindset](../psychology/survival-mindset.md) — mental endurance in extreme cold.
 
 ## Sources

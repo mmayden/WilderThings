@@ -261,18 +261,15 @@ written as a caveat; it is now a measured finding.
 
 ### Cross-linking polish — OPEN
 
-- [ ] **124 See Also entries have no description.** `CLAUDE.md` requires an em-dash
-      description after every cross-link explaining the relationship; roughly a third
-      of them are a bare title. Concentrated in the reference checklists, glossary,
-      navigation, and medical guides.
+- [x] **All See Also entries now carry a description** (2026-08-24). There were 124;
+      41 were fixed incidentally while reviewing their guides, and the remaining 83 were
+      written once the whole corpus had been read.
 
-      Deliberately not mass-generated. Writing 124 in one pass produces filler
-      ("— related information") that is worse than the gap, because it looks answered.
-      Each needs someone who knows both guides to say why a reader would follow the
-      link. Do it a category at a time, alongside reviewing that category's content.
-
-      The two mechanical halves of this are already fixed and enforced by
-      `scripts/verify.py`: no bare filenames as link text, and one name per guide.
+      That order mattered. The reason not to mass-generate them at the start was that a
+      description is a claim about what a reader will find, and writing 124 without having
+      read the targets produces filler that looks answered. Written afterwards, each one
+      says something specific — "why pressure immobilisation depends on the species",
+      "the slow killer once the immediate danger has passed".
 
 - [ ] Five guides fall outside the 3-8 See Also range (`book-list` and `sources` have
       2; `injured-and-alone`, `lost-in-woods`, and `shelter-principles` have 9). Minor,

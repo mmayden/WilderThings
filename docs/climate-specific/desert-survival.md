@@ -184,10 +184,10 @@ Desert temperatures can swing 50-60°F (28-33°C) between day and night. A 110°
 
 ## See Also
 
-- [Desert Shelter](../shelter/desert-shelter.md)
-- [Desert and Sea Water](../water/desert-and-sea-water.md)
-- [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md)
-- [Venomous Snakes](../wildlife/venomous-snakes.md)
+- [Desert Shelter](../shelter/desert-shelter.md) — shade as shelter, and the cold desert night nobody plans for.
+- [Desert and Sea Water](../water/desert-and-sea-water.md) — water in the two places it is hardest to find.
+- [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md) — the two temperature emergencies, and recognising them early.
+- [Venomous Snakes](../wildlife/venomous-snakes.md) — identification, and why pressure immobilisation depends on the species.
 - [Signaling for Rescue](../navigation/signaling-for-rescue.md) — visibility and signaling in open desert.
 - [Vehicle Breakdown in Remote Areas](../scenarios/vehicle-breakdown-remote.md) — desert stranding scenario.
 

@@ -293,11 +293,11 @@ Two or more body systems involved after a known exposure = anaphylaxis. Act imme
 
 ## See Also
 
-- [Venomous Snakes](../wildlife/venomous-snakes.md)
-- [Venomous Spiders](../wildlife/venomous-spiders.md)
-- [Insect Threats](../wildlife/insect-threats.md)
-- [First Aid Basics](first-aid-basics.md)
-- [Wound Infection](wound-infection.md)
+- [Venomous Snakes](../wildlife/venomous-snakes.md) — identification, and why pressure immobilisation depends on the species.
+- [Venomous Spiders](../wildlife/venomous-spiders.md) — the two that matter medically, and the many that do not.
+- [Insect Threats](../wildlife/insect-threats.md) — stings, anaphylaxis, and the diseases insects carry.
+- [First Aid Basics](first-aid-basics.md) — bleeding control, tourniquets, and what to do in the first minutes.
+- [Wound Infection](wound-infection.md) — the slow killer once the immediate danger has passed.
 - [Animal Attack](../scenarios/animal-attack.md) — responding to animal encounters that cause bite injuries.
 - [Improvised Medicine](improvised-medicine.md) — field-expedient treatments when medical supplies are unavailable.
 

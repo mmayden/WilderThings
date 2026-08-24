@@ -219,9 +219,9 @@ Different goals require different fires. Building the wrong type wastes fuel and
 
 ## See Also
 
-- [Fire Principles](fire-principles.md)
-- [Fire in Wet Conditions](fire-in-wet-conditions.md)
-- [Signaling for Rescue](../navigation/signaling-for-rescue.md)
+- [Fire Principles](fire-principles.md) — fire physics, safe placement, and putting one out properly.
+- [Fire in Wet Conditions](fire-in-wet-conditions.md) — finding dry fuel inside wet wood, and when to stop trying.
+- [Signaling for Rescue](../navigation/signaling-for-rescue.md) — being found is usually faster than walking out.
 - [Shelter Principles](../shelter/shelter-principles.md) — positioning warming fires relative to shelter.
 
 ## Sources

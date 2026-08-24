@@ -80,8 +80,8 @@ tags:
 
 ## See Also
 
-- [First Aid Basics](../../medical/first-aid-basics.md)
-- [CPR and Choking](../../medical/cpr-and-choking.md)
-- [Trauma and Triage](../../medical/trauma-and-triage.md)
-- [Fractures and Splints](../../medical/fractures-and-splints.md)
-- [Hypothermia and Heatstroke](../../medical/hypothermia-and-heatstroke.md)
+- [First Aid Basics](../../medical/first-aid-basics.md) — bleeding control, tourniquets, and what to do in the first minutes.
+- [CPR and Choking](../../medical/cpr-and-choking.md) — compressions, rescue breaths, and choking at every age.
+- [Trauma and Triage](../../medical/trauma-and-triage.md) — the assessment order, starting with catastrophic bleeding.
+- [Fractures and Splints](../../medical/fractures-and-splints.md) — splinting, and the spinal guidance that changed.
+- [Hypothermia and Heatstroke](../../medical/hypothermia-and-heatstroke.md) — the two temperature emergencies, and recognising them early.

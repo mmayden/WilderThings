@@ -282,10 +282,10 @@ Fluids administered rectally are absorbed through the rectal mucosa. This techni
 
 ## See Also
 
-- [Water Purification](../water/purification.md)
-- [Finding Water in the Wild](../water/finding-water.md)
+- [Water Purification](../water/purification.md) — boiling, chemical treatment, and what each method cannot kill.
+- [Finding Water in the Wild](../water/finding-water.md) — where water hides, and what each method costs to get.
 - [Improvised Filters](../water/improvised-filters.md) — field-expedient filtration to reduce waterborne pathogens.
-- [First Aid Basics](first-aid-basics.md)
+- [First Aid Basics](first-aid-basics.md) — bleeding control, tourniquets, and what to do in the first minutes.
 - [Desert Survival](../climate-specific/desert-survival.md) — dehydration prevention in extreme heat environments.
 
 ## Sources

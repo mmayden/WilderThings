@@ -88,7 +88,7 @@ tags:
 
 ## See Also
 
-- [Signaling for Rescue](../../navigation/signaling-for-rescue.md)
-- [Fire Principles](../../fire/fire-principles.md)
-- [Survival Mindset](../../psychology/survival-mindset.md)
-- [Lost in the Woods](../../scenarios/lost-in-woods.md)
+- [Signaling for Rescue](../../navigation/signaling-for-rescue.md) — being found is usually faster than walking out.
+- [Fire Principles](../../fire/fire-principles.md) — fire physics, safe placement, and putting one out properly.
+- [Survival Mindset](../../psychology/survival-mindset.md) — panic and paralysis kill people who had the skills.
+- [Lost in the Woods](../../scenarios/lost-in-woods.md) — the walkthrough from realising you are lost to being found.

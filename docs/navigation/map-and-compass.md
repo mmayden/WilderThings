@@ -288,8 +288,8 @@ Carry a compass and paper map as primary backup on every trip. Practice compass 
 
 ## See Also
 
-- [Natural Navigation](natural-navigation.md)
-- [Signaling for Rescue](signaling-for-rescue.md)
+- [Natural Navigation](natural-navigation.md) — direction without instruments, and why you cannot hold a bearing by feel.
+- [Signaling for Rescue](signaling-for-rescue.md) — being found is usually faster than walking out.
 - [GPS and Electronics](gps-and-electronics.md) — electronic navigation as a complement to map and compass.
 - [Terrain Association](terrain-association.md) — reading the landscape to confirm map position.
 - [Lost in the Woods](../scenarios/lost-in-woods.md) — using navigation skills when disoriented.

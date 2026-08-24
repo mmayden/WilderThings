@@ -249,8 +249,8 @@ The full protocol lives in one place — **[Foraging Basics](../food/foraging-ba
 
 ## See Also
 
-- [Foraging Basics](../food/foraging-basics.md)
-- [First Aid Basics](first-aid-basics.md)
+- [Foraging Basics](../food/foraging-basics.md) — why plants are a poor bet, and why lean meat alone will not sustain you.
+- [First Aid Basics](first-aid-basics.md) — bleeding control, tourniquets, and what to do in the first minutes.
 
 ## Sources
 

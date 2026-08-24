@@ -263,10 +263,10 @@ Some conditions exceed the capability of improvised medicine. Attempting treatme
 
 ## See Also
 
-- [First Aid Basics](../medical/first-aid-basics.md)
-- [Wound Infection](../medical/wound-infection.md)
-- [Fractures and Splints](../medical/fractures-and-splints.md)
-- [Cordage](../tools-and-craft/cordage.md)
+- [First Aid Basics](../medical/first-aid-basics.md) — bleeding control, tourniquets, and what to do in the first minutes.
+- [Wound Infection](../medical/wound-infection.md) — the slow killer once the immediate danger has passed.
+- [Fractures and Splints](../medical/fractures-and-splints.md) — splinting, and the spinal guidance that changed.
+- [Cordage](../tools-and-craft/cordage.md) — making rope from plant fibre when you have none.
 - [Foraging Basics](../food/foraging-basics.md) — identifying plants with medicinal properties.
 - [Water Purification](../water/purification.md) — clean water for wound irrigation and medicine preparation.
 

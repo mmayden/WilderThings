@@ -92,7 +92,7 @@ Choose the best available method based on your equipment and situation:
 
 ## See Also
 
-- [Water Purification](../../water/purification.md)
-- [Finding Water in the Wild](../../water/finding-water.md)
-- [Fire Principles](../../fire/fire-principles.md)
-- [Hypothermia and Heatstroke](../../medical/hypothermia-and-heatstroke.md)
+- [Water Purification](../../water/purification.md) — boiling, chemical treatment, and what each method cannot kill.
+- [Finding Water in the Wild](../../water/finding-water.md) — where water hides, and what each method costs to get.
+- [Fire Principles](../../fire/fire-principles.md) — fire physics, safe placement, and putting one out properly.
+- [Hypothermia and Heatstroke](../../medical/hypothermia-and-heatstroke.md) — the two temperature emergencies, and recognising them early.

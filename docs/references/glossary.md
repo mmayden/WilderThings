@@ -249,10 +249,10 @@ two hours; never slacken one periodically to restore circulation. See
 
 ## See Also
 
-- [First Aid Basics](../medical/first-aid-basics.md)
-- [Fire Principles](../fire/fire-principles.md)
-- [Shelter Principles](../shelter/shelter-principles.md)
-- [Water Purification](../water/purification.md)
-- [Foraging Basics](../food/foraging-basics.md)
-- [Signaling for Rescue](../navigation/signaling-for-rescue.md)
-- [Survival Mindset](../psychology/survival-mindset.md)
+- [First Aid Basics](../medical/first-aid-basics.md) — bleeding control, tourniquets, and what to do in the first minutes.
+- [Fire Principles](../fire/fire-principles.md) — fire physics, safe placement, and putting one out properly.
+- [Shelter Principles](../shelter/shelter-principles.md) — site selection, and why ground insulation outranks the roof.
+- [Water Purification](../water/purification.md) — boiling, chemical treatment, and what each method cannot kill.
+- [Foraging Basics](../food/foraging-basics.md) — why plants are a poor bet, and why lean meat alone will not sustain you.
+- [Signaling for Rescue](../navigation/signaling-for-rescue.md) — being found is usually faster than walking out.
+- [Survival Mindset](../psychology/survival-mindset.md) — panic and paralysis kill people who had the skills.

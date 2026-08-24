@@ -209,10 +209,10 @@ Do not let summit goals override survival judgment. Most mountain fatalities occ
 
 ## See Also
 
-- [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md)
-- [Shelter Principles](../shelter/shelter-principles.md)
-- [Terrain Association](../navigation/terrain-association.md)
-- [Signaling for Rescue](../navigation/signaling-for-rescue.md)
+- [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md) — the two temperature emergencies, and recognising them early.
+- [Shelter Principles](../shelter/shelter-principles.md) — site selection, and why ground insulation outranks the roof.
+- [Terrain Association](../navigation/terrain-association.md) — reading landforms to stay on route without constant compass work.
+- [Signaling for Rescue](../navigation/signaling-for-rescue.md) — being found is usually faster than walking out.
 - [Snow Shelters](../shelter/snow-shelters.md) — emergency shelter at high elevation.
 - [Map and Compass Navigation](../navigation/map-and-compass.md) — navigation in mountainous terrain.
 

@@ -78,9 +78,9 @@ tags:
 
 ## See Also
 
-- [Shelter Principles](../../shelter/shelter-principles.md)
-- [Debris Hut Construction](../../shelter/debris-hut.md)
-- [Fire Principles](../../fire/fire-principles.md)
-- [Knots and Lashing](../../tools-and-craft/knots-and-lashing.md)
-- [Hypothermia and Heatstroke](../../medical/hypothermia-and-heatstroke.md)
-- [Lost in the Woods](../../scenarios/lost-in-woods.md)
+- [Shelter Principles](../../shelter/shelter-principles.md) — site selection, and why ground insulation outranks the roof.
+- [Debris Hut Construction](../../shelter/debris-hut.md) — the warmest shelter buildable with no tools or materials.
+- [Fire Principles](../../fire/fire-principles.md) — fire physics, safe placement, and putting one out properly.
+- [Knots and Lashing](../../tools-and-craft/knots-and-lashing.md) — the eight knots worth knowing, and the loads they hold.
+- [Hypothermia and Heatstroke](../../medical/hypothermia-and-heatstroke.md) — the two temperature emergencies, and recognising them early.
+- [Lost in the Woods](../../scenarios/lost-in-woods.md) — the walkthrough from realising you are lost to being found.

@@ -255,9 +255,9 @@ Sepsis is infection that has entered the bloodstream and triggered a systemic in
 
 ## See Also
 
-- [First Aid Basics](first-aid-basics.md)
-- [Bites and Stings](bites-and-stings.md)
-- [Trauma and Triage](trauma-and-triage.md)
+- [First Aid Basics](first-aid-basics.md) — bleeding control, tourniquets, and what to do in the first minutes.
+- [Bites and Stings](bites-and-stings.md) — envenomation and anaphylaxis, where minutes matter.
+- [Trauma and Triage](trauma-and-triage.md) — the assessment order, starting with catastrophic bleeding.
 - [Improvised Medicine](improvised-medicine.md) — natural antiseptics and field-expedient wound treatments.
 - [Water Purification](../water/purification.md) — clean water for wound irrigation.
 

@@ -204,9 +204,9 @@ are covered where the reader is deciding whether to eat a catch:
 
 ## See Also
 
-- [Venomous Snakes](../wildlife/venomous-snakes.md)
-- [Bites and Stings](../medical/bites-and-stings.md)
-- [First Aid Basics](../medical/first-aid-basics.md)
+- [Venomous Snakes](../wildlife/venomous-snakes.md) — identification, and why pressure immobilisation depends on the species.
+- [Bites and Stings](../medical/bites-and-stings.md) — envenomation and anaphylaxis, where minutes matter.
+- [First Aid Basics](../medical/first-aid-basics.md) — bleeding control, tourniquets, and what to do in the first minutes.
 - [Ocean Survival](../climate-specific/ocean-survival.md) — comprehensive open-water survival strategies.
 - [Water Crossing](../scenarios/water-crossing.md) — hazards during river and coastal crossings.
 

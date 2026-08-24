@@ -155,8 +155,8 @@ Ungulate-vehicle collisions cause over 200 deaths and 26,000 injuries annually i
 
 ## See Also
 
-- [Bear Safety](../wildlife/bear-safety.md)
-- [Animal Attack](../scenarios/animal-attack.md)
+- [Bear Safety](../wildlife/bear-safety.md) — avoidance, spray, and the response that differs by species.
+- [Animal Attack](../scenarios/animal-attack.md) — what to do differently for each species that fights back.
 - [First Aid Basics](../medical/first-aid-basics.md) — treating blunt force trauma from hoofed animals.
 - [Fractures and Splints](../medical/fractures-and-splints.md) — splinting injuries from kicks and charges.
 

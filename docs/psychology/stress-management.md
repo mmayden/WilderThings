@@ -265,8 +265,8 @@ Use any available method: scratching bark, arranging stones, marking dirt, or wr
 
 ## See Also
 
-- [Survival Mindset](survival-mindset.md)
-- [Injured and Alone](../scenarios/injured-and-alone.md)
+- [Survival Mindset](survival-mindset.md) — panic and paralysis kill people who had the skills.
+- [Injured and Alone](../scenarios/injured-and-alone.md) — self-rescue when nobody is coming to help you.
 - [First Aid Basics](../medical/first-aid-basics.md) — staying calm while performing emergency medical care.
 
 ## Sources

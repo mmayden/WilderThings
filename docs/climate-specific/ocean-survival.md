@@ -245,10 +245,10 @@ Once ashore:
 
 ## See Also
 
-- [Desert and Sea Water](../water/desert-and-sea-water.md)
-- [Marine Dangers](../wildlife/marine-dangers.md)
-- [Signaling for Rescue](../navigation/signaling-for-rescue.md)
-- [Improvised Fishing](../food/fishing-improvised.md)
+- [Desert and Sea Water](../water/desert-and-sea-water.md) — water in the two places it is hardest to find.
+- [Marine Dangers](../wildlife/marine-dangers.md) — what injures you in the water, and what poisons you afterwards.
+- [Signaling for Rescue](../navigation/signaling-for-rescue.md) — being found is usually faster than walking out.
+- [Improvised Fishing](../food/fishing-improvised.md) — the highest-probability wild protein, and the fish that are toxic cooked.
 - [Hypothermia and Heatstroke](../medical/hypothermia-and-heatstroke.md) — cold water immersion and sun exposure at sea.
 
 ## Sources

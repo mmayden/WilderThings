@@ -75,6 +75,6 @@ tags:
 
 ## See Also
 
-- [Fire Principles](../../fire/fire-principles.md)
-- [Spark and Lens Methods](../../fire/spark-methods.md)
-- [Shelter Principles](../../shelter/shelter-principles.md)
+- [Fire Principles](../../fire/fire-principles.md) — fire physics, safe placement, and putting one out properly.
+- [Spark and Lens Methods](../../fire/spark-methods.md) — ferro rod, lens, and the ignition methods that actually work.
+- [Shelter Principles](../../shelter/shelter-principles.md) — site selection, and why ground insulation outranks the roof.
