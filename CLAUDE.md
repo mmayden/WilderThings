@@ -99,8 +99,16 @@ carrying the weight, write it that way. Do not launder tradition into fact.
 **Prefer checking to recalling.** Every source check during the audit changed
 something — including one that corrected an earlier correction.
 
+**Citations are the known weak point — check any you rely on.** Eight wrong citations
+have been found across eight guides, five of them works that do not exist at all
+(details in TASKS.md). They were found by opening sources, never by scanning
+bibliographies, and every one looked plausible. `scripts/verify.py` cannot help here: it
+checks that the corpus cites each work *the same way everywhere*, which a consistently
+fabricated citation passes cleanly. **Internal consistency is not accuracy.** Assume any
+unchecked citation is unverified, and if you are about to lean on one, open it first.
+
 **Still outstanding:** no licensed clinician or regional botanist has reviewed
-this content, and cited sources have not been verified against the originals.
+this content, and most cited sources have not been verified against the originals.
 Do not describe the content as expert-reviewed.
 
 ## Security — Read First

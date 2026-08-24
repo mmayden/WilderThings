@@ -188,6 +188,35 @@ real sources, and inventing a substitute only creates something else to verify.
       far, which is a high enough rate that the remainder should be assumed unverified
       rather than assumed correct.
 
+#### Verification ledger
+
+So the next pass does not redo this work. Three states, kept separate on purpose.
+
+**Confirmed real** (checked against the literature or the publisher this session):
+Daniel Hume *Fire Making* · Ed Speer *Hammock Camping* · Backer, Derlet & Hill (WMS
+water, 2019 rev. 2024) · Kochanski *Bushcraft* (1987, Lone Pine) · ATP 3-50.21
+*Survival* (2018) · Bilsborough & Mann 2006 · Vetter *The Brown Recluse Spider* ·
+Isbister & Fan *Lancet* 2011 · Dart et al. *Toxins* 2017 · HSE RR708 · ANZCOR 9.1.5 ·
+Fredston & Fesler *Snow Sense* · Ashley *Book of Knots* · Koester *Lost Person Behavior*.
+
+**Confirmed wrong** — the eight in the table above, now fixed.
+
+**Could not verify — left in place, flagged.** Searched without result, but each is
+plausibly a niche agency or small-press item that is simply not indexed. Removing a real
+citation is as much a defect as keeping a fabricated one, so these stay until someone can
+check a catalogue rather than a search engine:
+
+| Citation | Guide |
+|---|---|
+| Crellin, Dawn and Dennis. *Twist It: Making Cordage from Natural Fibers.* Backcountry Publishing | cordage |
+| Stoffel, Robert C. *Emergency Signaling.* US National Park Service | signaling-for-rescue |
+| NASA Technical Report, *Solar Distillation for Survival Water* (1965) | desert-and-sea-water |
+| U.S. Navy SERE Manual, *Water Procurement at Sea* | desert-and-sea-water |
+| Hellweg, Paul. *Flintknapping: The Art of Making Stone Tools.* Canyon Publishing, 1984 | improvised-tools |
+
+WorldCat, the Library of Congress catalogue, and the agencies' own publication indexes
+are the right tools for these — not a web search.
+
 - [ ] The master source list is **not covered by the citation check** at all.
       `scripts/verify.py` scans `## Sources` sections, and `references/sources.md` keeps
       its bibliography under `## Key Textbooks`. That is how it came to cite the SAS
