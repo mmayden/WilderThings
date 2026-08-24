@@ -79,7 +79,7 @@ tags:
 
 | Title | Author | Best For |
 |-------|--------|----------|
-| **The Book of Fire** | William Herring | Dedicated deep-dive into every aspect of fire making, from primitive friction methods to modern ignition tools. |
+| **Fire Making: The Forgotten Art of Conjuring Flame with Spark, Tinder, and Skill** | Daniel Hume | Dedicated deep-dive into fire making, from primitive friction methods to modern ignition tools, by a practitioner who learned the techniques from the cultures that still use them. |
 | **Participating in Nature** | Thomas Elpel | Primitive living skills including brain-tanning, bow making, and friction fire, taught through immersive outdoor experience. |
 
 ## Water and Shelter
@@ -91,5 +91,6 @@ tags:
 
 ## See Also
 
-- [Sources](sources.md)
-- [Glossary](glossary.md)
+- [Sources](sources.md) — the master list of manuals, guidelines, and agencies these guides draw on.
+- [Glossary](glossary.md) — terminology used across the collection.
+- [Critical](../critical.md) — the short list of facts worth knowing before you need any of these books.

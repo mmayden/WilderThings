@@ -11,8 +11,8 @@ tags:
 
 ## Military Field Manuals
 
-- **FM 21-76 / FM 3-05.70 — Survival.** US Department of the Army. The foundational military survival manual covering evasion, shelter, water, fire, food, navigation, and survival in all climate zones. Superseded by ATP 3-50.3 but remains widely referenced.
-- **ATP 3-50.21 — Survival, Evasion, and Recovery.** US Department of the Army. Current doctrine for personnel recovery and survival operations in military contexts.
+- **FM 21-76 / FM 3-05.70 — Survival.** US Department of the Army. The foundational military survival manual covering evasion, shelter, water, fire, food, navigation, and survival in all climate zones. FM 21-76 (1992) became FM 3-05.70 (2002), which was replaced by ATP 3-50.21 (2018). The older editions remain the most widely reproduced and are what most "Army Survival Manual" reprints actually contain.
+- **ATP 3-50.21 — Survival.** US Department of the Army, September 2018. Current Army survival doctrine, and the direct successor to FM 3-05.70. It is one of a series: ATP 3-50.20 covers SERE preparation and planning, and ATP 3-50.22 covers evasion.
 - **TCCC Guidelines (Tactical Combat Casualty Care).** Committee on Tactical Combat Casualty Care (CoTCCC), Joint Trauma System. Evidence-based trauma care protocol for combat and austere environments. Updated annually. Available at: jts.health.mil.
 - **FM 4-25.11 — First Aid.** US Department of the Army. Military first-aid procedures for battlefield injuries including hemorrhage control, airway management, and shock treatment.
 - **FM 3-97.6 — Mountain Operations.** US Department of the Army. Mountain warfare manual covering cold-weather survival, high-altitude medicine, and mountain navigation.
@@ -62,7 +62,7 @@ tags:
 ## Key Textbooks
 
 - **Auerbach, Paul. *Wilderness Medicine* (7th edition). Elsevier, 2017.** The definitive 2,500-page medical reference for wilderness and austere-environment medicine. Covers every injury, illness, and environmental hazard encountered in remote settings.
-- **Wiseman, John "Lofty." *SAS Survival Handbook* (revised edition). William Morrow, 2014.** Comprehensive general survival manual by a former SAS instructor. Covers all environments, climates, and core survival skills.
+- **Wiseman, John "Lofty." *SAS Survival Handbook* (3rd edition). William Collins, 2014.** Comprehensive general survival manual by a former SAS instructor. Covers all environments, climates, and core survival skills.
 - **Canterbury, Dave. *Bushcraft 101*. Adams Media, 2014.** Foundational bushcraft reference organized around the "5 Cs of Survivability." Practical and field-tested.
 - **Lundin, Cody. *98.6 Degrees: The Art of Keeping Your Ass Alive*. Gibbs Smith, 2003.** Thermoregulation-focused survival guide emphasizing core body temperature as the central survival priority.
 - **Hawke, Mykel. *Hawke's Green Beret Survival Manual*. Running Press, 2012.** Field-practical survival strategies from a career Special Forces officer.
@@ -74,5 +74,11 @@ tags:
 
 ## See Also
 
-- [Book List](book-list.md)
-- [Glossary](glossary.md)
+- [Book List](book-list.md) — the curated reading list, organised by subject.
+- [Glossary](glossary.md) — terminology used across the collection.
+
+!!! warning "CAUTION: these citations are consistent, not verified"
+    `scripts/verify.py` checks that the corpus cites each work the same way everywhere.
+    It cannot check that a cited work exists or says what a guide attributes to it, and
+    four fabricated citations have been found and corrected by reading sources directly.
+    Treat any entry here as unconfirmed until someone has opened it. See TASKS.md.
