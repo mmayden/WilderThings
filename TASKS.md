@@ -137,13 +137,16 @@ shape. Two decisions deliberately deferred until it can be looked at:
       hits it before anything else. That best serves the problem it exists for and is
       the more disruptive choice for people who know what they want.
 
-- [ ] **Candidates already found and not yet written up:** rabies treatment has no
-      deadline; lean meat alone is worse than eating nothing; cooking does not defeat
-      ciguatera; antihistamines do not stop anaphylaxis; bleach does not kill
-      cryptosporidium; bat contact counts as rabies exposure with no visible bite; the
-      NWS withdrew the lightning crouch; botulinum toxin is odourless; saxitoxin is
-      heat-stable; solar retinopathy is painless while it happens; ground insulation
-      matters more than the roof; do not eat snow.
+- [x] **Built out to 16 entries** (2026-08-24), grouped into five sections: getting
+      found, medical, water and food, shelter and weather, vehicles. Every entry is a
+      bold one-liner plus one or two sentences and a link, with the one long explanation
+      collapsed. Roughly 1,100 words including chrome.
+
+- [ ] **Entries considered and left out**, so the reasoning is visible: botulinum toxin
+      being odourless, saxitoxin being heat-stable, solar retinopathy being painless, and
+      "do not eat snow." All true and all in the guides. They lost to the page's own bar —
+      each is a fact you would meet *while already reading about that hazard*, rather than
+      something you would never think to look for. The page works by being short.
 
 - [ ] **Presentation.** First draft was far too text-heavy. The page has to be scannable,
       not read. Two ideas to carry forward: collapsible sections (`??? note "..."`) so a
