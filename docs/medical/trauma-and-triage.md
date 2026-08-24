@@ -158,7 +158,7 @@ The civilian primary survey uses the ABCDE framework. Complete it in 60-90 secon
 
 - Is the patient talking? If yes, the airway is open.
 - If not talking, open and assess as described in the MARCH section.
-- Maintain cervical spine immobilization if mechanism suggests spinal injury.
+- Limit spinal movement if the mechanism suggests injury — padding and stillness, not a collar or board. See [Fractures and Splints](fractures-and-splints.md#what-to-do-instead).
 
 ### B — Breathing
 
@@ -442,7 +442,7 @@ Use the patient's forehead, chest, or a piece of tape. Information that travels 
 
 - Tunnel vision on one dramatic injury while missing a second life-threatening problem — always complete the full primary survey.
 - Focusing on the airway before controlling massive hemorrhage — in trauma, hemorrhage kills faster.
-- Moving a patient with a suspected spinal injury before immobilization.
+- Moving a patient with a suspected spinal injury when you did not have to. Equally: strapping one to an improvised backboard, which current guidance says causes harm without protecting the cord.
 - Not rechecking tourniquet effectiveness — a tourniquet that has loosened during transport is worse than no tourniquet.
 - Failing to check the back — log-roll every trauma patient. Posterior wounds are missed constantly.
 - Over-resuscitating with IV fluids — aggressive fluid boluses dilute clotting factors and raise blood pressure, which dislodges clots and restarts hemorrhage. Target 80-90 mmHg systolic (permissive hypotension).
@@ -524,7 +524,9 @@ Follows commands? ──No──> RED
 - PHTLS: Prehospital Trauma Life Support, 10th Edition, National Association of EMTs (NAEMT).
 - Advanced Trauma Life Support (ATLS), American College of Surgeons, 10th Edition.
 - START Triage Algorithm, Newport Beach Fire Department / Hoag Hospital, original 1983 (with subsequent revisions).
-- Wilderness Medical Society Practice Guidelines for Spine Immobilization in the Austere Environment, 2019.
+- Hawkins, S. C., Williams, J., Bennett, B. L., Islas, A., Quinn, R. "Wilderness Medical
+  Society Clinical Practice Guidelines for Spinal Cord Protection: 2024 Update."
+  *Wilderness & Environmental Medicine*, 2024.
 - American Red Cross. *First Aid/CPR/AED Participant's Manual*, Revision 2025 (r.25).
 - Emergency War Surgery (NATO Handbook), Borden Institute, 5th US Revision.
 - Tintinalli's Emergency Medicine: A Comprehensive Study Guide, 9th Edition.

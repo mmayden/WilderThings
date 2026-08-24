@@ -229,31 +229,65 @@ Do not move a patient if you suspect spinal injury **unless:**
 
 In all other cases, stabilize the spine in place and wait for evacuation resources.
 
-### Manual Spinal Stabilization
+!!! danger "DANGER: do not strap a patient to an improvised backboard"
+    This is a reversal of what was taught for decades, and the reversal is well
+    evidenced. The WMS 2024 spinal cord protection guidelines state that rigid
+    immobilization by collar or backboard **is not an effective or safe way to protect a
+    spine, and can produce a worse outcome** — in blunt and penetrating trauma alike.
+
+    Doors, planks, and ironing boards are worse again. Hours strapped to a hard flat
+    surface produce pressure sores over the sacrum and heels, restrict breathing, cause
+    severe pain that masks other injuries, and make vomiting dangerous. A wilderness
+    evacuation is measured in hours or days, so all of that is amplified.
+
+    The goal is **protecting the spinal cord, not immobilizing the spine.** Those are
+    different things, and the second was a technique that got mistaken for the aim.
+
+### What to Do Instead
+
+1. **Keep them still and comfortable where they are.** Most spinal cord protection is
+   achieved by a patient who is calm, warm, and not being moved — not by hardware.
+2. **Pad, do not strap.** Rolled clothing, packs, or a sleeping bag alongside the head
+   and body limits movement without compressing anything. Soft and supportive beats
+   rigid and secured.
+3. **Insulate from the ground first.** A patient lying still gets cold fast, and
+   hypothermia is a far more likely killer here than the spine injury.
+4. **Let them self-extricate if they can.** A patient who can move themselves does so
+   more gently than any team can move them, and controls their own pain.
+5. **If you must carry them,** use a padded litter or a vacuum mattress if one exists.
+   Never a rigid board.
+
+### Manual Head Support
+
+Still useful, briefly, while you assess or reposition:
 
 1. Kneel above the patient's head.
 2. Place your hands on both sides of the head, covering the ears.
 3. Hold the head in a neutral position aligned with the spine. Do not pull traction.
-4. Maintain this hold continuously until the patient is fully immobilized on a backboard or until professional rescuers take over.
-5. If you must release, build improvised padding (rolled towels, clothing, sandbags) on both sides of the head and tape across the forehead and chin.
+4. Release once they are settled and padded. Continuous manual hold for hours is neither
+   necessary nor achievable, and it pins a rescuer you will need.
 
 ### Log Roll
 
-When you must turn a spinal injury patient (to assess the back, place on a backboard, or manage vomiting):
+When you must turn a patient with a possible spine injury — to assess the back, clear
+vomit, or get insulation underneath them:
 
-1. One person maintains inline head stabilization.
+1. One person maintains inline head support.
 2. Two or more people position themselves along the patient's body.
-3. On command from the person at the head, roll the patient as a single unit, keeping the spine aligned.
+3. On command from the person at the head, roll the patient as a single unit.
 4. The head, shoulders, hips, and legs must all move together simultaneously.
 5. Assess or intervene, then roll back.
 
-### Improvised Spinal Immobilization
+!!! warning "CAUTION: clearing a spine is a trained assessment, not a guess"
+    Trained rescuers use the NEXUS criteria or the Canadian C-spine rule to decide
+    whether spinal precautions are needed at all, and WMS endorses their use in the
+    field. Both are formal tools with specific criteria, and applying them from memory is
+    not the same as being trained in them.
 
-- Use a door, tabletop, wide plank, or ironing board as a backboard.
-- Pad the natural curves of the spine (behind the neck and lower back).
-- Secure the patient to the board at the forehead, chest, hips, and legs.
-- Immobilize the head last — secure the torso first to prevent the head from moving relative to the body.
-- Tape or tie across the forehead (not the neck) with padding on both sides.
+    Untrained, in the wilderness, the honest position is the one WMS states as the goal:
+    you are not trying to definitively diagnose or exclude a spine injury. You are trying
+    to avoid missing one and avoid making one worse. Assume the injury, keep them still
+    and warm, and get help.
 
 ---
 
@@ -359,7 +393,9 @@ Attempt field reduction only when evacuation is delayed more than several hours 
 
 **Primary — authoritative, revised, and publicly checkable:**
 
-- Wilderness Medical Society Practice Guidelines for Spine Immobilization in the Austere Environment, 2019.
+- Hawkins, S. C., Williams, J., Bennett, B. L., Islas, A., Quinn, R. "Wilderness Medical
+  Society Clinical Practice Guidelines for Spinal Cord Protection: 2024 Update."
+  *Wilderness & Environmental Medicine*, 2024.
 - Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, Joint Trauma System,
   1 May 2026. Revised frequently — check jts.health.mil for the current version before
   relying on any specific figure here.

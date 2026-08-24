@@ -313,5 +313,7 @@ Two or more body systems involved after a known exposure = anaphylaxis. Act imme
 - UpToDate: "Anaphylaxis: Emergency Treatment," 2024.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
 - Centers for Disease Control and Prevention (CDC): "Tick Removal and Testing," 2023.
-- Wilderness Medical Society Practice Guidelines for the Prevention and Treatment of Tick-Borne Disease, 2019.
+- Ho, B. M., Davis, H. E., Forrester, J. D., et al. "Wilderness Medical Society Clinical
+  Practice Guidelines for the Prevention and Management of Tick-Borne Illness in the
+  United States." *Wilderness & Environmental Medicine*, 2021.
 - Australian Resuscitation Council Guideline 9.4.1 — Envenomation: Bites and Stings, 2021.

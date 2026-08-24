@@ -349,7 +349,11 @@ to cite TCCC 2023 and five to cite the 2021 Red Cross manual while the table rea
 | European Resuscitation Council | Guidelines 2025 | 2026-08-24 | ~5 yr, with ILCOR |
 | ILCOR CoSTR | 2025 | 2026-08-24 | annual reviews, 5-yr consensus |
 | WMS — water treatment | 2024 update | 2026-08-24 | ~5 yr per topic |
-| WMS — frostbite, hypothermia, heat, tick-borne, spine | **2019 — unchecked** | — | ~5 yr per topic |
+| WMS — frostbite | 2024 update | 2026-08-24 | ~5 yr per topic |
+| WMS — heat illness | 2024 update | 2026-08-24 | ~5 yr per topic |
+| WMS — spinal cord protection | 2024 update | 2026-08-24 | ~5 yr per topic |
+| WMS — tick-borne illness | 2021 update | 2026-08-24 | ~5 yr per topic |
+| WMS — accidental hypothermia | 2019 update | 2026-08-24 (still current) | ~5 yr per topic |
 | Auerbach *Wilderness Medicine* | 7th ed., 2017 | 2026-08-24 (8th due 2028) | by edition |
 | Tintinalli's | 9th ed., 2020 | 2026-08-24 | by edition |
 | Sanford Guide | **2024 — unchecked** | — | annual |

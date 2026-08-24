@@ -241,8 +241,13 @@ At -20°F with a 30 mph wind, exposed skin freezes in about five minutes. Reduce
 **Primary — authoritative, revised, and publicly checkable:**
 
 - U.S. Army. *FM 31-70: Basic Cold Weather Manual.* Department of the Army, 1968.
-- Wilderness Medical Society Practice Guidelines for the Out-of-Hospital Evaluation and Treatment of Accidental Hypothermia, 2019.
-- Wilderness Medical Society Practice Guidelines for the Prevention and Treatment of Frostbite, 2019.
+- Dow, J., Giesbrecht, G. G., Danzl, D. F., et al. "Wilderness Medical Society Clinical
+  Practice Guidelines for the Out-of-Hospital Evaluation and Treatment of Accidental
+  Hypothermia: 2019 Update." *Wilderness & Environmental Medicine*, 2019. Confirmed current
+  as of 2026-08-24 — WMS has not revised this topic since.
+- McIntosh, S. E., Freer, L., Grissom, C. K., et al. "Wilderness Medical Society Clinical
+  Practice Guidelines for the Prevention and Treatment of Frostbite: 2024 Update."
+  *Wilderness & Environmental Medicine*, 2024.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
 - National Weather Service. "Wind Chill Chart." weather.gov. Accessed 2025.
 
