@@ -369,7 +369,9 @@ Dissolve completely. Sip frequently. This formula approximates the World Health 
 - Wilderness Medical Society Practice Guidelines for the Out-of-Hospital Evaluation and Treatment of Accidental Hypothermia, 2019.
 - Wilderness Medical Society Practice Guidelines for the Prevention and Treatment of Frostbite, 2019.
 - Wilderness Medical Society Practice Guidelines for the Prevention and Treatment of Heat Illness, 2019.
-- Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, 2023.
+- Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, Joint Trauma System,
+  1 May 2026. Revised frequently — check jts.health.mil for the current version before
+  relying on any specific figure here.
 - American Red Cross First Aid/CPR/AED Participant's Manual, 2021.
 - U.S. Army Technical Bulletin, Prevention and Management of Cold-Weather Injuries (TB MED 508).
 - U.S. Army Technical Bulletin, Heat Stress Control and Heat Casualty Management (TB MED 507).

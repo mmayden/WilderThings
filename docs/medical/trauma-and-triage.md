@@ -518,7 +518,9 @@ Follows commands? ──No──> RED
 
 **Primary — authoritative, revised, and publicly checkable:**
 
-- Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, 2023.
+- Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, Joint Trauma System,
+  1 May 2026. Revised frequently — check jts.health.mil for the current version before
+  relying on any specific figure here.
 - PHTLS: Prehospital Trauma Life Support, 10th Edition, National Association of EMTs (NAEMT).
 - Advanced Trauma Life Support (ATLS), American College of Surgeons, 10th Edition.
 - START Triage Algorithm, Newport Beach Fire Department / Hoag Hospital, original 1983 (with subsequent revisions).

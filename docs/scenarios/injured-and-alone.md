@@ -86,7 +86,7 @@ If you are bleeding heavily from a limb and your other arm is functional:
 3. Tie a half knot. Place a stick, pen, or sturdy twig on the knot. Tie a full knot over the stick.
 4. Twist the stick until bleeding stops. Secure the stick against the limb by tying or taping it in place.
 
-!!! danger "DANGER: never loosen a tourniquet that has been on for hours"
+!!! danger "DANGER: never slacken a tourniquet to restore circulation"
     A tourniquet causes severe pain. That is expected and is not a reason to release it.
 
     Releasing a tourniquet that has been on for hours dumps the breakdown products of
@@ -318,7 +318,9 @@ If your injuries limit you to only a few actions, prioritize in this order:
 **Primary — authoritative, revised, and publicly checkable:**
 
 - Auerbach, Paul S. *Medicine for the Outdoors.* Elsevier, 2016.
-- Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, 2023.
+- Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, Joint Trauma System,
+  1 May 2026. Revised frequently — check jts.health.mil for the current version before
+  relying on any specific figure here.
 - Forgey, William W. *Wilderness Medicine: Beyond First Aid.* Falcon Guides, 2017.
 
 **Additional reading — trade books and first-hand accounts.** Useful, but not

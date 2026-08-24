@@ -296,7 +296,8 @@ Evacuate immediately if:
 
 **Primary — authoritative, revised, and publicly checkable:**
 
-- Smith, Tom S., et al. "Efficacy of Bear Deterrent Spray in Alaska." *Journal of Wildlife Management* 72, no. 3 (2008): 640-645.
+- Smith, Tom S., et al. "Efficacy of Bear Deterrent Spray in Alaska." *Journal of Wildlife
+  Management* 72, no. 3 (2008): 640-645.
 - Beier, Paul. "Cougar Attacks on Humans in the United States and Canada." *Wildlife Society Bulletin* 19 (1991): 403-412.
 - Gold, Barry S., et al. "Bites of Venomous Snakes." *New England Journal of Medicine* 347, no. 5 (2002): 347-356.
 - Centers for Disease Control and Prevention. "Rabies." cdc.gov.

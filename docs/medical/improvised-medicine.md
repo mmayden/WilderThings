@@ -279,6 +279,8 @@ Some conditions exceed the capability of improvised medicine. Attempting treatme
 - Vlachojannis, Julia et al. "A Systematic Review on the Effectiveness of Willow Bark for Musculoskeletal Pain." *Phytotherapy Research*, 2009.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
 - U.S. Army Special Forces Medical Handbook (ST 31-91B).
-- Wilderness Medical Society Practice Guidelines for Basic Wound Management, 2014 (updated 2019).
+- Quinn, R. H., Wedmore, I., Johnson, E. L., et al. "Wilderness Medical Society Practice
+  Guidelines for Basic Wound Management in the Austere Environment: 2014 Update."
+  *Wilderness & Environmental Medicine* 2014;25(3):295-310.
 - Halcón, Linda, and Kelly Milkus. "Staphylococcus aureus and Wounds: A Review of Tea Tree Oil as a Promising Antimicrobial." *American Journal of Infection Control* 32, no. 7 (2004): 402-408.
 - World Health Organization. "WHO Guidelines on the Pharmacological Treatment of Persisting Pain in Adults with Medical Illnesses," 2012.

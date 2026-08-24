@@ -70,7 +70,7 @@ tags:
 ## Notes
 
 - The primary survey (ABCDE) is always performed in order. Treat each life threat as you find it before moving to the next letter.
-- Tourniquets are safe for field use. Do not loosen a tourniquet once applied unless directed by a physician.
+- Tourniquets are safe for field use. Note the time it went on. Never slacken one periodically to restore circulation — that causes reperfusion injury without saving the limb. Current TCCC guidance asks everyone to reassess at the 2-hour mark: if the bleeding can now be held by direct pressure and packing, loosen slowly with the tourniquet still in place, ready to re-tighten. Past 6 hours, leave it alone.
 - The sequence is direct pressure -> wound packing -> tourniquet. Elevation and pressure points are no longer steps in that sequence, though hard pressure on the artery above the wound is a valid stopgap if you have no tourniquet and nothing to improvise one from.
 - In a wilderness context, definitive care may be hours or days away. Monitor the patient closely and plan evacuation early.
 - Document all injuries, treatments, and times. This information is critical for the receiving medical team.

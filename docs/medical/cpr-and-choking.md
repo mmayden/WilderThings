@@ -344,5 +344,7 @@ If a choking victim becomes unconscious:
 - American Red Cross First Aid/CPR/AED Participant's Manual, 2021.
 - European Resuscitation Council Guidelines, 2021.
 - Wilderness Medical Society Practice Guidelines for CPR in Austere Environments.
-- Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, 2023.
+- Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, Joint Trauma System,
+  1 May 2026. Revised frequently — check jts.health.mil for the current version before
+  relying on any specific figure here.
 - International Liaison Committee on Resuscitation (ILCOR) Consensus on Science, 2020.

@@ -206,7 +206,8 @@ Do NOT camp on game trails, near salmon streams, or in areas with abundant fresh
 
 **Primary — authoritative, revised, and publicly checkable:**
 
-- Smith, T. S., et al. "Efficacy of Bear Deterrent Spray in Alaska." *Journal of Wildlife Management*, vol. 72, no. 3, 2008, pp. 640–645.
+- Smith, Tom S., et al. "Efficacy of Bear Deterrent Spray in Alaska." *Journal of Wildlife
+  Management* 72, no. 3 (2008): 640-645.
 - National Park Service. "Bear Safety." nps.gov. Accessed 2025.
 - Interagency Grizzly Bear Committee. "Bear Spray Guidelines." igbconline.org. Accessed 2025.
 - Alaska Department of Fish and Game. "Living with Bears." adfg.alaska.gov. Accessed 2025.

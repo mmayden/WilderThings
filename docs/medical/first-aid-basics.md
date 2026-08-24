@@ -92,7 +92,7 @@ Apply a tourniquet when:
 3. Turn the windlass until bleeding stops.
 4. Lock the windlass in place.
 5. Mark the time of application on the tourniquet, the patient's forehead, or tape — write "TQ" and the time.
-6. Do not loosen or remove the tourniquet once applied unless directed by a medical professional.
+6. Note the time it went on. Do not slacken it periodically — see the reassessment guidance below for the one circumstance in which it comes off.
 7. A properly applied tourniquet causes significant pain. This is expected.
 
 !!! danger "WARNING"
@@ -105,19 +105,45 @@ every level of care afterwards.
 
 | Time on | What it means |
 |---|---|
-| Under 2 hours | Essentially no risk of losing the limb |
-| 2-6 hours | Risk rises with time, but limbs are still routinely saved. **Leave it on** |
-| Beyond 6 hours | **Do not release it in the field.** Releasing is now more dangerous than leaving it |
+| Under 2 hours | Essentially no risk of losing the limb. **Reassess at the 2-hour mark** |
+| 2-6 hours | Risk of permanent limb damage climbs. Removal is now a medical decision |
+| Beyond 6 hours | **Do not remove it in the field.** Removing is now more dangerous than leaving it |
 
-!!! danger "DANGER: releasing a long-applied tourniquet can kill the patient"
-    Blood returning from a limb that has been without circulation for hours carries
-    potassium and the breakdown products of dying muscle straight to the heart. That
-    reperfusion injury causes cardiac arrest, and it kills people who had already
-    survived the bleeding.
+### Reassessing at Two Hours
 
-    This is why "leave it on" is the rule rather than a compromise. Do not loosen a
-    tourniquet to "let some blood through" — that is the worst of both worlds, and it
-    is a persistent and dangerous myth. Leave it, note the time, and evacuate.
+Current TCCC guidance asks **everyone**, not only medics, to reassess a tourniquet within
+two hours. This changed because of extended evacuation times in Ukraine, where
+tourniquets stayed on far longer than intended and limbs were lost that did not need to
+be. A stranded person waiting days for rescue is in exactly that situation.
+
+Reassessing means looking at the wound again and asking one question: **can this bleeding
+now be controlled by direct pressure and wound packing instead?** Many wounds that were
+spurting at the moment of injury are not, an hour later.
+
+- **If yes, and you can pack and hold pressure:** loosen the windlass slowly while
+  watching the wound, keeping the tourniquet in place and ready to re-tighten. If
+  bleeding restarts, tighten it again immediately and leave it.
+- **If no, or you are not confident:** leave it on, note the time, and evacuate.
+- **Never do this past 6 hours**, and never on an amputation or a wound you cannot see.
+
+!!! danger "DANGER: loosening periodically to 'let some blood through' kills people"
+    This is a different act from reassessment and it is always wrong. Blood returning
+    from a limb that has been without circulation carries potassium and the breakdown
+    products of dying muscle straight to the heart. That reperfusion injury causes
+    cardiac arrest, and it kills people who had already survived the bleeding.
+
+    Reassessment is a single deliberate attempt to replace the tourniquet with pressure,
+    done while watching the wound, with the tourniquet still on the limb. Periodically
+    slackening a tourniquet to restore some circulation is a persistent myth and does
+    both kinds of harm at once — enough reperfusion to be dangerous, not enough
+    circulation to save the limb.
+
+!!! warning "CAUTION: this is above the training level of most people carrying this guide"
+    Conversion beyond two hours is a decision TCCC restricts to medical personnel with
+    monitoring. If you are untrained, alone, and help is coming within hours, leaving the
+    tourniquet on and recording the time is a defensible choice and the one you should
+    default to. The reassessment above matters most when evacuation is measured in days
+    and nobody else is coming.
 
 **Improvised tourniquet:** Use a strip of material at least 1.5 inches (4 cm) wide. Never use wire, paracord, or narrow material — these cause tissue necrosis without effectively stopping blood flow. A triangular bandage folded into a cravat with a stick windlass is the most effective improvised option.
 
@@ -376,9 +402,13 @@ Check every wound for these signs at least twice daily:
 
 **Primary — authoritative, revised, and publicly checkable:**
 
-- Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, 2023.
+- Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, Joint Trauma System,
+  1 May 2026. Revised frequently — check jts.health.mil for the current version before
+  relying on any specific figure here.
 - American Red Cross First Aid/CPR/AED Participant's Manual, 2021.
-- Wilderness Medical Society Practice Guidelines for Wound Management, 2014.
+- Quinn, R. H., Wedmore, I., Johnson, E. L., et al. "Wilderness Medical Society Practice
+  Guidelines for Basic Wound Management in the Austere Environment: 2014 Update."
+  *Wilderness & Environmental Medicine* 2014;25(3):295-310.
 - Emergency War Surgery (NATO Handbook), Borden Institute, 5th US Revision.
 - Tintinalli's Emergency Medicine: A Comprehensive Study Guide, 9th Edition.
 

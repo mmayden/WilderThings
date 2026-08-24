@@ -265,8 +265,12 @@ Sepsis is infection that has entered the bloodstream and triggered a systemic in
 
 **Primary — authoritative, revised, and publicly checkable:**
 
-- Wilderness Medical Society Practice Guidelines for Wound Management, 2014 (updated 2019).
-- Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, 2023.
+- Quinn, R. H., Wedmore, I., Johnson, E. L., et al. "Wilderness Medical Society Practice
+  Guidelines for Basic Wound Management in the Austere Environment: 2014 Update."
+  *Wilderness & Environmental Medicine* 2014;25(3):295-310.
+- Tactical Combat Casualty Care (TCCC) Guidelines. Committee on TCCC, Joint Trauma System,
+  1 May 2026. Revised frequently — check jts.health.mil for the current version before
+  relying on any specific figure here.
 - American College of Emergency Physicians (ACEP): "Clinical Policy on Wound Management," 2019.
 - Surviving Sepsis Campaign Guidelines, Society of Critical Care Medicine, 2021.
 - Auerbach, Paul S. *Wilderness Medicine.* 7th ed., Elsevier, 2017.
