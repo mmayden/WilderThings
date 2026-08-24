@@ -369,4 +369,3 @@ Backer, H. D., Derlet, R. W., Hill, V. R. "Wilderness Medical Society Clinical P
   Situations: 2024 Update." *Wilderness Environ Med* 2024.
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - Environmental Protection Agency. *Emergency Disinfection of Drinking Water.* EPA, 2024.
-- Johnson, Mark. *The Complete Guide to Water Filtration in the Backcountry.* Wilderness Medicine Society, 2021.

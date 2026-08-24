@@ -157,22 +157,41 @@ shape. Two decisions deliberately deferred until it can be looked at:
 
 ### Citation verification — OPEN, and now known to be needed
 
-Three citations checked at random against reality turned out to be wrong, all in
-different guides:
+**Eight wrong citations found so far**, across eight different guides. Five of the
+works do not appear to exist at all:
 
-| Cited as | Actually |
-|---|---|
-| Hume, Ed. *Primitive Fire: Mastering the Bow Drill*, 2016 | Does not exist. Daniel Hume, *Fire Making*, 2017 |
-| Hennessy, Tom. *Hammock Camping*, 2008 | Ed Speer, Speer Hammocks, 2003 |
-| Gregory, Joy. *Water in the Wilderness*, WMS, 2019 | Does not exist. Backer, Derlet & Hill, WMS, 2019 (updated 2024) |
+| Cited as | Actually | Where |
+|---|---|---|
+| Hume, Ed. *Primitive Fire: Mastering the Bow Drill*, 2016 | No such book. Daniel Hume, *Fire Making*, 2017 | friction-methods |
+| Hennessy, Tom. *Hammock Camping*, 2008 | Ed Speer, Speer Hammocks, 2003 | tarp-and-poncho |
+| Gregory, Joy. *Water in the Wilderness*, WMS, 2019 | No such work. Backer, Derlet & Hill (2019, rev. 2024) | finding-water |
+| Herring, William. *The Book of Fire* | No such book | book-list |
+| Johnson, Mark. *The Complete Guide to Water Filtration in the Backcountry*, WMS, 2021 | No such book | purification |
+| Eiben, Patrick. *The Complete Guide to Everyday Carry*, 2021 | No evidence it exists | everyday-carry |
+| Hurd, Richard. *Primitive Fire Lighting Methods*, SPT Bulletin, 1998 | No evidence it exists | fire-from-nothing |
+| Knight, Michael Finkel. *The Stranger in the Woods* | Author is Michael Finkel; Christopher Knight is the subject | solo-survival |
 
-Each was found by opening the source to check what it said, not by scanning the
-bibliography. Each looked entirely plausible: right subject, plausible author,
-plausible publisher, plausible year.
+Plus two factual errors about Army publications: FM 21-76's successor is ATP 3-50.21
+(via FM 3-05.70), not ATP 3-50.3, and ATP 3-50.21 is titled *Survival*, not *Survival,
+Evasion, and Recovery*.
 
-- [ ] **A systematic pass over all 504 citations is warranted.** The pattern is
-      consistent enough that the remainder should be assumed unverified rather than
-      assumed correct.
+Every one was found by opening the source, not by scanning the bibliography. Every one
+looked entirely plausible — right subject, plausible author, plausible publisher,
+plausible year. Three shared a tell worth knowing: a generic title of the form "The
+Complete Guide to X" attached to a common surname.
+
+The five nonexistent works were removed rather than replaced. Each guide already had
+real sources, and inventing a substitute only creates something else to verify.
+
+- [ ] **A systematic pass over all 504 citations is warranted.** Roughly 141 distinct
+      book-form works are cited. Eight errors have been found in the subset checked so
+      far, which is a high enough rate that the remainder should be assumed unverified
+      rather than assumed correct.
+
+- [ ] The master source list is **not covered by the citation check** at all.
+      `scripts/verify.py` scans `## Sources` sections, and `references/sources.md` keeps
+      its bibliography under `## Key Textbooks`. That is how it came to cite the SAS
+      Handbook to a different publisher than the other 32 citations of the same book.
 
 **`scripts/verify.py` cannot do this and never will.** The citation check compares the
 corpus against itself — it catches one work cited two ways, and a fabricated citation

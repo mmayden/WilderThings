@@ -227,6 +227,5 @@ Carry everything for a full month. Remove what you never use. Replace what fails
 
 - Federal Emergency Management Agency (FEMA). *Personal Preparedness in America.* 2024.
 - Lundin, Cody. *When All Hell Breaks Loose.* Gibbs Smith, 2007.
-- Eiben, Patrick. *The Complete Guide to Everyday Carry.* Independently published, 2021.
 - American Knife and Tool Institute. *State Knife Laws.* AKTI, 2024.
 - National Weather Service. *Personal Safety and Preparedness.* weather.gov, 2024.
