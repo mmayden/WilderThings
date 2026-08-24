@@ -36,7 +36,13 @@ A baseplate compass (the standard for land navigation) has these parts:
 
 ## Declination: Magnetic vs. True North
 
-True north is the geographic North Pole. Magnetic north is where compass needles point — currently in the Canadian Arctic, roughly 500 miles (800 km) from true north.
+True north is the geographic North Pole. Magnetic north is where compass needles point,
+and it moves. It has migrated out of the Canadian Arctic, across the Arctic Ocean, and now
+sits around 86°N 164°E — closer to Siberia than to Canada, roughly 250 miles (400 km) from
+the geographic pole, and travelling about 35 miles (55 km) a year.
+
+This is why declination printed on an old map is not the declination today. Check the date
+in the margin, and if the map is more than a few years old, get a current figure.
 
 The angle between true north and magnetic north at your location is **magnetic declination**. It varies by region and changes slowly over time.
 
@@ -44,12 +50,38 @@ The angle between true north and magnetic north at your location is **magnetic d
 
 1. Check the margin of your topographic map — declination is printed there with the date of measurement.
 2. Use the NOAA Magnetic Declination Calculator (online, before your trip).
-3. In the continental US, declination ranges from 20 degrees west (Washington state) to 20 degrees east (Maine).
+3. In the continental US, declination runs from roughly **14 degrees EAST in Washington
+   state** to **17 degrees WEST in Maine**, with a line of zero declination running down
+   the middle of the country. Note the direction carefully — see the warning below.
 
 ### Adjusting for Declination
 
 !!! warning "CAUTION"
-    Ignoring declination causes an error of roughly 1 mile (1.6 km) for every 20 miles (32 km) traveled per degree of declination. At 15 degrees declination, that is 15 miles (24 km) of drift over 20 miles.
+    A bearing error of 1 degree puts you about **92 feet (28 m) off for every mile
+    travelled** — call it 100 feet per mile. That compounds:
+
+    | Error | Over 1 mile | Over 10 miles | Over 20 miles |
+    |---|---|---|---|
+    | 1° | 92 ft (28 m) | 0.17 mi (0.3 km) | 0.35 mi (0.6 km) |
+    | 10° | 0.17 mi (0.3 km) | 1.7 mi (2.8 km) | 3.5 mi (5.6 km) |
+    | 15° | 0.26 mi (0.4 km) | 2.6 mi (4.2 km) | 5.2 mi (8.3 km) |
+
+    Fifteen degrees uncorrected over a twenty-mile walk lands you five miles from where
+    you intended — far enough to miss a valley entirely.
+
+!!! danger "DANGER: getting the direction backwards doubles your error"
+    West and east declination take opposite corrections, so reversing them does not leave
+    you uncorrected — it puts you **twice as far off as doing nothing**. In Washington
+    state, at about 14 degrees east, the correct move is to subtract 14. Add it instead and
+    you are 28 degrees out.
+
+    The reliable check: **west of the zero line, declination is EAST; east of it, it is
+    WEST.** It reads backwards, which is exactly why it gets mixed up. The needle leans
+    toward the magnetic pole, so from the western US it leans east, and from the eastern US
+    it leans west.
+
+    Read the figure off your map margin or the NOAA calculator rather than recalling which
+    way round it goes.
 
 === "West Declination"
     Magnetic north is west of true north. Add the declination to your map bearing to get a compass bearing. Memory aid: "West is best, add to the rest."
@@ -239,6 +271,8 @@ Carry a compass and paper map as primary backup on every trip. Practice compass 
 - U.S. Army. *FM 21-76: Survival.* Department of the Army, 1992. The predecessor, and what most reprinted "Army Survival Manual" editions actually contain.
 - U.S. Army. *FM 3-25.26: Map Reading and Land Navigation.* Department of the Army, 2001.
 - NOAA National Centers for Environmental Information — Magnetic Declination Calculator
+  and World Magnetic Model (WMM 2025). The pole position and declination figures above
+  come from WMM 2025 and will drift; recheck before a trip.
 - U.S. Air Force. *AFR 64-4: Survival Training.* Department of the Air Force, 1985.
 
 **Additional reading — trade books and first-hand accounts.** Useful, but not
