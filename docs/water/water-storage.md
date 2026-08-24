@@ -254,5 +254,7 @@ Water loss through evaporation is significant in arid and hot environments.
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - World Health Organization, *Guidelines for Drinking-water Quality*, 4th ed., 2011
 - Centers for Disease Control and Prevention, "Making Water Safe in an Emergency," 2021
-- Wilderness Medical Society, *Practice Guidelines for Wilderness Emergency Care*, 5th ed., 2014
+- Forgey, William W., ed. *Wilderness Medical Society Practice Guidelines for Wilderness
+  Emergency Care.* 5th ed., Falcon Guides, 2006. Superseded in practice by the per-topic
+  WMS clinical practice guidelines published in *Wilderness & Environmental Medicine*.
 - Federal Emergency Management Agency (FEMA), *Food and Water in an Emergency*, FEMA P-477, 2004

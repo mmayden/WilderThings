@@ -192,6 +192,14 @@ real sources, and inventing a substitute only creates something else to verify.
 
 So the next pass does not redo this work. Three states, kept separate on purpose.
 
+**Corrected dates and attributions** (the work is real; the citation was not):
+
+| Cited as | Corrected to |
+|---|---|
+| WMS *Practice Guidelines for Wilderness Emergency Care*, 5th ed., **2014** | Forgey, ed., Falcon Guides, **2006** — and superseded in practice by the per-topic WMS guidelines |
+| FM 31-70, **2011** | **1968** |
+| SAS Survival Handbook, William **Morrow** (in sources.md) | William **Collins**, matching the other 32 citations |
+
 **Confirmed real** (checked against the literature or the publisher this session):
 Daniel Hume *Fire Making* · Ed Speer *Hammock Camping* · Backer, Derlet & Hill (WMS
 water, 2019 rev. 2024) · Kochanski *Bushcraft* (1987, Lone Pine) · ATP 3-50.21

@@ -236,5 +236,7 @@ Clay-rich soil can be formed into a crude ceramic filter if you have the ability
 - Wiseman, John "Lofty." *SAS Survival Handbook.* 3rd ed., William Collins, 2014.
 - World Health Organization, *Guidelines for Drinking-water Quality*, 4th ed., 2011
 - Centers for Disease Control and Prevention, "Household Water Treatment: Filtration," CDC Global Water, Sanitation & Hygiene, 2020
-- Wilderness Medical Society, *Practice Guidelines for Wilderness Emergency Care*, 5th ed., 2014
+- Forgey, William W., ed. *Wilderness Medical Society Practice Guidelines for Wilderness
+  Emergency Care.* 5th ed., Falcon Guides, 2006. Superseded in practice by the per-topic
+  WMS clinical practice guidelines published in *Wilderness & Environmental Medicine*.
 - UNHCR, *Water Manual for Refugees*, 1992
