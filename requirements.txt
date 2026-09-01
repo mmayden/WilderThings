@@ -11,5 +11,5 @@ mkdocs-minify-plugin==0.8.0
 # mkdocs-material, but the single-file build imports them itself, so they are
 # declared here — an implicit dependency is one that can vanish in an upgrade.
 Markdown==3.10.2
-PyYAML==6.0.1
+PyYAML==6.0.3
 pymdown-extensions==10.21
