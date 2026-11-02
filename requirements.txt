@@ -4,7 +4,7 @@
 # Dependabot opens a PR weekly for anything out of date.
 
 # Site generation (hosted build + offline build)
-mkdocs-material==9.7.7
+mkdocs-material==9.8.0
 mkdocs-minify-plugin==0.8.0
 
 # Used directly by build_single_file.py. These arrive transitively via
